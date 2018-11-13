@@ -6,8 +6,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"regexp"
-	"strings"
 )
 
 func main() {
@@ -33,40 +31,6 @@ func main() {
 				var d Drug
 				decoder.DecodeElement(&d, &startElement)
 				drugs = append(drugs, d)
-
-				ATC := []ATCLevels{}
-
-				for _, atcCode := range d.ATCCodes {
-					atc := ATCLevels{}
-					atc.Code = atcCode.Code.code
-
-					level := []ATCLevel{}
-					trimmed := strings.Trim(atcCode.Code.Levels, " \n\r\t")
-					for _, item := range strings.Split(trimmed, "\n") {
-
-						s := strings.Trim(item, " ")
-						codeRegex, _ := regexp.Compile("code=\"(?P<code>[^\"]*)\">(?P<description>[^<]*)")
-						match := codeRegex.FindStringSubmatch(s)
-
-						l := ATCLevel{}
-
-						for i, it := range codeRegex.SubexpNames() {
-							if i > 0 && i <= len(match) {
-								switch it {
-								case "code":
-									l.Code = match[i]
-								case "description":
-									l.Description = match[i]
-								default:
-								}
-							}
-						}
-						level = append(level, l)
-					}
-					atc.Levels = level
-					ATC = append(ATC, atc)
-				}
-				d.ATCLevels = ATC
 			}
 		}
 		count++
@@ -76,20 +40,11 @@ func main() {
 	}
 	for _, d := range drugs {
 		fmt.Println("---------------------------")
-		s, _ := json.MarshalIndent(d.ATCLevels, "", "\t")
+		s, _ := json.MarshalIndent(d, "", "\t")
 		fmt.Println(string(s))
 	}
 }
 
-type ATCLevel struct {
-	Code        string
-	Description string
-}
-
-type ATCLevels struct {
-	Code   string
-	Levels []ATCLevel
-}
 type Drug struct {
 	ID                   string         `xml:"drugbank-id"`
 	Name                 string         `xml:"name"`
@@ -120,10 +75,9 @@ type Drug struct {
 	AffectedOrganisms    []Organism     `xml:"affected-organisms"`
 	Dosages              []Dosage       `xml:"dosages"`
 	ATCCodes             []ATCCode      `xml:"atc-codes"`
-	ATCLevels            []ATCLevels
-	FDALabel             string   `xml:"fda-label"`
-	MSDS                 string   `xml:"msds"`
-	Patents              []Patent `xml:"patents"`
+	FDALabel             string         `xml:"fda-label"`
+	MSDS                 string         `xml:"msds"`
+	Patents              []Patent       `xml:"patents"`
 }
 
 // <synthesis-reference/>
