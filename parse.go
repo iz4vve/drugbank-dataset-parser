@@ -103,16 +103,12 @@ type Dosage struct {
 
 type ATCCode struct {
 	Code struct {
-		code   string `xml:",attr"`
-		Levels string `xml:",innerxml"` // TODO parse into a new struct (Level)
+		Code   string `xml:"code,attr"`
+		Levels []struct {
+			Code        string `xml:"code,attr"`
+			Description string `xml:",chardata"`
+		} `xml:",any"` // TODO parse into a new struct (Level)
 	} `xml:"atc-code"`
-}
-
-type Level struct {
-	Description struct {
-		Code        string `xml:"code,attr"`
-		Description string `xml:",chardata"`
-	} `xml:"level"`
 }
 
 type Mixture struct {
