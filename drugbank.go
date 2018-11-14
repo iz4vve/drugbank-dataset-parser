@@ -8,9 +8,11 @@ package main
 
 import (
 	"bufio"
+	"encoding/json"
 	"encoding/xml"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"os"
 	"strings"
@@ -47,9 +49,18 @@ func main() {
 		}
 		count++
 		bar.Add(1)
-		if count%500 == 0 {
-			break
-		}
+		// if count%500 == 0 {
+		// 	break
+		// }
+	}
+	fmt.Println()
+	data, err := json.Marshal(drugs)
+	if err != nil {
+		log.Fatal(err)
+	}
+	err = ioutil.WriteFile("drug.json", data, 0644)
+	if err != nil {
+		log.Fatal(err)
 	}
 }
 
