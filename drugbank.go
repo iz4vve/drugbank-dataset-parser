@@ -100,53 +100,53 @@ type Drug struct {
 	DrugType               string               `xml:"type,attr" csv:"drug-type"`
 	Name                   string               `xml:"name" csv:"name"`
 	Description            string               `xml:"description" csv:"description"`
-	CAS                    string               `xml:"cas-number"` // Chemical Abstract Service identification number
-	UNII                   string               `xml:"unii"`
-	State                  string               `xml:"state"`
-	Groups                 []Group              `xml:"groups"`
-	References             Reference            `xml:"general-references"`
-	Indication             string               `xml:"indication"`
-	Pharmacodynamics       string               `xml:"pharmacodynamics"`
-	MechanismOfAction      string               `xml:"mechanism-of-action"`
-	Toxicity               string               `xml:"toxicity"`
-	Metabolism             string               `xml:"metabolism"`
-	Absorption             string               `xml:"absorption"`
-	HalfLife               string               `xml:"half-life"`
-	RouteOfElimination     string               `xml:"route-of-elimination"`
-	VolumeOfDistribution   string               `xml:"volume-of-distribution"`
-	Clearance              string               `xml:"clearance"`
-	Classification         Classification       `xml:"classification"`
-	Synonyms               []Synonym            `xml:"synonyms"`
-	Products               []Product            `xml:"products"`
-	Mixtures               []Mixture            `xml:"mixtures"`
-	Packagers              []Packager           `xml:"packagers"`
-	Manufacturers          []Manufacturer       `xml:"manufacturers"`
-	Prices                 []Price              `xml:"prices"`
-	Categories             []Category           `xml:"categories"`
-	AffectedOrganisms      []Organism           `xml:"affected-organisms"`
-	Dosages                []Dosage             `xml:"dosages"`
-	ATCCodes               []ATCCode            `xml:"atc-codes"` // WHO drug classification system (ATC) identifiers
-	FDALabel               string               `xml:"fda-label"`
-	MSDS                   string               `xml:"msds"`
-	Patents                []Patent             `xml:"patents"`
-	DrugInteractions       []DrugInteraction    `xml:"drug-interactions"`
-	Sequences              []Sequence           `xml:"sequences>sequence"`
-	ExperimentalProperties []Property           `xml:"experimental-properties>property"`
-	ExternalIdentifiers    []ExternalIdentifier `xml:"external-identifiers>external-identifier"`
-	ExternalLinks          []ExternalLink       `xml:"external-links>external-link"`
-	Targets                []Target             `xml:"targets>target"`
-	Pathways               []Pathway            `xml:"pathways>pathway"`
-	SynthesysReference     string               `xml:"synthesis-reference"`
-	ProteinBinding         string               `xml:"protein-binding"`
-	Salts                  []Salt               `xml:"salts>salt"`
-	InternationalBrands    []Brand              `xml:"internation-brands>international-brand"`
-	AHFSCodes              []string             `xml:"ahfs-code>ahfs-code"`
-	PDBEntries             []string             `xml:"pdb-entries>pdb-entry"`
-	FoodInteractions       []string             `xml:"food-interactions>food-interaction"`
-	Reactions              []Reaction           `xml:"reactions>reaction"`
-	SNPEffects             []SNPEffect          `xml:"snp-effects>effect"`
-	AdverseReactions       []AdverseReaction    `xml:"snp-adverse-drug-reaction>reaction"`
-	Carriers               []Carrier            `xml:"carriers>carrier"`
+	CAS                    string               `xml:"cas-number" csv:"cas-number"` // Chemical Abstract Service identification number
+	UNII                   string               `xml:"unii" csv:"unii"`
+	State                  string               `xml:"state" csv:"state"`
+	Groups                 []Group              `xml:"groups" csv:"-"`
+	References             Reference            `xml:"general-references" csv:"-"`
+	Indication             string               `xml:"indication" csv:"indication"`
+	Pharmacodynamics       string               `xml:"pharmacodynamics" csv:"pharmacodynamycs"`
+	MechanismOfAction      string               `xml:"mechanism-of-action" csv:"mechanism-of-action"`
+	Toxicity               string               `xml:"toxicity" csv:"toxicity"`
+	Metabolism             string               `xml:"metabolism" csv:"metabolism"`
+	Absorption             string               `xml:"absorption" csv:"absorption"`
+	HalfLife               string               `xml:"half-life" csv:"half-life"`
+	RouteOfElimination     string               `xml:"route-of-elimination" csv:"route-of-elimination"`
+	VolumeOfDistribution   string               `xml:"volume-of-distribution" csv:"volume-of-distribution"`
+	Clearance              string               `xml:"clearance" csv:"clearance"`
+	Classification         Classification       `xml:"classification" csv:"-"`
+	Synonyms               []Synonym            `xml:"synonyms" csv:"-"`
+	Products               []Product            `xml:"products" csv:"-"`
+	Mixtures               []Mixture            `xml:"mixtures" csv:"-"`
+	Packagers              []Packager           `xml:"packagers" csv:"-"`
+	Manufacturers          []Manufacturer       `xml:"manufacturers" csv:"-"`
+	Prices                 []Price              `xml:"prices" csv:"-"`
+	Categories             []Category           `xml:"categories" csv:"-"`
+	AffectedOrganisms      []Organism           `xml:"affected-organisms" csv:"-"`
+	Dosages                []Dosage             `xml:"dosages" csv:"-"`
+	ATCCodes               []ATCCode            `xml:"atc-codes" csv:"-"` // WHO drug classification system (ATC) identifiers
+	FDALabel               string               `xml:"fda-label" csv:"fda-label"`
+	MSDS                   string               `xml:"msds" csv:"msds"`
+	Patents                []Patent             `xml:"patents" csv:"-"`
+	DrugInteractions       []DrugInteraction    `xml:"drug-interactions" csv:"-"`
+	Sequences              []Sequence           `xml:"sequences>sequence" csv:"-"`
+	ExperimentalProperties []Property           `xml:"experimental-properties>property" csv:"-"`
+	ExternalIdentifiers    []ExternalIdentifier `xml:"external-identifiers>external-identifier" csv:"-"`
+	ExternalLinks          []ExternalLink       `xml:"external-links>external-link" csv:"-"`
+	Targets                []Target             `xml:"targets>target" csv:"-"`
+	Pathways               []Pathway            `xml:"pathways>pathway" csv:"-"`
+	SynthesysReference     string               `xml:"synthesis-reference" csv:"synthesis-reference"`
+	ProteinBinding         string               `xml:"protein-binding" csv:"protein-binding"`
+	Salts                  []Salt               `xml:"salts>salt" csv:"-"`
+	InternationalBrands    []Brand              `xml:"internation-brands>international-brand" csv:"-"`
+	AHFSCodes              []string             `xml:"ahfs-code>ahfs-code" csv:"afhs-codes"`
+	PDBEntries             []string             `xml:"pdb-entries>pdb-entry" csv:"pdb-entries"`
+	FoodInteractions       []string             `xml:"food-interactions>food-interaction" csv:"food-interactions"`
+	Reactions              []Reaction           `xml:"reactions>reaction" csv:"-"`
+	SNPEffects             []SNPEffect          `xml:"snp-effects>effect" csv:"-"`
+	AdverseReactions       []AdverseReaction    `xml:"snp-adverse-drug-reaction>reaction" csv:"-"`
+	Carriers               []Carrier            `xml:"carriers>carrier" csv:"-"`
 }
 
 // AdverseReaction represents a possible adverse reaction a drug may cause
