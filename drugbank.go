@@ -8,6 +8,7 @@ package main
 
 import (
 	"bufio"
+	"bytes"
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
@@ -31,9 +32,42 @@ func main() {
 	decoder := xml.NewDecoder(xmlFile)
 	numberOfDrugs := getDrugsNumber(xmlFile)
 	bar := progressbar.New(numberOfDrugs)
-	drugs := []Drug{}
+	// drugs := []Drug{}
 	xmlFile.Seek(0, 0)
 	count := 0
+
+	var (
+		jsonDrugs             [][]byte
+		jsonManufacturers     [][]byte
+		jsonDrugManufacturers [][]byte
+		jsonProducts          [][]byte
+		jsonDrugProducts      [][]byte
+		jsonReactions         [][]byte
+		seenReaction          map[string]bool
+		jsonAdverseReactions  [][]byte
+		jsonSNPEffects        [][]byte
+		jsonGroups            [][]byte
+		jsonBooks             [][]byte
+		jsonArticles          [][]byte
+		jsonLinks             [][]byte
+		jsonClassifications   [][]byte
+		jsonSynonyms          [][]byte
+		jsonMixtures          [][]byte
+		jsonPackagers         [][]byte
+		jsonPrices            [][]byte
+		jsonCategories        [][]byte
+		jsonOrganisms         [][]byte
+		jsonATCCodes          [][]byte
+		jsonATCLevels         [][]byte
+		jsonDosages           [][]byte
+		jsonPatents           [][]byte
+		jsonDrugInteractions  [][]byte
+		jsonFoodInteractions  [][]byte
+		jsonProperties        [][]byte
+		jsonExtID             [][]byte
+		jsonExtLinks          [][]byte
+	)
+
 	for {
 		token, _ := decoder.Token()
 		if token == nil {
@@ -44,24 +78,432 @@ func main() {
 			if startElement.Name.Local == "drug" {
 				var d Drug
 				decoder.DecodeElement(&d, &startElement)
-				drugs = append(drugs, d)
+				// drugs = append(drugs, d)
+
+				// DRUG
+				jsonDrug, _ := json.Marshal(d)
+				jsonDrugs = append(jsonDrugs, jsonDrug)
+
+				// CLASSIFICATION
+				jsonClassification, _ := json.Marshal(struct {
+					ID string `json:"drugbank-id"`
+					Classification
+				}{
+					d.ID,
+					d.Classification,
+				})
+				jsonClassifications = append(jsonClassifications, jsonClassification)
+
+				// MANUFACTURERS
+				for _, manufacturer := range d.Manufacturers {
+					if manufacturer.Name == "" {
+						continue
+					}
+					jsonManufacturer, _ := json.Marshal(manufacturer)
+					drugManufacturer := struct {
+						DrugID         string `json:"drugbank-id"`
+						ManufacturerID string `json:"manufacturer-id"`
+					}{
+						d.ID,
+						manufacturer.Name,
+					}
+					jsonManufacturers = append(jsonManufacturers, jsonManufacturer)
+
+					jsonDrugManufacturer, _ := json.Marshal(drugManufacturer)
+					jsonDrugManufacturers = append(jsonDrugManufacturers, jsonDrugManufacturer)
+				}
+
+				// PRODUCTS
+				for _, product := range d.Products {
+					jsonProduct, _ := json.Marshal(product)
+					drugProduct := struct {
+						DrugID    string `json:"drugbank-id"`
+						ProductID string `json:"name"`
+					}{
+						d.ID,
+						product.Name,
+					}
+
+					jsonDrugProduct, _ := json.Marshal(drugProduct)
+
+					jsonProducts = append(jsonProducts, jsonProduct)
+					jsonDrugProducts = append(jsonDrugProducts, jsonDrugProduct)
+				}
+
+				// REACTIONS
+				for _, reaction := range d.Reactions {
+					_, ok := seenReaction[reaction.Sequence]
+					if ok {
+						continue
+					}
+					jsonReaction, _ := json.Marshal(reaction)
+					jsonReactions = append(jsonReactions, jsonReaction)
+				}
+
+				// ADVERSE REACTIONS
+				for _, reaction := range d.AdverseReactions {
+					if reaction.UNIPROTID == "" {
+						continue
+					}
+					jsonAdverseReaction, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						AdverseReaction
+					}{
+						d.ID,
+						reaction,
+					})
+					jsonAdverseReactions = append(jsonAdverseReactions, jsonAdverseReaction)
+				}
+
+				// SNP EFFECTS
+				for _, effect := range d.SNPEffects {
+					if effect.UNIPROTID == "" {
+						continue
+					}
+					jsonEffect, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						SNPEffect
+					}{
+						d.ID,
+						effect,
+					})
+					jsonSNPEffects = append(jsonSNPEffects, jsonEffect)
+				}
+
+				// GROUPS
+				for _, group := range d.Groups {
+					if group.Name == "" {
+						continue
+					}
+					jsonGroup, _ := json.Marshal(struct {
+						ID   string `json:"drugbank-id"`
+						Name string `json:"name"`
+					}{
+						d.ID,
+						group.Name,
+					})
+					jsonGroups = append(jsonGroups, jsonGroup)
+				}
+
+				// REFERENCES
+				// BOOKS
+				for _, book := range d.References.Books {
+					if book.ISBN == "" {
+						continue
+					}
+					jsonBook, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Book
+					}{
+						d.ID,
+						book,
+					})
+					jsonBooks = append(jsonBooks, jsonBook)
+				}
+
+				// LINKS
+				for _, link := range d.References.Links {
+					if link.URL == "" {
+						continue
+					}
+					jsonLink, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Link
+					}{
+						d.ID,
+						link,
+					})
+					jsonLinks = append(jsonLinks, jsonLink)
+				}
+
+				// PAPERS
+				for _, paper := range d.References.Articles {
+					if paper.PubMedID == "" {
+						continue
+					}
+					jsonArticle, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Article
+					}{
+						d.ID,
+						paper,
+					})
+					jsonArticles = append(jsonArticles, jsonArticle)
+				}
+
+				// SYNONYMS
+				for _, syn := range d.Synonyms {
+					if syn.Synonym == "" {
+						continue
+					}
+					jsonSynonym, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Synonym
+					}{
+						d.ID,
+						syn,
+					})
+					jsonSynonyms = append(jsonSynonyms, jsonSynonym)
+				}
+
+				// MIXTURES
+				for _, mix := range d.Mixtures {
+					if mix.Name == "" {
+						continue
+					}
+					jsonMixture, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Mixture
+					}{
+						d.ID,
+						mix,
+					})
+					jsonMixtures = append(jsonMixtures, jsonMixture)
+				}
+
+				// PACKAGERS
+				for _, pack := range d.Packagers {
+					if pack.Name == "" {
+						continue
+					}
+					jsonPackager, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Packager
+					}{
+						d.ID,
+						pack,
+					})
+					jsonPackagers = append(jsonPackagers, jsonPackager)
+				}
+
+				// PRICES
+				for _, price := range d.Prices {
+					if price.Details.Amount == 0.0 {
+						continue
+					}
+					jsonPrice, _ := json.Marshal(struct {
+						DrugID      string  `json:"drugbank-id"`
+						Description string  `json:"description"`
+						Amount      float64 `json:"cost"`
+						Currency    string  `json:"currency"`
+						Unit        string  `json:"sale-unit"`
+					}{
+						d.ID,
+						price.Description,
+						price.Details.Amount,
+						price.Details.Currency,
+						price.Unit,
+					})
+					jsonPrices = append(jsonPrices, jsonPrice)
+				}
+
+				// CATEGORY
+				for _, cat := range d.Categories {
+					if cat.Category == "" {
+						continue
+					}
+					jsonCategory, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Category
+					}{
+						d.ID,
+						cat,
+					})
+					jsonCategories = append(jsonCategories, jsonCategory)
+				}
+
+				// AFFECTED ORGANISMS
+				for _, org := range d.AffectedOrganisms {
+					if org.Description == "" {
+						continue
+					}
+					jsonOrganism, _ := json.Marshal(struct {
+						DrugID   string `json:"drugbank-id"`
+						Organism string `json:"organism"`
+					}{
+						d.ID,
+						org.Description,
+					})
+					jsonOrganisms = append(jsonOrganisms, jsonOrganism)
+				}
+
+				// ATC CODES
+				for _, code := range d.ATCCodes {
+					jsonCode, _ := json.Marshal(struct {
+						ATCCode string `json:"atc-code"`
+						DrugID  string `json:"drugbank-id"`
+					}{
+						code.Code.Code,
+						d.ID,
+					})
+
+					jsonATCCodes = append(jsonATCCodes, jsonCode)
+
+					for _, level := range code.Code.Levels {
+
+						jsonLevel, _ := json.Marshal(struct {
+							ATCCode      string `json:"atc-code"`
+							ATCLevelCode string `json:"atc-level"`
+							Description  string `json:"description"`
+						}{
+							code.Code.Code,
+							level.Code,
+							level.Description,
+						})
+
+						jsonATCLevels = append(jsonATCLevels, jsonLevel)
+					}
+				}
+
+				// DOSAGE
+				for _, dosage := range d.Dosages {
+					if dosage.Form == "" {
+						continue
+					}
+					jsonDosage, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Dosage
+					}{
+						d.ID,
+						dosage,
+					})
+					jsonDosages = append(jsonDosages, jsonDosage)
+				}
+
+				// PATENT
+				for _, patent := range d.Patents {
+					if patent.Number == "" {
+						continue
+					}
+					jsonPatent, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Patent
+					}{
+						d.ID,
+						patent,
+					})
+					jsonPatents = append(jsonPatents, jsonPatent)
+				}
+
+				// DRUG INTERACTION
+				for _, interaction := range d.DrugInteractions {
+					if interaction.ID == "" {
+						continue
+					}
+					jsonInteraction, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						DrugInteraction
+					}{
+						d.ID,
+						interaction,
+					})
+					jsonDrugInteractions = append(jsonDrugInteractions, jsonInteraction)
+				}
+
+				// FOOD INTERACTION
+				for _, interaction := range d.FoodInteractions {
+					if interaction == "" {
+						continue
+					}
+					jsonInteraction, _ := json.Marshal(struct {
+						DrugID      string `json:"drugbank-id"`
+						Interaction string `json:"interaction"`
+					}{
+						d.ID,
+						interaction,
+					})
+					jsonFoodInteractions = append(jsonFoodInteractions, jsonInteraction)
+				}
+
+				// PROPERTIES
+				for _, property := range d.ExperimentalProperties {
+					if property.Value == "" {
+						continue
+					}
+					jsonProperty, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						Property
+					}{
+						d.ID,
+						property,
+					})
+					jsonProperties = append(jsonProperties, jsonProperty)
+				}
+
+				// EXTERNAL LINK
+				for _, link := range d.ExternalLinks {
+					if link.URL == "" {
+						continue
+					}
+					jsonLink, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						ExternalLink
+					}{
+						d.ID,
+						link,
+					})
+					jsonExtLinks = append(jsonExtLinks, jsonLink)
+				}
+
+				// EXTERNAL IDENTIFIERS
+				for _, id := range d.ExternalIdentifiers {
+					if id.Identifier == "" {
+						continue
+					}
+					jsonID, _ := json.Marshal(struct {
+						DrugID string `json:"drugbank-id"`
+						ExternalIdentifier
+					}{
+						d.ID,
+						id,
+					})
+					jsonExtID = append(jsonExtID, jsonID)
+				}
+
+				// target  TODO???
+				// pathway  TODO ???
+				// salt   TODO ???
+				// brand  TODO ???
+				// carrier TODO ???
 			}
 		}
 		count++
 		bar.Add(1)
-		if count%500 == 0 {
-			break
-		}
+
+		// if count%50 == 0 {
+		// 	break
+		// }
 	}
 	fmt.Println()
-	data, err := json.Marshal(drugs)
-	if err != nil {
-		log.Fatal(err)
-	}
-	err = ioutil.WriteFile("drug.json", data, 0644)
-	if err != nil {
-		log.Fatal(err)
-	}
+
+	ioutil.WriteFile("json/drugs.json", bytes.Join(jsonDrugs, []byte("\n")), 0644)
+	ioutil.WriteFile("json/classifications.json", bytes.Join(jsonClassifications, []byte("\n")), 0644)
+	ioutil.WriteFile("json/manufacturers.json", bytes.Join(jsonManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile("json/drugs-manufacturers-join.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile("json/products.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile("json/drugs-products-join.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile("json/reactions.json", bytes.Join(jsonReactions, []byte("\n")), 0644)
+	ioutil.WriteFile("json/adverse-reactions.json", bytes.Join(jsonReactions, []byte("\n")), 0644)
+	ioutil.WriteFile("json/snp-effects.json", bytes.Join(jsonSNPEffects, []byte("\n")), 0644)
+	ioutil.WriteFile("json/groups.json", bytes.Join(jsonGroups, []byte("\n")), 0644)
+	ioutil.WriteFile("json/articles.json", bytes.Join(jsonArticles, []byte("\n")), 0644)
+	ioutil.WriteFile("json/books.json", bytes.Join(jsonBooks, []byte("\n")), 0644)
+	ioutil.WriteFile("json/links.json", bytes.Join(jsonLinks, []byte("\n")), 0644)
+	ioutil.WriteFile("json/synonyms.json", bytes.Join(jsonSynonyms, []byte("\n")), 0644)
+	ioutil.WriteFile("json/mixtures.json", bytes.Join(jsonMixtures, []byte("\n")), 0644)
+	ioutil.WriteFile("json/packagers.json", bytes.Join(jsonPackagers, []byte("\n")), 0644)
+	ioutil.WriteFile("json/prices.json", bytes.Join(jsonPrices, []byte("\n")), 0644)
+	ioutil.WriteFile("json/categories.json", bytes.Join(jsonCategories, []byte("\n")), 0644)
+	ioutil.WriteFile("json/organisms.json", bytes.Join(jsonOrganisms, []byte("\n")), 0644)
+	ioutil.WriteFile("json/atc_codes.json", bytes.Join(jsonATCCodes, []byte("\n")), 0644)
+	ioutil.WriteFile("json/atc_levels.json", bytes.Join(jsonATCLevels, []byte("\n")), 0644)
+	ioutil.WriteFile("json/dosages.json", bytes.Join(jsonDosages, []byte("\n")), 0644)
+	ioutil.WriteFile("json/patents.json", bytes.Join(jsonPatents, []byte("\n")), 0644)
+	ioutil.WriteFile("json/drug_interactions.json", bytes.Join(jsonDrugInteractions, []byte("\n")), 0644)
+	ioutil.WriteFile("json/food_interactions.json", bytes.Join(jsonFoodInteractions, []byte("\n")), 0644)
+	ioutil.WriteFile("json/experimental_properties.json", bytes.Join(jsonProperties, []byte("\n")), 0644)
+	ioutil.WriteFile("json/external_links.json", bytes.Join(jsonExtLinks, []byte("\n")), 0644)
+	ioutil.WriteFile("json/external_identifiers.json", bytes.Join(jsonExtID, []byte("\n")), 0644)
 }
 
 // getDrugsNumber counts the number of opening drug tags
@@ -94,82 +536,82 @@ func TimeTrack(name string, start time.Time) {
 // Drug represents a drug and all its related information
 // More detailed info available at https://www.drugbank.ca/documentation#drug-cards
 type Drug struct {
-	ID                     string               `xml:"drugbank-id" csv:"drugbank-id"`
-	DrugRecordCreatedOn    string               `xml:"created,attr" csv:"record-creation"`
-	DrugRecordUpdatedOn    string               `xml:"updated,attr" csv:"record-update"`
-	DrugType               string               `xml:"type,attr" csv:"drug-type"`
-	Name                   string               `xml:"name" csv:"name"`
-	Description            string               `xml:"description" csv:"description"`
-	CAS                    string               `xml:"cas-number" csv:"cas-number"` // Chemical Abstract Service identification number
-	UNII                   string               `xml:"unii" csv:"unii"`
-	State                  string               `xml:"state" csv:"state"`
-	Groups                 []Group              `xml:"groups" csv:"-"`
-	References             Reference            `xml:"general-references" csv:"-"`
-	Indication             string               `xml:"indication" csv:"indication"`
-	Pharmacodynamics       string               `xml:"pharmacodynamics" csv:"pharmacodynamycs"`
-	MechanismOfAction      string               `xml:"mechanism-of-action" csv:"mechanism-of-action"`
-	Toxicity               string               `xml:"toxicity" csv:"toxicity"`
-	Metabolism             string               `xml:"metabolism" csv:"metabolism"`
-	Absorption             string               `xml:"absorption" csv:"absorption"`
-	HalfLife               string               `xml:"half-life" csv:"half-life"`
-	RouteOfElimination     string               `xml:"route-of-elimination" csv:"route-of-elimination"`
-	VolumeOfDistribution   string               `xml:"volume-of-distribution" csv:"volume-of-distribution"`
-	Clearance              string               `xml:"clearance" csv:"clearance"`
-	Classification         Classification       `xml:"classification" csv:"-"`
-	Synonyms               []Synonym            `xml:"synonyms" csv:"-"`
-	Products               []Product            `xml:"products" csv:"-"`
-	Mixtures               []Mixture            `xml:"mixtures" csv:"-"`
-	Packagers              []Packager           `xml:"packagers" csv:"-"`
-	Manufacturers          []Manufacturer       `xml:"manufacturers" csv:"-"`
-	Prices                 []Price              `xml:"prices" csv:"-"`
-	Categories             []Category           `xml:"categories" csv:"-"`
-	AffectedOrganisms      []Organism           `xml:"affected-organisms" csv:"-"`
-	Dosages                []Dosage             `xml:"dosages" csv:"-"`
-	ATCCodes               []ATCCode            `xml:"atc-codes" csv:"-"` // WHO drug classification system (ATC) identifiers
-	FDALabel               string               `xml:"fda-label" csv:"fda-label"`
-	MSDS                   string               `xml:"msds" csv:"msds"`
-	Patents                []Patent             `xml:"patents" csv:"-"`
-	DrugInteractions       []DrugInteraction    `xml:"drug-interactions" csv:"-"`
-	Sequences              []Sequence           `xml:"sequences>sequence" csv:"-"`
-	ExperimentalProperties []Property           `xml:"experimental-properties>property" csv:"-"`
-	ExternalIdentifiers    []ExternalIdentifier `xml:"external-identifiers>external-identifier" csv:"-"`
-	ExternalLinks          []ExternalLink       `xml:"external-links>external-link" csv:"-"`
-	Targets                []Target             `xml:"targets>target" csv:"-"`
-	Pathways               []Pathway            `xml:"pathways>pathway" csv:"-"`
-	SynthesysReference     string               `xml:"synthesis-reference" csv:"synthesis-reference"`
-	ProteinBinding         string               `xml:"protein-binding" csv:"protein-binding"`
-	Salts                  []Salt               `xml:"salts>salt" csv:"-"`
-	InternationalBrands    []Brand              `xml:"internation-brands>international-brand" csv:"-"`
-	AHFSCodes              []string             `xml:"ahfs-code>ahfs-code" csv:"afhs-codes"`
-	PDBEntries             []string             `xml:"pdb-entries>pdb-entry" csv:"pdb-entries"`
-	FoodInteractions       []string             `xml:"food-interactions>food-interaction" csv:"food-interactions"`
-	Reactions              []Reaction           `xml:"reactions>reaction" csv:"-"`
-	SNPEffects             []SNPEffect          `xml:"snp-effects>effect" csv:"-"`
-	AdverseReactions       []AdverseReaction    `xml:"snp-adverse-drug-reaction>reaction" csv:"-"`
-	Carriers               []Carrier            `xml:"carriers>carrier" csv:"-"`
+	ID                     string               `xml:"drugbank-id" json:"drugbank-id"`
+	DrugRecordCreatedOn    string               `xml:"created,attr" json:"record-creation"`
+	DrugRecordUpdatedOn    string               `xml:"updated,attr" json:"record-update"`
+	DrugType               string               `xml:"type,attr" json:"drug-type"`
+	Name                   string               `xml:"name" json:"name"`
+	Description            string               `xml:"description" json:"description"`
+	CAS                    string               `xml:"cas-number" json:"cas-number"` // Chemical Abstract Service identification number
+	UNII                   string               `xml:"unii" json:"unii"`
+	State                  string               `xml:"state" json:"state"`
+	Groups                 []Group              `xml:"groups" json:"-"`
+	References             Reference            `xml:"general-references" json:"-"`
+	Indication             string               `xml:"indication" json:"indication"`
+	Pharmacodynamics       string               `xml:"pharmacodynamics" json:"pharmacodynamycs"`
+	MechanismOfAction      string               `xml:"mechanism-of-action" json:"mechanism-of-action"`
+	Toxicity               string               `xml:"toxicity" json:"toxicity"`
+	Metabolism             string               `xml:"metabolism" json:"metabolism"`
+	Absorption             string               `xml:"absorption" json:"absorption"`
+	HalfLife               string               `xml:"half-life" json:"half-life"`
+	RouteOfElimination     string               `xml:"route-of-elimination" json:"route-of-elimination"`
+	VolumeOfDistribution   string               `xml:"volume-of-distribution" json:"volume-of-distribution"`
+	Clearance              string               `xml:"clearance" json:"clearance"`
+	Classification         Classification       `xml:"classification" json:"-"`
+	Synonyms               []Synonym            `xml:"synonyms" json:"-"`
+	Products               []Product            `xml:"products" json:"-"`
+	Mixtures               []Mixture            `xml:"mixtures" json:"-"`
+	Packagers              []Packager           `xml:"packagers" json:"-"`
+	Manufacturers          []Manufacturer       `xml:"manufacturers" json:"-"`
+	Prices                 []Price              `xml:"prices" json:"-"`
+	Categories             []Category           `xml:"categories" json:"-"`
+	AffectedOrganisms      []Organism           `xml:"affected-organisms" json:"-"`
+	Dosages                []Dosage             `xml:"dosages" json:"-"`
+	ATCCodes               []ATCCode            `xml:"atc-codes" json:"-"` // WHO drug classification system (ATC) identifiers
+	FDALabel               string               `xml:"fda-label" json:"fda-label"`
+	MSDS                   string               `xml:"msds" json:"msds"`
+	Patents                []Patent             `xml:"patents" json:"-"`
+	DrugInteractions       []DrugInteraction    `xml:"drug-interactions" json:"-"`
+	Sequences              []Sequence           `xml:"sequences>sequence" json:"-"`
+	ExperimentalProperties []Property           `xml:"experimental-properties>property" json:"-"`
+	ExternalIdentifiers    []ExternalIdentifier `xml:"external-identifiers>external-identifier" json:"-"`
+	ExternalLinks          []ExternalLink       `xml:"external-links>external-link" json:"-"`
+	Targets                []Target             `xml:"targets>target" json:"-"`
+	Pathways               []Pathway            `xml:"pathways>pathway" json:"-"`
+	SynthesysReference     string               `xml:"synthesis-reference" json:"synthesis-reference"`
+	ProteinBinding         string               `xml:"protein-binding" json:"protein-binding"`
+	Salts                  []Salt               `xml:"salts>salt" json:"-"`
+	InternationalBrands    []Brand              `xml:"internation-brands>international-brand" json:"-"`
+	AHFSCodes              []string             `xml:"ahfs-code>ahfs-code" json:"-"`
+	PDBEntries             []string             `xml:"pdb-entries>pdb-entry" json:"-"`
+	FoodInteractions       []string             `xml:"food-interactions>food-interaction" json:"-"`
+	Reactions              []Reaction           `xml:"reactions>reaction" json:"-"`
+	SNPEffects             []SNPEffect          `xml:"snp-effects>effect" json:"-"`
+	AdverseReactions       []AdverseReaction    `xml:"snp-adverse-drug-reaction>reaction" json:"-"`
+	Carriers               []Carrier            `xml:"carriers>carrier" json:"-"`
 }
 
 // AdverseReaction represents a possible adverse reaction a drug may cause
 type AdverseReaction struct {
-	ProteinName     string `xml:"protein-name"`
-	GeneSymbol      string `xml:"gene-symbol"`
-	UNIPROTID       string `xml:"uniprot-id"`
-	Allele          string `xml:"allele"` // TODO check
-	Adversereaction string `xml:"adverse-reaction"`
-	Description     string `xml:"description"`
-	PubmedID        string `xml:"pubmed-id"`
+	ProteinName     string `xml:"protein-name" json:"protein-name"`
+	GeneSymbol      string `xml:"gene-symbol" json:"gene-symbol"`
+	UNIPROTID       string `xml:"uniprot-id" json:"uniprot-id"`
+	Allele          string `xml:"allele" json:"allele"` // TODO check
+	AdverseReaction string `xml:"adverse-reaction" json:"adverse-reaction"`
+	Description     string `xml:"description" json:"description"`
+	PubmedID        string `xml:"pubmed-id" json:"pubmed-id"`
 }
 
 // Article represents a scientific paper regarding a drug
 type Article struct {
-	PubMedID string `xml:"article>pubmed-id"`
-	Citation string `xml:"article>citation"`
+	PubMedID string `xml:"article>pubmed-id" json:"pubmed-id"`
+	Citation string `xml:"article>citation" json:"citation"`
 }
 
 // ATCCode represents the WHO drug classification system (ATC) identifiers
 type ATCCode struct {
 	Code struct {
-		Code   string `xml:"code,attr"`
+		Code   string `xml:"code,attr"  json:"code"`
 		Levels []struct {
 			Code        string `xml:"code,attr"`
 			Description string `xml:",chardata"`
@@ -179,14 +621,14 @@ type ATCCode struct {
 
 // Book represents a textbook regarding a drug
 type Book struct {
-	ISBN     string `xml:"textbook>isbn"`
-	Citation string `xml:"textbook>citation"`
+	ISBN     string `xml:"textbook>isbn" json:"isbn"`
+	Citation string `xml:"textbook>citation" json:"citation"`
 }
 
 // Brand identifies brands for mixtures or brand names
 type Brand struct {
-	Name    string `xml:"name"`
-	Company string `xml:"company"`
+	Name    string `xml:"name" json:"name"`
+	Company string `xml:"company" json:"company"`
 }
 
 // Carrier represents a secreted protein which binds to drugs,
@@ -210,51 +652,51 @@ type Carrier struct {
 
 // Category represents a category of sub-division
 type Category struct {
-	Category string `xml:"category>category"`
-	MeshID   string `xml:"category>mesh-id"`
+	Category string `xml:"category>category" json:"category"`
+	MeshID   string `xml:"category>mesh-id" json:"mesh-id"`
 }
 
 // Classification describes the class of a substance
 type Classification struct {
-	Description string `xml:"description"`
-	Parent      string `xml:"direct-parent"`
-	Kingdom     string `xml:"kingdom"`
-	Superclass  string `xml:"superclass"`
-	Class       string `xml:"class"`
-	Subclass    string `xml:"subclass"`
+	Description string `xml:"description" json:"description"`
+	Parent      string `xml:"direct-parent" json:"direct-parent"`
+	Kingdom     string `xml:"kingdom" json:"kingdom"`
+	Superclass  string `xml:"superclass" json:"superclass"`
+	Class       string `xml:"class" json:"class"`
+	Subclass    string `xml:"subclass" json:"subclass"`
 }
 
 // Dosage describes the dosage in which a drug is
 // to be administered and the route it should take.
 type Dosage struct {
-	Form     string `xml:"dosage>form"`
-	Route    string `xml:"dosage>route"`
-	Strength string `xml:"dosage>strength"` // TODO
+	Form     string `xml:"dosage>form" json:"form"`
+	Route    string `xml:"dosage>route" json:"route"`
+	Strength string `xml:"dosage>strength" json:"strength"` // TODO
 }
 
 // DrugInteraction represents a possible interaction between to drugs
 type DrugInteraction struct {
-	ID          string `xml:"drug-interaction>drugbank-id"`
-	Name        string `xml:"drug-interaction>name"`
-	Description string `xml:"drug-interaction>description"`
+	ID          string `xml:"drug-interaction>drugbank-id" json:"reagent-id"`
+	Name        string `xml:"drug-interaction>name" json:"name"`
+	Description string `xml:"drug-interaction>description" json:"description"`
 }
 
 // Enzyme contains the enzyme ID on UNIPROT
 type Enzyme struct {
-	UNIPROTID string `xml:"uniprot-id"`
+	UNIPROTID string `xml:"uniprot-id" json:"uniprot0id"`
 }
 
 // ExternalIdentifier is an identifier to
 // link a drug to external resources
 type ExternalIdentifier struct {
-	Resource   string `xml:"resource"`
-	Identifier string `xml:"identifier"`
+	Resource   string `xml:"resource" json:"resource"`
+	Identifier string `xml:"identifier" json:"identifier"`
 }
 
 // ExternalLink is a link to an external resource
 type ExternalLink struct {
-	Resource string `xml:"resource"`
-	URL      string `xml:"url"`
+	Resource string `xml:"resource" json:"resource"`
+	URL      string `xml:"url" json:"url"`
 }
 
 // GoClassifier represents Gene ontology classification
@@ -266,25 +708,25 @@ type GoClassifier struct {
 
 // Group describes a category
 type Group struct {
-	Name string `xml:"group"`
+	Name string `xml:"group" json:"name"`
 }
 
 // Link is th elink to a resource containing information regarding a drug
 type Link struct {
-	Title string `xml:"link>title"`
-	URL   string `xml:"link>url"`
+	Title string `xml:"link>title" json:"title"`
+	URL   string `xml:"link>url" json:"url"`
 }
 
 // Manufacturer describes the manufacturer of a mixture
 type Manufacturer struct {
-	Name string `xml:"manufacturer"`
-	URL  string `xml:"url,attr"`
+	Name string `xml:"manufacturer" json:"name"`
+	URL  string `xml:"url,attr" json:"url"`
 }
 
 // Mixture describes a mixture in which a drug can be found
 type Mixture struct {
-	Name        string `xml:"mixture>name"`
-	Ingredients string `xml:"mixture>ingredients"`
+	Name        string `xml:"mixture>name" json:"name"`
+	Ingredients string `xml:"mixture>ingredients" json:"ingredients"`
 }
 
 // Organism describes an organism affected by a drug
@@ -294,17 +736,17 @@ type Organism struct {
 
 // Packager describes a packager of the drug
 type Packager struct {
-	Name string `xml:"packager>name"`
-	URL  string `xml:"packager>url"`
+	Name string `xml:"packager>name" json:"name"`
+	URL  string `xml:"packager>url" json:"url"`
 }
 
 // Patent represents a Patent related to the drug
 type Patent struct {
-	Number    string `xml:"patent>number"`
-	Country   string `xml:"patent>country"`
-	Approved  string `xml:"patent>approved"`
-	Expires   string `xml:"patent>expires"`
-	Pediatric bool   `xml:"patent>pediatric-extension"`
+	Number    string `xml:"patent>number" json:"number"`
+	Country   string `xml:"patent>country" json:"country"`
+	Approved  string `xml:"patent>approved" json:"approved"`
+	Expires   string `xml:"patent>expires" json:"expiration"`
+	Pediatric bool   `xml:"patent>pediatric-extension" json:"pediatric"`
 }
 
 // Pathway represents  processes (from SMPD) that the given molecule is involved in
@@ -377,31 +819,31 @@ type Price struct {
 
 // Product represents a product in which a drug can be found.
 type Product struct {
-	Name                 string `xml:"product>name"`
-	Labeller             string `xml:"product>labeller"`
-	NDCID                string `xml:"product>ndc-id"`
-	NDCProductCode       string `xml:"product>ndc-product-code"`
-	DPDID                string `xml:"product>dpd-id"`
-	EMAProductCode       string `xml:"product>ema-product-code"`
-	EMAProductNumber     string `xml:"product>ema-ma-number"`
-	StartedMarketing     string `xml:"product>started-marketing-on"`
-	EndedMarketing       string `xml:"product>ended-marketing-on"`
-	DosageForm           string `xml:"product>dosage-form"`
-	Strength             string `xml:"product>strength"`
-	Route                string `xml:"product>route"`
-	FDAApplicationNumber string `xml:"product>fda-application-number"`
-	Generic              bool   `xml:"product>generic"`
-	OverTheCounter       bool   `xml:"product>over-the-counter"`
-	Approved             bool   `xml:"product>approved"`
-	Country              string `xml:"product>country"`
-	Source               string `xml:"product>source"`
+	Name                 string `xml:"product>name" json:"name"`
+	Labeller             string `xml:"product>labeller" json:"labeller"`
+	NDCID                string `xml:"product>ndc-id" json:"ncd-id"`
+	NDCProductCode       string `xml:"product>ndc-product-code" json:"ncd-product-code"`
+	DPDID                string `xml:"product>dpd-id" json:"dpd-id"`
+	EMAProductCode       string `xml:"product>ema-product-code" json:"ema-product-code"`
+	EMAProductNumber     string `xml:"product>ema-ma-number" json:"ema-product-number"`
+	StartedMarketing     string `xml:"product>started-marketing-on" json:"started-marketing-on"`
+	EndedMarketing       string `xml:"product>ended-marketing-on" json:"ended-marketing-on"`
+	DosageForm           string `xml:"product>dosage-form" json:"dosage-form"`
+	Strength             string `xml:"product>strength" json:"strngth"`
+	Route                string `xml:"product>route" json:"route"`
+	FDAApplicationNumber string `xml:"product>fda-application-number" json:"fda-application-number"`
+	Generic              bool   `xml:"product>generic" json:"generic"`
+	OverTheCounter       bool   `xml:"product>over-the-counter" json:"over-the-counter"`
+	Approved             bool   `xml:"product>approved" json:"approved"`
+	Country              string `xml:"product>country" json:"country"`
+	Source               string `xml:"product>source" json:"source"`
 }
 
 // Property represents a property of a drug as recorded in the source
 type Property struct {
-	Kind   string `xml:"kind"`
-	Value  string `xml:"value"`
-	Source string `xml:"source"`
+	Kind   string `xml:"kind" json:"kind"`
+	Value  string `xml:"value" json:"value"`
+	Source string `xml:"source" json:"source"`
 }
 
 // Reaction describes a reaction a specific drug can undergo with
@@ -446,21 +888,21 @@ type Sequence struct {
 // a drug might cause.
 // SNP -> Single Nucleotide Polymorphism
 type SNPEffect struct {
-	ProteinName    string `xml:"protein-name"`
-	GeneSymbol     string `xml:"gene-symbol"`
-	RSID           string `xml:"rs-id"`
-	UNIPROTID      string `xml:"uniprot-id"`
-	Allele         string `xml:"allele"` // TODO check
-	DefiningChange string `xml:"defining-change"`
-	Description    string `xml:"description"`
-	PubmedID       string `xml:"pubmed-id"`
+	ProteinName    string `xml:"protein-name" json:"protein-name"`
+	GeneSymbol     string `xml:"gene-symbol" json:"gene-symbol"`
+	RSID           string `xml:"rs-id" json:"rs-id"`
+	UNIPROTID      string `xml:"uniprot-id" json:"uniprot-id"`
+	Allele         string `xml:"allele" json:"allele"` // TODO check
+	DefiningChange string `xml:"defining-change" json:"defining-change"`
+	Description    string `xml:"description" json:"description"`
+	PubmedID       string `xml:"pubmed-id" json:"pubmed-id"`
 }
 
 // Synonym describes a synonym of a drug
 type Synonym struct {
-	Language string `xml:"language,attr"`
-	Coder    string `xml:"coder,attr"`
-	Synonym  string `xml:"synonym"`
+	Language string `xml:"language,attr" json:"language"`
+	Coder    string `xml:"coder,attr" json:"coder"`
+	Synonym  string `xml:"synonym" json:"synonym"`
 }
 
 // Target represents a protein, macromolecule, nucleic acid,
