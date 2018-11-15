@@ -1,0 +1,832 @@
+{"drugbank-id":"BIOD00024","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"BIOD00001","manufacturer-id":"Genentech, Inc"}
+{"drugbank-id":"BIOD00052","manufacturer-id":"Amgen Inc. + Wyeth + Takeda"}
+{"drugbank-id":"DB02351","manufacturer-id":"The medicines co"}
+{"drugbank-id":"BIOD00033","manufacturer-id":"Emd serono inc"}
+{"drugbank-id":"BIOD00032","manufacturer-id":"Amgen Inc."}
+{"drugbank-id":"BIOD00030","manufacturer-id":"Microbix biosystems inc"}
+{"drugbank-id":"BIOD00113","manufacturer-id":"Astrazeneca uk ltd"}
+{"drugbank-id":"BIOD00025","manufacturer-id":"Upsher smith laboratories inc"}
+{"drugbank-id":"BIOD00039","manufacturer-id":"Chirhoclin inc"}
+{"drugbank-id":"BIOD00020","manufacturer-id":"Genzyme corp"}
+{"drugbank-id":"DB08914","manufacturer-id":"Novo nordisk inc"}
+{"drugbank-id":"BIOD00061","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"BIOD00057","manufacturer-id":"Novo nordisk pharmaceuticals inc"}
+{"drugbank-id":"BIOD00056","manufacturer-id":"Emd serono inc"}
+{"drugbank-id":"DB01310","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"DB01308","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"BIOD00115","manufacturer-id":"Emd serono inc"}
+{"drugbank-id":"DB06417","manufacturer-id":"Lg life sciences ltd"}
+{"drugbank-id":"BIOD00026","manufacturer-id":"Genzyme corp"}
+{"drugbank-id":"BIOD00077","manufacturer-id":"Wyeth pharmaceuticals inc"}
+{"drugbank-id":"BIOD00093","manufacturer-id":"Biogen Idec"}
+{"drugbank-id":"BIOD00100","manufacturer-id":"Sigma tau pharmaceuticals inc"}
+{"drugbank-id":"BIOD00063","manufacturer-id":"Schering corp"}
+{"drugbank-id":"BIOD00004","manufacturer-id":"J\u0026J and Mitsubisi Tanabe"}
+{"drugbank-id":"DB09024","manufacturer-id":"Emd serono inc"}
+{"drugbank-id":"DB09392","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"BIOD00022","manufacturer-id":"Baxter healthcare corp anesthesia and critical care"}
+{"drugbank-id":"BIOD00031","manufacturer-id":"Novo nordisk inc"}
+{"drugbank-id":"BIOD00014","manufacturer-id":"Roche"}
+{"drugbank-id":"BIOD00111","manufacturer-id":"Cubist pharmaceuticals inc"}
+{"drugbank-id":"BIOD00044","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"BIOD00037","manufacturer-id":"Genzyme corp"}
+{"drugbank-id":"BIOD00003","manufacturer-id":"Wockhardt eu operations (swiss) ag"}
+{"drugbank-id":"BIOD00114","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"BIOD00104","manufacturer-id":"Ferring pharmaceuticals inc"}
+{"drugbank-id":"BIOD00034","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"BIOD00088","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"BIOD00051","manufacturer-id":"Speciality european pharma ltd"}
+{"drugbank-id":"BIOD00016","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"BIOD00106","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"BIOD00087","manufacturer-id":"Roche Pharmaceuticals"}
+{"drugbank-id":"EXPT00965","manufacturer-id":"Bracco diagnostics inc"}
+{"drugbank-id":"NUTR00014","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"NUTR00026","manufacturer-id":"Nutritional restart pharmaceutical lp"}
+{"drugbank-id":"DB05314","manufacturer-id":"Galderma laboratories lp"}
+{"drugbank-id":"NUTR00028","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00428","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"DB09485","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"EXPT03222","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00426","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"NUTR00025","manufacturer-id":"Mission pharmacal co"}
+{"drugbank-id":"APRD00486","manufacturer-id":"Bel mar laboratories inc"}
+{"drugbank-id":"APRD00204","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"NUTR00062","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00328","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00425","manufacturer-id":"Solvay pharmaceuticals"}
+{"drugbank-id":"APRD00133","manufacturer-id":"Novartis Corporation"}
+{"drugbank-id":"APRD00009","manufacturer-id":"King Pharmaceuticals, Inc."}
+{"drugbank-id":"DB05900","manufacturer-id":"Univ arizona cancer center"}
+{"drugbank-id":"APRD00976","manufacturer-id":"Teva branded pharmaceutical products r and d inc"}
+{"drugbank-id":"APRD00551","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00480","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD01172","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"DB11303","manufacturer-id":"Glaxosmithkline consumer healthcare"}
+{"drugbank-id":"APRD00224","manufacturer-id":"Daiichi sankyo co ltd"}
+{"drugbank-id":"APRD00116","manufacturer-id":"Warner chilcott div warner lambert co"}
+{"drugbank-id":"APRD00954","manufacturer-id":"Bioniche pharma usa llc"}
+{"drugbank-id":"DB07475","manufacturer-id":"Millennium pharmaceuticals inc"}
+{"drugbank-id":"APRD00958","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00160","manufacturer-id":"Aton pharma inc"}
+{"drugbank-id":"APRD00093","manufacturer-id":"Quantum pharmics ltd"}
+{"drugbank-id":"APRD01032","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00028","manufacturer-id":"Ortho mcneil janssen pharmaceuticals inc"}
+{"drugbank-id":"EXPT02753","manufacturer-id":"Parkedale pharmaceuticals inc"}
+{"drugbank-id":"APRD00245","manufacturer-id":"Alcon inc"}
+{"drugbank-id":"APRD00327","manufacturer-id":"Unique pharmaceutical laboratories"}
+{"drugbank-id":"APRD00488","manufacturer-id":"Pfizer pharmaceuticals ltd"}
+{"drugbank-id":"APRD01148","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00953","manufacturer-id":"Pfizer laboratories div pfizer inc"}
+{"drugbank-id":"APRD01022","manufacturer-id":"Bel mar laboratories inc"}
+{"drugbank-id":"APRD00673","manufacturer-id":"Sun pharmaceutical industries ltd"}
+{"drugbank-id":"APRD00159","manufacturer-id":"Apothecon inc div bristol myers squibb"}
+{"drugbank-id":"APRD00556","manufacturer-id":"Pfizer ireland pharmaceuticals"}
+{"drugbank-id":"APRD00367","manufacturer-id":"Pfizer pharmaceuticals production corp ltd"}
+{"drugbank-id":"APRD00599","manufacturer-id":"Glaxosmithkline llc"}
+{"drugbank-id":"APRD00472","manufacturer-id":"Vitarine pharmaceuticals inc"}
+{"drugbank-id":"APRD00397","manufacturer-id":"Wockhardt ltd"}
+{"drugbank-id":"APRD01257","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00393","manufacturer-id":"Allergan inc"}
+{"drugbank-id":"APRD00780","manufacturer-id":"Galderma Laboratories"}
+{"drugbank-id":"APRD01116","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD00073","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00217","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00147","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00945","manufacturer-id":"Pfizer ireland pharmaceuticals"}
+{"drugbank-id":"APRD00825","manufacturer-id":"Ah robins co"}
+{"drugbank-id":"APRD00281","manufacturer-id":"Bayer Healthcare Pharmaceuticals"}
+{"drugbank-id":"APRD00189","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00003","manufacturer-id":"Agouron pharmaceuticals inc"}
+{"drugbank-id":"APRD00750","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00381","manufacturer-id":"Watson laboratories inc florida"}
+{"drugbank-id":"APRD00921","manufacturer-id":"Taro pharmaceuticals inc"}
+{"drugbank-id":"APRD00069","manufacturer-id":"Merck sharp and dohme corp"}
+{"drugbank-id":"APRD00990","manufacturer-id":"Ge healthcare"}
+{"drugbank-id":"APRD01006","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00370","manufacturer-id":"Merck research laboratories div merck co inc"}
+{"drugbank-id":"APRD00234","manufacturer-id":"Baxter healthcare corp anesthesia critical care"}
+{"drugbank-id":"APRD00855","manufacturer-id":"Takeda chemical industries ltd"}
+{"drugbank-id":"APRD01198","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"APRD00676","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01104","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB09367","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD00010","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00693","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00752","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"DB08311","manufacturer-id":"Boehringer ingelheim pharmaceuticals inc"}
+{"drugbank-id":"APRD01154","manufacturer-id":"Altana inc"}
+{"drugbank-id":"APRD00783","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00260","manufacturer-id":"Ortho biotech products lp"}
+{"drugbank-id":"APRD01300","manufacturer-id":"Gilead sciences inc"}
+{"drugbank-id":"DB06396","manufacturer-id":"Warner chilcott pharmaceuticals inc"}
+{"drugbank-id":"APRD00748","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00540","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"APRD00463","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00836","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"DB03778","manufacturer-id":"Allergan pharmaceutical"}
+{"drugbank-id":"APRD00345","manufacturer-id":"Jacobus pharmaceutical co"}
+{"drugbank-id":"APRD00659","manufacturer-id":"Perrigo new york inc"}
+{"drugbank-id":"APRD00241","manufacturer-id":"Warner chilcott div warner lambert co"}
+{"drugbank-id":"APRD01091","manufacturer-id":"Allergan pharmaceutical"}
+{"drugbank-id":"APRD00597","manufacturer-id":"Vintage pharmaceuticals inc"}
+{"drugbank-id":"EXPT01164","manufacturer-id":"Bayer pharmaceuticals corp"}
+{"drugbank-id":"EXPT01049","manufacturer-id":"Lederle laboratories div american cyanamid co"}
+{"drugbank-id":"APRD00244","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00839","manufacturer-id":"Cypress pharmaceutical inc"}
+{"drugbank-id":"APRD00438","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"DB03123","manufacturer-id":"Purdue gmp center llc dba the chao center industrial pharmacy"}
+{"drugbank-id":"APRD00798","manufacturer-id":"Watson laboratories"}
+{"drugbank-id":"APRD00006","manufacturer-id":"Bristol laboratories inc div bristol myers co"}
+{"drugbank-id":"APRD00595","manufacturer-id":"Sola barnes hind"}
+{"drugbank-id":"APRD00208","manufacturer-id":"Teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00211","manufacturer-id":"Summers laboratories inc"}
+{"drugbank-id":"APRD00761","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00851","manufacturer-id":"Tap pharmaceutical products inc"}
+{"drugbank-id":"APRD00302","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00715","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00298","manufacturer-id":"Glaxosmithkline llc"}
+{"drugbank-id":"APRD00913","manufacturer-id":"Isotex diagnostics"}
+{"drugbank-id":"APRD00714","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00237","manufacturer-id":"Upsher smith laboratories inc"}
+{"drugbank-id":"APRD00852","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00223","manufacturer-id":"Daiichi Sankyo"}
+{"drugbank-id":"DB09359","manufacturer-id":"Novartis consumer health inc"}
+{"drugbank-id":"APRD00105","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"APRD01074","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00507","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB05291","manufacturer-id":"Anesiva inc"}
+{"drugbank-id":"APRD01161","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00875","manufacturer-id":"Sandoz inc"}
+{"drugbank-id":"APRD00656","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"APRD00125","manufacturer-id":"Wyeth"}
+{"drugbank-id":"APRD00396","manufacturer-id":"Roche palo alto llc"}
+{"drugbank-id":"APRD01271","manufacturer-id":"Alcon inc"}
+{"drugbank-id":"APRD00788","manufacturer-id":"Astellas pharma us inc"}
+{"drugbank-id":"APRD00614","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"EXPT00718","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00115","manufacturer-id":"Smithkline beecham corp dba glaxosmithkline"}
+{"drugbank-id":"APRD00965","manufacturer-id":"Pharmaforce inc"}
+{"drugbank-id":"APRD00766","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"DB05354","manufacturer-id":"Actavis"}
+{"drugbank-id":"APRD00492","manufacturer-id":"App pharmaceuticals llc"}
+{"drugbank-id":"APRD00247","manufacturer-id":"App pharmaceuticals llc"}
+{"drugbank-id":"APRD00902","manufacturer-id":"Angelini pharmaceuticals inc"}
+{"drugbank-id":"DB01730","manufacturer-id":"Novartis consumer health inc"}
+{"drugbank-id":"DB13426","manufacturer-id":"Gilead Sciences, Inc."}
+{"drugbank-id":"EXPT00508","manufacturer-id":"Ferring pharmaceuticals as"}
+{"drugbank-id":"APRD00952","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00284","manufacturer-id":"Bristol myers co"}
+{"drugbank-id":"APRD01333","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00114","manufacturer-id":"Eisai inc"}
+{"drugbank-id":"APRD01025","manufacturer-id":"Pharmaforce inc"}
+{"drugbank-id":"APRD00127","manufacturer-id":"Monarch pharmaceuticals inc"}
+{"drugbank-id":"DB07727","manufacturer-id":"Allergan pharmaceutical"}
+{"drugbank-id":"APRD01174","manufacturer-id":"Nexgen pharma inc"}
+{"drugbank-id":"APRD00066","manufacturer-id":"Wockhardt eu operations (swiss) ag"}
+{"drugbank-id":"APRD00844","manufacturer-id":"Akorn inc"}
+{"drugbank-id":"APRD00376","manufacturer-id":"Ipr pharmaceuticals inc"}
+{"drugbank-id":"APRD00252","manufacturer-id":"Ranbaxy inc"}
+{"drugbank-id":"DB07998","manufacturer-id":"Astrazeneca uk ltd"}
+{"drugbank-id":"DB09471","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00325","manufacturer-id":"Wyeth pharmaceuticals inc"}
+{"drugbank-id":"DB05743","manufacturer-id":"Paddock laboratories inc"}
+{"drugbank-id":"APRD00227","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00692","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00445","manufacturer-id":"Valeant pharmaceuticals international"}
+{"drugbank-id":"APRD00980","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD01143","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00841","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD01021","manufacturer-id":"Tyco healthcare mallinckrodt"}
+{"drugbank-id":"APRD00109","manufacturer-id":"Bedford laboratories div ben venue laboratories inc"}
+{"drugbank-id":"APRD00957","manufacturer-id":"Sti pharma llc"}
+{"drugbank-id":"APRD01099","manufacturer-id":"Watson laboratories"}
+{"drugbank-id":"APRD00537","manufacturer-id":"Bausch and lomb inc"}
+{"drugbank-id":"APRD00485","manufacturer-id":"The pharmanetwork llc"}
+{"drugbank-id":"APRD00138","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00172","manufacturer-id":"Astrazeneca lp"}
+{"drugbank-id":"APRD00050","manufacturer-id":"Wendt laboratories inc"}
+{"drugbank-id":"APRD01182","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00446","manufacturer-id":"Santarus, Inc."}
+{"drugbank-id":"APRD01206","manufacturer-id":"Mikart inc"}
+{"drugbank-id":"APRD01101","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00630","manufacturer-id":"Unique pharmaceutical laboratories"}
+{"drugbank-id":"APRD00473","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00441","manufacturer-id":"Odyssey pharmaceuticals inc"}
+{"drugbank-id":"APRD00792","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00490","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00315","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD01141","manufacturer-id":"Rare disease therapeutics inc"}
+{"drugbank-id":"DB08225","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01092","manufacturer-id":"Usl pharma inc"}
+{"drugbank-id":"APRD00290","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00739","manufacturer-id":"Pharmaforce inc"}
+{"drugbank-id":"APRD00723","manufacturer-id":"Stuart pharmaceuticals div ici americas"}
+{"drugbank-id":"EXPT00605","manufacturer-id":"App pharmaceuticals llc"}
+{"drugbank-id":"APRD00308","manufacturer-id":"Ferndale laboratories inc"}
+{"drugbank-id":"APRD00592","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00300","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00190","manufacturer-id":"Sandoz inc"}
+{"drugbank-id":"DB02692","manufacturer-id":"Biomarin pharmaceutical inc"}
+{"drugbank-id":"APRD00101","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD01301","manufacturer-id":"Vicuron pharmaceuticals inc"}
+{"drugbank-id":"APRD00470","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD01238","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD01003","manufacturer-id":"Otsuka pharmaceutical co ltd"}
+{"drugbank-id":"APRD00106","manufacturer-id":"Duramed pharmaceuticals inc"}
+{"drugbank-id":"APRD01299","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00148","manufacturer-id":"Gilead sciences inc"}
+{"drugbank-id":"APRD00685","manufacturer-id":"Watson laboratories inc florida"}
+{"drugbank-id":"APRD01095","manufacturer-id":"Halsey drug co inc"}
+{"drugbank-id":"APRD00323","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"DB08625","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01272","manufacturer-id":"United therapeutics corp"}
+{"drugbank-id":"APRD00884","manufacturer-id":"Impax laboratories inc"}
+{"drugbank-id":"APRD00070","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00351","manufacturer-id":"Helsinn healthcare sa"}
+{"drugbank-id":"APRD00941","manufacturer-id":"Solvay pharmaceuticals"}
+{"drugbank-id":"APRD00242","manufacturer-id":"Boehringer ingelheim"}
+{"drugbank-id":"DB02444","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00520","manufacturer-id":"Dr reddys laboratories inc"}
+{"drugbank-id":"APRD00690","manufacturer-id":"Shionogi pharma inc"}
+{"drugbank-id":"APRD00399","manufacturer-id":"Pfizer laboratories div pfizer inc"}
+{"drugbank-id":"APRD00079","manufacturer-id":"Wellspring pharmaceutical corp"}
+{"drugbank-id":"APRD00662","manufacturer-id":"Endo pharmaceutical solutions inc"}
+{"drugbank-id":"APRD00383","manufacturer-id":"Monarch pharmaceuticals inc"}
+{"drugbank-id":"APRD00098","manufacturer-id":"Smithkline beecham corp dba glaxosmithkline"}
+{"drugbank-id":"APRD00729","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00612","manufacturer-id":"Bayer pharmaceuticals corp"}
+{"drugbank-id":"DB11897","manufacturer-id":"Schering corp"}
+{"drugbank-id":"APRD00417","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"APRD00700","manufacturer-id":"Ferring pharmaceuticals inc"}
+{"drugbank-id":"DB07438","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"DB06286","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD01004","manufacturer-id":"Pliva inc"}
+{"drugbank-id":"APRD00635","manufacturer-id":"Shionogi pharma inc"}
+{"drugbank-id":"APRD00431","manufacturer-id":"Sepracor Inc."}
+{"drugbank-id":"APRD00861","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"DB05925","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00770","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"APRD00998","manufacturer-id":"Key pharmaceuticals inc sub schering plough corp"}
+{"drugbank-id":"APRD00803","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00574","manufacturer-id":"Mylan pharmaceuticals inc"}
+{"drugbank-id":"APRD00162","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"DB02487","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD00403","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00156","manufacturer-id":"Boehringer ingelheim"}
+{"drugbank-id":"APRD00773","manufacturer-id":"Eli lilly industries inc"}
+{"drugbank-id":"APRD00320","manufacturer-id":"Apothecon sub bristol myers squibb co"}
+{"drugbank-id":"APRD01318","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"DB08415","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00497","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD01118","manufacturer-id":"Actelion pharmaceuticals ltd"}
+{"drugbank-id":"APRD00358","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD01234","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00657","manufacturer-id":"Ortho-McNeil-Janssen Pharmaceuticals, Inc."}
+{"drugbank-id":"APRD01102","manufacturer-id":"Schwarz pharma inc"}
+{"drugbank-id":"APRD00095","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"APRD00600","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00306","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00209","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00847","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00856","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD01072","manufacturer-id":"Stiefel laboratories inc"}
+{"drugbank-id":"APRD01275","manufacturer-id":"Monarch pharmaceuticals inc"}
+{"drugbank-id":"APRD00624","manufacturer-id":"Cadista pharmaceuticals inc"}
+{"drugbank-id":"APRD00033","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD01142","manufacturer-id":"Ino therapeutics inc"}
+{"drugbank-id":"APRD00666","manufacturer-id":"Apothecon inc div bristol myers squibb"}
+{"drugbank-id":"DB03027","manufacturer-id":"Bioniche pharma usa llc"}
+{"drugbank-id":"APRD00857","manufacturer-id":"Baxter healthcare corp"}
+{"drugbank-id":"APRD00102","manufacturer-id":"Bayer pharmaceuticals corp"}
+{"drugbank-id":"APRD00103","manufacturer-id":"Fsc laboratories inc"}
+{"drugbank-id":"APRD00201","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00948","manufacturer-id":"Bristol myers squibb"}
+{"drugbank-id":"APRD00513","manufacturer-id":"Stat trade inc"}
+{"drugbank-id":"APRD00649","manufacturer-id":"Bristol myers squibb co pharmaceutical research institute"}
+{"drugbank-id":"APRD00361","manufacturer-id":"X gen pharmaceuticals inc"}
+{"drugbank-id":"EXPT00942","manufacturer-id":"Angus chemical co"}
+{"drugbank-id":"APRD01077","manufacturer-id":"King pharmaceuticals inc"}
+{"drugbank-id":"APRD00077","manufacturer-id":"Sandoz inc"}
+{"drugbank-id":"APRD00930","manufacturer-id":"Allergan pharmaceutical"}
+{"drugbank-id":"APRD00939","manufacturer-id":"Akorn inc"}
+{"drugbank-id":"EXPT02993","manufacturer-id":"Jerome stevens pharmaceuticals inc"}
+{"drugbank-id":"APRD00074","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00384","manufacturer-id":"Sandoz inc"}
+{"drugbank-id":"EXPT00946","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00020","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"DB08002","manufacturer-id":"Odyssey pharmaceuticals inc"}
+{"drugbank-id":"APRD00778","manufacturer-id":"Stiefel laboratories inc"}
+{"drugbank-id":"APRD01290","manufacturer-id":"Qlt inc"}
+{"drugbank-id":"APRD01128","manufacturer-id":"Smithkline beecham corp dba glaxosmithkline"}
+{"drugbank-id":"APRD00314","manufacturer-id":"Novartis consumer health inc"}
+{"drugbank-id":"APRD00757","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00575","manufacturer-id":"Elkins sinn div ah robins co inc"}
+{"drugbank-id":"APRD01060","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00947","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00563","manufacturer-id":"Ar holding co inc"}
+{"drugbank-id":"APRD00571","manufacturer-id":"Roxane Laboratories,Inc."}
+{"drugbank-id":"APRD00434","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00530","manufacturer-id":"Warner chilcott inc"}
+{"drugbank-id":"APRD01014","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00058","manufacturer-id":"Jhp pharmaceuticals llc"}
+{"drugbank-id":"APRD00682","manufacturer-id":"Alra laboratories inc"}
+{"drugbank-id":"APRD00060","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00482","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD01219","manufacturer-id":"Impax laboratories inc"}
+{"drugbank-id":"APRD00550","manufacturer-id":"Apothecon inc div bristol myers squibb"}
+{"drugbank-id":"APRD01303","manufacturer-id":"Celgene Corporation"}
+{"drugbank-id":"APRD00400","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00373","manufacturer-id":"Gd searle llc"}
+{"drugbank-id":"APRD00712","manufacturer-id":"Davis and geck div american cyanamid co"}
+{"drugbank-id":"APRD00034","manufacturer-id":"Allergan, Inc"}
+{"drugbank-id":"APRD00916","manufacturer-id":"Apothecon inc div bristol myers squibb"}
+{"drugbank-id":"APRD01127","manufacturer-id":"Meda pharmaceuticals inc"}
+{"drugbank-id":"APRD00652","manufacturer-id":"Eisai inc"}
+{"drugbank-id":"APRD01230","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00222","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01117","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00526","manufacturer-id":"Bristol myers squibb co pharmaceutical research institute"}
+{"drugbank-id":"APRD00854","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00416","manufacturer-id":"Orion corp"}
+{"drugbank-id":"APRD00449","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00903","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00387","manufacturer-id":"Endo Pharmaceuticals"}
+{"drugbank-id":"APRD00166","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00984","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01268","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00568","manufacturer-id":"Wockhardt eu operations (swiss) ag"}
+{"drugbank-id":"APRD00538","manufacturer-id":"Actavis mid atlantic llc"}
+{"drugbank-id":"APRD00312","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"APRD00733","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00286","manufacturer-id":"Lederle laboratories div american cyanamid co"}
+{"drugbank-id":"APRD00558","manufacturer-id":"Romark laboratories"}
+{"drugbank-id":"APRD00911","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD01334","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"EXPT03217","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"DB04134","manufacturer-id":"Mikart inc"}
+{"drugbank-id":"APRD00655","manufacturer-id":"Reckitt benckiser"}
+{"drugbank-id":"APRD00359","manufacturer-id":"Bristol myers co"}
+{"drugbank-id":"APRD00819","manufacturer-id":"Standard homeopathic co"}
+{"drugbank-id":"APRD00800","manufacturer-id":"Endo pharmaceuticals inc"}
+{"drugbank-id":"APRD00782","manufacturer-id":"Glaxosmithkline llc"}
+{"drugbank-id":"APRD01269","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00199","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00195","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"APRD00818","manufacturer-id":"Savage laboratories inc div altana inc"}
+{"drugbank-id":"APRD00017","manufacturer-id":"Eisai inc"}
+{"drugbank-id":"APRD01109","manufacturer-id":"Ucb inc"}
+{"drugbank-id":"APRD00186","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00915","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00669","manufacturer-id":"Clinigen healthcare ltd"}
+{"drugbank-id":"APRD00951","manufacturer-id":"Osi pharmaceuticals inc"}
+{"drugbank-id":"APRD00408","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00512","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00151","manufacturer-id":"Merck research laboratories div merck co inc"}
+{"drugbank-id":"APRD00644","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"EXPT01546","manufacturer-id":"Schering corp"}
+{"drugbank-id":"EXPT00999","manufacturer-id":"Allergan inc"}
+{"drugbank-id":"APRD00993","manufacturer-id":"Mallinckrodt inc"}
+{"drugbank-id":"APRD00391","manufacturer-id":"Gtx inc"}
+{"drugbank-id":"APRD00602","manufacturer-id":"Taro pharmaceutical industries ltd"}
+{"drugbank-id":"APRD00495","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00063","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00142","manufacturer-id":"Lederle laboratories div american cyanamid co"}
+{"drugbank-id":"EXPT03204","manufacturer-id":"Taro pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00380","manufacturer-id":"United states army office surgeon general"}
+{"drugbank-id":"APRD00910","manufacturer-id":"Altana inc"}
+{"drugbank-id":"EXPT00598","manufacturer-id":"Intendis inc"}
+{"drugbank-id":"APRD00377","manufacturer-id":"Astrazeneca uk ltd"}
+{"drugbank-id":"APRD00297","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"EXPT01688","manufacturer-id":"Mission pharmacal co"}
+{"drugbank-id":"APRD00202","manufacturer-id":"Bedford laboratories"}
+{"drugbank-id":"APRD00157","manufacturer-id":"Therakos inc"}
+{"drugbank-id":"APRD01187","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00570","manufacturer-id":"Wockhardt ltd"}
+{"drugbank-id":"APRD01177","manufacturer-id":"Lantheus medical imaging inc"}
+{"drugbank-id":"APRD00688","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00378","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00829","manufacturer-id":"Actelion ltd"}
+{"drugbank-id":"APRD01307","manufacturer-id":"Wyeth pharmaceuticals inc"}
+{"drugbank-id":"APRD00935","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00728","manufacturer-id":"Pfizer laboratories div pfizer inc"}
+{"drugbank-id":"APRD00353","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00337","manufacturer-id":"Warner chilcott div warner lambert co"}
+{"drugbank-id":"APRD00874","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"APRD01236","manufacturer-id":"Ge healthcare"}
+{"drugbank-id":"APRD00250","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"DB11728","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00708","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00194","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"EXPT02427","manufacturer-id":"Mission pharmacal co"}
+{"drugbank-id":"APRD00970","manufacturer-id":"Dista products co div eli lilly and co"}
+{"drugbank-id":"DB07566","manufacturer-id":"Shionogi pharma inc"}
+{"drugbank-id":"APRD00684","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00697","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00846","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD01085","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"DB07576","manufacturer-id":"Gd searle llc"}
+{"drugbank-id":"APRD01063","manufacturer-id":"Nostrum laboratories inc"}
+{"drugbank-id":"APRD00543","manufacturer-id":"Matrix laboratories ltd"}
+{"drugbank-id":"APRD01070","manufacturer-id":"Corepharma llc"}
+{"drugbank-id":"APRD00510","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00706","manufacturer-id":"Wyeth consumer healthcare"}
+{"drugbank-id":"APRD00527","manufacturer-id":"Dexcel ltd"}
+{"drugbank-id":"APRD00065","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00474","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00977","manufacturer-id":"Morton grove pharmaceuticals inc"}
+{"drugbank-id":"DB11514","manufacturer-id":"Impax laboratories inc"}
+{"drugbank-id":"APRD00318","manufacturer-id":"Parke davis pharmaceutical research div warner lambert co"}
+{"drugbank-id":"EXPT00514","manufacturer-id":"Paddock laboratories inc"}
+{"drugbank-id":"APRD00019","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD01010","manufacturer-id":"Perrigo co"}
+{"drugbank-id":"APRD00992","manufacturer-id":"Bracco diagnostics inc"}
+{"drugbank-id":"APRD01062","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00660","manufacturer-id":"Abbott laboratories hosp products div"}
+{"drugbank-id":"APRD01121","manufacturer-id":"Valeant pharmaceuticals international"}
+{"drugbank-id":"DB08769","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD01058","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00627","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00454","manufacturer-id":"Janssen pharmaceutica products lp"}
+{"drugbank-id":"APRD01243","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"EXPT01082","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"DB08269","manufacturer-id":"Baxter healthcare corp"}
+{"drugbank-id":"APRD00468","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00961","manufacturer-id":"Wyeth pharmaceuticals inc"}
+{"drugbank-id":"APRD00555","manufacturer-id":"Gd searle llc"}
+{"drugbank-id":"APRD00835","manufacturer-id":"Bristol myers squibb co pharmaceutical research institute"}
+{"drugbank-id":"APRD00257","manufacturer-id":"Duramed pharmaceuticals inc sub barr laboratories inc"}
+{"drugbank-id":"APRD00796","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00988","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD00094","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00236","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00272","manufacturer-id":"Proter laboratory spa"}
+{"drugbank-id":"DB03261","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00422","manufacturer-id":"Akorn inc"}
+{"drugbank-id":"APRD01151","manufacturer-id":"Upsher smith laboratories inc"}
+{"drugbank-id":"APRD00088","manufacturer-id":"Wockhardt ltd"}
+{"drugbank-id":"APRD00633","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB05275","manufacturer-id":"Solvay Pharmaceuticals, Inc."}
+{"drugbank-id":"DB07709","manufacturer-id":"Bristol myers squibb pharma co"}
+{"drugbank-id":"APRD00816","manufacturer-id":"Paddock laboratories inc"}
+{"drugbank-id":"APRD00536","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00881","manufacturer-id":"Alra laboratories inc"}
+{"drugbank-id":"APRD00487","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00561","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB06189","manufacturer-id":"Genzyme corp"}
+{"drugbank-id":"APRD00933","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD00578","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00452","manufacturer-id":"Bausch and lomb inc"}
+{"drugbank-id":"APRD00340","manufacturer-id":"Whiteworth towne paulsen inc"}
+{"drugbank-id":"APRD00879","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01034","manufacturer-id":"Iso tex diagnostics inc"}
+{"drugbank-id":"APRD00834","manufacturer-id":"Kv pharmaceutical co"}
+{"drugbank-id":"DB06639","manufacturer-id":"Wockhardt ltd"}
+{"drugbank-id":"APRD00104","manufacturer-id":"Merck research laboratories div merck co inc"}
+{"drugbank-id":"EXPT02075","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD01086","manufacturer-id":"Mcneil pediatrics"}
+{"drugbank-id":"APRD01001","manufacturer-id":"Baxter healthcare corp anesthesia critical care"}
+{"drugbank-id":"APRD00940","manufacturer-id":"Astrazeneca lp"}
+{"drugbank-id":"APRD01146","manufacturer-id":"Odyssey pharmaceuticals inc"}
+{"drugbank-id":"APRD00548","manufacturer-id":"Aaipharma llc"}
+{"drugbank-id":"APRD00494","manufacturer-id":"Bristol myers squibb"}
+{"drugbank-id":"APRD00440","manufacturer-id":"Cipla ltd"}
+{"drugbank-id":"APRD00698","manufacturer-id":"Spectrum pharmaceuticals inc"}
+{"drugbank-id":"APRD00769","manufacturer-id":"Meda pharmaceuticals inc"}
+{"drugbank-id":"APRD01173","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD01080","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD01065","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00588","manufacturer-id":"Parkedale pharmaceuticals inc"}
+{"drugbank-id":"APRD00533","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00458","manufacturer-id":"Targacept inc"}
+{"drugbank-id":"APRD01226","manufacturer-id":"Genzyme Corporation"}
+{"drugbank-id":"APRD00661","manufacturer-id":"Forest laboratories inc"}
+{"drugbank-id":"APRD00514","manufacturer-id":"Elan Corporation"}
+{"drugbank-id":"APRD00335","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01277","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00975","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00150","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD01129","manufacturer-id":"Gd searle llc"}
+{"drugbank-id":"EXPT00496","manufacturer-id":"Dentsply pharmaceutical"}
+{"drugbank-id":"APRD00379","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00583","manufacturer-id":"Lupin ltd"}
+{"drugbank-id":"APRD00029","manufacturer-id":"Pfizer laboratories div pfizer inc"}
+{"drugbank-id":"APRD00100","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"EXPT01628","manufacturer-id":"Teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00123","manufacturer-id":"Watson laboratories inc florida"}
+{"drugbank-id":"DB02775","manufacturer-id":"Lannett co inc"}
+{"drugbank-id":"APRD00763","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00052","manufacturer-id":"Merck \u0026 Co., Inc."}
+{"drugbank-id":"APRD00596","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD01124","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD00797","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD00341","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00680","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00582","manufacturer-id":"X gen pharmaceuticals inc"}
+{"drugbank-id":"APRD01281","manufacturer-id":"Pfizer central research"}
+{"drugbank-id":"APRD01175","manufacturer-id":"Ortho mcneil janssen pharmaceuticals inc"}
+{"drugbank-id":"DB02478","manufacturer-id":"Impax laboratories inc"}
+{"drugbank-id":"APRD01602","manufacturer-id":"Apotex inc"}
+{"drugbank-id":"APRD00858","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00983","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD01120","manufacturer-id":"Schwarz pharma inc"}
+{"drugbank-id":"APRD00615","manufacturer-id":"Mcneil consumer healthcare"}
+{"drugbank-id":"DB07777","manufacturer-id":"Alcon inc"}
+{"drugbank-id":"APRD00521","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"DB07799","manufacturer-id":"County line pharmaceuticals llc"}
+{"drugbank-id":"APRD00677","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"APRD00128","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00191","manufacturer-id":"Mylan pharmaceuticals inc"}
+{"drugbank-id":"APRD00707","manufacturer-id":"Gd searle llc"}
+{"drugbank-id":"APRD00605","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD01026","manufacturer-id":"Baxter healthcare corp"}
+{"drugbank-id":"APRD00740","manufacturer-id":"Lederle laboratories div american cyanamid co"}
+{"drugbank-id":"DB05067","manufacturer-id":"Duramed pharmaceuticals inc"}
+{"drugbank-id":"DB08563","manufacturer-id":"Viiv healthcare co"}
+{"drugbank-id":"APRD00036","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00078","manufacturer-id":"Axcan pharma us inc"}
+{"drugbank-id":"DB05563","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00681","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"DB04635","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00918","manufacturer-id":"Lederle laboratories div american cyanamid co"}
+{"drugbank-id":"APRD00753","manufacturer-id":"Allergan pharmaceutical"}
+{"drugbank-id":"APRD01149","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB05816","manufacturer-id":"Ipsen biopharm ltd"}
+{"drugbank-id":"DB00715","manufacturer-id":"Noven therapeutics llc"}
+{"drugbank-id":"APRD01137","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00679","manufacturer-id":"Warner Chilcott"}
+{"drugbank-id":"APRD00781","manufacturer-id":"Gilead sciences inc"}
+{"drugbank-id":"APRD00810","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"DB05342","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00560","manufacturer-id":"Astrazeneca uk ltd"}
+{"drugbank-id":"APRD00062","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"APRD01030","manufacturer-id":"Graceway Pharmaceuticals, LLC"}
+{"drugbank-id":"APRD00153","manufacturer-id":"Pfizer pharmaceuticals ltd"}
+{"drugbank-id":"APRD01221","manufacturer-id":"Schering corp"}
+{"drugbank-id":"APRD00928","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"DB08630","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00593","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD01193","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00187","manufacturer-id":"West ward pharmaceuticals corp"}
+{"drugbank-id":"APRD01131","manufacturer-id":"Merz pharmaceuticals llc"}
+{"drugbank-id":"APRD00363","manufacturer-id":"Astrazeneca lp"}
+{"drugbank-id":"APRD00354","manufacturer-id":"Pfizer inc"}
+{"drugbank-id":"EXPT02625","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01012","manufacturer-id":"Bristol laboratories inc div bristol myers co"}
+{"drugbank-id":"APRD00145","manufacturer-id":"Impax laboratories inc"}
+{"drugbank-id":"DB07886","manufacturer-id":"Ranbaxy laboratories inc"}
+{"drugbank-id":"EXPT02246","manufacturer-id":"Baxter healthcare corp"}
+{"drugbank-id":"APRD00989","manufacturer-id":"Bracco diagnostics inc"}
+{"drugbank-id":"APRD00265","manufacturer-id":"Cornerstone therapeutics inc"}
+{"drugbank-id":"APRD00534","manufacturer-id":"Cephalon, Inc."}
+{"drugbank-id":"APRD00904","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00616","manufacturer-id":"Private formulations inc"}
+{"drugbank-id":"APRD00765","manufacturer-id":"Ortho mcneil pharmaceutical inc"}
+{"drugbank-id":"APRD00067","manufacturer-id":"Ranbaxy laboratories ltd"}
+{"drugbank-id":"APRD00043","manufacturer-id":"Allergan inc"}
+{"drugbank-id":"APRD00645","manufacturer-id":"Par pharmaceutical inc"}
+{"drugbank-id":"APRD00212","manufacturer-id":"Rhodia ltd"}
+{"drugbank-id":"APRD00962","manufacturer-id":"Lundbeck inc"}
+{"drugbank-id":"APRD00362","manufacturer-id":"Ranbaxy Pharmaceuticals Inc."}
+{"drugbank-id":"APRD00722","manufacturer-id":"3m co"}
+{"drugbank-id":"APRD00518","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00444","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00572","manufacturer-id":"Par pharmaceutical inc"}
+{"drugbank-id":"EXPT02153","manufacturer-id":"Astrazeneca uk ltd"}
+{"drugbank-id":"APRD01322","manufacturer-id":"Upsher-Smith Laboratories Inc."}
+{"drugbank-id":"APRD00579","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00002","manufacturer-id":"King pharmaceuticals research and development inc sub king pharmaceuticals inc"}
+{"drugbank-id":"APRD00289","manufacturer-id":"Schering-Plough"}
+{"drugbank-id":"APRD01112","manufacturer-id":"Aton pharma inc"}
+{"drugbank-id":"APRD00820","manufacturer-id":"Roerig div pfizer inc"}
+{"drugbank-id":"APRD00310","manufacturer-id":"Alcon Laboratories, Inc."}
+{"drugbank-id":"APRD01018","manufacturer-id":"Pfizer laboratories div pfizer inc"}
+{"drugbank-id":"APRD00785","manufacturer-id":"Vivus inc"}
+{"drugbank-id":"APRD00737","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD01081","manufacturer-id":"Taro pharmaceuticals north america inc"}
+{"drugbank-id":"APRD00239","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01020","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD00304","manufacturer-id":"Medicure international inc"}
+{"drugbank-id":"APRD01308","manufacturer-id":"Teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00339","manufacturer-id":"Baxter healthcare corp anesthesia critical care"}
+{"drugbank-id":"APRD01133","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00099","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD01190","manufacturer-id":"Paddock laboratories inc"}
+{"drugbank-id":"APRD00177","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00311","manufacturer-id":"Wyeth ayerst laboratories"}
+{"drugbank-id":"APRD00730","manufacturer-id":"Shionogi pharma inc"}
+{"drugbank-id":"APRD00890","manufacturer-id":"Medpointe pharmaceuticals medpointe healthcare inc"}
+{"drugbank-id":"DB05347","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"DB08298","manufacturer-id":"L perrigo co"}
+{"drugbank-id":"APRD00991","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"APRD01178","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00130","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD00689","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01011","manufacturer-id":"Westwood squibb pharmaceuticals inc"}
+{"drugbank-id":"APRD00549","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"DB08518","manufacturer-id":"Superpharm corp"}
+{"drugbank-id":"APRD00420","manufacturer-id":"Astrazeneca pharmaceuticals lp"}
+{"drugbank-id":"APRD00170","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00214","manufacturer-id":"Paco research corp"}
+{"drugbank-id":"APRD01246","manufacturer-id":"Allergan inc"}
+{"drugbank-id":"APRD00969","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD01009","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"APRD00726","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD00886","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00113","manufacturer-id":"Mikart inc"}
+{"drugbank-id":"APRD00121","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00522","manufacturer-id":"Taylor pharmacal co"}
+{"drugbank-id":"APRD01031","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00287","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00725","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"DB01693","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"DB08343","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB05564","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"APRD00529","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00210","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB05893","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"EXPT00604","manufacturer-id":"X gen pharmaceuticals inc"}
+{"drugbank-id":"APRD00071","manufacturer-id":"Eli Lilly and Company"}
+{"drugbank-id":"APRD00849","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00767","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01136","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD00873","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00987","manufacturer-id":"Zambon spa italy"}
+{"drugbank-id":"DB07699","manufacturer-id":"Quantum pharmics ltd"}
+{"drugbank-id":"APRD00262","manufacturer-id":"Boehringer ingelheim pharmaceuticals inc"}
+{"drugbank-id":"DB08616","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00496","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00243","manufacturer-id":"World gen llc"}
+{"drugbank-id":"APRD00432","manufacturer-id":"Danco laboratories llc"}
+{"drugbank-id":"APRD00832","manufacturer-id":"Vitarine pharmaceuticals inc"}
+{"drugbank-id":"APRD00275","manufacturer-id":"Janssen pharmaceutica products lp"}
+{"drugbank-id":"APRD00877","manufacturer-id":"Dow pharmaceutical sciences inc"}
+{"drugbank-id":"APRD01267","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD01023","manufacturer-id":"Aton pharma inc"}
+{"drugbank-id":"APRD00122","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD01152","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00039","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00278","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00982","manufacturer-id":"Alpharma us pharmaceuticals division"}
+{"drugbank-id":"APRD00896","manufacturer-id":"Mylan pharmaceuticals inc"}
+{"drugbank-id":"APRD01067","manufacturer-id":"Janssen pharmaceutica products lp"}
+{"drugbank-id":"APRD00429","manufacturer-id":"Vintage pharmaceuticals inc"}
+{"drugbank-id":"APRD00331","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"APRD00634","manufacturer-id":"Schering plough healthcare products inc"}
+{"drugbank-id":"APRD00557","manufacturer-id":"Barr laboratories inc"}
+{"drugbank-id":"APRD00764","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"DB05277","manufacturer-id":"Dusa pharmaceuticals inc"}
+{"drugbank-id":"APRD00867","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00508","manufacturer-id":"Wockhardt ltd"}
+{"drugbank-id":"APRD00938","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD01171","manufacturer-id":"Meda pharmaceuticals inc"}
+{"drugbank-id":"APRD00197","manufacturer-id":"Pharmaceutical assoc inc"}
+{"drugbank-id":"DB06895","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00699","manufacturer-id":"Bayer healthcare pharmaceuticals inc"}
+{"drugbank-id":"APRD00254","manufacturer-id":"Boehringer ingelheim"}
+{"drugbank-id":"EXPT01437","manufacturer-id":"Astellas Pharma US"}
+{"drugbank-id":"APRD00759","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00541","manufacturer-id":"Astrazeneca lp"}
+{"drugbank-id":"APRD00629","manufacturer-id":"Forest laboratories inc"}
+{"drugbank-id":"DB04507","manufacturer-id":"Merck research laboratories div merck co inc"}
+{"drugbank-id":"APRD00230","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD00589","manufacturer-id":"Lannett holdings inc"}
+{"drugbank-id":"APRD01302","manufacturer-id":"Astellas pharma us inc"}
+{"drugbank-id":"APRD01078","manufacturer-id":"Pharmos corp"}
+{"drugbank-id":"APRD01005","manufacturer-id":"Reckitt benckiser inc"}
+{"drugbank-id":"APRD00950","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"DB02439","manufacturer-id":"Wyeth pharmaceuticals inc"}
+{"drugbank-id":"APRD00545","manufacturer-id":"Dexcel pharma technologies ltd"}
+{"drugbank-id":"APRD00226","manufacturer-id":"Gilead sciences inc"}
+{"drugbank-id":"APRD00721","manufacturer-id":"App pharmaceuticals llc"}
+{"drugbank-id":"APRD00523","manufacturer-id":"Watson laboratories inc florida"}
+{"drugbank-id":"APRD00880","manufacturer-id":"Emd serono inc"}
+{"drugbank-id":"APRD00455","manufacturer-id":"West ward inc"}
+{"drugbank-id":"DB02782","manufacturer-id":"Procter \u0026 Gamble"}
+{"drugbank-id":"APRD00394","manufacturer-id":"Santen inc"}
+{"drugbank-id":"APRD00294","manufacturer-id":"Sandoz inc"}
+{"drugbank-id":"APRD00249","manufacturer-id":"Lundbeck inc"}
+{"drugbank-id":"APRD01002","manufacturer-id":"Teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00917","manufacturer-id":"Solvay pharmaceuticals"}
+{"drugbank-id":"APRD00491","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00817","manufacturer-id":"Sola barnes hind"}
+{"drugbank-id":"APRD01053","manufacturer-id":"New river pharmaceuticals inc"}
+{"drugbank-id":"APRD00640","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD00822","manufacturer-id":"Allerquest llc"}
+{"drugbank-id":"APRD01220","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD00313","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00738","manufacturer-id":"Miles laboratories inc"}
+{"drugbank-id":"APRD01216","manufacturer-id":"Bioniche teoranta"}
+{"drugbank-id":"DB02392","manufacturer-id":"Bristol myers squibb co pharmaceutical research institute"}
+{"drugbank-id":"APRD00827","manufacturer-id":"Sanofi aventis us llc"}
+{"drugbank-id":"APRD00713","manufacturer-id":"Alpharma us pharmaceuticals division"}
+{"drugbank-id":"APRD00251","manufacturer-id":"Aton pharma inc"}
+{"drugbank-id":"APRD00481","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"DB06863","manufacturer-id":"Allergan inc"}
+{"drugbank-id":"APRD00344","manufacturer-id":"Cephalon inc"}
+{"drugbank-id":"APRD00136","manufacturer-id":"Schering corp"}
+{"drugbank-id":"APRD00004","manufacturer-id":"Zydus pharmaceuticals usa inc"}
+{"drugbank-id":"APRD01165","manufacturer-id":"Abbott laboratories"}
+{"drugbank-id":"APRD01260","manufacturer-id":"Mission pharmacal co"}
+{"drugbank-id":"APRD00439","manufacturer-id":"Novo Nordisk Inc."}
+{"drugbank-id":"APRD00741","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00787","manufacturer-id":"Wockhardt eu operations (swiss) ag"}
+{"drugbank-id":"APRD00631","manufacturer-id":"Savage laboratories inc div altana inc"}
+{"drugbank-id":"APRD00927","manufacturer-id":"Controlled therapeutics (scotland) ltd"}
+{"drugbank-id":"APRD00169","manufacturer-id":"Ortho mcneil janssen pharmaceuticals inc"}
+{"drugbank-id":"APRD01232","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD01061","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00670","manufacturer-id":"Roxane laboratories inc"}
+{"drugbank-id":"APRD00853","manufacturer-id":"Bristol laboratories inc div bristol myers co"}
+{"drugbank-id":"APRD00213","manufacturer-id":"Mcneil pediatrics"}
+{"drugbank-id":"APRD00651","manufacturer-id":"Wellspring pharmaceutical corp"}
+{"drugbank-id":"APRD00966","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"APRD00296","manufacturer-id":"Wockhardt americas inc"}
+{"drugbank-id":"APRD00809","manufacturer-id":"Celgene corp"}
+{"drugbank-id":"DB05379","manufacturer-id":"Ivax pharmaceuticals inc sub teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00883","manufacturer-id":"Daiichi sankyo inc"}
+{"drugbank-id":"APRD00137","manufacturer-id":"Medpointe pharmaceuticals medpointe healthcare inc"}
+{"drugbank-id":"APRD01306","manufacturer-id":"Boehringer ingelheim pharmaceuticals inc"}
+{"drugbank-id":"APRD00610","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00747","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD01158","manufacturer-id":"Johnson and johnson group consumer companies"}
+{"drugbank-id":"APRD00919","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00277","manufacturer-id":"Glaxo group ltd dba glaxosmithkline"}
+{"drugbank-id":"APRD01090","manufacturer-id":"Parke davis div warner lambert co"}
+{"drugbank-id":"APRD00751","manufacturer-id":"Shire development inc"}
+{"drugbank-id":"APRD01013","manufacturer-id":"Medpointe pharmaceuticals medpointe healthcare inc"}
+{"drugbank-id":"APRD00731","manufacturer-id":"Eli lilly and co"}
+{"drugbank-id":"APRD00562","manufacturer-id":"Hoffmann la roche inc"}
+{"drugbank-id":"EXPT00475","manufacturer-id":"Bayer healthcare llc"}
+{"drugbank-id":"APRD00228","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"APRD00654","manufacturer-id":"Astrazeneca pharmaceuticals lp"}
+{"drugbank-id":"APRD01113","manufacturer-id":"Bayer pharmaceuticals corp"}
+{"drugbank-id":"APRD00505","manufacturer-id":"Meda pharmaceuticals inc"}
+{"drugbank-id":"APRD00349","manufacturer-id":"Sanofi-Aventis"}
+{"drugbank-id":"EXPT01940","manufacturer-id":"Everylife"}
+{"drugbank-id":"APRD00220","manufacturer-id":"Teva pharmaceuticals usa"}
+{"drugbank-id":"APRD00008","manufacturer-id":"Merck and co inc"}
+{"drugbank-id":"APRD00931","manufacturer-id":"Lilly research laboratories"}
+{"drugbank-id":"APRD00232","manufacturer-id":"Schering corp sub schering plough corp"}
+{"drugbank-id":"APRD00466","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD00342","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00678","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD01094","manufacturer-id":"Deproco inc"}
+{"drugbank-id":"APRD00411","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00831","manufacturer-id":"Ista pharmaceuticals"}
+{"drugbank-id":"APRD00012","manufacturer-id":"Alcon laboratories inc"}
+{"drugbank-id":"APRD00960","manufacturer-id":"Guerbet llc"}
+{"drugbank-id":"APRD01247","manufacturer-id":"Boehringer ingelheim"}
+{"drugbank-id":"APRD00324","manufacturer-id":"Orchid healthcare"}
+{"drugbank-id":"APRD00580","manufacturer-id":"Prometheus laboratories inc"}
+{"drugbank-id":"APRD00124","manufacturer-id":"Bedford laboratories div ben venue laboratories inc"}
+{"drugbank-id":"APRD01323","manufacturer-id":"Chattem inc"}
+{"drugbank-id":"APRD00813","manufacturer-id":"Meda pharmaceuticals"}
+{"drugbank-id":"APRD00619","manufacturer-id":"Msp singapore co llc"}
+{"drugbank-id":"APRD01327","manufacturer-id":"3m pharmaceuticals inc"}
+{"drugbank-id":"APRD00360","manufacturer-id":"Boehringer Ingelheim Pharmaceuticals, Inc"}
+{"drugbank-id":"APRD00691","manufacturer-id":"Organon usa inc"}
+{"drugbank-id":"APRD01076","manufacturer-id":"Pharmacia corp"}
+{"drugbank-id":"APRD00893","manufacturer-id":"Pharmafair inc"}
+{"drugbank-id":"APRD01213","manufacturer-id":"Takeda global research development center inc"}
+{"drugbank-id":"APRD00641","manufacturer-id":"Dey pharma lp"}
+{"drugbank-id":"APRD00134","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00924","manufacturer-id":"Nexgen pharma inc"}
+{"drugbank-id":"DB06583","manufacturer-id":"West ward pharmaceutical corp"}
+{"drugbank-id":"APRD00499","manufacturer-id":"Teva parenteral medicines inc"}
+{"drugbank-id":"APRD00085","manufacturer-id":"Baxter healthcare corp"}
+{"drugbank-id":"APRD00321","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"APRD00144","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00030","manufacturer-id":"Watson laboratories"}
+{"drugbank-id":"APRD01105","manufacturer-id":"Galderma laboratories lp"}
+{"drugbank-id":"APRD00811","manufacturer-id":"Bedford laboratories div ben venue laboratories inc"}
+{"drugbank-id":"APRD00013","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00808","manufacturer-id":"Prometheus laboratories inc"}
+{"drugbank-id":"APRD00015","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"DB05847","manufacturer-id":"Bristol myers squibb co"}
+{"drugbank-id":"APRD00270","manufacturer-id":"Endo pharmaceuticals inc"}
+{"drugbank-id":"APRD00092","manufacturer-id":"Abbott laboratories pharmaceutical products div"}
+{"drugbank-id":"APRD00892","manufacturer-id":"Teva pharmaceuticals usa inc"}
+{"drugbank-id":"APRD00553","manufacturer-id":"Teva Pharmaceuticals"}
+{"drugbank-id":"APRD00110","manufacturer-id":"Purdue pharma lp"}
+{"drugbank-id":"APRD00336","manufacturer-id":"Blacksmith brands inc"}
+{"drugbank-id":"EXPT01540","manufacturer-id":"Bedford laboratories div ben venue laboratories inc"}
+{"drugbank-id":"APRD00023","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"APRD01066","manufacturer-id":"Mylan pharmaceuticals inc"}
+{"drugbank-id":"APRD01262","manufacturer-id":"Novartis consumer health inc"}
+{"drugbank-id":"APRD00664","manufacturer-id":"Glaxosmithkline"}
+{"drugbank-id":"DB05335","manufacturer-id":"Wyeth consumer healthcare"}
+{"drugbank-id":"APRD00944","manufacturer-id":"Valeant pharmaceuticals international"}
+{"drugbank-id":"EXPT02271","manufacturer-id":"Novartis pharmaceuticals corp"}
+{"drugbank-id":"APRD00872","manufacturer-id":"Amgen inc"}
+{"drugbank-id":"APRD00876","manufacturer-id":"Galderma laboratories lp"}
+{"drugbank-id":"APRD00141","manufacturer-id":"Salix pharmaceuticals inc"}
+{"drugbank-id":"APRD00076","manufacturer-id":"Shionogi usa inc"}
+{"drugbank-id":"APRD00233","manufacturer-id":"Pharmacia and upjohn co"}
+{"drugbank-id":"APRD00547","manufacturer-id":"Medicis Pharmaceutical Corporation"}
+{"drugbank-id":"APRD00075","manufacturer-id":"Promius pharma llc"}
+{"drugbank-id":"APRD00051","manufacturer-id":"Glenwood inc"}
+{"drugbank-id":"APRD00528","manufacturer-id":"Schwarz gmbh"}
+{"drugbank-id":"APRD00031","manufacturer-id":"Watson laboratories inc"}
+{"drugbank-id":"DB09528","manufacturer-id":"Hospira inc"}
+{"drugbank-id":"DB00667","manufacturer-id":"Eli lilly and co"}
