@@ -1,3 +1,4 @@
+// Package main parses the drugbank dataset xml file
 package main
 
 // TODO
@@ -16,15 +17,77 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"path/filepath"
 	"strings"
 	"time"
+
+	"github.com/docopt/docopt-go"
 
 	"github.com/schollz/progressbar"
 )
 
+var version = "0.1"
+
 func main() {
+	usage := `Drugbank parser.
+
+	Usage:
+		drugbank parse <path> <outputdir>
+		drugbank process <path> <outputdir> <host> [--password=<password> | --user=<user>]
+	  	drugbank -h | --help
+	  	drugbank --version
+	
+	Options:
+		--password=<password>		Password for Tigergraph instance.
+		--user=<user> 			Username for Tigergraph instance.
+	  	-h --help     			Show this screen.
+	  	--version    	 		Show version.`
+
+	arguments, _ := docopt.ParseArgs(usage, os.Args[1:], version)
 	defer TimeTrack("main", time.Now())
-	xmlFile, err := os.Open("drugbank.xml")
+
+	if p, _ := arguments.Bool("parse"); p {
+		path, _ := arguments.String("<path>")
+		outputdir, _ := arguments.String("<outputdir>")
+		fmt.Printf("Parsing %s to %s\n", path, outputdir)
+		parse(path, outputdir)
+		fmt.Println("Done.")
+		os.Exit(0)
+	}
+
+	if p, _ := arguments.Bool("process"); p {
+		path, _ := arguments.String("<path>")
+		outputdir, _ := arguments.String("<outputdir>")
+		host, _ := arguments.String("<host>")
+		fmt.Printf("Parsing %s to %s...\n", path, outputdir)
+		// parse(path, outputdir)
+		fmt.Println("Done parsing")
+		fmt.Printf("Uploading data to %s...\n", host)
+		upload(outputdir)
+		os.Exit(0)
+	}
+}
+
+func upload(directory string) {
+	defer TimeTrack("upload", time.Now())
+	files, _ := filepath.Glob(filepath.Join(directory, "*.json"))
+
+	fmt.Println("Uploading nodes...")
+	for _, file := range files {
+		contents, _ := ioutil.ReadFile(file)
+		fmt.Println(string(contents))
+
+		break
+	}
+	fmt.Println("Uploading edges...")
+	// for _, file := range files {
+
+	// }
+}
+
+func parse(path, outputdir string) {
+	defer TimeTrack("parse", time.Now())
+	xmlFile, err := os.Open(path)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -136,7 +199,19 @@ func main() {
 					if ok {
 						continue
 					}
-					jsonReaction, _ := json.Marshal(reaction)
+					jsonReaction, _ := json.Marshal(struct {
+						Sequence  string `json:"sequence"`
+						LeftID    string `json:"left-id"`
+						LeftName  string `json:"left-name"`
+						RightID   string `json:"right-id"`
+						RightName string `json:"right-name"`
+					}{
+						reaction.Sequence,
+						reaction.Left.ID,
+						reaction.Left.Name,
+						reaction.Right.ID,
+						reaction.Right.Name,
+					})
 					jsonReactions = append(jsonReactions, jsonReaction)
 				}
 
@@ -459,51 +534,45 @@ func main() {
 					})
 					jsonExtID = append(jsonExtID, jsonID)
 				}
-
-				// target  TODO???
-				// pathway  TODO ???
-				// salt   TODO ???
-				// brand  TODO ???
-				// carrier TODO ???
 			}
 		}
 		count++
 		bar.Add(1)
-
-		// if count%50 == 0 {
-		// 	break
-		// }
 	}
 	fmt.Println()
 
-	ioutil.WriteFile("json/drugs.json", bytes.Join(jsonDrugs, []byte("\n")), 0644)
-	ioutil.WriteFile("json/classifications.json", bytes.Join(jsonClassifications, []byte("\n")), 0644)
-	ioutil.WriteFile("json/manufacturers.json", bytes.Join(jsonManufacturers, []byte("\n")), 0644)
-	ioutil.WriteFile("json/drugs-manufacturers-join.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
-	ioutil.WriteFile("json/products.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
-	ioutil.WriteFile("json/drugs-products-join.json", bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
-	ioutil.WriteFile("json/reactions.json", bytes.Join(jsonReactions, []byte("\n")), 0644)
-	ioutil.WriteFile("json/adverse-reactions.json", bytes.Join(jsonReactions, []byte("\n")), 0644)
-	ioutil.WriteFile("json/snp-effects.json", bytes.Join(jsonSNPEffects, []byte("\n")), 0644)
-	ioutil.WriteFile("json/groups.json", bytes.Join(jsonGroups, []byte("\n")), 0644)
-	ioutil.WriteFile("json/articles.json", bytes.Join(jsonArticles, []byte("\n")), 0644)
-	ioutil.WriteFile("json/books.json", bytes.Join(jsonBooks, []byte("\n")), 0644)
-	ioutil.WriteFile("json/links.json", bytes.Join(jsonLinks, []byte("\n")), 0644)
-	ioutil.WriteFile("json/synonyms.json", bytes.Join(jsonSynonyms, []byte("\n")), 0644)
-	ioutil.WriteFile("json/mixtures.json", bytes.Join(jsonMixtures, []byte("\n")), 0644)
-	ioutil.WriteFile("json/packagers.json", bytes.Join(jsonPackagers, []byte("\n")), 0644)
-	ioutil.WriteFile("json/prices.json", bytes.Join(jsonPrices, []byte("\n")), 0644)
-	ioutil.WriteFile("json/categories.json", bytes.Join(jsonCategories, []byte("\n")), 0644)
-	ioutil.WriteFile("json/organisms.json", bytes.Join(jsonOrganisms, []byte("\n")), 0644)
-	ioutil.WriteFile("json/atc_codes.json", bytes.Join(jsonATCCodes, []byte("\n")), 0644)
-	ioutil.WriteFile("json/atc_levels.json", bytes.Join(jsonATCLevels, []byte("\n")), 0644)
-	ioutil.WriteFile("json/dosages.json", bytes.Join(jsonDosages, []byte("\n")), 0644)
-	ioutil.WriteFile("json/patents.json", bytes.Join(jsonPatents, []byte("\n")), 0644)
-	ioutil.WriteFile("json/drug_interactions.json", bytes.Join(jsonDrugInteractions, []byte("\n")), 0644)
-	ioutil.WriteFile("json/food_interactions.json", bytes.Join(jsonFoodInteractions, []byte("\n")), 0644)
-	ioutil.WriteFile("json/experimental_properties.json", bytes.Join(jsonProperties, []byte("\n")), 0644)
-	ioutil.WriteFile("json/external_links.json", bytes.Join(jsonExtLinks, []byte("\n")), 0644)
-	ioutil.WriteFile("json/external_identifiers.json", bytes.Join(jsonExtID, []byte("\n")), 0644)
+	err = os.MkdirAll(outputdir, 0770)
+	if err != nil {
+		log.Fatal(err)
+	}
+	ioutil.WriteFile(filepath.Join(outputdir, "drugs.json"), bytes.Join(jsonDrugs, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "classifications.json"), bytes.Join(jsonClassifications, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "manufacturers.json"), bytes.Join(jsonManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "drugs-manufacturers-join.json"), bytes.Join(jsonDrugManufacturers, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "products.json"), bytes.Join(jsonProducts, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "drugs-products-join.json"), bytes.Join(jsonDrugProducts, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "reactions.json"), bytes.Join(jsonReactions, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "adverse-reactions.json"), bytes.Join(jsonReactions, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "snp-effects.json"), bytes.Join(jsonSNPEffects, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "groups.json"), bytes.Join(jsonGroups, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "articles.json"), bytes.Join(jsonArticles, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "books.json"), bytes.Join(jsonBooks, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "links.json"), bytes.Join(jsonLinks, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "synonyms.json"), bytes.Join(jsonSynonyms, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "mixtures.json"), bytes.Join(jsonMixtures, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "packagers.json"), bytes.Join(jsonPackagers, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "prices.json"), bytes.Join(jsonPrices, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "categories.json"), bytes.Join(jsonCategories, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "organisms.json"), bytes.Join(jsonOrganisms, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "atc_codes.json"), bytes.Join(jsonATCCodes, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "atc_levels.json"), bytes.Join(jsonATCLevels, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "dosages.json"), bytes.Join(jsonDosages, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "patents.json"), bytes.Join(jsonPatents, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "drug_interactions.json"), bytes.Join(jsonDrugInteractions, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "food_interactions.json"), bytes.Join(jsonFoodInteractions, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "experimental_properties.json"), bytes.Join(jsonProperties, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "external_links.json"), bytes.Join(jsonExtLinks, []byte("\n")), 0644)
+	ioutil.WriteFile(filepath.Join(outputdir, "external_identifiers.json"), bytes.Join(jsonExtID, []byte("\n")), 0644)
 }
 
 // getDrugsNumber counts the number of opening drug tags
