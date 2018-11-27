@@ -1,0 +1,3007 @@
+drugbank-id,form,route,strength
+BIOD00024,"Powder, for solution",Intravenous,50 mg
+BIOD00071,Solution,Intravenous,2 mg/mL
+BIOD00001,Solution,Respiratory (inhalation),1 mg
+BIOD00084,"Injection, solution",Intravenous,150 ug/mL
+BIOD00052,Solution,Subcutaneous,25 mg
+DB02351,Injection,Intravenous,500 mg/100mL
+BIOD00009,"Injection, powder, for suspension, extended release; kit",Intramuscular,5.06 mg
+BIOD00043,Solution; tablet,Oral; Subcutaneous,
+BIOD00050,"Powder, for solution",Intravenous,
+DB00084,Liquid,Intramuscular; Subcutaneous,3000000 unit
+BIOD00032,Solution,Intravenous; Subcutaneous,60 mcg
+BIOD00030,"Powder, for solution",Intravenous,5000 unit
+BIOD00113,Implant,Subcutaneous,10.8 mg
+BIOD00013,"Powder, for solution",Intravenous,10.4 unit
+DB08923,"Injection, solution",Intravenous; Subcutaneous,3000 IU/0.9ml
+BIOD00025,Liquid,Nasal,200 unit
+BIOD00023,Injection,Subcutaneous,5000000 [arb'U]/mL
+BIOD00094,"Injection, solution",Subcutaneous,6 mg
+BIOD00035,Liquid,Intravenous; Subcutaneous,500 ug/mL
+BIOD00039,"Powder, for solution",Intravenous,75 unit
+BIOD00048,"Powder, for solution",Subcutaneous,74 mcg
+BIOD00011,"Injection, powder, for solution",Intravenous,10000 U
+BIOD00020,"Powder, for solution",Intramuscular,0.9 mg
+DBSALT002413,Kit,,
+BIOD00060,Solution,Subcutaneous,150 mg
+BIOD00036,Ointment,Topical,
+BIOD00091,Liquid,Intramuscular; Intravenous,600 [iU]/mL
+BIOD00102,"Powder, for solution",Intravenous,30 unit
+DB08914,Liquid,Intramuscular; Intravenous; Subcutaneous,100 unit
+BIOD00019,"Powder, for solution",Intravenous,50 mg
+BIOD00018,"Powder, for solution",Intramuscular; Subcutaneous,75 unit
+BIOD00017,"Injection, solution",Subcutaneous,100 ug/.5mL
+DB00037,Solution,Intramuscular; Subcutaneous,36000000 unit
+BIOD00061,"Spray, metered",Nasal,1.5 mg/mL
+BIOD00006,Kit,,
+BIOD00021,Kit,,
+BIOD00042,"Powder, for solution",Intravenous,6.25 mg
+BIOD00057,"Powder, for solution",Intramuscular; Intravenous; Subcutaneous,1 mg
+BIOD00082,"Powder, for solution",Intravenous,22000000 unit
+BIOD00070,Solution,Intramuscular,5000 unit
+BIOD00081,Solution,Subcutaneous,75 mg
+BIOD00056,Solution,Subcutaneous,
+DB01310,Liquid,Intramuscular; Intravenous; Subcutaneous,100 unit
+DB01308,Solution,Subcutaneous,300 unit
+DB11249,"Injection, powder, for solution",Intralesional,0.9 mg
+BIOD00090,"Powder, for solution",Intravenous,7.5 mg
+BIOD00115,"Powder, for solution",Subcutaneous,3 mg
+BIOD00049,Solution,Subcutaneous,80 mg
+DB06417,Kit,Subcutaneous,
+BIOD00026,"Powder, for solution",Intravenous,400 unit
+BIOD00041,Solution,Intravenous,2 mg
+BIOD00068,"Powder, for solution",Intravenous,5 mg
+BIOD00077,"Injection, powder, lyophilized, for solution",Intravenous,5 mg/5mL
+BIOD00002,"Kit; powder, for solution",Intravenous,1000 mg
+BIOD00079,Solution,Intramuscular; Intravenous,750 unit
+BIOD00093,Kit,Subcutaneous,
+BIOD00100,"Injection, solution",Intramuscular,250 [iU]/mL
+DB00064,Solution,Intravenous,0.03 %
+BIOD00063,Solution,Intravenous,2 mg
+BIOD00004,"Injection, powder, lyophilized, for solution",Intravenous,100 mg/1
+DB09024,Solution,Subcutaneous,72 mcg
+DB09392,Injection,Intravenous,20 [USP'U]/mL
+BIOD00078,"Injection, powder, for solution",Subcutaneous,250 μg/ml
+BIOD00062,Solution,Subcutaneous,0.03 mg
+BIOD00022,Liquid,Infiltration; Subcutaneous,150 unit
+BIOD00031,Solution,Intramuscular; Intravenous; Subcutaneous,100 unit
+BIOD00098,"Kit; powder, for solution; solution",Intravenous,
+BIOD00014,Solution,Subcutaneous,1600 mg
+BIOD00073,"Powder, for solution",Intravenous,20 mg
+BIOD00005,Solution,Intravenous,1 mg
+BIOD00027,"Powder, for solution",Intravenous,40 mg
+BIOD00069,Kit,Intravenous,1.6 mg/ml
+BIOD00111,"Injection, powder, lyophilized, for solution",Intravenous,500 mg/10mL
+DB09557,Kit; solution,Intravenous,14 mg
+BIOD00044,"Kit; powder, for solution",Subcutaneous,30 mg
+BIOD00092,"Powder, for solution",Intramuscular,50 unit
+DB05356,Tablet,Oral,150 mg
+BIOD00028,"Powder, for solution",Intravenous,750000 unit
+BIOD00109,Solution,Intravenous,30 mg
+BIOD00080,Kit,,
+BIOD00008,Solution,Intravenous,0.58 mg
+BIOD00003,Liquid,Oral,100 mg
+BIOD00055,"Powder, for solution",Intramuscular,15 mg
+BIOD00104,"Powder, for solution",Intramuscular,
+BIOD00074,"Powder, for solution",Subcutaneous,150 mg
+BIOD00034,"Injection, solution",Subcutaneous,250 micrograms/0.5ml
+BIOD00040,"Powder, for solution",Intravenous,25 mg
+DB09560,"Injection, solution",Intravenous; Subcutaneous,12000000 [units of filgrastim]/0.2mL
+BIOD00038,"Kit; powder, for solution",Intravenous,3000 unit
+BIOD00053,Gel,Topical,100 mcg
+BIOD00075,Solution,Intravenous,1 mg
+BIOD00088,Kit,,
+DB05600,Capsule; kit; liquid,Oral; Subcutaneous,
+BIOD00016,Injection,Intravenous,10 [iU]/mL
+BIOD00083,Solution,Intravenous,300 mg
+BIOD00106,"Powder, for solution",Subcutaneous,108 mg
+BIOD00097,Solution,Intramuscular,50 mg
+BIOD00007,Solution,Subcutaneous,150 mg
+BIOD00087,Solution,Intravenous,25 mg
+NUTR00045,"Capsule, gelatin coated",Oral,
+EXPT00965,Tablet,Oral,3 mcg
+NUTR00030,Kit,,
+DB11194,Solution,Extracorporeal,
+NUTR00044,Solution,Intravenous,
+NUTR00019,Liquid,Oral,
+NUTR00020,"Tablet, coated",Oral,
+DB11101,Solution,Intravenous,
+NUTR00014,Solution,Intravenous,
+DB11317,Lozenge,Oral,
+EXPT01823,Solution,Intravenous,
+NUTR00043,Liquid,Intravenous,
+NUTR00026,"Powder, for solution",Oral,5 g/1
+NUTR00034,Capsule,Oral,
+DB03375,Solution,Intravenous,
+NUTR00038,Solution,Intravenous,
+NUTR00059,Solution,Intravenous,
+DB05314,Ointment,Topical,3 mcg
+DB11138,"Capsule, gelatin coated",Oral,
+NUTR00023,Powder,Topical,
+NUTR00054,Tablet,Oral,
+DB09358,Tablet,Oral,4 mg
+NUTR00027,Solution,Intravenous,
+EXPT01650,Kit,,
+NUTR00048,"Capsule, delayed release pellets",Oral,
+NUTR00028,Solution,Intravenous,
+APRD00428,"Capsule, extended release",Oral,30 ug/1
+NUTR00033,Solution,Intravenous,
+EXPT02064,Tablet,Oral,750 mg
+DB09485,Solution,Intravenous,
+EXPT03222,Tablet,Oral,2 mg
+APRD00426,Liquid,Oral,
+NUTR00021,Injection,Intramuscular,
+NUTR00057,Solution,Intravenous,
+DB03527,Capsule,Oral,
+NUTR00025,Capsule,Oral,
+NUTR00024,"Capsule, gelatin coated",Oral,
+NUTR00013,Solution,Intravenous,
+NUTR00060,Solution,Intravenous,
+APRD00486,Tablet,Oral,2000 unit
+EXPT03227,Capsule,Oral,
+APRD00204,Lozenge,Oral,
+NUTR00035,"Capsule, gelatin coated",Oral,
+NUTR00031,Solution,Intravenous,
+APRD00506,Capsule,Oral,
+NUTR00047,Solution,Intravenous,
+EXPT00520,Solution,Unknown,
+APRD00328,Tablet,Oral,80 mg/1
+APRD00425,"Capsule, extended release",Oral,150 mg/1
+APRD00133,"Tablet, film coated",Oral,80 mg/1
+APRD00009,Tablet,Oral,5 mg
+APRD00976,Solution; spray,Nasal,25 mcg
+APRD00551,Tablet,Oral,20 mg
+APRD00480,Tablet,Oral,5 mg/1
+APRD01172,Liquid,Intramuscular; Intravenous; Subcutaneous,.25 mg
+DB11303,"Patch, extended release",Topical,7 mg/24h
+APRD00224,Capsule,Oral,30 mg/1
+APRD00116,Tablet,Oral,.5 mg
+APRD00954,"Injection, solution",Intravenous,100 mg/10mL
+DB07475,"Powder, for solution",Intravenous; Subcutaneous,3.5 mg
+APRD00958,Capsule,Oral,750 mg
+APRD00160,"Tablet, extended release",Oral,
+APRD00093,"Tablet, orally disintegrating",Oral,37.5 mg/1
+APRD00028,"Tablet, extended release",Oral,75 mg
+APRD00245,Solution,Ophthalmic,0.5 %
+APRD00327,Tablet,Oral,150 mg
+APRD01148,"Powder, for suspension",Oral,12 mg
+APRD00953,Lotion; swab,Topical,
+APRD01022,"Injection, solution",Intramuscular,1000 ug/mL
+APRD00673,Liquid,Oral,50 mg
+APRD00159,Solution,Intravenous,20 mg
+APRD00556,"Tablet, orally disintegrating",Oral,25 mg
+APRD00367,Capsule,Oral,.5 mg/1
+APRD00599,Capsule,Oral,
+APRD00472,Tablet,Oral,0.25 mg
+APRD00397,"Granule, for suspension, extended release",Oral,2 g
+APRD01257,"Tablet, film coated",Oral,250 mg/1
+APRD00393,"Capsule, extended release",Oral,60 mg/1
+APRD00780,Gel,Topical,.1 g/100g
+APRD01116,Tablet,Oral,5 mg/1
+APRD00073,"Injection, powder, for solution",Intravenous,40 mg/10mL
+APRD00217,"Injection, solution",Intravenous,10 mg/mL
+APRD00147,Kit,,
+APRD00945,"Tablet, film coated",Oral,40 mg/1
+APRD00281,Solution / drops,Ophthalmic,5 mg/mL
+APRD00003,Powder,Oral,50 mg
+APRD00381,Tablet,Oral,3 mg
+APRD00921,Cream,Topical,5 mg/g
+APRD00069,Capsule,Oral,400 mg
+APRD00990,Liquid,Intravenous,287 mg
+APRD00370,Tablet,Oral,40 mg/1
+APRD00234,Liquid,Respiratory (inhalation),100 %
+APRD01198,"Tablet, film coated, extended release",Oral,82.5 mg/1
+APRD00676,Capsule,Oral,7.5 mg/1
+APRD01104,Tablet,Oral,5 mg/1
+DB09367,"Granule, delayed release",Oral,4 g/1
+APRD00010,Solution,Intravenous,1 mg
+APRD00752,Tablet,Oral,30 mg
+DB08311,"Tablet, extended release",Oral,400 mg
+APRD01154,Lotion,Topical,10 mg
+APRD00783,Ointment,Topical,.5 mg/g
+APRD00266,Capsule,Oral,
+APRD00260,Tablet,Oral,10 mg
+APRD01300,"Tablet, film coated, extended release",Oral,500 mg/1
+DB06396,Suppository,Rectal,250 mg
+APRD00748,Tablet,Oral,0.5 mg
+APRD00540,Capsule,Oral,80 mg
+APRD00463,Tablet,Oral,2 mg
+APRD00836,Tablet,Oral,0.5 mg
+DB03778,Liquid,Topical,0.1 %
+APRD00345,Tablet,Oral,25 mg/1
+APRD00659,Cream,Vaginal,4 mg
+APRD00241,Solution,Intramuscular; Intravenous,50 mg
+APRD01091,Solution / drops,Ophthalmic,1 %
+APRD00597,Powder,Intravenous,100 mg
+EXPT01164,Tablet,Oral,.5 mg
+APRD00244,Cream,Topical,10 mg/100g
+APRD00839,Kit,,
+APRD00438,Cream,Vaginal,15 g/100g
+DB03123,Capsule,Oral,250 mg
+APRD00798,Capsule,Oral,0.5 mg
+APRD00006,Wafer,Intralesional,7.7 mg
+APRD00595,Tablet,Oral,500 mg
+APRD00208,Solution,Intravenous,1 mg
+APRD00211,Cream,Topical,10 %
+APRD00302,"Tablet, coated",Oral,5 mg/1
+APRD00298,Capsule,Oral,5 mg/1
+APRD00913,Liquid,Intrauterine,
+APRD00237,"Tablet, film coated",Oral,50 mg/1
+APRD00223,Tablet,Oral,5 mg
+APRD00064,Liquid,Intravenous,50 mg
+DB09359,"Tablet, extended release",Oral,600 mg
+APRD00105,Solution,Intravenous,125 mg/125mL
+APRD01074,Injection,Intravenous,10 ug/mL
+APRD00507,"Tablet, extended release",Oral,250 mg
+DB05291,Patch,Topical,36 mg/1
+APRD01161,Solution,Intravenous,9 mg
+APRD00875,"Tablet, extended release",Oral,
+APRD00656,Tablet,Oral,50 mg
+APRD00125,"Tablet, film coated, extended release",Oral,75 mg/1
+APRD00396,"Tablet, sugar coated",Oral,
+APRD01271,Solution,Ophthalmic,.04 mg/mL
+APRD00788,Cream,Topical,0.1 %
+APRD00614,Kit,Oral,
+EXPT00718,"Powder, for solution",Intramuscular; Intrapleural; Intravenous; Subcutaneous,15 unit
+APRD00115,"Tablet, film coated",Oral,2 mg/1
+APRD00965,Solution,Intravenous,2 mg/mL
+EXPT01092,"Powder, for solution",Intravenous,2 mg
+APRD00766,Ring,Vaginal,
+DB05354,"Capsule, extended release",Oral,40 mg
+APRD00492,Solution,Epidural; Infiltration,5 mg
+APRD00247,Solution,Epidural; Infiltration,
+DB01730,Cream,Topical,10 mg/g
+DB13426,"Tablet, film coated",Oral,245 mg
+APRD00609,Capsule,Oral,250 mg
+EXPT00508,"Tablet, film coated",Oral,650 mg/1
+APRD00952,"Powder, for solution",Intramuscular; Intravenous,1 g
+APRD00762,Tablet,Oral,
+APRD00284,"Powder, for solution",Intravenous; Intravesical,0.5 mg
+APRD00114,"Capsule, liquid filled",Oral,75 mg/1
+APRD01025,"Injection, solution",Intravenous,.1 mg/mL
+APRD00392,"Powder, for solution",Intravenous,5 mg
+APRD00127,Tablet,Oral,100 mg
+APRD01174,Capsule,Oral,50 mg
+APRD00066,Tablet,Oral,250 mg/1
+APRD00844,"Injection, powder, for solution",Intramuscular; Intravenous,1 g/1
+APRD00376,"Tablet, orally disintegrating",Oral,5 mg/1
+APRD00252,Solution,Oral,120 mg
+DB07998,"Tablet, film coated",Oral,250 mg
+DB09471,Suspension,Oral,
+APRD00325,"Injection, powder, lyophilized, for solution",Intravenous,
+DB05743,Liquid,Nasal,4 mg
+APRD00227,Kit,,
+APRD00692,"Injection, powder, lyophilized, for solution",Intra-arterial,500 mg/5mL
+APRD00445,"Tablet, film coated",Oral,100 mg/1
+APRD00980,Suspension,Ophthalmic,0.1 %
+APRD01143,Solution,Intravenous,25 mg
+APRD00841,Syrup,Oral,625 mg
+APRD01021,Tablet,Oral,8 mg
+APRD00109,Capsule,Oral,40 mg/1
+APRD00957,"Tablet, film coated",Oral,400 mg/1
+APRD01099,Tablet,Oral,500 mg
+APRD00537,Solution,Respiratory (inhalation),125 mcg
+APRD00485,Tablet,Oral,40 mg/1
+APRD00138,"Tablet, orally disintegrating",Oral,5 mg
+APRD00172,Tablet,Oral,50 mg
+APRD01182,Cream,Topical,10 mg/g
+APRD00446,Capsule,Oral,
+APRD01206,"Tablet, sugar coated",Oral,
+APRD00630,Tablet,Oral,10 mg/1
+APRD00606,Suspension,Oral,6 mg
+APRD00473,"Tablet, extended release",Oral,360 mg
+APRD00441,Tablet,Oral,10 mg
+APRD00792,"Injection, solution",Intravenous,2 g/10mL
+APRD00490,"Tablet, extended release",Oral,10 mg
+APRD00315,"Tablet, chewable",Oral,150 mg/1
+APRD01141,Suspension,Oral,4 mg
+APRD00307,Tablet,Oral,5 mg/1
+DB08225,"Aerosol, foam",Topical,5 %
+APRD01092,Tablet,Oral,40 mg/1
+APRD00290,Tablet,Oral,40 mg/1
+APRD00739,Tablet,Oral,.2 mg/1
+EXPT00605,"Powder, for suspension",Respiratory (inhalation),75 mg
+APRD00308,Tablet,Oral,750 mg/1
+APRD00592,Tablet,Oral,250 mg
+APRD00300,Tablet,Oral,250 mg/1
+APRD00190,Tablet,Oral,500.5 mg
+DB02692,Tablet,Oral,100 mg/1
+APRD00101,Solution,Intravenous,10 mg
+APRD01301,"Powder, for solution",Intravenous,100 mg
+APRD00470,Suspension,Oral,50 mg/mL
+APRD01238,Tablet,Oral,1 g
+APRD01003,Tablet,Oral,200 mg
+APRD00937,Tablet,Oral,25 mg/1
+APRD00106,Intrauterine device,Intrauterine,13.5 mg/1
+APRD01299,Liquid,Intravenous,1 mg
+APRD00148,"Injection, solution, concentrate",Intravenous,75 mg/ml
+APRD00685,Tablet,Oral,15 mg
+APRD01095,Tablet,Oral,200 mg
+DB08625,"Solution, gel forming, extended release",Ophthalmic,0.5 %
+APRD01272,Inhalant,Oral,1.74 mg/2.9mL
+APRD00884,"Granule, for suspension",Oral,5 g/7.5g
+APRD00070,Tablet,Oral,5 mg/1
+APRD00351,Injection,Intravenous,.25 mg/2mL
+APRD00242,Capsule,Oral,250 mg/1
+DB02444,"Powder, for solution",Intravenous,500 mg
+APRD00520,"Tablet, multilayer",Oral,
+APRD00079,Tablet,Oral,
+APRD00662,Solution,Intravesical,40 mg
+APRD00383,Tablet,Oral,5 mg
+APRD00365,Liquid,Ophthalmic,
+APRD00098,Tablet,Oral,0.250 mg
+APRD00729,Tablet,Oral,50 mg
+APRD00612,Solution,Oral,60 mg/20mL
+DB11897,Spray,Nasal,50 mcg
+APRD00417,Tablet,Oral,350 mg
+APRD00700,Capsule,Vaginal,200 mg
+DB09441,"Capsule, extended release",Oral,
+DB07438,"Tablet, film coated",Oral,200 mg
+DB06286,"Powder, for solution",Intravenous,4 mg
+APRD01004,"Tablet, coated",Oral,250 mg/1
+APRD00635,"Tablet, film coated, extended release",Oral,8.5 mg/1
+APRD00431,"Tablet, coated",Oral,3 mg/1
+DB05925,Tablet,Oral,1 mg
+APRD00770,Syrup,Oral,
+APRD00998,Liquid,Topical,
+APRD00574,Tablet,Oral,50 mg
+APRD00162,Kit,,
+DB02487,Solution,Intraocular,.01 %
+APRD00403,"Tablet, film coated",Oral,4 mg/1
+APRD00156,Tablet,Oral,1.5 mg/1
+APRD00773,Tablet,Oral,500 mg
+APRD00320,Capsule; tablet,Oral,
+APRD01318,Liquid,Intravenous,2 mg
+DB08415,Tablet,Oral,250 mg
+APRD00497,Capsule,Oral,
+APRD01118,Capsule,Oral,100 mg/1
+APRD00358,Liquid,Intramuscular; Intravenous,50 mg
+APRD01234,"Tablet, film coated",Oral,
+APRD00657,"Tablet, extended release",Oral,20 mg
+APRD01102,Liquid,Intramuscular; Intravenous,100 mg
+APRD00607,"Tablet, coated",Oral,
+APRD00095,"Spray, metered",Oral,5 mg/1
+APRD00600,Tablet,Oral,500 mg
+APRD00306,Liquid,Oral,.625 mg/mL
+APRD00209,"Powder, for solution",Intravenous,1 g
+APRD00847,Solution,Intramuscular,250 mcg
+APRD01072,Lotion,Topical,1 %
+APRD01275,Solution,Ophthalmic,1 g/100mL
+APRD00624,Syrup,Oral,5 mg
+APRD00033,Tablet,Oral,4 mg
+APRD01142,Gas,Respiratory (inhalation),
+APRD00666,Tablet,Oral,5 mg
+DB03027,Tablet,Oral,300 mg
+APRD00857,"Injection, powder, for solution",Intravenous,
+APRD00102,Tablet,Oral,0.3 mg
+APRD00103,Tablet,Oral,200 mg
+APRD00201,Solution,Intravenous,40 mg
+APRD00948,Tablet,Oral,1 mg
+APRD00513,Lotion,Topical,0.1 %
+APRD00649,Liquid,Intravenous,10 mg
+APRD00361,"Powder, for solution",Intravenous,10 mg
+EXPT00942,Solution / drops,Ophthalmic,
+APRD00077,"Tablet, delayed release",Oral,30 mg
+APRD00930,Solution,Ophthalmic,0.1 %
+APRD00939,Liquid,Intramuscular; Intravenous,
+EXPT02993,Capsule,Oral,88 ug/1
+APRD00618,Ointment,Topical,
+APRD00074,Solution,Intravenous,10 mg
+APRD00384,"Tablet, film coated",Oral,
+EXPT00946,"Powder, for solution",Intramuscular; Intravenous,2 g
+APRD00020,Capsule,Oral,5 mg/1
+DB08002,Capsule,Oral,75 mg/1
+APRD00778,Capsule,Oral,25 mg
+APRD01290,"Powder, for solution",Intravenous,15 mg
+APRD01128,Tablet,Oral,750 mg
+APRD00314,Tablet,Oral,5 mg/1
+APRD00575,Solution,Intravenous,3 %
+APRD01060,Tablet,Oral,10 mg
+APRD00563,Capsule,Oral,300 mg
+APRD00011,Tablet,Oral,20 mg
+APRD00571,Solution,Oral,5 mg/mL
+APRD00434,"Tablet, film coated",Oral,10 mg/1
+APRD00530,"Capsule, delayed release",Oral,90 mg/1
+APRD00058,"Powder, for solution",Intravenous,500 mg
+APRD00682,Capsule,Oral,
+APRD00060,"Capsule, delayed release",Oral,40 mg
+APRD00482,Tablet,Oral,50.0 mg
+APRD01219,Kit,,
+APRD00550,Solution,Intramuscular; Intravenous,250 mg
+APRD01303,Capsule,Oral,7.5 mg
+APRD00400,"Tablet, film coated",Oral,60 mg/1
+APRD00373,Capsule,Oral,400 mg
+APRD00712,Liquid,Intravenous,20 mg
+APRD00034,Suspension / drops,Ophthalmic,
+APRD00916,Capsule,Oral,500 mg/1
+APRD01127,Capsule,Oral,1.0 mg
+APRD00652,Capsule,Oral,50 mg
+APRD01230,Solution,Oral,5 mg/mL
+APRD00222,Tablet,Oral,5 mg
+APRD01117,"Tablet, coated",Oral,50 mg/1
+APRD00526,Tablet,Oral,20 mg
+APRD00854,"Powder, for solution",Intramuscular; Intravenous,500 mg
+APRD00416,Tablet,Oral,
+APRD00449,"Tablet, film coated",Oral,300 mg/1
+APRD00903,"Tablet, extended release",Oral,7.5 mg
+APRD00387,"Capsule, extended release",Oral,9 mg/1
+APRD00984,Tablet,Oral,250 mg
+APRD01268,"Tablet, film coated",Oral,600 mg/1
+APRD00568,Liquid,Oral,60 mg
+APRD00538,Tablet,Oral,20 mg
+APRD00312,Tablet,Oral,
+APRD00558,Tablet,Oral,500 mg/1
+APRD00911,Tablet,Oral,4 mg
+EXPT03217,"Injection, powder, lyophilized, for solution",Intravenous,10 g/80mL
+DB04134,"Paste, dentifrice",Dental,
+APRD00655,Spray,Oral,6 mg/.25mL
+APRD00359,"Injection, powder, lyophilized, for solution",Intravenous,1 mg/mL
+APRD00782,"Tablet, film coated",Oral,200 mg/1
+APRD01269,Tablet,Oral,2 mg/1
+APRD00199,"Injection, powder, lyophilized, for solution",Intravenous,70 mg/10.8mL
+APRD00195,Solution / drops,Ophthalmic,10 mg/mL
+APRD00017,Capsule,Oral,30 mg
+APRD01109,Tablet,Oral,10 mg
+APRD01607,Powder,Topical,1 %
+APRD00186,Solution,Intravenous,5.0 mg
+APRD00915,Suppository,Rectal,
+APRD00669,"Injection, solution",Intravenous,24 mg/mL
+APRD00951,"Tablet, film coated",Oral,25 mg
+APRD00408,"Powder, for solution",Intravenous,1 g
+APRD00151,Tablet,Oral,25 mg
+APRD00644,"Powder, for suspension",Oral,250 mg/5mL
+EXPT01546,Tablet,Oral,125 mg/1
+EXPT00999,Tablet,Oral,750 mg
+APRD00993,Solution,Intravenous,330.9 mg
+APRD00391,Tablet,Oral,60 mg
+APRD00602,Solution,Oral,20 mg/10mL
+APRD00495,Solution,Intravenous,1 mg
+APRD00063,Tablet,Oral,
+APRD00142,Tablet,Oral,50 mg
+EXPT03204,Cream,Topical,40 mg/g
+APRD00380,Liquid,Intramuscular; Intravenous,5 mg
+APRD00910,Ointment,Topical,2.5 mg
+EXPT00598,"Tablet, coated",Oral,
+APRD00377,Tablet,Oral,20 mg
+APRD00297,Tablet,Oral,50 mg/1
+EXPT01688,Tablet,Oral,250 mg/1
+APRD00202,"Powder, for solution",Intravenous,10 mg
+APRD00157,Solution,Extracorporeal,20 mcg
+APRD01187,Kit,,
+APRD00570,Tablet,Oral,300 mg/1
+APRD01177,"Injection, solution",Intravenous,
+APRD00688,Solution,Intramuscular,50 mg/mL
+APRD00378,Powder,Respiratory (inhalation),5 mg/1
+APRD00829,"Tablet, soluble",Oral,32 mg/1
+APRD01307,"Injection, powder, for solution",Intravenous,50 mg
+APRD00935,Liquid,Intravenous,20 mg
+APRD00353,Solution,Oral,2.5 mg/mL
+APRD00337,"Tablet, extended release",Oral,400 mg/1
+APRD00874,Liquid,Intravenous,10 mg
+APRD01236,Capsule,Oral,100 mg/1
+APRD00250,"Powder, for suspension",Oral,125 mg
+DB11728,Solution,Subcutaneous,7.5 mg
+APRD00708,Solution,Intravenous,1 mg
+APRD00194,Tablet,Oral,80 mg
+EXPT02427,Elixir,Oral,
+APRD00970,Tablet,Oral,600 mg
+APRD00319,Tablet,Oral,20 mg
+DB07566,Tablet,Oral,0.2 mg
+APRD00697,Tablet,Oral,500 mg
+APRD01085,Tablet,Oral,2 mg
+APRD01063,Syrup,Oral,3.3 g
+APRD00543,"Tablet, film coated",Oral,50 mg
+APRD01070,Injection,Intramuscular,
+APRD00510,Tablet,Oral,8 mg
+APRD00706,Capsule,Oral,300 mg
+APRD00527,Capsule,Oral,35 mg/1
+APRD00065,"Spray, metered",Nasal,93 ug/1
+APRD00474,Tablet,Oral,1 mg/1
+APRD00977,Cream,Topical,0.01 %
+DB11514,Syrup,Oral,110 mg
+APRD00318,Syrup,Oral,250 mg
+EXPT00514,Tablet,Oral,5 mg
+APRD01010,Kit,,
+APRD00992,Liquid,Intravenous,279.3 mg
+APRD01062,Tablet,Oral,200 mg
+APRD00660,"Powder, for solution",Intravenous,5 g
+APRD01121,Cream,Topical,20 %
+DB08769,Tablet,Oral,600 mg
+APRD01058,Tablet,Oral,3 mg/1
+APRD00627,Tablet,Oral,10 mg
+APRD00454,Tablet,Oral,5 mg
+APRD01243,Tablet,Oral,200 mg
+DB08269,"Powder, for solution",Intramuscular; Intravenous,500 mg
+APRD00468,Tablet,Oral,250 mg
+APRD00961,"Tablet, film coated",Oral,250 mg/1
+APRD00835,"Aerosol, metered; liquid",Nasal,10 mg
+APRD00257,"Tablet, film coated",Oral,
+APRD00094,Capsule,Oral,150 mg
+APRD00272,"Tablet, film coated",Oral,300 mg/1
+DB03261,"Tablet, film coated",Oral,400 mg/1
+APRD00422,Kit,Intra-articular,
+APRD01151,Tablet,Oral,2.5 mg/1
+APRD00088,"Injection, solution",Intravenous,2.5 mg/mL
+APRD00633,Solution,Intramuscular; Subcutaneous,100 mg
+DB05275,Pellet,Oral,87.5 mg/1
+DB07709,Tablet,Oral,
+APRD00816,Ointment,Topical,500 [USP'U]/g
+APRD00536,Tablet,Oral,10 mg
+APRD00881,Tablet,Oral,7.5 mg/1
+APRD00561,Tablet,Oral,5 mg
+DB06189,"Injection, solution, concentrate",Intravenous,1 mg/ml
+APRD00933,Cream,Topical,100 mg/g
+APRD00578,Solution,Intravenous,4 mcg
+APRD00452,Liquid,Ophthalmic,
+APRD00340,Tablet,Oral,1 mg
+APRD00879,Capsule,Oral,500 mg
+APRD00585,Suspension,Oral,2 mg
+APRD00834,Cream,Vaginal,2 %
+DB06639,Liquid,Topical,.06 g/150mL
+APRD00104,Tablet,Oral,40 mg
+EXPT02075,"Powder, for solution",Intravenous,1000 mg
+APRD01086,Tablet,Oral,100 mg
+APRD01001,"Liquid; powder, for solution",Intravenous; Subcutaneous,
+APRD00940,Gel,Topical,
+APRD01146,Ointment,Topical,100000 unit
+APRD00548,"Tablet, film coated",Oral,
+APRD00494,Tablet,Oral,500 mg/1
+APRD00440,Capsule,Oral,40 mg
+APRD00698,Capsule,Oral,
+APRD00769,Tablet,Oral,200 mg
+APRD01173,Liquid,Intramuscular; Intravenous; Subcutaneous,30 mg
+APRD01080,Solution,Intravenous,
+APRD01065,Solution,Ophthalmic,50 mcg
+APRD00588,Cream,Vaginal,1 mg
+APRD00533,Tablet,Oral,68.25 mg
+APRD00458,Tablet,Oral,2.5 mg/1
+APRD01226,"Tablet, film coated",Oral,800 mg/1
+APRD00661,"Tablet, delayed release",Oral,333 mg
+APRD00514,Tablet,Oral,800 mg/1
+APRD00335,"Capsule, extended release",Oral,300 mg/1
+APRD01277,"Injection, solution",Intramuscular,100 mg/mL
+APRD00975,Ointment,Topical,
+APRD00150,Tablet,Oral,150 mg/1
+APRD01129,Liquid,Nasal,2 mg
+EXPT00496,Liquid,Epidural,
+APRD00379,"Injection, solution",Subcutaneous,3 mg/1
+APRD00515,Tablet,Oral,50 mg
+APRD00583,"Tablet, chewable",Oral,200 mg/1
+APRD00029,Tablet,Oral,250 mg/1
+APRD00100,Capsule; kit,Oral,
+EXPT01628,Tablet,Oral,8 mg
+APRD00123,"Tablet, film coated",Oral,20 mg/1
+APRD00052,"Tablet, film coated",Oral,
+APRD00596,Suspension,Oral,2 mg
+APRD00797,"Injection, powder, lyophilized, for solution",Intravenous,50 mg/10mL
+APRD00341,Tablet,Oral,7.5 mg/1
+APRD00680,Solution,Intramuscular; Intravenous,5 mg
+APRD00582,Ointment,Ophthalmic,3 mg/g
+APRD01281,Tablet,Oral,200 mg
+APRD01175,"Capsule, gelatin coated",Oral,100 mg/1
+DB02478,Tablet,Oral,.1 mg/1
+APRD01602,"Tablet, film coated",Oral,500 mg
+APRD00983,Tablet,Oral,30 mg
+APRD01120,"Tablet, film coated",Oral,15 mg/1
+APRD00615,"Powder, for solution",Intramuscular; Intravenous,5 mg
+DB07777,Solution,Intravenous,100 mg
+APRD00521,"Injection, powder, lyophilized, for suspension",Intravenous,
+DB07799,Liquid,Intravenous,10 mg
+APRD00677,Suppository,Rectal,
+APRD00128,Capsule,Oral,6 mg/1
+APRD00191,Capsule,Oral,50 mg
+APRD00707,Tablet,Oral,50 mg
+APRD00605,Solution,Oral,15 mg/ml
+APRD01026,Solution,Intraperitoneal,
+APRD00740,Tablet,Oral,25 mg
+DB05067,Kit,,
+DB08563,Tablet,Oral,200 mg/1
+APRD00036,"Capsule, extended release",Oral,0.4 mg
+APRD00078,"Powder, for solution",Intravenous,75 mg
+DB05563,Tablet,Sublingual,15 μg
+APRD00681,"Tablet, film coated",Oral,100 mg
+DB04635,Tablet,Oral,150 mg/1
+APRD00918,Tablet,Oral,50 mg
+APRD00753,Liquid,Ophthalmic,0.03 %
+APRD01149,"Powder, for solution",Intravenous,10 g/100mL
+DB05816,Solution,Subcutaneous,10 mg
+DB00715,Tablet,Oral,40 mg
+APRD01137,"Aerosol, metered",Respiratory (inhalation),2 mg
+APRD00679,Kit,,
+APRD00781,Tablet,Oral,10 mg
+APRD00810,"Tablet, extended release",Oral,
+APRD00639,Capsule,Oral,400 mg
+DB05342,Liquid,Infiltration,2 %
+APRD00560,Solution,Oral,1 mg/mL
+APRD00062,Liquid,Intramuscular; Intravenous,20 mg
+APRD01030,Cream,Topical,37.5 mg/g
+APRD01017,Tablet,Oral,
+APRD00498,Capsule,Oral,50 mg/1
+APRD00153,Patch,Transdermal,0.2 mg
+APRD01221,Solution,Intravenous,10 mg
+DB08630,Tablet,Oral,500 mg
+APRD00593,Tablet,Oral,60 mg
+APRD00806,Liquid,Intravenous,10 mg
+APRD01193,"Powder, for solution",Intramuscular; Intravenous; Subcutaneous,1 g
+APRD00187,"Tablet, orally disintegrating",Oral,4 mg/1
+APRD01131,Gel,Topical,1 %
+APRD00363,"Tablet, delayed release",Oral,
+APRD00354,"Film, soluble",Oral,25 mg/1
+EXPT02625,"Powder, for solution",Intramuscular; Intravenous,300 mg
+APRD00145,"Tablet, film coated",Oral,50 mg/1
+DB07886,Spray,Topical,10 g/L
+EXPT02246,Irrigant,Urethral,
+APRD00989,Solution,Intravenous,529 mg
+APRD00265,"Tablet, multilayer, extended release",Oral,600 mg/1
+APRD00534,Tablet,Oral,200 mg/1
+APRD00904,"Powder, for solution",Intramuscular; Intraperitoneal; Intravenous; Subcutaneous,500 mg
+APRD00616,"Patch, extended release",Transdermal,1 mg/3d
+APRD00765,"Suspension, extended release",Oral,4 mg/5mL
+APRD00067,"Capsule, gelatin coated",Oral,300 mg/1
+APRD00180,Kit,Topical,
+APRD00043,Solution / drops,Ophthalmic,.5 mg/mL
+APRD00645,Tablet,Oral,10 mg/1
+APRD00212,Liquid,Respiratory (inhalation),1 mL/mL
+APRD00962,Tablet,Oral,250 mg/1
+APRD00362,Gel,Topical,.025 %
+APRD00722,Liquid,Topical,2 %
+APRD00518,Solution,Intravenous,20 mg
+APRD00444,"Tablet, film coated",Oral,75 mg/1
+APRD00572,Capsule,Oral,500 mg/1
+EXPT02153,"Injection, powder, for solution",Intravenous,
+APRD01322,"Powder, for solution",Nasogastric; Oral,
+APRD00579,"Injection, powder, for solution",Intravenous,4.3 mg/mL
+APRD00002,Tablet,Oral,5 mg
+APRD00289,"Aerosol, metered",Respiratory (inhalation),
+APRD01112,Capsule,Oral,250 mg/1
+APRD00049,"Powder, for solution",Intravenous,
+APRD00310,Solution,Ophthalmic,7 mg/mL
+APRD00785,Cream,Topical,330 mcg
+APRD00737,Capsule,Oral,
+APRD01081,Lotion,Topical,.005 g/mL
+APRD00239,Capsule,Oral,50 mg
+APRD00304,Solution,Intravenous,5 mg
+APRD01308,Suspension,Oral,60 mg
+APRD01133,Tablet,Oral,500 mg
+APRD00099,"Tablet, film coated",Oral,15 mg/1
+APRD01190,Solution,Ophthalmic,
+APRD00177,"Tablet, film coated",Oral,15 mg/1
+APRD00311,Tablet,Vaginal,10 ug/1
+APRD00730,Capsule,Oral,250 mg/1
+DB05347,Capsule,Oral,200 mg
+DB08298,"Tablet, delayed release",Oral,
+APRD00991,Solution,Intravenous,469 mg
+APRD01178,Tablet,Oral,
+APRD00689,Cream,Vaginal,2 %
+APRD00549,Tablet,Oral,50 mg/1
+DB08518,"Tablet, delayed release",Oral,500 mg/1
+APRD00420,Tablet,Oral,8 mg/1
+APRD00214,Cream,Topical,
+APRD01246,Gel,Topical,0.1 %
+APRD00969,"Injection, solution",Intravenous,10 mg/mL
+APRD00726,Solution,Intravenous,500 mcg
+APRD00886,Suspension,Auricular (otic),
+APRD00113,Tablet,Oral,
+APRD00121,"Tablet, extended release",Oral,400 mg
+APRD00522,Solution / drops,Ophthalmic,5 mg
+APRD01031,Tablet,Oral,1.25 mg
+APRD00287,Solution / drops,Ophthalmic,5 mg/mL
+APRD00725,Tablet,Oral,2 mg
+DB01693,Liquid,Intravenous,.1 g/mL
+DB08343,Tablet,Oral,100 mg
+DB05564,Lozenge,Oral; Transmucosal,600 ug/1
+APRD00529,Capsule,Oral,5 mg/1
+APRD01606,Jelly,Vaginal,
+APRD00210,Syrup,Oral,2 mg
+DB05893,"Injection, emulsion",Intravenous,10 mg/mL
+EXPT00604,"Capsule, extended release",Oral,500 mg
+APRD00071,Tablet,Oral,5 mg
+APRD00767,Tablet,Oral,500 mg/1
+APRD00760,Kit,Oral,
+APRD01604,Kit,,
+APRD01136,Suspension / drops,Ophthalmic,50 mg/mL
+APRD00987,Powder,Oral,3 g
+DB07699,Liquid,Intramuscular; Intravenous,10 mg
+DB08616,"Tablet, film coated",Oral,5 mg/1
+APRD00243,"Powder, for solution",Oral,75 mg
+APRD00432,Kit; tablet,Buccal; Oral,
+APRD00832,Syrup,Oral,
+APRD00275,Tablet,Oral,2 mg/1
+APRD00877,Cream,Topical,.001 g/g
+APRD01267,Tablet,Oral,500 mg/1
+APRD01023,Pellet,Ophthalmic,5 mg/1
+APRD00122,Solution,Intravenous,250 mg
+APRD01152,"Capsule, gelatin coated",Oral,30 mg/1
+APRD00039,Kit,Oral,
+APRD01132,Solution,Intramuscular; Intravenous; Subcutaneous,20 mg
+APRD00982,Cream,Topical,.5 mg/g
+APRD00896,"Capsule, delayed release pellets",Oral,75 mg/1
+APRD01067,Tablet,Oral,50 mg
+APRD00429,Syrup,Oral,2 mg
+APRD00331,"Powder, for solution",Intravenous,10 mg
+APRD00634,"Tablet, film coated, extended release",Oral,120 mg/1
+APRD00557,Capsule,Oral,180 1/1
+APRD00764,Tablet,Oral,2 mg/1
+DB05277,"Powder, for solution",Topical,20 %
+APRD00867,Powder,Topical,1 %
+APRD00508,Tablet,Oral,250 mg/1
+APRD01171,Tablet,Oral,250 mg
+APRD00197,Solution,Oral,20 mg/5mL
+DB06895,"Tablet, film coated",Oral,500 mg/1
+APRD00699,"Tablet, orally disintegrating",Oral,11.85 mg/1
+APRD00254,Capsule,Oral,300 mg
+EXPT01437,Ointment,Topical,.3 mg/g
+APRD00759,Tablet,Oral,25 mg/1
+APRD00541,Tablet,Oral,10 mg
+APRD00629,Tablet,Oral,100 mg/1
+DB04507,Solution,Ophthalmic,22.3 mg/mL
+APRD00589,Tablet,Oral,5 mg/1
+APRD01302,"Injection, solution",Intravenous,20 mg/100mL
+APRD01078,Suspension / drops,Ophthalmic,
+APRD01005,Suspension,Oral,
+APRD00388,Liquid,Intramuscular,20 mg
+APRD00950,Tablet,Oral,300 mg
+DB02439,"Tablet, sugar coated",Oral,2 mg/1
+APRD00545,Liquid,Topical,20 %
+APRD00226,"Tablet, film coated",Oral,200 mg/1
+APRD00721,Tablet,Oral,
+APRD00523,"Tablet, film coated",Oral,
+APRD00880,Tablet,Oral,50 mg/1
+APRD00455,Tablet,Sublingual,5 mg/1
+DB02782,Kit; tablet,Oral,
+APRD00294,Tablet,Oral,5 mg
+APRD00249,Gel,Topical,.012 g/60g
+APRD01002,Injection,Subcutaneous,10 mg/.4mL
+APRD00917,Cream,Vaginal,.01 %
+APRD00491,Tablet,Oral,500 mg
+APRD00817,Solution / drops,Ophthalmic; Topical,.4 %
+APRD01053,"Capsule, gelatin coated",Oral,
+APRD00822,Solution,Intradermal,0.000060 m
+APRD01220,Suspension,Ophthalmic,1 %
+APRD00313,Tablet,Oral,0.25 mg
+APRD00738,Gel,Topical,143 g/238g
+APRD01216,"Powder, for solution",Intravenous,5 mg
+DB02392,"Powder, for solution",Oral,4 g
+APRD00251,"Powder, for solution",Intravenous,50 mg
+APRD00481,"Film, soluble",Oral,8 mg/1
+DB06863,Solution,Ophthalmic,0.01 %
+APRD00344,"Tablet, film coated",Oral,4 mg/1
+APRD00080,Solution,Nasal,40 mg/mL
+APRD00136,Tablet,Oral,200 mg
+APRD00004,Capsule,Oral,50 mg
+APRD01165,Solution,Intravenous,5 mcg
+APRD01260,"Tablet, film coated",Oral,250 mg/1
+APRD00439,Tablet,Oral,2 mg/1
+APRD00741,Tablet,Oral,25 mg
+APRD00787,Syrup,Oral,10 mg
+APRD00631,Cream,Topical,
+APRD00927,Gel,Vaginal,2 mg
+APRD00169,Tablet,Oral,6.25 mg
+APRD01232,"Powder, for solution",Intramuscular,400 mg
+APRD01061,Solution,Ophthalmic,0.25 mg
+APRD00670,"Tablet, orally disintegrating",Sublingual,
+APRD00213,Kit,Oral,
+APRD00651,Capsule,Oral,10 mg/1
+APRD00296,"Tablet, coated",Oral,10 mg/1
+APRD00809,"Powder, for suspension",Subcutaneous,100 mg
+DB05379,Tablet,Oral,
+APRD00883,"Tablet, film coated",Oral,625 mg/1
+APRD01306,Solution,Oral,100 mg/mL
+APRD00610,Tablet,Oral,50 mg
+APRD00747,Tablet,Oral,10 mg
+APRD01158,Solution,Nasal,0.05 %
+DB01398,Patch,Topical,20 mg/mL
+APRD00919,"Tablet, extended release",Oral,75 mg
+APRD00277,"Aerosol, metered",Oral; Respiratory (inhalation),25 mcg
+APRD01090,Capsule,Oral,50 mg/1
+APRD00562,Tablet,Oral,.75 mg
+EXPT00475,Tablet,Oral,325 mg/325mg
+APRD00654,Solution,Intramuscular,50 mg
+APRD00505,Tablet,Oral,600 mg/1
+APRD00349,"Tablet, film coated, extended release",Oral,
+EXPT01940,"Tablet, sugar coated",Oral,
+APRD00220,Tablet,Oral,2.5 mg
+APRD00008,"Tablet, orally disintegrating",Oral,5 mg/1
+APRD00232,Solution,Intramuscular; Intravenous,50 mg
+DB09475,"Capsule, extended release",Oral,50 mg/1
+APRD00569,Kit,,
+APRD00466,"Powder, for solution",Intravenous,150 mg
+APRD00342,"Powder, for solution",Intramuscular; Intravenous; Rectal,40 mg
+APRD00678,Tablet,Oral,
+APRD01094,Liquid,Infiltration,30 mg
+APRD00411,"Capsule, gelatin coated",Oral,5 mg/1
+APRD00831,Solution / drops,Ophthalmic,0.9 mg/ml
+APRD00012,Solution / drops,Ophthalmic,10 mg/mL
+APRD00960,Liquid,Intracavitary; Parenteral,380 mg
+APRD01247,"Tablet, multilayer",Oral,
+APRD00324,"Tablet, orally disintegrating",Oral,5 mg
+APRD01106,Tablet,Oral,
+APRD00580,Tablet,Oral,1 mg/1
+APRD00124,"Powder, for solution",Intravenous,0.5 mg
+APRD01323,"Aerosol, foam",Topical,1.44 g/70g
+APRD00813,Kit,,
+APRD00619,Tablet,Oral,10 mg/1
+APRD01327,Liquid,Ophthalmic,
+APRD00360,Tablet,Oral,75 mg
+APRD00483,"Tablet, film coated",Oral,400 mg/1
+APRD00691,Kit,,
+APRD00893,Liquid,Ophthalmic,1 %
+APRD01213,"Tablet, film coated",Oral,8 mg/1
+APRD00406,Injection,Intravenous,1 mg/mL
+APRD00140,"Capsule, gelatin coated",Oral,40 mg/1
+APRD00641,Powder,Respiratory (inhalation),
+APRD00924,Suppository,Rectal,50 mg
+DB06583,Capsule,Respiratory (inhalation),
+APRD00499,"Injection, powder, lyophilized, for suspension",Intravenous,
+APRD00085,Solution,Intravenous,40 mg
+APRD00321,"Patch, extended release",Transdermal,9.5 mg/1
+APRD00144,"Tablet, sugar coated",Oral,25 mg/1
+APRD00030,"Tablet, film coated",Oral,600 mg/1
+APRD01105,Cream,Topical,168 mg
+APRD00811,Tablet,Oral,50 mg
+APRD00013,Suppository,Rectal,
+APRD00808,Capsule,Oral,3 mg
+APRD00015,Cream,Topical,
+DB05847,"Injection, powder, for solution",Intravenous,50 mg
+APRD00270,"Tablet, film coated",Oral,2.5 mg/1
+APRD00092,Capsule,Oral,
+APRD00553,"Aerosol, metered",Oral,45 ug/1
+APRD00336,Ointment,Ophthalmic,40 mg
+EXPT01540,Gel,Ophthalmic,1.5 mg/g
+APRD00023,"Tablet, film coated",Oral,1000 mg
+APRD01066,"Tablet, film coated",Oral,2.5 mg/1
+APRD01262,Ointment,Vaginal,300 mg/1
+APRD00664,"Tablet, film coated",Oral,2 mg/1
+DB05335,Kit,,
+APRD00944,Liquid,Intramuscular; Intravenous,10 mg
+EXPT02271,"Capsule, gelatin coated",Oral,250 mg/1
+APRD00872,"Tablet, coated",Oral,90 mg/1
+APRD00876,Ointment,Topical,.5 mg/g
+APRD00141,"Tablet, film coated",Oral,1.1 g/1
+APRD00076,Tablet,Oral,500 mg
+APRD00233,"Tablet, film coated",Oral,
+APRD00547,"Capsule, extended release",Oral,90 mg/1
+APRD00075,"Tablet, extended release",Oral,4 mg
+APRD00051,Liquid,Subcutaneous,5 mg
+APRD00528,"Tablet, coated",Oral,20 mg/1
+DB09528,Solution,Intramuscular; Intravenous; Subcutaneous,2 mg
+APRD00374,"Tablet, extended release",Oral,5 mg
+EXPT02208,"Tablet, delayed release",Oral,360 mg/1
+APRD00795,Paste,Oral,5 %
+APRD00401,Gel,Topical,20 mg/g
+APRD00744,Solution,Respiratory (inhalation),99.9 %
+APRD00413,"Tablet, film coated",Oral,75 mg
+APRD00687,"Injection, solution, concentrate",Intravenous,4 mg/4ml
+APRD00167,Tablet,Oral,
+APRD01096,Suspension,Oral,20 mg/mL
+APRD00509,Liquid,Intramuscular; Intravenous,100 mg
+APRD00146,"Tablet, film coated",Oral,2 mg/1
+APRD00525,"Tablet, orally disintegrating",Oral,1.25 mg/1
+DB09545,Tablet,Oral,145 mg/1
+APRD01251,Capsule,Oral,50 mg/1
+APRD00118,Kit,Intravenous,
+APRD00221,Tablet,Oral,5.0 mg
+APRD00996,Solution / drops,Ophthalmic,5 mg/mL
+EXPT02777,"Tablet, sugar coated",Oral,
+APRD01298,"Capsule, gelatin coated",Oral,8 ug/1
+APRD00978,Jelly,Topical,.5 mg
+APRD00216,"Tablet, film coated",Oral,300 mg/1
+DB01287,Tablet,Oral,1 mg
+APRD00372,"Tablet, film coated",Oral,
+DB11612,"Powder, for solution",Intramuscular; Intravenous; Topical,1000000 unit
+APRD01266,Tablet,Oral,400 mg
+APRD00942,"Powder, for solution",Ophthalmic,6.25 mg
+EXPT02728,Tablet,Oral,600 mg/1
+APRD00469,Solution,Ophthalmic,3 mg
+APRD00248,"Powder, for solution",Oral,
+APRD00427,"Tablet, extended release",Oral,15 mg
+APRD00182,"Aerosol, metered",Respiratory (inhalation),0.25 %
+DB08189,Tablet,Oral,
+APRD00850,"Tablet, film coated",Oral,400 mg/1
+APRD00436,"Tablet, extended release",Oral,5 mg/1
+APRD00054,Tablet,Oral,0.25 mg
+APRD00601,Suppository,Rectal,25 mg/1
+APRD00143,Capsule,Oral,.125 mg
+APRD00804,Powder,Oral,50 mg/1
+APRD00594,Liquid,Intravenous,25 mg
+DB06975,Liquid,Oral,50 mg
+APRD00055,Tablet,Oral,80 mg
+APRD00964,Kit; tablet,Oral,
+APRD00282,For solution,Oral,500 mg/1
+APRD00366,Tablet,Oral,
+APRD00412,Liquid,Intramuscular,1 g
+APRD00255,Capsule,Oral,120 mg
+APRD00946,Solution / drops,Ophthalmic,.5 mg/mL
+APRD00382,Solution,Ophthalmic,
+APRD00539,Gel,Dental,20 g/100g
+APRD00604,"Tablet, film coated",Oral,26.3 mg/1
+APRD01027,Solution,Respiratory (inhalation),20 μg/ml
+APRD00833,Cream,Topical,1 g/100g
+EXPT01231,Solution,Intravesical,500 mg
+APRD00346,"Tablet, extended release",Oral,80 mg
+APRD00205,"Tablet, film coated",Oral,15 mg
+APRD00546,"Tablet, coated",Oral,5 mg/1
+APRD00299,Capsule,Oral,250 mg/1
+APRD00218,Tablet,Oral,4 mg
+APRD00203,Tablet,Oral,500 mg
+DB08567,Capsule,Oral,50 mg
+APRD00456,Capsule,Oral,15 mg
+APRD01069,Spray; suspension,Nasal,0.5 mg
+APRD00056,Solution,Intravenous; Subcutaneous,1000 unit
+APRD01115,Powder,Topical,20.6 mg/g
+APRD00885,Capsule,Respiratory (inhalation),1662500 IU
+APRD00285,"Powder, for solution",Intramuscular; Intravenous,750 mg
+DB07725,Liquid,Intramuscular; Intravenous; Subcutaneous,65 mg
+DB09440,Syrup,Oral,
+APRD00590,"Tablet, film coated, extended release",Oral,90 mg/1
+APRD00805,Tablet,Oral,250 mg
+APRD00288,Tablet,Oral,200 mg
+APRD00914,Suspension,Oral,50 mg
+APRD00460,Tablet,Oral,80 mg
+APRD00535,Liquid,Topical,
+APRD00267,Tablet,Oral,500 mg/1
+APRD00385,"Capsule, extended release",Oral,
+APRD00943,"Aerosol, foam",Topical,10 mg/g
+DB06284,Tablet,Oral,50 mg
+APRD01212,"Tablet, delayed release",Oral,20 mg/1
+APRD01197,Cream,Topical,1 mg/g
+APRD00188,Tablet,Oral,100 mg
+APRD00653,Tablet,Oral,45 mg
+DB01334,Liquid,Intravenous,1 mg
+APRD00091,Tablet,Oral,6.25 mg
+DB06085,Tablet,Oral,750 mg
+APRD00620,Tablet,Oral,200 mg
+APRD00196,Capsule,Oral,500 mg
+APRD01114,"Powder, for solution",Intravenous,50 mg
+APRD00398,Cream,Topical,5 %
+APRD00021,"Powder, for solution",Intravenous,500 mg
+DB07948,Tablet,Oral,50 mg/1
+APRD00719,Tablet,Oral,
+EXPT01068,"Granule, for solution",Oral,125 mg
+APRD00972,Tablet,Oral,200 mg
+APRD00402,Tablet,Oral,50 mg
+APRD00461,Tablet,Oral,250 mg
+DB07682,"Tablet, sugar coated",Oral,75 mg/1
+APRD00305,Cream,Topical,20 mg/g
+APRD00053,Tablet,Oral,320 mg
+APRD00621,"Tablet, extended release",Oral,300 mg
+APRD00268,"Powder, for solution",Intravenous,25 mg
+APRD00830,Solution,Intramuscular; Intravenous,50 mg
+DB02330,Liquid,Respiratory (inhalation),99.9 %
+APRD00926,Solution,Intra-amniotic,5 mg
+APRD00404,"Injection, solution",Epidural; Infiltration; Intracaudal; Perineural,30 mg/mL
+APRD00667,Tablet,Oral,5 mg
+APRD00840,Aerosol,Oral,
+APRD00502,"Tablet, film coated",Oral,400 mg/1
+APRD00155,Tablet,Oral,50 mg/1
+APRD00040,Solution,Oral,10 mg
+APRD00695,Capsule,Oral,50 mg
+APRD00171,Solution,Intravenous,10 mg
+APRD01007,Tablet,Oral,25 mg
+APRD00603,Tablet,Oral,300 mg
+APRD00026,"Injection, solution",Intramuscular; Intravenous,333 mg/mL
+APRD00097,"Tablet, extended release",Oral,100 mg
+APRD00184,Elixir,Oral,
+APRD00683,"Tablet, film coated",Oral,20 mg/1
+APRD00061,Tablet,Oral,
+APRD00126,"Injection, solution",Intravenous,1 mg/mL
+DB08417,Liquid,Topical,5 mg
+APRD00007,"Injection, solution",Intravenous,50 mg/mL
+APRD00261,"Capsule, extended release",Oral,425 mg/1
+APRD00025,"Tablet, orally disintegrating",Sublingual,
+APRD00418,Tablet,Oral,10 mg
+APRD00981,Tablet,Oral,5 mg
+APRD00663,Tablet,Oral,1 mg
+APRD00871,Solution,Topical,
+APRD00907,Liquid,Respiratory (inhalation),240 mL/240mL
+APRD00566,Capsule,Oral,300 mg
+APRD00158,"Tablet, extended release",Oral,7.5 mg/1
+APRD00772,Tablet,Oral,200 mg
+APRD00475,Suspension,Ophthalmic,
+APRD00129,Tablet,Oral,50 mg/1
+APRD00625,Capsule,Oral,140 mg/1
+APRD00164,Tablet,Oral,
+APRD00356,Tablet,Oral,3.75 mg
+APRD00176,Solution,Intramuscular; Intravenous,3 mg
+APRD00622,Tablet,Oral,2.5 mg/1
+APRD01217,"Tablet, film coated",Oral,150 mg/1
+APRD01068,"Tablet, for suspension",Oral,750 mg/1
+APRD00301,Tablet,Oral,80 mg
+APRD00371,Liquid,Intravenous,2 mg
+APRD00974,Solution,Intravenous,0.1 mg
+APRD00292,"Capsule, gelatin coated",Oral,100 mg/1
+APRD00165,Solution,Ophthalmic,0.5 %
+APRD00181,Tablet,Oral,500 mg
+APRD00395,"Powder, for solution",Intravenous,1 g
+APRD00985,Solution,Intravenous,1 g
+APRD00668,Solution / drops,Ophthalmic,3 mg/mL
+APRD00955,Tablet,Oral,2 mg
+DB07774,Tablet,Oral,5 mg
+APRD00016,Pellet,Oral,
+APRD00419,Tablet,Oral,250 mg
+APRD00901,"Injection, suspension",Intravenous,250 mg/5mL
+APRD01218,Tablet,Oral,550 mg
+APRD00493,Cream,Topical,
+APRD00442,"Tablet, extended release",Oral,9 mg/1
+APRD00329,"Tablet, extended release",Oral,350 mg
+APRD00675,Tablet,Oral,150 mg
+APRD00068,Solution,Intravenous; Subcutaneous,100 mg
+APRD01119,Solution,Intravenous,2 mg/mL
+DB05526,"Injection, solution, concentrate",Intravenous,6 mg/ml
+APRD00623,Capsule,Oral,200 mg
+APRD00665,Syrup,Oral,1 mg
+APRD00674,Ointment,Auricular (otic); Ophthalmic,
+EXPT01107,"Tablet, extended release",Oral,
+APRD00219,Liquid,Respiratory (inhalation),250 mL/250mL
+APRD00638,"Tablet, orally disintegrating",Oral,30 mg
+APRD00949,"Injection, powder, lyophilized, for solution",Intravenous,500000 ng/10mL
+APRD00293,Tablet,Oral,600 mg
+DB07600,Tablet,Oral,50 mg
+APRD00258,Tablet,Oral,5 mg
+APRD00701,Tablet,Oral,10 mg/1
+APRD00932,Solution,Intravenous,80 mg
+DB01249,Solution,Intra-arterial; Intravenous,652 mg
+DB01250,"Capsule, gelatin coated",Oral,250 mg/1
+DB01253,Tablet,Oral,.2 mg
+DB01254,"Tablet, film coated",Oral,80 mg
+DB01255,"Tablet, chewable",Oral,60 mg/1
+DB01256,Ointment,Topical,1 %
+DB01257,Solution,Intravenous,10 mg
+DB02584,"Tablet, film coated",Oral,250 mg
+DB01260,"Aerosol, foam",Topical,0.05 %
+DB07214,"Tablet, film coated",Oral,50 mg
+DB01262,Kit,,
+DB01263,"Tablet, delayed release",Oral,100 mg
+EXPT00002,"Tablet, film coated",Oral,800 mg/1
+DB01265,"Tablet, film coated",Oral,600 mg/1
+DB01266,Ointment,Topical,150 mg/g
+DB01267,"Injection, suspension, extended release",Intramuscular,75 mg
+DB07417,Capsule,Oral,50 mg
+DB01269,Solution,Intravenous,400 mg
+DB01270,Solution,Intravitreal,10 mg
+DB01271,"Solution, concentrate",Intravenous,6 mg/3mL
+DB01272,"Powder, for solution",Intravenous,50 mg
+DB01273,Tablet,Oral,1.0 mg
+DB01274,Solution,Respiratory (inhalation),15 ug/2mL
+DB01275,Tablet,Oral,
+DB01276,Solution,Subcutaneous,250 mcg
+DB01277,"Injection, solution",Subcutaneous,40 mg/4mL
+DB01278,Injection,Subcutaneous,1000 ug/mL
+DB01279,Solution,Intravenous,5 mg/5mL
+DB01280,Solution,Intravenous,5 mg
+DB01281,Solution,Subcutaneous,125 mg
+DB01282,Liquid,Intravenous,100 mcg
+DB01284,Suspension,Intramuscular,1 mg
+DB09547,Injection,Intramuscular; Subcutaneous,80 [USP'U]/mL
+DB01288,Solution,Oral; Respiratory (inhalation),
+DB01291,"Aerosol, metered",Respiratory (inhalation),250 mcg
+DB01402,Liquid,Oral,
+EXPT01563,Patch,Topical,
+DB01299,Tablet,Oral,
+DB01301,"Powder, for solution",Intra-articular; Intraperitoneal; Intrapleural; Intrathecal; Intravenous,275 mg
+DB01303,Tablet,Oral,200 mg
+DB01306,"Injection, solution",Subcutaneous,
+DB01307,Solution,Subcutaneous,100 unit
+DB01309,Solution,Subcutaneous,100 unit
+DB01319,"Tablet, film coated",Oral,700 mg
+DB01320,"Injection, solution",Intramuscular; Intravenous,50 mg/mL
+DB01323,Capsule,Oral,300 mg
+DB01326,"Powder, for solution",Intravenous,2 g
+DB01327,"Powder, for solution",Intravenous,500 mg
+DB01330,"Injection, solution",Intravenous,2 g/50mL
+EXPT00897,"Powder, for solution",Intravenous,10 g
+DB01332,"Powder, for solution",Intramuscular; Intravenous,2 g
+DB01337,Liquid,Intravenous,2 mg
+DB01339,"Powder, for solution",Intravenous,20.00 mg
+DB01340,Tablet,Oral,5.0 mg
+DB06658,Suspension,Oral; Rectal,15 g
+DB01345,"Powder, for solution",Oral,
+DB01351,Capsule,Oral,
+DB01356,Syrup,Oral,8 mmol
+DB01357,Tablet,Oral,
+DB01362,For solution,Oral,4.5 g/1
+DB01363,Capsule,Oral,10.8 mg
+DB01364,Liquid,Infiltration; Subcutaneous,
+DB01365,Liquid,Intramuscular; Intravenous,30 mg
+DB01366,"Aerosol, metered",Respiratory (inhalation),10 mcg
+EXPT02758,Tablet,Oral,1.0 mg
+DB01369,"Powder, for solution",Intravenous,
+DB11314,Powder,Topical,4866 mg/4.866g
+DB01373,Tablet,Oral,500 mg
+DB01377,"Capsule, liquid filled",Oral,
+DB01378,"Powder, for solution",Oral,
+DB01380,Tablet,Oral,5 mg
+DB01390,"Granule, for solution",Nasal,
+DB01392,Tablet,Oral,6 mg
+DB08380,Tablet,Oral,200 mg
+DB01394,Ointment,Topical,
+DB01395,Kit,Oral,
+DB01396,Tablet,Oral,.1 mg
+DB01397,"Tablet, coated",Oral,467 mg/1
+DB01399,"Tablet, film coated",Oral,750 mg/1
+DB01400,Tablet,Oral,15 mg
+DB01401,Liquid,Oral,500 mg/5mL
+DB01403,Liquid; solution / drops,Oral,40 mg
+DB01404,Liquid,Topical,1 g/100mL
+DB01406,Capsule,Oral,50 mg/1
+DB01409,"Spray, metered",Respiratory (inhalation),
+DB01410,"Aerosol, metered",Nasal,37 ug/1
+DB01413,"Powder, for solution",Intramuscular; Intravenous,1 g
+DB01415,Suspension,Oral,180 mg/5mL
+DB01416,Tablet,Oral,100 mg
+DB01418,Tablet,Oral,4 mg
+DBSALT001032,Liquid,Intramuscular,100 mg
+DB01421,Capsule,Oral,250 mg/1
+DB01427,Liquid,Intravenous,5 mg
+DB01428,Liquid,Topical,.05 g/100g
+DB01432,Tablet,Oral,1 g
+DB01435,Solution,Topical,
+DB01436,Liquid,Oral,.2 mcg
+DB01438,Tablet,Oral,99.5 mg/1
+DB01495,Capsule,Oral,
+DB01501,Tablet,Oral,
+DB01551,Syrup,Oral,
+DB01558,Tablet,Oral,6 mg
+DB01563,Syrup,Oral,500 mg
+DB01574,Tablet,Oral,600 mg
+DB01575,Cream,Topical,15 g/100mL
+DB01576,Liquid,Oral,5 mg/5mL
+DB01577,Tablet,Oral,5 mg/1
+DB01579,Tablet,Oral,35 mg/1
+DB01580,Tablet,Oral,80 mg
+DB01581,Tablet,Oral,
+DB01582,Tablet,Oral,
+DB01586,Capsule,Oral,250 mg
+DB01587,Capsule,Oral,30 mg
+DB01589,Tablet,Oral,15 mg/1
+DB01590,Tablet,Oral,.75 mg/1
+APRD00168,"Tablet, film coated",Oral,5 mg/1
+DB01592,"Tablet, coated",Oral,
+DB01593,Lozenge,Oral,
+DB01595,Tablet,Oral,5 mg
+EXPT00918,"Injection, powder, for solution",Intravenous,
+DB01598,"Injection, powder, for solution",Intravenous,
+DB01599,Tablet,Oral,250 mg
+DB01600,Tablet,Oral,300 mg
+EXPT00388,"Tablet, film coated",Oral,
+DB01602,Tablet,Oral,800 mg
+DB01604,Tablet,Oral,500 mg
+DB01605,Tablet,Oral,185 mg
+EXPT03012,"Injection, powder, lyophilized, for solution",Intravenous,
+DB01607,"Powder, for solution",Intravenous,
+DB01608,Solution / drops,Oral,10 mg
+DB01609,"Tablet, film coated",Oral,90 mg/1
+DB01610,Tablet,Oral,450 mg/1
+DB01611,Tablet,Oral,200 mg
+DB01612,Liquid,Respiratory (inhalation),.3 ml
+DB01618,Tablet,Oral,5 mg/1
+DB01620,"Granule, for solution",Oral,
+DB01621,Solution,Intramuscular,50 mg
+DB01622,Tablet,Oral,10 mg
+DB01623,Capsule,Oral,5 mg/1
+DB08920,Solution,Intramuscular,50 mg
+DB01625,Tablet,Oral,
+DB01627,"Injection, solution",Intramuscular; Intravenous; Subconjunctival,300 mg/mL
+DB09391,Spray,Oral,
+EXPT02802,"Tablet, film coated",Oral,500 μg
+DB06593,Kit,Oral,
+DB13159,Aerosol,Topical,
+EXPT00827,Liniment,Percutaneous; Transdermal,
+EXPT01246,"Powder, for solution",Intravenous,
+EXPT02501,"Capsule, gelatin coated",Oral,
+DB11078,Solution / drops,Ophthalmic,.06 mg/mL
+EXPT00794,Liquid,Topical,
+DB11280,Solution,Intraperitoneal,
+EXPT01461,"Tablet, coated",Oral,
+DB11103,"Capsule, gelatin coated",Oral,
+EXPT03093,"Capsule, delayed release pellets",Oral,
+EXPT00772,Shampoo,Topical,1 g/100g
+EXPT02131,Suspension,Topical,
+DB04402,Gel,Topical,65 %
+EXPT01033,"Tablet, coated",Oral,
+EXPT02486,Lotion,Topical,
+EXPT01913,Liquid,Respiratory (inhalation),
+DB08850,Kit,,
+EXPT02902,Capsule,Oral,100 mg/1
+EXPT00906,Capsule,Oral,50 mg
+EXPT02307,Liquid,Topical,3 g/100mL
+EXPT01507,Solution / drops,Ophthalmic,1 %
+EXPT02968,Tablet,Oral,
+EXPT02977,Solution,Oral,
+EXPT02150,Liquid,Hemodialysis,
+EXPT02006,"Capsule, liquid filled",Oral,
+DB11307,Liquid,Topical,
+EXPT00247,Powder,Oral,1.5 g
+EXPT00412,"Powder, for solution",Intraocular,20 mg
+EXPT01391,"Capsule, delayed release pellets",Oral,
+DB04184,Kit,,
+EXPT02630,Solution,Topical,
+EXPT02965,Gel,Topical,.4 g/20mL
+EXPT02456,Capsule,Oral,
+EXPT01458,"Injection, solution",Intravenous,
+EXPT01917,Plaster,Topical,
+DB09544,Kit; solution,Intraocular; Irrigation,
+EXPT01720,"Powder, for solution",Intravenous,7 mg/mL
+EXPT02440,Tablet,Oral,100 mg
+EXPT00979,"Capsule, gelatin coated",Oral,
+DB07690,"Injection, solution",Subcutaneous,20 mg/2mL
+EXPT03078,"Aerosol, spray",Topical,
+EXPT03072,Solution,Intravenous,36 mg
+DB11070,"Capsule, gelatin coated",Oral,
+EXPT00675,Tablet,Oral,
+EXPT02607,Suspension,Endotracheal,
+EXPT01444,Liquid,Dental,
+EXPT00969,Liquid,Respiratory (inhalation),
+EXPT03203,Ointment,Topical,7.5 g/30g
+EXPT01357,Tablet,Oral,
+DB11055,"Injection, powder, lyophilized, for solution",Intravenous,
+EXPT01495,Syrup,Oral,
+DB11615,Liquid,Oral,.5 %
+DB11287,Soap,Topical,
+EXPT02430,Ointment,Topical,
+EXPT00922,Liquid,Topical,.007 g/mL
+EXPT02378,Solution,Extracorporeal,
+DB09294,Solution,Topical,
+EXPT02005,Suspension,Oral,50 g
+EXPT02413,"Injection, emulsion",Intravenous,
+EXPT02023,Solution,Irrigation,
+DB04571,Tablet,Oral,5 mg
+DB04572,"Powder, for solution",Intracavitary; Intravenous; Intravesical,15 mg
+DB04574,Tablet,Oral,3.0 mg
+DB04711,Liquid,Intrauterine,
+DB04789,Capsule,Oral,
+DB04815,Ointment,Topical,3 %
+DB04816,Capsule,Oral,
+DB04824,Capsule,Oral,
+DB04835,"Tablet, film coated",Oral,75 mg/1
+DB04837,Syrup,Oral,25 mg
+DB04838,Tablet,Oral,200 mg
+DB04839,Tablet,Oral,
+DB04841,Capsule,Oral,5 mg
+DB04842,Suspension,Intramuscular,2 mg
+DB04843,Tablet,Oral,25 mg/1
+DB04844,"Tablet, coated",Oral,25 mg/1
+DB04845,Kit,Intravenous,
+DB03786,Tablet,Oral,80 mg
+DB04855,"Tablet, film coated",Oral,400 mg
+DB04861,Tablet,Oral,5 mg/1
+DB04865,"Injection, powder, lyophilized, for solution",Subcutaneous,3.5 mg/mL
+DB04868,Capsule,Oral,50 mg/1
+DB04871,"Tablet, film coated, extended release",Oral,20 mg/1
+DB04876,Tablet,Oral,50 mg
+DB04890,Solution / drops,Ophthalmic,15 mg/mL
+DB04895,Solution,Intravitreal,0.3 mg
+DB04896,"Tablet, film coated",Oral,50 mg/1
+DB04899,"Powder, for solution",Intravenous,1.5 mg
+DB04908,"Tablet, film coated",Oral,100 mg/1
+DB04911,"Injection, powder, lyophilized, for solution",Intravenous,400 mg/1
+DB04918,"Powder, for solution",Intravenous,500 mg
+DB04920,Emulsion,Intravenous,0.5 mg
+DB04930,Cream,Topical,50 mg/g
+DB04932,Solution,Intravenous,80 mg
+DB04938,"Tablet, film coated",Oral,60 mg/1
+DB04941,"Tablet, coated",Oral,125 mg/1
+DB04946,Tablet,Oral,8 mg/1
+DB04948,"Tablet, film coated",Oral,.2 mg/1
+DB04951,"Tablet, coated",Oral,801 mg/1
+DB04953,"Tablet, film coated",Oral,50 mg
+DB05013,Gel,Topical,500 ug/g
+DB05015,"Injection, powder, lyophilized, for solution",Intravenous,500 mg/10mL
+DB05016,Granule,Oral,250 mg
+DB05018,Capsule,Oral,123 mg
+DB05039,Capsule,Respiratory (inhalation),
+DB05084,"Injection, solution",Subcutaneous,2000 ug/mL
+DB05099,Liquid,Intravenous; Subcutaneous,70 unit
+DB05109,"Powder, for solution",Intravenous,1 mg
+DB05219,Ointment,Topical,20 mg/g
+DB05239,"Tablet, film coated",Oral,20 mg/1
+DB05245,Cream,Topical,10 mg/g
+DB05246,Capsule,Oral,300 mg
+APRD00999,Solution,Subcutaneous,40 mg
+DB05260,"Injection, solution, concentrate",Intravenous,25 mg/mL
+DB05271,"Patch, extended release",Transdermal,8 mg/24h
+DB05276,Injection,Intramuscular,312 [iU]/mL
+DB08764,Tablet,Oral,300 mg/1
+DB05311,"Injection, solution",Subcutaneous,10 mg/mL
+DB05316,"Tablet, coated",Oral,17 mg/1
+DB05332,"Powder, for solution",Subcutaneous,500 mcg
+DB05336,Solution,Intravenous,100 mg/mL
+DB05351,"Capsule, delayed release",Oral,30 mg/1
+DB00667,Liquid,Percutaneous,6 mg
+DB05247,"Capsule, liquid filled",Oral,
+DB05384,Kit,Topical,
+DB05521,"Tablet, film coated",Oral,375 mg
+DB05528,"Injection, solution",Subcutaneous,200 mg/mL
+DB05541,Tablet,Oral,75 mg
+DB05578,Solution,Intravenous,10 mg/mL
+DB05599,Emulsion,Topical,
+DB05676,"Tablet, film coated",Oral,30 mg
+DB05679,Solution,Subcutaneous,90 mg
+DB05773,"Powder, for solution",Intravenous,160 mg
+DB05812,"Tablet, film coated",Oral,500 mg/1
+DB05829,"Injection, powder, for solution",Subcutaneous,100 µg
+DB05889,"Powder, for solution",Intravenous,0.9 mg
+DB05990,"Tablet, film coated",Oral,5 mg/1
+DB06014,Injection,Intravenous,50 mg/mL
+DB06016,Kit,Oral,
+DB06043,Solution,Intravenous,500 mg
+DB06145,Capsule,Oral,1500000 unit
+DB05436,Liquid,Intravenous,200 mg
+DB06152,Tablet,Oral,6 mg
+DB06153,Tablet,Oral,1 mg
+DB06154,Tablet,Oral,20 mg
+DB06155,"Tablet, film coated",Oral,20 mg
+DB06168,Solution,Subcutaneous,150 mg
+DB06176,"Kit; powder, for solution",Intravenous,10 mg
+DB06186,Liquid,Intravenous,5 mg
+DB06193,"Injection, powder, for solution",Intravenous,29 mg
+DB06196,Solution,Subcutaneous,10 mg
+DB06201,"Tablet, film coated",Oral,400 mg
+DB06202,"Tablet, film coated",Oral,500 μg
+DB06203,"Tablet, film coated",Oral,
+DB06204,"Tablet, multilayer, extended release",Oral,75 mg
+DB06205,"Injection, solution",Subcutaneous,150 [USP'U]/mL
+DB06206,Solution,Intravenous,100 mg
+DB06207,Capsule,Oral,8 mg
+DB06209,"Tablet, film coated",Oral,5 mg/1
+DB06210,Tablet,Oral,75 mg
+DB06211,"Powder, for solution",Intravenous,500 mg/10mL
+DB06212,Tablet,Oral,60 mg
+DB06213,"Injection, solution",Intravenous,.08 mg/mL
+DB06215,Solution,Intravenous,30 mg
+DB06216,Tablet,Sublingual,5 mg/1
+DB06217,Solution,Intravenous,20 mg
+DB06218,"Tablet, film coated",Oral,50 mg
+DB06219,"Injection, powder, for solution",Intravenous,500 mg
+DB08477,"Tablet, film coated",Oral,20 mg/1
+DB06230,"Tablet, film coated",Oral,18 mg
+DB06237,Tablet,Oral,50 mg/1
+DB06243,Cream,Topical,139 mg/g
+DB06261,"Kit; powder, for solution",Intravesical,100 mg
+DB06262,Capsule,Oral,300 mg/1
+DB06268,"Tablet, film coated",Oral,100 mg
+DB06273,Solution,Subcutaneous,162 mg
+DB06274,Capsule,Oral,12 mg/1
+DB06282,Tablet,Oral,5 mg/1
+DB06283,"Injection, solution",Intrathecal,25 μg/ml
+DB05581,Solution,Subcutaneous,250 mcg
+DB06287,Liquid,Intravenous,25 mg
+DB06290,Capsule,Oral,150 mg/1
+DB06292,"Tablet, film coated, extended release",Oral,
+DB06317,"Powder, for solution",Intravenous,440 mg
+DB06335,"Tablet, film coated",Oral,5 mg
+DB06366,"Kit; powder, for solution; solution",Intravenous,
+DB06372,"Injection, powder, for solution",Subcutaneous,80 mg/ml
+DB06401,"Tablet, multilayer, extended release",Oral,
+DB06402,"Powder, for solution",Intravenous,750 mg
+DB06403,"Tablet, film coated",Oral,5 mg
+DB06404,Kit,,
+DB06410,"Injection, solution",Intravenous,4 ug/2mL
+DB06412,Tablet,Oral,50 mg
+DB06413,Tablet,Oral,50 mg/1
+DB07191,Tablet,Oral,25 mg/1
+DB06415,Suspension,Endotracheal,35.7 mg/mL
+DB06441,"Injection, powder, for solution",Intravenous,50 mg
+DB06480,Tablet,Oral,2 mg
+DB06589,"Tablet, film coated",Oral,400 mg
+DB06590,"Injection, powder, for solution",Intravenous,600 mg
+DB06595,"Capsule, liquid filled",Oral,25 mg/1
+DB06602,Solution,Intravenous,10 mg
+DB06603,Capsule,Oral,20 mg
+DB07828,Kit,,
+DB06607,Solution,Intraperitoneal,0.1 mg
+DB06612,"Powder, for solution",Subcutaneous,100 mg
+DB03655,Solution,Intravenous,600 mg/60mL
+DB06616,"Tablet, film coated",Oral,500 mg/1
+DB06626,"Tablet, film coated",Oral,7 mg
+DB06636,"Injection, powder, lyophilized, for solution",Intravenous,74.4 mg/mL
+DB06637,"Tablet, extended release",Oral,10 mg
+DB06643,Solution,Subcutaneous,120 mg
+DB06650,Solution,Intravenous,1000 mg
+DB06654,"Tablet, film coated",Oral,50 mg/1
+DB06655,Solution,Subcutaneous,
+DB06663,"Kit; powder, for suspension",Intramuscular,60 mg
+DB06674,Solution,Intravenous,50 mg
+DB06681,"Injection, powder, lyophilized, for solution",Intravenous,250 mg/1
+DB06684,Tablet,Oral,40 mg
+DB06688,Injection,Intravenous,50000000 1/1
+DB06689,Liquid,Intravenous,50 mg
+DB06690,Gas,Respiratory (inhalation),99 %
+DB06691,Suspension,Oral,
+DB06692,Liquid,Intravenous,100000 unit
+DB06694,Spray,Nasal,.015 mL/15mL
+DB06695,Capsule,Oral,75 mg/1
+DB06697,Tablet,Oral,
+DB06698,Tablet,Oral,8 mg
+DB06699,"Powder, for solution",Subcutaneous,80 mg
+DB06700,"Tablet, extended release",Oral,50 mg/1
+DB06701,"Capsule, extended release",Oral,5 mg/1
+DB06702,"Tablet, film coated, extended release",Oral,8 mg/1
+DB06703,Solution,Intravenous,604.72 mg
+DB06705,Solution,Intravenous,244 mg
+DB06706,Capsule,Oral,
+DB06707,Solution,Infiltration,
+DB06708,Tablet,Oral,
+DB06709,Solution,Respiratory (inhalation),16 mg
+DB06710,Capsule,Oral,10 mg/1
+DB06711,Solution / drops,Ophthalmic,1 mg
+DB06713,Patch,Transdermal,
+DB06714,Inhalant,Nasal,250 mg/1
+DB06715,"Capsule, gelatin coated",Oral,
+DB05279,Injection,Intravenous,35 mg/mL
+DB06717,"Injection, powder, for solution",Intravenous,150 mg
+DB06719,Liquid,Nasal,1 mg
+DB05543,"Powder, for solution",Intravenous,400 unit
+DB06723,Tablet,Oral; Other,
+DB06724,Tablet,Oral,750 mg
+DB06752,"Powder, for solution",Intradiscal,4 unit
+DB06754,Solution,Intravenous; Subcutaneous,750 unit
+DB06755,"Capsule, liquid filled",Oral,
+DB06756,Kit,,
+DB06757,Solution,Intravenous,
+DB06760,Solution,Oral,8500 [iU]/mL
+DB06761,Suspension,Endotracheal,25 mg
+DB06764,Solution / drops,Ophthalmic,.05 mg/10mg
+DB06766,Solution / drops,Ophthalmic,2.5 mg/mL
+DB06767,Liquid,Oral,
+DB06768,Cream,Topical,120 mg/g
+DB06769,"Powder, for solution",Intravenous,25 mg
+DB06770,Gel,Topical,.1 g/g
+DB05862,Suspension,Ophthalmic,6 mg/mL
+DB06772,Solution,Intravenous,40 mg
+DB05318,Kit,,
+DB06775,"Tablet, orally disintegrating",Oral,200 mg
+DB06777,"Tablet, film coated",Oral,250 mg/1
+DB06778,"Tablet, chewable",Oral,
+DB06779,Liquid,Intravenous; Subcutaneous,2500 unit
+DB06781,Emulsion,Ophthalmic,0.05 %
+DB06782,Solution,Intramuscular,100 mg
+DB09538,Capsule,Oral,500 mg/1
+DB09412,"Injection, solution",Intravenous,2 mCi/mL
+DB06785,Solution,Subcutaneous,250 mcg
+DB06786,Ointment,Topical,0.1 %
+DB06788,Implant; kit,Subcutaneous,50 mg
+DB06789,Injection,Subcutaneous,250 mg/mL
+DB06791,Injection,Subcutaneous,90 mg/.3mL
+DB06792,"Tablet, chewable",Oral,750 mg
+DB06794,Solution / drops,Ophthalmic,1 mg/mL
+DB06795,Cream,Topical,8.5 %
+DB06796,Solution,Intravenous,37.9 mg
+DB06146,Tablet,Oral,
+DB06800,Tablet,Oral,150 mg/1
+DB06802,Suspension / drops,Ophthalmic,1 mg/mL
+DB06804,"Gel, metered",Vaginal,4 g/100g
+DB06809,Solution,Subcutaneous,24 mg/1.2mL
+DB06811,Kit,Intravenous,1.3 mg
+DB06812,Solution,Topical,.1 L/L
+DB05527,Injection,Intravenous,20 mg/mL
+DB06815,Cream,Topical,.5 %
+DB06816,Suspension,Oral,50 mg
+DB05355,Tablet,Oral,600 mg
+DB12600,Tablet,Oral,500 mg/1
+DB06820,Solution,Topical,10 mg/mL
+DB06822,Liquid,Subcutaneous,10000 unit
+DB06823,"Tablet, sugar coated",Oral,100 mg/1
+DB06824,Capsule,Oral,250 mg/1
+DB06825,Kit,,
+DB06826,Solution / drops,Ophthalmic,1.5 mg/mL
+DB11139,"Tablet, coated",Oral,
+DB08439,"Injection, powder, for solution",Intramuscular; Intravenous,40 mg
+DB08604,Liquid,Topical,0.1 %
+DB08797,Tablet,Oral,
+DB08799,Solution,Ophthalmic,
+DB08804,"Injection, solution",Intramuscular,200 mg/mL
+DB08809,Liquid,Topical,100 %
+DB08813,Solution,Intravenous; Subcutaneous,19000 unit
+DB08815,"Tablet, film coated",Oral,80 mg/1
+DB04902,"Tablet, film coated",Oral,90 mg
+DB08818,Gel,Topical,.1 mg/mL
+DB08819,Solution / drops,Ophthalmic,.0045 mg/.3mL
+DB05989,"Tablet, film coated",Oral,
+DB05358,Tablet,Oral,
+DB08823,Suspension,Topical,9 mg/mL
+DB09548,"Injection, solution",Intravenous,2 mCi/mL
+DB08826,"Tablet, film coated",Oral,500 mg
+DB08827,Capsule,Oral,60 mg/1
+DB08828,Capsule,Oral,150 mg/1
+DB08847,Cream,Topical,.51 1/100mL
+DB06514,"Tablet, film coated",Oral,4.18 mg/1
+DB08862,"Powder, for solution",Intravenous,75 unit
+DB05083,"Tablet, film coated",Oral,25 mg/1
+DB08700,Capsule,Oral,250 mg/1
+DB05366,Tablet,Oral,5 mg
+DB08868,Capsule,Oral,0.5 mg
+DB08869,"Kit; powder, for solution",Subcutaneous,2 mg
+DB08870,"Powder, for solution",Intravenous,50 mg
+DB04940,Solution,Intravenous,0.5 mg
+DB04922,"Tablet, extended release",Oral,600 mg/1
+DB05665,"Capsule; powder, for solution",Oral; Subcutaneous,
+DB08874,"Tablet, film coated",Oral,200 mg
+DB05153,Kit,,
+DB08876,"Powder, for solution",Intravenous,200 unit
+DB08877,Tablet,Oral,5 mg
+DB08879,Solution,Subcutaneous,200 mg/mL
+DB03805,"Tablet, film coated",Oral,7 mg/1
+DB05238,"Tablet, film coated",Oral,240 mg/1
+DB08882,"Tablet, film coated",Oral,5 mg
+DB08883,"Tablet, film coated",Oral,8 mg
+DB08884,Solution,Intravenous,181.43 mg
+DB08885,"Solution, concentrate",Intravenous,200 mg/8mL
+DB08886,"Injection, powder, lyophilized, for solution",Intramuscular; Intravenous,10000 [iU]/mL
+DB06291,Capsule,Oral,500 mg/1
+DB05028,Solution,Intravitreal,2.5 mg
+DB08889,"Powder, for solution",Intravenous,60 mg
+DB05566,"Capsule, gelatin coated",Oral,72 ug/1
+DB05702,"Tablet, film coated, extended release",Oral,50 mg/1
+DB08183,"Tablet, film coated, extended release",Oral,11 mg/1
+DB08896,"Tablet, film coated",Oral,40 mg/1
+DB08897,Inhalant,Respiratory (inhalation),400 ug/1
+DB08898,"Injection, powder, for solution",Intravenous,1000 [USP'U]/1
+DB05094,Capsule,Oral,40 mg/1
+DB08900,"Kit; powder, for solution",Subcutaneous,5 mg
+DB06300,"Tablet, film coated",Oral,45 mg/1
+DB05872,Injection,Intravenous,50 mg/mL
+DB08903,Tablet,Oral,100 mg/1
+DB08904,Solution,Subcutaneous,200 mg
+DB08905,"Liquid; powder, for solution",Intramuscular,
+DB08906,"Spray, metered",Nasal,27.5 ug/1
+DB08907,"Tablet, film coated",Oral,300 mg/1
+DB08908,Kit,,
+DB06170,Liquid,Oral,1.1 g
+DB08910,Capsule,Oral,4 mg
+DB08911,"Tablet, film coated",Oral,2 mg
+DB08912,Capsule,Oral,75 mg
+DB09566,Injection,Intravenous,30 uCi/mL
+DB08916,Tablet,Oral,40 mg
+DB08917,"Injection, solution",Intravenous,50 mg/mL
+DB08918,Kit,Oral,
+DB08930,"Tablet, film coated",Oral,
+DB08931,"Tablet, film coated",Oral,2.5 mg
+DB08932,"Tablet, film coated",Oral,10 mg/1
+DB08933,Cream,Topical,10 mg/g
+DB08934,"Tablet, film coated",Oral,400 mg
+DB08935,Solution,Intravenous,25 mg
+DB08936,Liquid,Oral,
+DB08938,Tablet,Oral,480 mg
+DB08941,Tablet,Oral,20 mg/1
+DB08946,Tablet,Oral,500 mg
+DB08947,Liquid,Intravenous; Subarachnoid,200 mg
+DB08949,"Capsule, gelatin coated",Oral,
+DB08958,Liquid,Buccal,0.1 %
+DB08976,Tablet,Oral,400 mg
+DB08988,Tablet,Oral,
+DB09009,Solution,Infiltration,
+DB09020,Tablet,Oral,5 mg/1
+DB01258,"Tablet, film coated",Oral,300 mg/1
+DB09027,"Tablet, film coated",Oral,
+DB09029,Solution,Subcutaneous,150 mg
+DB05692,"Tablet, film coated",Oral,2.08 mg/1
+DB09031,Capsule,Oral,50 mg/1
+DB05802,"Powder, for solution",Intravenous,300 mg
+DB09034,"Tablet, film coated",Oral,5 mg/1
+DB06132,Solution,Intravenous,10 mg
+DB09036,"Powder, for solution",Intravenous,400 mg
+DB09037,Solution,Intravenous,25 mg
+DB09038,"Tablet, extended release",Oral,
+DB05715,Capsule,Oral,84 mg
+DB09040,Solution,Topical,100 mg/mL
+DB05058,Solution,Topical,43.5 mg/mL
+DB09042,"Tablet, film coated",Oral,200 mg
+DB05162,"Injection, powder, lyophilized, for solution",Subcutaneous,50 mg/.5mL
+DB09045,Solution,Subcutaneous,1.5 mg
+DB09046,"Injection, powder, lyophilized, for solution",Subcutaneous,11.3 mg/2.2mL
+DB09047,Suspension,Auricular (otic),0.3 %
+DB09048,Capsule,Oral,
+DB09049,"Tablet, film coated",Oral,25 mg
+DB09050,"Powder, for solution",Intravenous,
+DB09051,Solution,Intravenous,1 mg
+DB09052,"Powder, for solution",Intravenous,38.5 mcg
+DB09053,"Tablet, film coated",Oral,560 mg/1
+DB09054,"Tablet, film coated",Oral,150 mg
+DB09057,Solution,Intravenous,60 unit
+DB09059,"Injection, solution, concentrate",Intravenous,37.5 mg/5ml
+DB09060,"Injection, powder, for solution",Intravenous,
+DB09061,Spray,Buccal,
+DB09063,Capsule,Oral,150 mg/1
+DB09065,"Tablet, film coated",Oral,150 mg
+DB09066,"Injection, solution",Subcutaneous,150 micrograms
+DB09067,"Injection, powder, lyophilized, for solution",Intravenous,100 ug/2mL
+DB05700,Tablet,Oral,5 mg
+DB05359,Capsule,Oral,20 mg
+DB09072,Solution,Oral,500 mg
+DB09073,Capsule,Oral,75 mg/1
+DB05940,"Tablet, film coated",Oral,150 mg/1
+DB09075,"Tablet, film coated",Oral,60 mg/1
+DB09076,Powder,Respiratory (inhalation),62.5 mcg
+DB09077,Injection,Intravenous,3.5 mg/mL
+DB09078,Kit,,
+DB09079,Capsule,Oral,150 mg
+DB09080,"Spray, metered",Respiratory (inhalation),2.5 ug/1
+DB09081,"Tablet, film coated",Oral,150 mg
+DB06577,Powder,Respiratory (inhalation),
+DB09083,Tablet,Oral,7.5 mg
+DB09084,Solution,Buccal,15 mg
+DB09085,Aerosol,Oral,
+DB09086,Liquid,Topical,850 mg/mL
+DB09088,Liquid,Nasal,
+DB09089,Tablet,Oral,100 mg
+DB09090,Tablet,Oral,50 mg
+DB09091,Suspension,Rectal,250 mg
+DB09092,Tablet,Oral,300 mg
+DB09093,Ointment,Ophthalmic,1 %
+DB09094,Ointment,Topical,
+DB09095,Ointment,Topical,0.1 %
+DB09096,Ointment,Topical,100 mg/g
+DB09097,Tablet,Oral,0.15 mg
+DB09098,"Powder, for solution",Intramuscular,
+DB09099,"Liquid; powder, for solution",Intravenous,
+DB09100,Tablet,Oral,120 mg/1
+DB05618,"Tablet, film coated",Oral,85 mg
+DB09102,Tablet,Oral,90 mg/1
+DB09103,"Kit; powder, for solution",Subcutaneous,
+DB09104,Liquid,Oral,2400 mg/15mL
+DB09105,Solution,Subcutaneous,80 mg/.8mL
+DB09106,Solution,Intravenous,6 %
+DB06279,Solution,Intravenous; Subcutaneous,75 mcg
+DB09108,"Kit; powder, for solution",Intravenous,
+DB09109,"Kit; powder, for solution",Intravenous,500 unit
+DB09110,Liquid,Intravenous; Oral,100 mg
+DB09111,Solution,Intravenous,10 g
+DB09112,Solution,Intravenous,30 mg
+DB09113,Suspension,Endotracheal,80 mg/mL
+DB09114,Suspension,Endotracheal,
+DB09115,Cream,Vaginal,
+DB09116,Tablet,Oral,50 mg
+DB09117,Liquid,Intramuscular; Intravenous,100 %
+DB09118,"Powder, for suspension",Oral,500 mg
+DB09119,Tablet,Oral,800 mg
+DB09120,Cream,Topical,0.075 %
+DB09121,Suspension,Intramuscular,50 mg
+DB09122,Liquid,Subcutaneous,94 mcg
+DB09123,Tablet,Oral,2.00 mg
+DB09124,Tablet,Oral,5 mg
+DB09125,"Tablet, extended release",Oral,15 meq/1
+DB09126,"Powder, for solution",Intramuscular,10000 unit
+DB09128,Tablet,Oral,4 mg/1
+DB09129,Solution,Intravenous,
+DB09130,"Capsule, liquid filled",Oral,
+DB09131,Solution,Intravenous,
+DB09132,Solution,Intravenous,376.9 mg
+DB09133,Solution,Intra-arterial; Intravenous,
+DB09134,Solution,Intravascular,74 %
+DB09135,"Injection, solution",Intravascular,350 mg/mL
+DB09136,Solution,Subcutaneous,10 mg
+DB09137,"Injection, powder, lyophilized, for solution",Intravenous,10 mg/1
+DB09138,"Injection, powder, for solution",Intravenous,25 mg/1
+DB09139,"Injection, powder, lyophilized, for solution",Intravenous,3.15 mg/1
+DB09140,Gas,Respiratory (inhalation),100 %
+DB09141,Solution,Intravenous,10 mg
+DB09142,"Injection, powder, lyophilized, for solution",Intravenous,3 ug/1
+DB09143,Capsule,Oral,200 mg/1
+DB05425,Granule,Oral,951 mg/g
+DB09145,Liquid,Intramuscular; Intravenous; Subcutaneous,
+DB06790,"Capsule, gelatin coated",Oral,
+DB09148,"Injection, solution",Intravenous,300 MBq/ml
+DB09149,"Injection, solution",Intravenous,800 MBq/ml
+DB09151,Solution,Intravenous,4.05 mCi/mL
+DB09152,Emulsion,Intravenous,
+DB09153,"Granule, for solution",Nasal,
+DB09159,Solution,Extracorporeal,14 g/30mL
+DB09155,Gas,Respiratory (inhalation),
+DB09156,Solution,Intravascular,77 %
+DB09157,Gas,Respiratory (inhalation),
+DB09158,"Injection, solution",Intraocular; Ophthalmic,.3 mg/.5mL
+DB09161,"Injection, powder, for solution",Intravenous,1 mg/mL
+DB09163,"Injection, powder, lyophilized, for solution",Intravenous,.5 mg/1
+DB09164,"Injection, powder, lyophilized, for solution",Intravenous,20 mg/10mL
+DB09417,"Injection, powder, lyophilized, for solution",Intravenous,
+DB09183,Kit,,
+DB09208,"Injection, solution, concentrate",Intravenous,8 mg/ml
+DB09222,Solution,Topical,
+DB09228,"Injection, powder, for solution",Intravenous,2100 U/1
+DB09241,Tablet,Oral,
+DB09255,Solution / drops,Ophthalmic,
+DB09256,Capsule,Oral,
+DB09257,Capsule,Oral,
+DB09263,"Powder, for suspension",Oral,8.4 g/1
+DB09264,Solution,Intravenous,50 mg
+DB09265,"Injection, solution",Subcutaneous,
+DB09266,Kit,,
+DB09267,Granule,Oral,2 g
+DB09268,"Powder, metered",Oral,
+DB09269,"Injection, solution, concentrate",Intravenous,
+DB09270,"Capsule, gelatin coated",Oral,
+DB09272,"Tablet, film coated",Oral,75 mg/1
+DB09275,Capsule,Oral,
+DB09276,Solution,Intramuscular,50 mg
+DB05269,Gel,Topical,2 g/100mL
+DB09280,"Tablet, film coated",Oral,
+DB09281,Tablet,Oral,
+DB09287,Liquid,Ophthalmic,
+DB09291,Tablet,Oral,90 mg/1
+DB09292,"Tablet, film coated",Oral,
+DB12217,Solution,Oral,5 mCi/mL
+DB09296,Tablet,Oral,
+DB09297,Tablet,Oral,
+DB09299,Tablet,Oral,25 mg
+DB11535,Solution,Intramuscular; Intravenous; Subcutaneous,20 mg
+DB11339,Patch,Topical,
+DB09302,Solution,Subcutaneous,75 mg
+DB09303,Solution,Subcutaneous,140 mg
+DB09310,"Powder, for solution",Intravenous,15 mg
+DB09311,Tablet,Oral,500 mg
+DB09312,Liquid,Intravenous,50 mg
+DB09313,Solution,Intravascular,
+DB13043,"Injection, solution",Intravenous,7.5 Ci/1
+DB09315,Gas,Respiratory (inhalation),5 mCi/mL
+DB09316,"Injection, solution",Intravenous,2 mCi/mL
+DB09317,"Tablet, film coated",Oral,1.25 mg/1
+DB09318,"Tablet, film coated",Oral,1.25 mg/1
+DB09320,"Injection, suspension",Intramuscular,600000 [iU]/mL
+DB09321,Ointment,Topical,40 %
+DB09322,Liquid,Oral,13.5 mg
+DB09323,Suspension,Oral,500000 unit
+DB09324,"Injection, powder, for suspension",Intramuscular; Intravenous,
+DB09325,"Aerosol, foam",Dental,2.72 g/100g
+DB09326,"Injection, solution",Intravenous,37.5 mCi/mL
+DB09329,"Kit; powder, for solution",Intravenous,500 unit
+DB09330,"Tablet, film coated",Oral,80 mg
+DB09331,Solution,Intravenous,400 mg
+DB09333,Capsule,Oral,500 mg
+DB09337,Gas,Respiratory (inhalation),100 %
+DB09341,Liquid,Intraspinal,
+DB09343,"Tablet, film coated",Oral,
+DB09345,Spray,Topical,10 mg/mL
+DB09349,Tablet,Oral,
+DB09350,Shampoo,Topical,
+DB09352,Solution,Ophthalmic,
+DB09353,Cream,Topical,100 mg/g
+DB09357,Liquid,Topical,.2 g/100g
+DB09372,Gel,Topical,7 %
+DB09374,Kit,,
+DB09375,"Powder, for solution",Ophthalmic,300 unit
+DB09381,Tablet,Oral,1.25 mg
+DB09389,Tablet,Oral,0.075 mg
+DB09394,Paste,Dental,
+DB09470,"Injection, solution, concentrate",Intravenous,328 mg/mL
+DB09397,Kit,,
+DB09398,Injection,Intravenous,200 mg/mL
+DB09407,Aerosol,Oral,
+DB09409,"Injection, solution",Intravenous,
+DB09413,Liquid,Irrigation,
+DB09414,Solution,Intravenous,
+DB09418,Capsule,Oral,200 mg
+DB09419,Powder,Oral,25 g
+DB11240,"Capsule, gelatin coated",Oral,200 uCi/1
+DB09421,Solution,Intravenous,500 ug/mL
+DB09422,Spray,Topical,
+DB09425,Solution,Intrathecal,1 mCi/mL
+DB09446,"Injection, emulsion",Intravenous,
+DB09525,"Tablet, coated",Oral,
+DB09459,Tablet,Oral,
+DB09460,Liquid,Irrigation,
+DB04077,Cream,Topical,.16 g/8g
+DB09476,"Solution, concentrate",Oral,
+DB09473,Solution,Intravenous,1 ug/mL
+DB09477,Solution,Intravenous,1.25 mg
+DB09479,"Injection, solution",Intravenous,100 mCi/1
+DB09481,Powder,Oral,
+DB09484,"Paste, dentifrice",Dental,11.5 mg/g
+DB09488,Capsule,Oral,
+DB09490,Kit,,
+DB09493,Kit,,
+DB09494,Lotion,Topical,80 mg/100mL
+DB09495,Oil,Topical,
+DB09496,Lotion,Topical,40 mg/mL
+DB12546,Injection,Intravenous,1 mCi/mL
+DB09499,Solution,Intravenous,25 %
+DB09150,"Injection, solution",Intravenous,500 mCi/mL
+DB09510,Tablet,Oral,100 mg
+DB09511,Powder,Intrapleural,5 g/100mL
+DB09512,Tablet,Oral,125 mg
+DB09513,Capsule,Oral,1 uCi/1
+DB09516,Solution,Topical,
+DB09517,Injection,Intravenous,12.5 mg/mL
+DB09526,Emulsion,Topical,.04 mg/mL
+DB06369,"Injection, powder, lyophilized, for solution",Intravenous,40 ug/10mL
+DB09534,Liquid,Topical,
+DB09535,Oil,Topical,
+DB09536,Lotion,Topical,82 mg/mL
+DB09537,Solution,Topical,
+DB09540,Kit,,
+DB09543,Liquid,Topical,200 mg/g
+DB09546,"Injection, powder, lyophilized, for solution",Intravenous,25 mCi/1
+DB09552,Suspension,Auricular (otic),
+DB09555,"Tablet, coated",Oral,
+DB05774,Solution,Intravenous,16 mg/mL
+DBSALT001586,Liquid,Oral,
+DB09563,Injection,Intramuscular,
+DB09564,Solution,Subcutaneous,
+DB09567,Plaster,Topical,
+DB09568,"Capsule, gelatin coated",Oral,1 g/1
+DB09570,Capsule,Oral,4 mg/1
+DB09571,Inhalant,Nasal,.245 mg/1000mg
+DB09877,Injection,Intramuscular,
+DB10072,Kit,,
+DB10076,"Injection, powder, lyophilized, for solution",Intramuscular,
+DB10307,Solution,Oral,
+DB10283,Kit,,
+DB10284,"Injection, suspension",Intramuscular,
+DB10285,"Injection, suspension",Intramuscular,
+DB10286,"Injection, suspension",Intramuscular,
+DB10287,"Injection, suspension",Intramuscular,
+DB10288,"Injection, suspension",Intramuscular,
+DB10289,"Injection, suspension",Intramuscular,
+DB10290,"Injection, suspension",Intramuscular,
+DB10291,"Injection, suspension",Intramuscular,
+DB10292,"Injection, suspension",Intramuscular,
+DB10293,"Injection, suspension",Intramuscular,
+DB10294,"Injection, suspension",Intramuscular,
+DB10295,"Injection, suspension",Intramuscular,
+DB10296,Suspension,Intramuscular,
+DB10297,"Injection, suspension",Intramuscular,
+DB10298,"Injection, suspension",Intramuscular,
+DB10299,Suspension,Intramuscular,
+DB10300,Suspension,Intramuscular,
+DB10301,Suspension,Intramuscular,
+DB10302,Suspension,Intramuscular,
+DB10310,Suspension,Intramuscular,
+DB10311,Suspension,Intramuscular,
+DB10312,Suspension,Intramuscular,
+DB10313,Suspension,Intramuscular,
+DB10314,Suspension,Intramuscular,
+DB10315,"Kit; powder, for solution",Intramuscular; Subcutaneous,
+DB10316,"Kit; powder, for solution",Intramuscular; Subcutaneous,
+DB10317,"Kit; powder, for solution",Intramuscular; Subcutaneous,
+DB10318,"Injection, powder, lyophilized, for suspension",Subcutaneous,19400 [PFU]/.65mL
+DB10319,Suspension,Intramuscular,
+DB10320,Solution,Intramuscular; Subcutaneous,
+DB10321,Suspension,Intramuscular,
+DB10322,Suspension,Intramuscular,
+DB10323,Suspension,Intramuscular,
+DB10324,Suspension,Intramuscular,
+DB10325,Suspension,Intramuscular,
+DB10326,Solution,Intramuscular; Subcutaneous,
+DB10327,Solution,Intramuscular; Subcutaneous,
+DB10328,Suspension,Intramuscular,
+DB10329,Solution,Intramuscular; Subcutaneous,
+DB10330,Solution,Intramuscular; Subcutaneous,
+DB10331,Solution,Intramuscular; Subcutaneous,
+DB10332,Suspension,Intramuscular,
+DB10333,Solution,Intramuscular; Subcutaneous,
+DB10334,Solution,Intramuscular; Subcutaneous,
+DB10335,Suspension,Intramuscular,
+DB10336,Suspension,Intramuscular,
+DB10337,Suspension,Intramuscular,
+DB10338,Solution,Intramuscular; Subcutaneous,
+DB10339,Solution,Intramuscular; Subcutaneous,
+DB10340,Suspension,Intramuscular,
+DB10341,Solution,Intramuscular; Subcutaneous,
+DB10342,"Injection, suspension",Intramuscular,7.5 ug/.5mL
+DB10343,"Powder, for suspension",Intravesical,50 mg/50mL
+DB10344,Capsule,Oral,3000 mg
+DB10345,"Injection, solution",Intradermal; Subcutaneous,
+DB10346,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10348,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10349,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10350,"Injection, solution",Intradermal; Subcutaneous,
+DB10585,"Injection, solution",Intradermal,100 [BAU]/mL
+DB10352,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10353,"Injection, solution",Subcutaneous,.1 g/mL
+DB10354,"Injection, solution",Intradermal; Subcutaneous,
+DB10355,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10356,"Injection, solution",Percutaneous; Subcutaneous,
+DB10357,"Injection, solution",Subcutaneous,500 [PNU]/mL
+DB10359,"Injection, solution",Subcutaneous,
+DB10360,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10361,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10362,"Injection, solution",Subcutaneous,.1 g/mL
+DB10363,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10364,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10365,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10366,"Injection, solution",Percutaneous; Subcutaneous,100000 [BAU]/mL
+DB10368,"Injection, solution",Percutaneous; Subcutaneous,
+DB10369,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10370,Solution,Intradermal; Percutaneous; Subcutaneous,100000 [BAU]/mL
+DB10371,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10372,"Injection, solution",Intradermal; Subcutaneous,
+DB10373,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10374,"Injection, solution",Subcutaneous,.1 g/mL
+DB10375,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10376,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10377,"Injection, solution",Intradermal; Subcutaneous,
+DB10378,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10402,Solution,Intradermal; Percutaneous; Subcutaneous,
+DB10381,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10382,"Injection, solution",Intradermal; Subcutaneous,
+DB10383,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10384,"Injection, solution",Subcutaneous,
+DB05583,"Injection, solution",Percutaneous; Subcutaneous,1 g/10mL
+DB10386,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10387,"Injection, solution",Subcutaneous,
+DB10388,"Injection, solution",Subcutaneous,
+DB10405,Solution,Intradermal; Percutaneous; Subcutaneous,100000 [BAU]/mL
+DB10390,"Injection, solution",Subcutaneous,
+DB10391,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10392,"Injection, solution",Intradermal; Subcutaneous,
+DB10393,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB05908,Solution,Percutaneous,100000 [BAU]/mL
+DB10395,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10396,Injection,Percutaneous; Subcutaneous,
+DB10397,Injection,Percutaneous; Subcutaneous,
+DB10398,"Injection, solution",Intradermal; Subcutaneous,
+DB10399,Solution,Intradermal; Subcutaneous,10000 unit
+DB05902,"Injection, solution",Percutaneous,
+DB10401,"Injection, solution",Percutaneous,
+DB10403,Solution,Intradermal; Percutaneous; Subcutaneous,100000 [BAU]/mL
+DB10404,Solution,Percutaneous,100000 [BAU]/mL
+DB10406,"Injection, solution",Percutaneous; Subcutaneous,
+DB10408,Injection,Cutaneous; Intradermal; Subcutaneous,.1 g/mL
+DB10411,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10412,"Injection, solution",Subcutaneous,100 [PNU]/mL
+DB10709,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10415,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10416,"Injection, solution",Percutaneous; Subcutaneous,
+DB10689,"Injection, solution",Intradermal; Subcutaneous,
+DB10692,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10419,"Injection, solution",Percutaneous,.01 g/mL
+DB10420,"Injection, solution",Subcutaneous,
+DB10421,"Injection, solution",Subcutaneous,
+DB10422,"Injection, solution",Subcutaneous,
+DB10423,"Injection, solution",Intradermal; Subcutaneous,
+DB10595,"Injection, solution",Intradermal; Subcutaneous,
+DB10425,"Injection, solution",Percutaneous; Subcutaneous,
+DB10426,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10427,"Injection, solution",Percutaneous; Subcutaneous,
+DB10428,"Injection, solution",Percutaneous; Subcutaneous,
+DB10429,"Injection, solution",Intradermal; Subcutaneous,
+DB10430,"Injection, solution",Percutaneous; Subcutaneous,
+DB10431,"Injection, solution",Intradermal; Subcutaneous,
+DB10432,"Injection, solution",Subcutaneous,
+DB10433,"Injection, solution",Percutaneous; Subcutaneous,
+DB10434,"Injection, solution",Percutaneous; Subcutaneous,
+DB10435,"Injection, solution",Percutaneous; Subcutaneous,
+DB10436,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10437,"Injection, solution",Percutaneous; Subcutaneous,
+DB10438,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10439,"Injection, solution",Percutaneous; Subcutaneous,
+DB10440,"Injection, solution",Percutaneous; Subcutaneous,
+DB10441,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10442,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10443,"Injection, solution",Subcutaneous,.1 g/mL
+DB10444,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10445,Liquid,Percutaneous; Subcutaneous,.1 g/mL
+DB10446,"Injection, solution",Intradermal; Subcutaneous,
+DB10447,Liquid,Percutaneous; Subcutaneous,.1 g/mL
+DB10449,"Injection, solution",Subcutaneous,
+DB10450,"Injection, solution",Percutaneous; Subcutaneous,
+DB10451,"Injection, solution",Intradermal; Subcutaneous,.01 g/mL
+DB10452,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10453,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10454,"Injection, solution",Subcutaneous,1000 [PNU]/mL
+DB10455,"Injection, solution",Subcutaneous,10000 [PNU]/mL
+DB10456,"Injection, solution",Intradermal; Subcutaneous,
+DB10457,"Injection, solution",Subcutaneous,20000 [PNU]/mL
+DB10458,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10459,"Injection, solution",Percutaneous; Subcutaneous,
+DB10460,"Injection, solution",Intradermal; Subcutaneous,
+DB10461,"Injection, solution",Intradermal; Subcutaneous,
+DB10462,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10463,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10464,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10465,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10466,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10467,"Injection, solution",Subcutaneous,.1 g/mL
+DB10468,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10469,"Injection, solution",Subcutaneous,.1 g/mL
+DB10470,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10471,"Injection, solution",Subcutaneous,40000 [PNU]/mL
+DB10472,"Injection, solution",Intradermal; Subcutaneous,
+DB10473,"Injection, solution",Subcutaneous,10000 [PNU]/mL
+DB10474,"Injection, solution",Subcutaneous,.05 g/mL
+DB10475,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10478,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10479,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10480,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10481,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10482,"Injection, solution",Subcutaneous,.1 g/mL
+DB10483,"Injection, solution",Subcutaneous,.05 g/mL
+DB10484,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10485,"Injection, solution",Subcutaneous,50000 [PNU]/mL
+DB10486,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10487,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10488,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10489,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10490,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10491,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10493,"Injection, solution",Percutaneous; Subcutaneous,
+DB10494,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10495,"Injection, solution",Intradermal; Subcutaneous,
+DB10496,"Injection, solution",Intradermal; Subcutaneous,
+DB10498,"Injection, solution",Subcutaneous,.1 g/mL
+DB05909,"Injection, solution",Intradermal; Subcutaneous,
+DB10500,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10501,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10502,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10503,"Injection, solution",Percutaneous,.1 mg/mL
+DB10504,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10505,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10506,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10508,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10509,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10510,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10511,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10512,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10513,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10514,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10515,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10516,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10517,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10518,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10519,"Injection, solution",Percutaneous,.1 mg/mL
+DB10520,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10523,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10525,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10526,"Injection, solution",Percutaneous,.1 mg/mL
+DB10527,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10528,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10529,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10530,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10531,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10532,Tablet,Oral,1500 mg
+DB10533,"Injection, solution",Percutaneous,.1 mg/mL
+DB10534,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10535,"Injection, solution",Percutaneous,.005 g/mL
+DB10536,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10537,"Injection, solution",Percutaneous,.1 mg/mL
+DB10538,Powder,Oral,
+DB10539,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10540,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB11013,"Injection, solution",Subcutaneous,
+DB10542,"Injection, solution",Percutaneous,.1 mg/mL
+DB10543,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10544,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10545,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10546,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10547,"Injection, solution",Percutaneous,.1 mg/mL
+DB10548,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10549,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10550,"Injection, solution",Percutaneous,.1 mg/mL
+DB10551,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10552,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10553,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10554,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10555,"Injection, solution",Percutaneous,.1 mg/mL
+DB10556,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10557,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10558,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10559,"Injection, solution",Percutaneous,.1 mg/mL
+DB10560,"Injection, solution",Percutaneous,.1 mg/mL
+DB10561,Liquid,Subcutaneous,100 unit
+DB10562,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10563,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10564,"Injection, solution",Percutaneous,.1 mg/mL
+DB10566,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB11015,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10568,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10569,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10570,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10571,Liquid,Oral,100 %
+DB10572,"Injection, solution",Percutaneous,.1 mg/mL
+DB10573,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB11016,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10575,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10576,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10577,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10578,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10579,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10580,"Injection, solution",Percutaneous,.1 mg/mL
+DB10581,"Injection, solution",Percutaneous; Subcutaneous,
+DB10582,"Injection, solution",Percutaneous,.05 g/mL
+DB10583,Liquid,Intramuscular,5 lf
+DB10603,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10604,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10605,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10606,Liquid,Topical,8 g/100g
+DB10607,"Injection, solution",Percutaneous; Subcutaneous,
+DB10608,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10609,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10610,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10611,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10612,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10613,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10614,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10615,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10616,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10617,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10618,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10619,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10620,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10621,"Injection, solution",Percutaneous,.1 mg/mL
+DB10622,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10623,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10624,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10625,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10626,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10920,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10628,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10629,"Tablet, film coated",Oral,
+DB10630,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10631,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10632,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10633,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10634,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10635,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10636,"Injection, solution",Intradermal; Subcutaneous,1 mL/mL
+DB10637,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10638,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10639,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10640,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10641,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10642,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10643,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10644,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10645,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10646,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10647,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10648,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10650,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10651,Liquid,Oral,
+DB10652,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10653,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB11012,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10655,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10656,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10657,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10658,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10659,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10660,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10661,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10662,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10663,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10664,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10666,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10667,"Injection, solution",Intradermal; Subcutaneous,.01 g/mL
+DB10669,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10670,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10863,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10672,Pill,Oral,.0275 g/g
+DB10673,Liquid,Oral,
+DB10674,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10675,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10676,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10677,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10678,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10679,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10681,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10683,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10685,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10686,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10687,Tablet,Oral,
+DB10688,"Injection, solution",Percutaneous; Subcutaneous,1 g/50mL
+DB10690,"Injection, solution",Intradermal; Subcutaneous,.01 g/mL
+DB10691,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10693,"Injection, solution",Intradermal; Subcutaneous,.01 g/mL
+DB10694,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10695,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10696,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10697,"Injection, solution",Subcutaneous,
+DB10698,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10699,"Injection, solution",Percutaneous; Subcutaneous,
+DB10700,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10701,"Injection, solution",Percutaneous; Subcutaneous,
+DB10702,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10703,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10704,Liquid,Percutaneous; Subcutaneous,.05 g/mL
+DB10706,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10407,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10708,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10710,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10711,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10712,"Injection, solution",Intradermal; Subcutaneous,20000 [PNU]/mL
+DB10713,"Injection, solution",Intradermal; Subcutaneous,
+DB10714,"Injection, solution",Intradermal; Subcutaneous,
+DB10715,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10716,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10717,"Injection, solution",Intradermal; Subcutaneous,
+DB10718,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10719,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10720,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10721,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10722,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10723,"Injection, solution",Intradermal; Subcutaneous,
+DB10724,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10725,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10727,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10728,"Injection, solution",Intradermal; Subcutaneous,
+DB10729,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10730,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10731,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10732,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10733,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10734,Liquid,Percutaneous; Subcutaneous,
+DB10735,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10736,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10737,"Injection, solution",Intradermal; Subcutaneous,
+DB10738,"Injection, solution",Intradermal; Subcutaneous,
+DB10739,Liquid,Percutaneous; Subcutaneous,
+DB10740,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10741,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10742,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10743,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10744,"Injection, solution",Intradermal; Subcutaneous,
+DB10745,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10746,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10747,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10748,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10749,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10750,"Injection, solution",Intradermal; Subcutaneous,
+DB10751,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10752,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10753,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10951,"Injection, solution",Intradermal; Subcutaneous,
+DB10755,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10756,"Injection, solution",Intradermal; Subcutaneous,
+DB10757,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10758,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10759,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10760,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10761,"Injection, solution",Intradermal; Subcutaneous,40000 [PNU]/mL
+DB10762,"Injection, solution",Intradermal; Subcutaneous,
+DB10763,"Injection, solution",Intradermal; Subcutaneous,
+DB10764,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10765,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10766,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10767,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10768,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10770,Cellular sheet,Topical,
+DB10771,Cellular sheet,Topical,
+DB10772,Cellular sheet,Topical,
+DB10788,Suspension,Intramuscular,
+DB10789,"Injection, suspension",Intramuscular,
+DB10790,"Injection, suspension",Intramuscular,
+DB10791,"Injection, suspension",Intramuscular,
+DB10792,"Injection, suspension",Intramuscular,
+DB10793,"Injection, suspension",Intramuscular,
+DB10795,"Injection, suspension",Intramuscular,
+DB10796,"Injection, suspension",Intramuscular,
+DB10797,"Injection, suspension",Intramuscular,
+DB10798,Solution,Intramuscular,
+DB10799,Solution,Intramuscular,
+DB10800,Solution,Intramuscular,
+DB10801,Solution,Intramuscular,
+DB10802,"Injection, suspension",Intramuscular,15 ug/.5mL
+DB10803,Solution; suspension,Intramuscular,
+DB10804,"Injection, powder, lyophilized, for solution",Intravesical,81 mg/3mL
+DB10805,"Powder, for solution",Subcutaneous,109648 pfu
+DB10807,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10808,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10809,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10810,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10811,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10812,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10813,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10814,"Injection, solution",Percutaneous; Subcutaneous,
+DB10815,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10816,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10817,"Injection, solution",Percutaneous; Subcutaneous,
+DB10818,"Injection, solution",Percutaneous; Subcutaneous,
+DB10819,"Injection, solution",Percutaneous; Subcutaneous,
+DB10820,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10821,"Injection, solution",Percutaneous; Subcutaneous,
+DB10822,"Injection, solution",Percutaneous; Subcutaneous,
+DB10823,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10824,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10825,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10826,"Injection, solution",Intradermal; Subconjunctival,.05 g/mL
+DB10827,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10828,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10829,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10830,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10831,"Injection, solution",Percutaneous,
+DB10832,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10833,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10834,"Injection, solution",Intradermal; Subcutaneous,
+DB10835,Liquid,Percutaneous; Subcutaneous,.05 g/mL
+DB10836,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10837,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10838,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10839,"Injection, solution",Intradermal; Subcutaneous,
+DB10840,"Injection, solution",Percutaneous; Subcutaneous,
+DB10841,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10842,"Injection, solution",Percutaneous; Subcutaneous,
+DB10843,"Injection, solution",Percutaneous; Subcutaneous,
+DB10844,"Injection, solution",Percutaneous; Subcutaneous,
+DB10845,"Injection, solution",Percutaneous; Subcutaneous,
+DB10846,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10847,"Injection, solution",Intradermal; Subcutaneous,.1 g/mL
+DB10848,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10849,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10850,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10851,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10852,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10853,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10856,"Injection, solution",Intradermal; Subcutaneous,
+DB10857,"Injection, solution",Intradermal; Subcutaneous,.02 g/mL
+DB10858,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10859,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10860,"Injection, solution",Intradermal; Subcutaneous,
+DB10861,"Injection, solution",Percutaneous,.1 mg/mL
+DB10862,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10864,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10865,"Injection, solution",Intradermal; Subcutaneous,
+DB10866,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10867,"Injection, solution",Intradermal; Subcutaneous,.002 g/mL
+DB10868,"Injection, solution",Intradermal; Subcutaneous,
+DB10869,"Injection, solution",Intradermal; Subcutaneous,.02 g/mL
+DB10870,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10871,"Injection, solution",Intradermal; Subcutaneous,
+DB10872,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10873,"Injection, solution",Intradermal; Subcutaneous,
+DB10874,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10875,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10876,"Injection, solution",Intradermal; Subcutaneous,
+DB10877,"Injection, solution",Percutaneous; Subcutaneous,
+DB10879,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10880,"Injection, solution",Intradermal; Subcutaneous,
+DB10881,"Injection, solution",Intradermal; Subcutaneous,
+DB10882,"Injection, solution",Intradermal; Subcutaneous,
+DB10883,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10884,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10885,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10887,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10888,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10889,"Injection, solution",Intradermal; Subcutaneous,
+DB10890,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10891,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10649,"Injection, solution",Intradermal; Subcutaneous,1 mL/mL
+DB10893,"Injection, solution",Intradermal; Subcutaneous,.02 g/mL
+DB10894,"Injection, solution",Percutaneous; Subcutaneous,
+DB10895,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10896,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10897,Cream,Topical,
+DB10898,"Injection, solution",Intradermal; Subcutaneous,
+DB10899,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10900,"Injection, solution",Intradermal; Subcutaneous,
+DB10901,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10902,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10903,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10904,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10905,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10906,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10907,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10908,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10909,"Injection, solution",Intradermal; Subcutaneous,
+DB10910,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10911,"Injection, solution",Intradermal; Subcutaneous,
+DB10912,"Injection, solution",Intradermal; Subcutaneous,
+DB10913,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10914,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10915,Liquid,Percutaneous; Subcutaneous,.1 g/mL
+DB10916,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10918,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10919,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10921,"Injection, solution",Percutaneous; Subcutaneous,
+DB10922,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10923,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10924,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10925,"Injection, solution",Intradermal; Subcutaneous,.05 g/mL
+DB10726,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10477,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10367,"Injection, solution",Subcutaneous,
+DB10476,"Injection, solution",Percutaneous; Subcutaneous,
+DB10933,Injection,Cutaneous; Intradermal; Subcutaneous,.1 g/mL
+DB10934,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10935,Injection,Cutaneous; Intradermal; Subcutaneous,.1 g/mL
+DB10936,Injection,Cutaneous; Intradermal; Subcutaneous,.1 g/mL
+DB10937,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10941,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10942,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10943,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10945,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10946,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10947,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10948,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10949,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10950,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10952,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10953,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10954,Injection,Cutaneous; Intradermal; Subcutaneous,.05 g/mL
+DB10955,Liquid,Subcutaneous,10 mcg
+DB10956,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB10957,"Powder, for solution",Intradermal; Subcutaneous,500 mcg
+DB10958,"Powder, for solution",Subcutaneous,1300 mcg
+DB10959,"Powder, for solution",Subcutaneous,1300 mcg
+DB10961,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10962,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10963,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10492,"Injection, solution",Subcutaneous,.05 g/mL
+DB10965,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10966,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10967,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10968,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10969,"Injection, solution",Percutaneous; Subcutaneous,
+DB10970,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10414,"Injection, solution",Subcutaneous,.1 g/mL
+DB10976,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10522,"Injection, solution",Percutaneous,.1 mg/mL
+DB10979,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10980,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10981,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10682,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10684,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10680,Oil,Topical,
+DB10986,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10988,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB10309,Solution; suspension,Intramuscular,
+DB10990,"Injection, powder, lyophilized, for solution",Intramuscular,10 ug/.5mL
+DB10991,"Injection, suspension",Intramuscular,
+DB10994,"Injection, suspension",Intramuscular,
+DB10997,Implant,Intra-articular,
+DB10998,"Injection, suspension",Intramuscular,
+DB06648,"Injection, suspension",Intramuscular; Subcutaneous,100 ug/mL
+DB11005,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB11007,"Injection, solution",Percutaneous; Subcutaneous,.05 g/mL
+DB10854,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10524,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB10565,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB11018,"Injection, solution",Percutaneous; Subcutaneous,
+DB11021,"Injection, solution",Percutaneous; Subcutaneous,
+DB11022,"Injection, solution",Percutaneous; Subcutaneous,
+DB11025,"Injection, solution",Percutaneous; Subcutaneous,.1 g/mL
+DB11026,"Injection, solution",Percutaneous; Subcutaneous,
+DB11027,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB11028,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB11029,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB11030,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB11031,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB11032,"Injection, powder, lyophilized, for solution",Percutaneous; Subcutaneous,
+DB10960,"Powder, for solution",Subcutaneous,1300 mcg
+DB11034,Spray,Nasal,
+DB11050,Capsule,Oral,2 [CFU]/1
+DB05348,"Injection, suspension",Intradermal,15000000 1/mL
+DB11054,Injection,Intravenous,500000000 1/25mL
+DB11056,"Injection, powder, lyophilized, for solution",Intravenous,
+DB11057,Oil,Topical,100 g/200mL
+DB09520,Kit,,
+DB11059,Patch,Topical,18.12 mg/91
+DB11060,Solution / drops,Ophthalmic,1.4 %
+DB11061,Kit,,
+DB11062,Lotion; spray,Topical,
+DB11063,Solution / drops,Ophthalmic,100 mg/10mL
+DB11064,Lotion,Oral,
+DB11065,Tablet,Oral,
+DB11066,Tablet,Oral,
+DB11068,"Tablet, film coated",Oral,
+DB11071,Liquid,Oral,
+DB11072,Aerosol,Dental,
+DB05748,Aerosol,Oral; Topical,
+DB11074,Paste,Topical,
+DB11075,Solution / drops,Ophthalmic,17 mg/mL
+DB11077,Liquid,Ophthalmic,1 %
+DB11079,Liquid,Topical,100 mg/mL
+DB11080,Swab,Topical,
+DB11081,Liquid,Topical,15 mg/mL
+DB11082,Liquid; shampoo,Topical,
+DB11085,Ointment,Topical,
+DB11086,Ointment,Topical,50 g/100g
+DB09521,Shampoo,Topical,
+DB11088,Suppository,Rectal,
+DB11089,Enema,Rectal,
+DB11090,Swab,Topical,
+DB11091,"Spray, metered",Topical,3.57 mL/119mL
+DB11092,Gel,Oral,0.4 %
+DB11093,Capsule,Oral,
+DB11094,Powder,Oral,
+DB11095,Kit,,
+DB11096,Liquid,Topical,
+DB11097,Powder,Oral,3.4 g/5.79g
+DB11098,"Tablet, effervescent",Oral,25 meq/1
+DB11100,Gel,Topical,5.5 g/L
+DB11102,Solution,Intravenous,
+DB11104,"Powder, for suspension",Intravenous,8 mcl
+DB11105,Solution,Topical,.13 g/100mL
+DB11107,Suppository,Rectal,
+DB11108,Spray,Topical,.15 g/100mL
+DB11109,"Powder, for solution",Topical,.16 g/2g
+DB11110,"Tablet, chewable",Oral,
+DB11111,Liquid,Topical,86 g/100mL
+DB11112,Ointment,Topical,
+DB11113,Cream,Topical,
+DB11114,"Gum, chewing",Oral,
+DB11115,Cream; liquid,Topical,
+DB11116,Stick,Topical,180 mg/g
+DB11117,Solution,Topical,100 mg/mL
+DB11118,Liquid,Topical,20 mg/mL
+DB11119,Liquid,Intravenous,100 mg
+DB11120,Cream,Topical,
+DB11121,Liquid; shampoo,Topical,
+DB11123,Liquid,Topical,0.114 %
+DB11124,Solution,Respiratory (inhalation),2.25 %
+DB11125,Lotion,Topical,192.3 mg/1000mg
+DB11126,Douche,Vaginal,
+DB11127,Capsule,Oral,
+DB11128,"Injection, solution",Intravenous,46 ug/mL
+DB11129,Liquid,Oral,.1 mg/mL
+DB11130,Tincture,Oral,200 g
+DB11131,Cream,Topical,
+DB11132,Powder,Topical,51 kg/100kg
+DB11133,"Capsule, liquid filled",Oral,
+DB11134,"Capsule, liquid filled",Oral,
+DB11135,Tablet,Oral,60 mcg
+DB11136,Powder,Oral,150 mcg
+DB11137,Tablet,Oral,
+DB11140,Solution,Intravenous,1 mCi/5mL
+DB11141,Tablet,Oral,
+DB11142,"Tablet, chewable",Oral,
+DB11143,Liquid,Dental,
+DB11145,Jelly,Vaginal,
+DB11147,Gel,Topical,105 mg/mL
+DB11148,Gel,Dental; Topical,
+DB11149,Cream,Topical,.2 g/g
+DB11150,Suspension,Oral,1 mg/mL
+DB11151,Solution,Intravenous,
+DB11152,Liquid,Topical,30 g/100mL
+DB11153,Solution,Intravenous,
+DB11154,Tablet,Oral,
+DB11155,Soap,Topical,
+DB11156,Tablet,Oral,180 mg/1
+DB11157,Cream,Topical,.012 g/g
+DB11158,Liquid,Oral,
+DB11159,Gel,Topical,.085 g/8.5g
+DB11160,Suspension,Oral,
+DB11161,Solution / drops,Ophthalmic,
+DB11164,Kit,Intravenous,
+DB11165,Tincture,Topical,
+DB11166,"Injection, powder, lyophilized, for solution",Intravenous,525 [iU]/mL
+DB11168,Capsule,Oral,
+DB11169,"Tablet, coated",Oral,
+DB11171,Liquid,Dental,210 mg
+DB11172,Patch,Topical,
+DB11174,Patch,Topical,
+DB11175,"Capsule, gelatin coated",Oral,
+DB11176,"Capsule, gelatin coated",Oral,
+DB11178,Oil,Topical,.21 mg/mL
+DB11179,"Injection, powder, lyophilized, for solution",Intravenous,1 mg/1
+DB11180,"Injection, powder, lyophilized, for solution",Intravenous,.35 mg/1
+DB11181,Liquid,Ophthalmic,2 %
+DB11182,Strip,Ophthalmic,1.5 mg/1.5mg
+DB11183,Strip,Ophthalmic,1.5 mg/1.5mg
+DB11184,Strip,Ophthalmic,.5 mg/.5mg
+DB11185,Lotion,Topical,
+DB11186,Syrup,Oral,
+DB11191,"Capsule, delayed release pellets",Oral,
+DB11193,Tablet,Oral,30 mg
+DB11195,"Gum, chewing",Dental,827 mg
+DB11197,"Capsule, delayed release pellets",Oral,
+DB11198,Liquid,Oral,
+DB11199,"Paste, dentifrice",Dental,
+DB11200,Stick,Topical,14.4 g/75g
+DB11201,Patch,Transdermal,
+DB11202,Lotion,Topical,
+DB11203,Wafer,Oral,
+DB11204,Liquid,Topical,.5 g/100mL
+DB11205,Liquid,Topical,
+DB11206,Spray,Topical,
+DB11207,Cream,Topical,
+DB11208,Spray,Topical,10 mL/100mL
+DB11210,Kit,,
+DB11217,Liquid,Topical,1 mg/150mL
+DB11218,Ointment,Topical,3 g/50g
+DB11219,Cream,Topical,6 %
+DB11221,Gel,Topical,
+DB11222,Aerosol,Topical,
+DB11225,Liquid,Topical,
+DB11226,Liquid,Topical,
+DB11228,Tablet,Oral,500 mg/1
+DB11229,Lotion,Topical,
+DB11231,Tablet,Oral,
+DB11234,Soap,Topical,1 g/100g
+DB11235,Liquid,Oral,
+DB11238,Capsule,Oral,
+DB11239,Stick,Topical,5.6 g/10g
+DB11242,"Injection, powder, lyophilized, for solution",Intravenous,4.5 mg/1
+DB11243,Cream,Topical,1 mg/50mg
+DB11244,Liquid,Topical,
+DB11246,"Tablet, film coated",Oral,
+DB11248,Tablet,Oral,20 mg
+DBSALT001566,Liquid,Topical,
+DB11251,"Tablet, coated",Oral,
+DB11252,Liquid,Ophthalmic,.1 mL/mL
+DB11253,Liquid,Nasal,.05 mL/44mL
+DB11254,Lozenge,Oral,2.4 mg/1
+DB11255,"Capsule, gelatin coated",Oral,
+DB11256,"Capsule, liquid filled",Oral,
+DB11257,Gel,Dental,9 mg/g
+DB11258,Cream,Topical,1.5 g/50mL
+DB11259,Cream,Topical,.055 mL/100mL
+DB11260,Cream,Topical,.1 mL/100mL
+DB11261,Cream,Topical,
+DB11262,Spray,Topical,
+DB11263,Cream,Topical,.22 1/100mL
+DBSALT002553,Paste,Dental,
+DB11265,Paste,Dental,
+DB11266,Soap,Topical,2 g/100g
+DB11267,Cream,Topical,
+DB11268,Emulsion,Topical,.0315 mL/100mL
+DB11269,Cream,Topical,
+DB11270,Cream,Topical,
+DB11271,Cream,Topical,
+DB11272,Cream,Topical,.1 mL/100mL
+DB11273,Tablet,Oral,
+DB11274,Tablet,Oral,
+DB11275,Tablet,Oral,
+DB11276,Liquid,Topical,5 mg/100mL
+DB11277,Stick,Topical,13 g/73g
+DB11278,Liquid,Oral,
+DB11279,Liquid,Topical,
+DB11282,Lotion,Topical,
+DBSALT001574,Injection,Intravenous,
+DBSALT001575,Injection,Intravenous,
+DB11286,Kit,,
+DB11293,Oil,Topical,91.22 g/100mL
+DB11294,"Injection, solution",Intradermal,12.7 ug/mL
+DB11295,Solution / drops,Oral,6 [hp_X]/10mL
+DB11296,Patch,Topical,.22 mg/22g
+DB11298,Patch,Topical,
+DB11299,Cream,Topical,
+DB11300,"Powder, for solution",Topical,5000 unit
+DB11301,Liquid,Topical,15 g/100mL
+DB11302,Liquid,Topical,2 g/100mL
+DB11304,Gel,Topical,
+DB11305,Lotion,Topical,
+DB11311,"Kit; powder, for solution",Intravenous,
+DB11312,"Kit; powder, for solution",Intravenous,
+DB11315,Syrup,Oral,
+DB11318,"Capsule, delayed release pellets",Oral,
+DB11321,Ointment,Topical,
+DB11323,Plaster,Topical,
+DB11324,Patch,Topical,
+DB11326,Jelly,Vaginal,
+DB11327,Shampoo,Topical,
+DB11328,"Injection, solution",Intravenous,30 mg/mL
+DB11329,Liquid,Topical,16 g/100g
+DB14047,Kit,Intravenous,
+DB14095,Suspension,Endotracheal,
+DB11332,Suspension,Endotracheal,
+DB11333,Liquid,Topical,20 %
+DB11336,Lotion,Topical,
+DB11337,Lotion,Topical,
+DB11338,Aerosol,Topical,
+DB11340,Capsule,Oral,
+DB11342,Powder,Topical,6.5 mg/g
+DB11343,Powder,Topical,34.1 g/100g
+DB11344,Solution,Topical,
+DB11345,Cream,Topical,
+DB11346,Cream,Topical,
+DB11053,Capsule,Oral,
+DB11349,Powder,Topical,.47 g/9.5g
+DB11350,Liquid,Topical,
+DB11352,Lotion,Topical,
+DB11355,Liquid,Topical,.03 g/30mL
+DB11356,Shampoo,Topical,.4 mL/200mL
+DB11358,Capsule,Oral,
+DB11359,Lozenge,Oral,
+DB11360,Granule,Oral,.08 g/1.5g
+DB11361,Liniment,Topical,
+DB11362,Kit,,
+DB11363,Capsule,Oral,150 mg
+DB11365,Powder,Oral,3.5 g
+DB11386,Liquid,Topical,
+DB11482,Spray,Topical,
+DB11560,"Tablet, film coated",Oral,200 mg/1
+DB11563,Solution,Intravenous,2 mg
+DB11569,Solution,Subcutaneous,80 mg
+DB11570,Liquid,Topical,
+DB11571,Solution,Topical,
+DB11572,"Powder, for solution",Topical,6000 unit
+DB11573,Liquid,Topical,8 g/100g
+DB11574,"Tablet, film coated",Oral,
+DB11575,"Tablet, film coated",Oral,
+DB11577,Solution,Intramuscular; Intravenous,0.8 %
+DB11578,Suppository,Rectal,
+DB11579,Liquid,Topical,91 %
+DB11581,"Tablet, film coated",Oral,50 mg/1
+DB11583,Gel,Dental; Topical,
+DB11584,Liquid,Oral,
+DB11585,Lotion,Topical,
+DB11586,Capsule,Oral,100 mg
+DB11587,Syrup,Oral,
+DB11588,Gas,Respiratory (inhalation),
+DB11589,Gas,Respiratory (inhalation),
+DB11591,Tablet,Oral,20 mg
+DB11594,Dressing,Topical,.15 %
+DB11595,Solution,Intravenous,60 mg
+DB11596,"Injection, solution",Intravenous,175 mg/17.5mL
+DB11597,Solution,Intramuscular; Intravenous,600 unit
+DB11598,"Powder, for solution",Intravenous,500 unit
+DB11599,Poultice,Topical,2.95 g/4g
+DB11600,Cream,Topical,
+DB11601,Solution,Intradermal,5 tub
+DB11602,Liquid,Ophthalmic,6 mg/mL
+DB11603,"Powder, for solution",Intramuscular,2.5 unit
+DB11604,Solution,Intramuscular,250 unit
+DB11605,Liquid,Dental; Topical,20 g
+DB11606,"Powder, for solution",Intravenous,500 unit
+DB11607,"Kit; powder, for solution",Intravenous,750 unit
+DB11608,"Kit; powder, for solution",Intravenous,500 unit
+DB11609,Solution / drops,Oral,
+DB11610,Solution / drops,Oral,
+DB11611,Solution / drops,Ophthalmic,50 mg/mL
+DB11613,"Tablet, film coated",Oral,
+DB11614,Tablet,Oral,10 mg
+DB11621,Solution,Intramuscular; Intravenous,125 unit
+DB11622,Tablet,Oral,300 mg
+DB11624,"Injection, solution",Intravenous; Subcutaneous,8000 IU
+DB11626,"Injection, powder, for solution",,1 mg/5ml
+DB10993,Suspension,Intramuscular,
+DB11630,"Injection, solution",Intravenous,1 mg/ml
+DB11632,Capsule,Oral,50 mg
+DB11634,"Tablet, film coated",Oral,1 g
+DB11635,Solution,Oral,50 mg/mL
+DB11637,"Tablet, film coated",Oral,50 mg
+DB11641,"Injection, solution, concentrate",Intravenous,25 mg/ml
+DB11642,"Tablet, film coated",Oral,4.5 mg
+DB11644,Capsule,Oral,20 mg
+DB11660,Solution / drops,Ophthalmic,.24 mg/mL
+DB11691,Tablet,Oral,.2 mg/1
+DB11703,"Capsule, gelatin coated",Oral,100 mg/1
+DB11709,Patch,Topical,
+DB11714,Solution,Intravenous,50 mg
+DB11730,Kit,,
+DB11735,"Powder, for solution",Intravenous,
+DB11767,Solution,Subcutaneous,200 mg
+DB11776,Solution,Subcutaneous,210 mg
+DB11793,Capsule,Oral,100 mg/1
+DB11799,Tablet,Oral,
+DB11817,"Tablet, film coated",Oral,2 mg/1
+DB11827,"Tablet, film coated",Oral,
+DB11828,Tablet,Oral,40 mg/1
+DB11834,Solution,Subcutaneous,100 mg
+DB09503,Kit,,
+DB11842,Injection,Intravenous,2.5 mg/mL
+DB11901,"Tablet, film coated",Oral,60 mg/1
+DB11915,Capsule,Oral,80 mg/1
+DB11921,Tablet,Oral,6 mg/1
+DB11943,Tablet,Oral,450 mg/1
+DB11945,Solution,Intravenous,20 mg
+DB11988,Solution,Intravenous,30 mg
+DB11989,Tablet,Oral,12.5 mg/1
+DB11995,"Tablet, film coated",Oral,20 mg/1
+DB12001,Tablet,Oral,50 mg/1
+DB12007,Tablet,Oral,
+DB12010,Tablet,Oral,150 mg/1
+DB06024,Solution,Subcutaneous,30 mg
+DB12026,"Tablet, film coated",Oral,
+DB12070,"Tablet, film coated",Oral,480 mg/1
+DB12095,Tablet,Oral,250 mg/1
+DB12107,"Injection, powder, for solution",Intravenous,
+DB12159,Solution,Subcutaneous,150 mg
+DB12161,"Tablet, coated",Oral,9 mg/1
+DB12243,Injection,Intravenous,30 mg/100mL
+DB12267,"Tablet, film coated",Oral,90 mg/1
+DB12278,Tablet,Oral,5 mg
+DB12328,Liquid,Topical,
+DB12332,"Tablet, film coated",Oral,300 mg/1
+DB06601,"Capsule, gelatin coated",Oral,80 mg/1
+DB12366,Injection,Intravenous,2 mg/mL
+DB12483,"Injection, powder, lyophilized, for solution",Intravenous,15 mg/mL
+DB12532,Suspension,Oral,
+DB12602,Kit,,
+DB05435,"Injection, solution",Intravenous,150 mg/mL
+DB12783,Capsule,Oral,
+DB12834,Granule,Oral,2 g/4.8g
+DB12839,"Injection, solution",Subcutaneous,20 mg/mL
+DB12865,"Injection, solution",Intravenous,5 mg/mL
+DB12872,Kit,,
+DB12909,"Powder, for solution",Intravenous,250 unit
+DB12911,"Powder, for solution",Topical,
+DB12924,Cream,Topical,10 mg/g
+DB12965,"Paste, dentifrice",Dental,.7 g/100g
+DB12982,Capsule,Oral,
+DB05917,"Granule, for solution",Oral,60 mg/mg
+DB13133,"Powder, for solution",Intravenous,
+DB05761,Solution,Respiratory (inhalation),1.25 mg/3mL
+DB13140,"Injection, solution",Intravenous,25 mg/mL
+DB13146,"Injection, solution",Intravenous,221 mCi/mL
+DB13147,Tablet,Oral,
+DB13148,"Kit; powder, for solution",Intravenous,
+DB13149,"Kit; powder, for solution",Intravenous,
+DB13150,"Kit; powder, for solution",Intravenous,
+DB13151,"Powder, for solution",Intravenous,3250 unit
+DB13152,"Kit; powder, for solution",Intravenous,
+DB13153,Oil,Topical,.07 g/15mL
+DB13154,Tablet,Dental,
+DB13155,Suppository,Rectal,
+DB13156,Tablet,Oral,500 mg
+DB13157,Liquid,Rectal,
+DB13158,Cream,Topical,0.05 %
+DB13161,Solution,Intrathecal,2.4 mg
+DB13163,Elixir,Oral,
+DB06377,Tablet,Oral,3 mg/1
+DB13173,Kit,Intraventricular,
+DB11196,Tablet,Oral,
+DB09408,"Powder, for solution",Irrigation; Topical,
+DB13192,Kit,,
+DB13196,Capsule,Oral,270 mg
+DB13198,Tablet,Oral,
+DB13200,"Injection, solution",Subcutaneous,6 mg
+DB13209,Suppository,Rectal,
+DB13231,Tablet,Oral,
+DB13235,"Powder, for solution",Topical,1.2 g/1.7g
+DB13249,Tablet,Oral,
+DB13257,Capsule,Oral,
+DB13259,Aerosol,Topical,
+DB13268,Tablet,Vaginal,
+DB13269,Lozenge,Oral,
+DB13281,Tablet,Oral,100 mg
+DB13293,Liquid,Oral,
+DB13345,Tablet,Oral,
+DB13346,Ointment,Topical,5 %
+DB13421,Cream,Topical,3 %
+DB13444,Solution,Oral,
+DB13503,Lozenge,Oral,
+DB13518,Tablet,Oral; Other,
+DB13583,Ointment,Topical,
+DB13595,Tablet,Oral,
+DB13620,Tablet,Oral,50 mg
+DB13707,Liquid,Oral,5.6 g
+DB13746,Aerosol,Topical,
+DB13747,Lotion,Topical,.1 mg/mL
+DB13749,Tablet,Oral,
+DB13751,Lozenge,Oral,
+DB13761,Tablet,Oral,500 mg
+DB13800,Liquid,Intramuscular; Intravenous; Subcutaneous,
+DB13813,Strip,Topical,5 %
+DB13853,Tablet,Oral,12.5 mg
+DB13854,Liquid,Oral,
+DB13873,Tablet,Oral,35 mg/1
+DB13874,"Tablet, film coated",Oral,50 mg/1
+DB13878,"Tablet, film coated",Oral,
+DB13879,"Tablet, film coated",Oral,
+DB13881,"Injection, suspension",Intravenous,60000000 1/1
+DB13882,Ointment,Topical,
+DB13883,"Injection, powder, for solution",Intravenous,250 [arb'U]/10mL
+DB13884,"Kit; powder, for solution",Intravenous,250 unit
+DB13885,Solution,Topical,1 g/g
+DB13886,Liquid,Intravenous,50 mg
+DB10074,"Kit; powder, for solution",Intramuscular,
+DB13888,"Kit; powder, for solution",Intramuscular,
+DB13889,"Kit; powder, for solution",Intramuscular,
+DB13890,"Kit; powder, for solution",Intramuscular,
+DB13891,"Injection, powder, lyophilized, for solution",Intravenous,
+DB13892,"Injection, powder, lyophilized, for solution",Intravenous,
+DB13893,"Injection, powder, lyophilized, for solution",Intravenous,
+DB13894,"Injection, powder, lyophilized, for solution",Intravenous,
+DB13895,"Injection, solution",Percutaneous; Subcutaneous,1 g/20mL
+DB13896,"Injection, suspension",Intralesional,100000000 [PFU]/mL
+DB13897,Liquid,Intravenous,
+DB13898,Liquid,Intravenous,
+DB13899,Liquid,Intravenous,
+DB13900,Liquid,Intravenous,
+DB13901,Liquid,Intravenous,
+DB13902,Liquid,Intravenous,
+DB13903,Liquid,Intravenous,
+DB13904,"Injection, solution",Percutaneous; Subcutaneous,10000 [BAU]/mL
+DB13905,"Injection, powder, lyophilized, for solution",Intravenous,24 mg/mL
+DB13906,Stick,Topical,2.62 g/35g
+DB13907,"Injection, solution",Percutaneous; Subcutaneous,
+DB13908,Lozenge,Oral,0.6 mg
+DB13909,Tablet,Oral,400 mg
+DB13910,Suppository,Rectal,135 mg
+DB13911,Tablet,Dental,5 mg
+DB13913,Suppository,Rectal,
+DB13915,Suspension,Intravenous,2000000 1/68mL
+DB13923,"Injection, solution",Subcutaneous,30 mg/mL
+DB13924,Kit,,
+DB13925,Kit,Intravenous,
+DB13928,Solution,Subcutaneous,1.34 mg
+DB13931,Solution / drops,Ophthalmic; Topical,.285 mg/mL
+DB13932,Kit,,
+DB13933,"Powder, for solution",Intravenous,500 unit
+DBSALT001298,Injection,Intramuscular,200 mg/mL
+DB13945,"Injection, solution",Intramuscular,200 mg/mL
+DBSALT001033,Capsule,Oral,40 mg
+DBSALT002571,Liquid,Intramuscular,
+DB13949,"Tablet, coated",Oral,210 mg/1
+DBSALT000065,Ring,Vaginal,.1 mg/24[USP'U]
+DBSALT000066,Liquid,Intramuscular,
+DBSALT000067,Injection,Intramuscular,5 mg/mL
+DBSALT002570,Liquid,Intramuscular,
+DBSALT000068,Liquid,Intramuscular,20 mg
+DB13959,Emulsion,Intravenous,
+DB13960,Soap,Topical,
+DB13961,"Capsule, gelatin coated",Oral,
+DB13962,Solution,Intravenous,
+DB13964,Soap,Topical,2 %
+DB13965,Solution,Intramuscular,100 %
+DB13966,Liquid,Topical,
+DB13967,Solution,Intravenous; Subcutaneous,50 mg
+DB13968,Liquid,Intravenous,5 g
+DB13969,Cloth,,
+DB13970,Cloth,,
+DB13971,Capsule,Oral,
+DB13972,Solution,Intravenous,
+DB13973,Solution,Intravenous,100000000 unit
+DB13974,Tablet,Oral,
+DB13975,Capsule,Oral,75.00 mg
+DB13977,Spray,Topical,.08 g/80mL
+DB13985,Injection,Intravenous,10 mCi/mL
+DB13987,Gel,Dental,
+DBSALT001314,Solution,Intravenous,5.44 mg/mL
+DBSALT001426,Injection,Intravenous,
+DBSALT002411,Kit,,
+DBSALT002412,"Powder, for solution",Intravenous,500 unit
+DBSALT001494,Capsule,Oral,
+DBSALT001457,Capsule,Oral,400 unit
+DB14003,Powder,Oral,
+DBSALT001568,"Capsule, gelatin coated",Oral,180 mg/1
+DBSALT001576,Tablet,Oral,
+DB14007,"Injection, solution, concentrate",Intravenous; Respiratory (inhalation),1000 mg/5mL
+DB14012,Injection,Subcutaneous,30 mg/mL
+DB14015,Solution,Intravenous,
+DB14016,Liquid,Oral,
+DB14018,Capsule,Oral,50 mg
+DBSALT000856,"Granule, for suspension",Oral,
+DB14037,Cream,Topical,
+DB14046,Solution / drops,Auricular (otic),
+DB14054,Cream,Topical,
+DB14074,Liquid,Topical,2.1 g/30mL
+DB14077,Tablet,Vaginal,5 mg/1
+DB14079,Liquid,Oral,5 g/50mL
+DB14080,Capsule,Oral,
+DB14081,Cream,Topical,
+DB14082,"Injection, powder, lyophilized, for solution",Intravenous,1 mg/1
+DB14086,Powder,Oral,.45 g/100g
+DB14087,"Injection, solution",Intravenous,50 mg/mL
+DB14089,"Injection, powder, lyophilized, for solution",Intravenous,1.1 mg/1
+DB14090,Tablet,Oral,
+DB14092,Injection,Intramuscular,1 mg/mL
+DB14093,Pellet,Oral,
+DB14098,"Tablet, chewable",Oral,
+DB14100,Implant,Intra-articular,
+DB14102,Lipstick,Topical,.31 g/3.5g
+DB14103,Injection,Intramuscular,
+DB14104,Pill,Oral,
+DB14106,"Injection, powder, lyophilized, for solution",Intravenous,1.5 mg/1
+DB14108,Cream,Topical,1 g/100mL
+DB14110,Oil,Cutaneous; Extracorporeal; Topical; Vaginal,48 g/240mL
+DB14112,Injection,Intravenous,1 [iU]/mL
+DB14114,"Injection, powder, lyophilized, for solution",Intravenous,24 mg/mL
+DB14115,"Injection, powder, lyophilized, for solution",Intravenous,50 mg/mL
+DB14116,Tablet,Oral,
+DB14119,Liquid,Topical,
+DB14121,"Tablet, chewable",Oral,.086 g/100g
+DB14124,Oil,Topical,15 g/150mL
+DB14128,Shampoo,Topical,
+DB14130,Spray,Topical,
+DB14131,Patch,Topical,
+DB14134,Lipstick,Topical,.28 g/3.5g
+DB14135,Liquid,Oral,3 g/100mL
+DB14136,Liquid,Topical,
+DB14138,"Paste, dentifrice",Dental,6.11 g/100g
+DB14139,Liquid,Topical,
+DB14140,Lotion,Topical,3 g/100mL
+DB14141,Liquid,Topical,1.6 g/100g
+DB14144,Liquid,Topical,.01 mg/mL
+DB14145,Lotion,Topical,
+DB14149,Lotion,Topical,.45 mg/mL
+DB14151,Powder,Oral,
+DB14152,Soap,Topical,.7 g/100g
+DB14154,Patch,Topical,
+DB14156,Gel,Topical,
+DB14157,Cream,Topical,
+DB14158,Cream,Topical,
+DB14161,Cream,Topical,.06 g/30mL
+DB14162,"Injection, solution",Percutaneous,.1 mg/mL
+DB14163,Liquid,Intradermal,1000 unit
+DB14164,"Injection, solution",Subcutaneous,
+DB14165,"Injection, solution",Percutaneous,.01 g/mL
+DB14166,"Injection, solution",Percutaneous; Subcutaneous,
+DB14167,Capsule,Oral,500 mg
+DB14168,"Injection, solution",Subcutaneous,.1 g/mL
+DB14169,"Injection, solution",Subcutaneous,
+DB14170,"Injection, solution",Subcutaneous,
+DB14171,"Injection, solution",Percutaneous; Subcutaneous,
+DB14173,Liquid,Topical,
+DBSALT001351,"Injection, suspension, extended release",Intramuscular,882 mg/3.2mL

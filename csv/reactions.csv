@@ -1,0 +1,2277 @@
+left-id,left-name,right-id,right-name,sequence
+DB00047,Insulin Glargine,DBMET00786,A21-Gly-des-B30-Thr-insulin,1
+DB00047,Insulin Glargine,DBMET00787,A21-Gly-insulin,1
+DB00091,Cyclosporine,DBMET00359,Metabolite AM1,1
+DB00115,Cyanocobalamin,DB03614,Methylcobalamin,1
+DB00115,Cyanocobalamin,DB11191,Cobamamide,1
+DB00118,Ademetionine,DBMET00503,Cysteine,1
+DB00118,Ademetionine,DBMET00506,Methionine,1
+DB00118,Ademetionine,DBMET00508,Homocysteine,1
+DB00118,Ademetionine,DBMET00514,S-Adenosylhomocysteine,1
+DB00118,Ademetionine,DBMET00486,Cystathionine,1
+DB00126,Vitamin C,DBMET00799,ascorbic acid-2-sulfate,1
+DB00126,Vitamin C,DBMET00552,Oxalic acid,1
+DB00129,Ornithine,DBMET00502,L-Arginine,1
+DB00129,Ornithine,DBMET00494,Proline,1
+DB00136,Calcitriol,DBMET00575,Calcitroic acid,1
+DB00153,Ergocalciferol,DBMET00596,25-Hydroxyvitamin D2-25-glucuronide,1
+DB00153,Ergocalciferol,DBMET00597,Vitamin D2 3-glucuronide,1
+DB00153,Ergocalciferol,DBMET00608,25-Hydroxyvitamin D2 25-(beta-glucuronide),1
+DB00162,Vitamin A,DBMET01736,All-trans-retinal,1
+DB00169,Cholecalciferol,DBMET00609,"(23S)-23,25-dihdroxy-24-oxovitamine D3 23-(beta-glucuronide)",1
+DB00176,Fluvoxamine,DBMET01673,Fluvoxamino alcohol,1
+DB00176,Fluvoxamine,DBMET00250,fluvoxamino acid,1
+DB00177,Valsartan,DBMET00011,Valeryl-4-hydroxyvalsartan,1
+DB00178,Ramipril,DBMET00841,Diketopiperazine acid,1
+DB00178,Ramipril,DBMET00842,Diketopiperazine ester,1
+DB00178,Ramipril,DBMET00995,Ramiprilat,1
+DB00182,Amphetamine,DBMET00733,4-hydroxyamphetamine,1
+DB00184,Nicotine,DBMET00515,N-Methylnicotinium,1
+DB00184,Nicotine,DBMET00516,Nicotine imine,1
+DB00184,Nicotine,DBMET00519,Cotinine,1
+DB00184,Nicotine,DBMET00520,Nornicotine,1
+DB00184,Nicotine,DBMET00524,Nicotine glucuronide,1
+DB00184,Nicotine,DBMET00526,Norcotinine,1
+DB00184,Nicotine,DBMET00533,Nicotine-1'-N-oxide,1
+DB00184,Nicotine,DBMET00613,4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanone,1
+DB00184,Nicotine,DBMET00643,4-(Methylnitrosamino)-1-(3-pyridyl)-1-butanol,1
+DB00184,Nicotine,DBMET01717,"(S)-Nicotine delta-1',5'-iminium ion",1
+DB00184,Nicotine,DBMET01718,2'-Hydroxynicotine,1
+DBMET00516,Nicotine imine,DBMET00519,Cotinine,2
+DBMET00519,Cotinine,DBMET00529,Cotinine N-oxide,2
+DBMET00519,Cotinine,DBMET00527,3'-Hydroxycotinine,2
+DBMET00519,Cotinine,DBMET00520,Nornicotine,2
+DBMET00519,Cotinine,DBMET00533,Nicotine-1'-N-oxide,2
+DBMET00519,Cotinine,DBMET00517,Cotinine glucuronide,2
+DB00185,Cevimeline,DBMET00430,cevimeline trans-sulfoxide,1
+DB00185,Cevimeline,DBMET00431,cevimeline cis-sulfoxide,1
+DB00185,Cevimeline,DBMET00432,cevimeline cis-sulfoxidation,1
+DB00185,Cevimeline,DBMET00433,cevimeline N-oxide,1
+DB00185,Cevimeline,DBMET00488,Glucuronic acid,1
+DB00186,Lorazepam,DBMET00648,Lorazepam glucuronide,1
+DB00187,Esmolol,DBMET00536,Methanol,1
+DB00188,Bortezomib,DBMET01061,Bortezomib metabolite M1,1
+DB00188,Bortezomib,DBMET01062,Bortezomib metabolite M2,1
+DB00188,Bortezomib,DBMET01081,Bortezomib metabolite M34,1
+DB00188,Bortezomib,DBMET01122,Bortezomib metabolite M23 or M24 (1),1
+DB00188,Bortezomib,DBMET01124,Bortezomib metabolite M23 or M24 (2),1
+DBMET01061,Bortezomib metabolite M1,DBMET01063,Bortezomib metabolite M3,2
+DBMET01062,Bortezomib metabolite M2,DBMET01063,Bortezomib metabolite M3,2
+DBMET01061,Bortezomib metabolite M1,DBMET01065,Bortezomib metabolite M5,2
+DBMET01062,Bortezomib metabolite M2,DBMET01066,Bortezomib metabolite M6,2
+DBMET01062,Bortezomib metabolite M2,DBMET01067,Bortezomib metabolite M8,2
+DBMET01061,Bortezomib metabolite M1,DBMET01082,Bortezomib metabolite M25,2
+DBMET01061,Bortezomib metabolite M1,DBMET01084,Bortezomib metabolite M26,2
+DBMET01062,Bortezomib metabolite M2,DBMET01085,Bortezomib metabolite M27,2
+DBMET01062,Bortezomib metabolite M2,DBMET01086,Bortezomib metabolite M28,2
+DBMET01063,Bortezomib metabolite M3,DBMET01064,Bortezomib metabolite M4,3
+DBMET01067,Bortezomib metabolite M8,DBMET01068,Bortezomib metabolite M33,3
+DB00190,Carbidopa,DBMET00637,"3,4-Dihydroxyphenylacetone",1
+DB00190,Carbidopa,DBMET00698,3-(3-hydroxyphenyl)-2-methyllactic acid,1
+DB00190,Carbidopa,DBMET00699,3-(3-hydroxyphenyl)-2-methylpropionic acid,1
+DB00190,Carbidopa,DBMET00700,"3-(3,4-dihydroxyphenyl)-2-methylpropionic acid",1
+DB00190,Carbidopa,DBMET00701,3-(4-hydroxy-3-methoxyphenyl)-2-methyllactic acid,1
+DB00190,Carbidopa,DBMET00702,3-(4-hydroxy-3-methoxyphenyl)-2-methylpropionic acid,1
+DB00193,Tramadol,DBMET00324,O-Desmethyltramadol,1
+DB00193,Tramadol,DBMET00343,N-Desmethyltramadol,1
+DBMET00324,O-Desmethyltramadol,DBMET00966,O-Desmethyl-tramado glucuronide,2
+DBMET00324,O-Desmethyltramadol,DBMET00957,"N,O-didesmethyltramadol",2
+DBMET00343,N-Desmethyltramadol,DBMET00957,"N,O-didesmethyltramadol",2
+DBMET00343,N-Desmethyltramadol,DBMET00954,"N,N-didesmethyltramadol",2
+DBMET00957,"N,O-didesmethyltramadol",DBMET00956,"N,N,O-tridesmethyl-tramadol",3
+DBMET00954,"N,N-didesmethyltramadol",DBMET00956,"N,N,O-tridesmethyl-tramadol",3
+DB00199,Erythromycin,DBMET00365,norerythromycin,1
+DB00199,Erythromycin,DBMET01656,N-Desmethylerythromycin,1
+DB00201,Caffeine,DBMET00220,Theobromine,1
+DB00201,Caffeine,DBMET00221,Theophylline,1
+DB00201,Caffeine,DBMET00222,"1,3,7-Trimethyluric acid",1
+DB00201,Caffeine,DBMET00223,Paraxanthine,1
+DBMET00223,Paraxanthine,DBMET00611,"1,7-Dimethyluric acid",2
+DBMET00221,Theophylline,DBMET00271,1-Methylxanthine,2
+DBMET00223,Paraxanthine,DBMET00612,5-Acetylamino-6-formylamino-3-methyluracil,2
+DBMET00223,Paraxanthine,DBMET00271,1-Methylxanthine,2
+DBMET00271,1-Methylxanthine,DBMET00560,1-Methyluric acid,3
+DB00203,Sildenafil,DBMET01744,N-Desmethyl sildenafil,1
+DB00203,Sildenafil,DBMET00182,"N-Desmethyl sildenafil (UK-103,320)",1
+DB00208,Ticlopidine,DBMET00091,2-Chloroticlopidine,1
+DB00208,Ticlopidine,DBMET00092,2-Oxoticlopidine,1
+DB00208,Ticlopidine,DBMET00093,Thienodihydropyridinium,1
+DB00208,Ticlopidine,DBMET00094,Ticlopidine S-oxide,1
+DB00208,Ticlopidine,DBMET00095,Dehydrogenated ticlopidine,1
+DB00208,Ticlopidine,DBMET00096,Ticlopidine N-oxide,1
+DB00208,Ticlopidine,DBMET00097,di-Hydroxyticlopidine,1
+DB00208,Ticlopidine,DBMET00618,7-Hydroxyticlopidine,1
+DBMET00092,2-Oxoticlopidine,DBMET01202,Active metabolite of Ticlopidine,2
+DBMET00094,Ticlopidine S-oxide,DBMET01207,Ticlopidine S-oxide dimer,2
+DBMET00093,Thienodihydropyridinium,DBMET01208,Thienopyridinium,2
+DBMET00093,Thienodihydropyridinium,DBMET01209,Ticlopidine lactam analog (M8),2
+DB00211,Midodrine,DBMET00829,desglymidodrine,1
+DB00213,Pantoprazole,DBMET01168,Active Metabolite of Pantoprazole,1
+DB00214,Torasemide,DBMET00297,hydroxytorsemide,1
+DB00215,Citalopram,DBMET00659,Citalopram propionic acid,1
+DB00215,Citalopram,DBMET00195,Citalopram N-oxide,1
+DB00215,Citalopram,DBMET00196,N-Desmethylcitalopram,1
+DBMET00196,N-Desmethylcitalopram,DBMET00661,"N,N-Didesmethylcitalopram",2
+DB00216,Eletriptan,DBMET00088,N-Desmethyleletriptan,1
+DB00216,Eletriptan,DBMET00089,Eletriptan N-oxide,1
+DB00220,Nelfinavir,DBMET01800,Nelfinavir hydroxyl-t- butylamide,1
+DB00220,Nelfinavir,DBMET01801,"3,4-Dihydroxynelfinavir",1
+DB00222,Glimepiride,DBMET01326,Cyclohexyl hydroxymethyl glimepiride,1
+DBMET01326,Cyclohexyl hydroxymethyl glimepiride,DBMET01327,Cyclohexyl carboxyl glimepiride,2
+DB00224,Indinavir,DBMET00373,Metabolite M6,1
+DB00227,Lovastatin,DBMET01698,6'beta-Hydroxylovastatin,1
+DB00227,Lovastatin,DBMET01699,3''-Hydroxylovastatin,1
+DB00228,Enflurane,DBMET01560,"2-(difluoromethoxy)-2,2-difluoroacetyl fluoride",1
+DB00230,Pregabalin,DBMET01540,N-methylpregabalin,1
+DB00231,Temazepam,DBMET00246,Oxazepam,1
+DB00231,Temazepam,DBMET00650,Oxazepam glucuronide,1
+DB00238,Nevirapine,DBMET00074,12-Hydroxynevirapine,1
+DB00238,Nevirapine,DBMET00075,2-Hydroxynevirapine,1
+DB00238,Nevirapine,DBMET00076,8-Hydroxynevirapine,1
+DB00238,Nevirapine,DBMET00077,3-Hydroxynevirapine,1
+DB00238,Nevirapine,DBMET01713,2-OH-nevirapine,1
+DB00238,Nevirapine,DBMET01714,8-OH-nevirapine,1
+DB00238,Nevirapine,DBMET01715,3-OH-nevirapine,1
+DB00238,Nevirapine,DBMET01716,12-OH-nevirapine,1
+DBMET00074,12-Hydroxynevirapine,DBMET00669,12-hydroxynevirapine glucuronide,2
+DBMET00074,12-Hydroxynevirapine,DBMET00727,4-carboxynevirapine,2
+DBMET00075,2-Hydroxynevirapine,DBMET00685,2-hydroxynevirapine glucuronide,2
+DBMET00076,8-Hydroxynevirapine,DBMET00779,8-hydroxynevirapine glucuronide,2
+DBMET00077,3-Hydroxynevirapine,DBMET00712,3-hydroxynevirapine glucuronide,2
+DB00242,Cladribine,DBMET00677,2-chloro-2'-deoxyadenosine-5'-triphosphate,1
+DB00244,Mesalazine,DBMET00924,N-acetyl-5-ASA (Ac-5-ASA),1
+DB00246,Ziprasidone,DBMET00400,benzisothiazole piperazine,1
+DB00248,Cabergoline,DBMET00757,6-allyl-8b-carboxy-ergoline,1
+DB00250,Dapsone,DBMET00301,dapsone hydroxylamine,1
+DB00250,Dapsone,DBMET00014,N-Acetyldapsone,1
+DBMET00301,dapsone hydroxylamine,DBMET01043,Nitroso-dapsone,2
+DBMET01043,Nitroso-dapsone,DBMET01045,Dapsone mercaptal intermediate,3
+DBMET01045,Dapsone mercaptal intermediate,DBMET01046,Dapsone GSH conjugate,4
+DB00252,Phenytoin,DBMET00284,4'-HPPH,1
+DB00252,Phenytoin,DBMET00058,"3',4'-Dihydrodiol",1
+DB00252,Phenytoin,DBMET00059,3'-HPPH,1
+DB00252,Phenytoin,DBMET00988,Phenytoin arene-oxide,1
+DB00252,Phenytoin,DBMET00989,Phenytoin catechol,1
+DB00252,Phenytoin,DBMET00888,Hydroxyphenytoin,1
+DB00252,Phenytoin,DBMET00992,Phenytoin quinone,1
+DB00252,Phenytoin,DBMET00990,Phenytoin dihydrodiol,1
+DBMET00989,Phenytoin catechol,DBMET00991,Phenytoin methylcatechol,2
+DBMET00988,Phenytoin arene-oxide,DBMET00990,Phenytoin dihydrodiol,2
+DBMET00988,Phenytoin arene-oxide,DBMET00888,Hydroxyphenytoin,2
+DBMET00989,Phenytoin catechol,DBMET00992,Phenytoin quinone,2
+DBMET00059,3'-HPPH,DBMET01149,"3',4'-diHPPH",2
+DBMET00284,4'-HPPH,DBMET01149,"3',4'-diHPPH",2
+DBMET00888,Hydroxyphenytoin,DBMET00989,Phenytoin catechol,3
+DBMET00888,Hydroxyphenytoin,DBMET00889,Hydroxyphenytoin-O-glucuronide,3
+DB00261,Anagrelide,DBMET00772,"6,7-dichloro-3-hydroxy-1,5 dihydro-imidazo[2,1-b]quinazolin-2-one",1
+DB00261,Anagrelide,DBMET00676,"2-amino-5,6-dichloro-3,4,-dihydroquinazoline",1
+DB00264,Metoprolol,DBMET00319,alpha-Hydroxymetoprolol,1
+DB00264,Metoprolol,DBMET01561,O-Demethylmetoprolol,1
+DB00264,Metoprolol,DBMET01562,Deisopropylmetoprolol,1
+DB00268,Ropinirole,DBMET00940,N-despropyl ropinirole,1
+DB00277,Theophylline,DBMET00271,1-Methylxanthine,1
+DB00277,Theophylline,DBMET00272,3-methylxanthine,1
+DB00277,Theophylline,DBMET00535,Caffeine,1
+DB00277,Theophylline,DBMET00326,"1,3-dimethyluric acid",1
+DB00279,Liothyronine,DBMET00559,Triiodothyronine sulfate,1
+DB00280,Disopyramide,DBMET00363,mono-isopropyl-disopyramide,1
+DB00281,Lidocaine,DBMET00256,3-hydroxylidocaine,1
+DB00281,Lidocaine,DBMET00257,monoethylglycinexylidide,1
+DB00281,Lidocaine,DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",1
+DBMET00256,3-hydroxylidocaine,DBMET01090,3-Hydroxymonoethylglycinexylidide,2
+DBMET00257,monoethylglycinexylidide,DBMET01090,3-Hydroxymonoethylglycinexylidide,2
+DBMET00257,monoethylglycinexylidide,DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",2
+DBMET00257,monoethylglycinexylidide,DBMET01091,Glycinexylidide (GX),2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01128,2-Amino-3-methylbenzoate,2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01129,"4-Hydroxy-2,6-dimethylaniline",2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01128,2-Amino-3-methylbenzoate,2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01128,2-Amino-3-methylbenzoate,2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01129,"4-Hydroxy-2,6-dimethylaniline",2
+DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",DBMET01129,"4-Hydroxy-2,6-dimethylaniline",2
+DBMET01091,Glycinexylidide (GX),DBMET01089,"2,6-Dimethylaniline (2,6-Xylidine)",3
+DB00285,Venlafaxine,DBMET00054,O-Desmethylvenlafaxine,1
+DB00285,Venlafaxine,DBMET00055,N-Desmethylvenlafaxine,1
+DBMET00054,O-Desmethylvenlafaxine,DBMET00437,"N,O-Didesmethylvenlafaxine",2
+DBMET00054,O-Desmethylvenlafaxine,DBMET00967,O-Desmethylvenlafaxine glucuronide,2
+DBMET00055,N-Desmethylvenlafaxine,DBMET00437,"N,O-Didesmethylvenlafaxine",2
+DBMET00437,"N,O-Didesmethylvenlafaxine",DBMET00958,"N,O-didesmethylvenlafaxine glucuronide",3
+DBMET00437,"N,O-Didesmethylvenlafaxine",DBMET01040,"N,N,O-Tridesmethylvenlafaxine",3
+DB00289,Atomoxetine,DBMET00734,4-hydroxyatomoxetine,1
+DB00295,Morphine,DBMET00649,Normorphine,1
+DB00295,Morphine,DBMET00461,morphine-6-glucuronide,1
+DB00295,Morphine,DBMET00462,morphine-3-glucuronide,1
+DB00296,Ropivacaine,DBMET01741,3-OH-ropivacaine,1
+DB00296,Ropivacaine,DBMET00269,3-hydroxyropivacaine,1
+DB00296,Ropivacaine,DBMET01742,PPX,1
+DB00297,Bupivacaine,DBMET00692,"2,6-pipecoloxylidine",1
+DB00300,Tenofovir disoproxil,DBMET01176,Tenofovir Monophosphate,1
+DBMET01176,Tenofovir Monophosphate,DBMET01177,Tenofovir Diphosphate,2
+DB00304,Desogestrel,DBMET01366,6-alpha-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET01367,6-beta-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET01368,16-hydroxy-desogestrel,1
+DB00304,Desogestrel,DBMET01369,13-ethyl-hydroxy desogestrel,1
+DB00304,Desogestrel,DBMET01370,Desogestrel sulfate,1
+DB00304,Desogestrel,DBMET01371,15-alpha-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET01642,3-alpha-OH-desogestrel,1
+DB00304,Desogestrel,DBMET01643,3-beta-OH-desogestrel,1
+DB00304,Desogestrel,DBMET00671,15b-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET00683,2-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET00723,3a-hydroxydesogestrel,1
+DB00304,Desogestrel,DBMET00724,3b-hydroxydesogestrel,1
+DBMET00723,3a-hydroxydesogestrel,DBMET00622,3-Ketodesogestrel,2
+DBMET01371,15-alpha-hydroxydesogestrel,DBMET00488,Glucuronic acid,2
+DB00309,Vindesine,DBMET00393,Unknown,1
+DB00313,Valproic Acid,DBMET01015,Valproic acid CoA,1
+DB00313,Valproic Acid,DBMET00060,4-ene-Valproic acid,1
+DB00313,Valproic Acid,DBMET00061,5-Hydroxyvalproic acid,1
+DB00313,Valproic Acid,DBMET00062,3-Hydroxyvalproic acid,1
+DB00313,Valproic Acid,DBMET00063,4-Hydroxyvalproic acid,1
+DB00313,Valproic Acid,DBMET00064,Valproic acid β-O-glucuronide,1
+DB00313,Valproic Acid,DBMET00065,2-ene-Valproic acid,1
+DB00313,Valproic Acid,DBMET00066,(3Z)-2-Propylpent-3-enoic acid (3Z-Ene-VPA),1
+DB00313,Valproic Acid,DBMET00067,(3E)-2-Propylpent-3-enoic acid (3E-Ene-VPA),1
+DBMET00060,4-ene-Valproic acid,DBMET01106,"2,4-Diene-VPA",2
+DBMET00063,4-Hydroxyvalproic acid,DBMET01107,2-n-Propyl-4-oxopentanoic acid,2
+DBMET00061,5-Hydroxyvalproic acid,DBMET01109,2-Propylglutaric acid,2
+DBMET00062,3-Hydroxyvalproic acid,DBMET01110,3-Oxovalproic acid,2
+DBMET00065,2-ene-Valproic acid,DBMET00062,3-Hydroxyvalproic acid,2
+DBMET00062,3-Hydroxyvalproic acid,DBMET01110,3-Oxovalproic acid,2
+DBMET01107,2-n-Propyl-4-oxopentanoic acid,DBMET01108,2-Propylsuccinic acid,3
+DB00315,Zolmitriptan,DBMET00276,norzolmitripan,1
+DB00315,Zolmitriptan,DBMET01792,N-Desmethylzolmitriptan,1
+DB00315,Zolmitriptan,DBMET01793,Zolmitriptan N-oxide,1
+DB00315,Zolmitriptan,DBMET00497,Indole acetic acid,1
+DB00316,Acetaminophen,DBMET01578,3-Hydroxyacetaminophen,1
+DB00316,Acetaminophen,DBMET00580,Acetaminophen glucuronide,1
+DB00316,Acetaminophen,DBMET00653,Acetaminophen sulfate,1
+DB00316,Acetaminophen,DBMET00243,NAPQI,1
+DBMET00243,NAPQI,DBMET00789,Acetaminophen cystein,2
+DB00318,Codeine,DBMET00313,morphine,1
+DB00318,Codeine,DBMET00340,norcodeine,1
+DB00318,Codeine,DB00295,Morphine,1
+DB00318,Codeine,DBMET00660,Codeine-6-glucuronide,1
+DB00321,Amitriptyline,DBMET01584,E-10-OH-amitriptyline,1
+DB00321,Amitriptyline,DB00540,Nortriptyline,1
+DB00321,Amitriptyline,DBMET00051,E-10-Hydroxyamitriptyline,1
+DBMET00051,E-10-Hydroxyamitriptyline,DBMET00052,E-10-Hydroxynortriptyline,2
+DB00540,Nortriptyline,DBMET00052,E-10-Hydroxynortriptyline,2
+DB00540,Nortriptyline,DBMET00053,Desmethylnortriptyline,2
+DBMET00052,E-10-Hydroxynortriptyline,DBMET00482,E-10-Hydroxydesmethylnortriptyline,3
+DBMET00053,Desmethylnortriptyline,DBMET00482,E-10-Hydroxydesmethylnortriptyline,3
+DB00322,Floxuridine,DBMET00855,alpha-Fluoro-beta-alanine,1
+DB00322,Floxuridine,DBMET00856,Fluoro-beta-ureidopropionate,1
+DB00322,Floxuridine,DBMET00655,"5,6-Dihydro-5-fluorouracil",1
+DB00322,Floxuridine,DBMET00449,5-fluorouracil,1
+DB00325,Nitroprusside,DBMET00818,cyanmethemoglobin,1
+DB00327,Hydromorphone,DBMET00838,Dihydroisomorphine-6-glucuronide,1
+DB00327,Hydromorphone,DBMET00865,Hydromorphone-3-glucoside,1
+DB00327,Hydromorphone,DBMET00866,Hydromorphone-3-glucuronide,1
+DB00327,Hydromorphone,DBMET00177,Dihydromorphine,1
+DB00327,Hydromorphone,DBMET00178,Dihydroisomorphine,1
+DB00327,Hydromorphone,DBMET00179,Norhydromorphone,1
+DB00327,Hydromorphone,DBMET00180,Hydromorphone 3-beta-O-glucuronide,1
+DB00327,Hydromorphone,DBMET01032,Hydromorphone-3-sulphate,1
+DBMET00177,Dihydromorphine,DBMET01031,Dihydromorphine-3-glucuronide,2
+DB00328,Indomethacin,DBMET00156,O-Desmethylindomethacin,1
+DB00328,Indomethacin,DBMET00157,Indomethacin acyl glucuronide,1
+DB00328,Indomethacin,DBMET00158,N-Deschlorobenzoyl indomethacin,1
+DBMET00158,N-Deschlorobenzoyl indomethacin,DBMET01351,O-Desmethyl-N-deschlorobenzoyl indomethacin,2
+DB00332,Ipratropium,DBMET00945,N-isopropylnortropium methobromide,1
+DB00332,Ipratropium,DBMET00987,Phenylacetic acid-N-isopropylnortropine-ester methobromide,1
+DB00333,Methadone,DBMET01829,"2ethylidene-1,5-dimethyl-3,3-diphenylpyrolidine",1
+DB00333,Methadone,DBMET00181,"2-Ethyl-1,5-dimethyl-3,3-diphenylpyrrolinium (EDDP)",1
+DBMET00181,"2-Ethyl-1,5-dimethyl-3,3-diphenylpyrrolinium (EDDP)",DBMET01087,"2-Ethyl-5-methyl-3,3-diphenyl-1-pyrroline (EMDP)",2
+DB00334,Olanzapine,DBMET00264,7-hydroxyolanzapine,1
+DB00334,Olanzapine,DBMET00265,4'-N-desmethylolanzapine,1
+DB00334,Olanzapine,DBMET00308,2-hydroxymethylolanzapine,1
+DB00338,Omeprazole,DBMET00185,5-Hydroxyomeprazole,1
+DB00338,Omeprazole,DBMET00186,5'-O-Desmethyl omeprazole,1
+DB00338,Omeprazole,DBMET00187,Omeprazole sulfone,1
+DB00338,Omeprazole,DBMET00188,3-Hydroxyomeprazole,1
+DB00339,Pyrazinamide,DBMET00415,5-hydroxypyrazinamide,1
+DB00342,Terfenadine,DBMET00391,fexofenadine,1
+DB00343,Diltiazem,DBMET00362,N-Desmethyldiltiazem,1
+DB00343,Diltiazem,DBMET01647,N-Demethyldiltiazem,1
+DB00343,Diltiazem,DBMET01648,O-Demethyldiltiazem,1
+DB00347,Trimethadione,DBMET00451,dimethadione,1
+DB00349,Clobazam,DBMET00281,norclobazam,1
+DB00349,Clobazam,DBMET00743,4'-hydroxyclobazam,1
+DB00352,Tioguanine,DBMET01152,Thioguanosine monophosphate,1
+DBMET01152,Thioguanosine monophosphate,DBMET01153,Methyl-thioguanosine monophosphate,2
+DBMET01152,Thioguanosine monophosphate,DBMET01154,Thioguanosine diphosphate,2
+DBMET01154,Thioguanosine diphosphate,DBMET01155,Thioguanosine triphosphate,3
+DBMET01154,Thioguanosine diphosphate,DBMET01156,Thiodeoxyguanosine diphosphate,3
+DBMET01156,Thiodeoxyguanosine diphosphate,DBMET01157,Thiodeoxyguanosine triphosphate,4
+DB00356,Chlorzoxazone,DBMET00327,6-hydroxychlorzoxazone,1
+DB00358,Mefloquine,DBMET00693,"2,8-bis-trifluoromethyl-4-quinoline carboxylic acid",1
+DB00361,Vinorelbine,DBMET02029,4-0-deacetyl Vinorelbine,1
+DB00363,Clozapine,DBMET00100,Norclozapine,1
+DB00363,Clozapine,DBMET00101,Clozapine N-oxide,1
+DB00363,Clozapine,DBMET00102,Clozapine glucuronide,1
+DB00368,Norepinephrine,DBMET00549,Norepinephrine sulfate,1
+DB00368,Norepinephrine,DBMET00563,3-Methoxy-4-Hydroxyphenylglycol sulfate,1
+DB00370,Mirtazapine,DBMET00261,mirtazapine-N-oxide,1
+DB00370,Mirtazapine,DBMET00262,N-desmethylmirtazapine,1
+DB00370,Mirtazapine,DBMET00263,8-hydroxymirtazapine,1
+DB00370,Mirtazapine,DBMET01827,8-OH-mirtazapine,1
+DB00378,Dydrogesterone,DBMET00695,20-dihydrodydrogesterone,1
+DB00379,Mexiletine,DBMET00259,2-hydroxymexiletine,1
+DB00379,Mexiletine,DBMET00260,p-hydroxymexiletine,1
+DB00382,Tacrine,DBMET00270,1-hydroxytacrine,1
+DB00382,Tacrine,DBMET01755,4- Hydroxytacrine,1
+DB00382,Tacrine,DBMET01756,2-Hydroxytacrine,1
+DB00382,Tacrine,DBMET01757,7-Hydroxytacrine,1
+DB00384,Triamterene,DBMET01771,4'-OH-triamterene,1
+DB00385,Valrubicin,DBMET00663,N-trifluoroacetyladriamycinol,1
+DB00385,Valrubicin,DBMET00952,N-trifluoroacetyladriamycin,1
+DB00390,Digoxin,DBMET00697,3 b-digoxigenin,1
+DB00390,Digoxin,DBMET00716,3-keto-digoxigenin,1
+DB00396,Progesterone,DBMET01352,2β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01353,21-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01354,17β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01356,16β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01357,15β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01358,7β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET00286,6β-Hydroxyprogesterone,1
+DB00396,Progesterone,DBMET01723,2beta-OH-progesterone,1
+DB00396,Progesterone,DBMET01724,6beta-OH-progesterone,1
+DB00396,Progesterone,DBMET01725,16beta-OH-progesterone,1
+DB00396,Progesterone,DBMET01726,17beta-OH-progesterone,1
+DB00396,Progesterone,DBMET01727,21-OH-progesterone,1
+DBMET01354,17β-Hydroxyprogesterone,DBMET01355,"17β,21-Hydroxyprogesterone",2
+DB00398,Sorafenib,DBMET01001,Sorafenib beta-D-Glucuronide,1
+DB00398,Sorafenib,DBMET00624,Pyridine N-oxide,1
+DB00398,Sorafenib,DBMET00994,Pyridine N-oxide glucuronide,1
+DB00400,Griseofulvin,DBMET00765,6-methyl-griseofulvin,1
+DB00402,Eszopiclone,DBMET00135,Zopiclone N-oxide,1
+DB00402,Eszopiclone,DBMET00422,nopiclone N-oxide,1
+DB00402,Eszopiclone,DBMET00299,zopiclone-N-oxide,1
+DB00402,Eszopiclone,DBMET00300,N-desmethylzopiclone,1
+DB00402,Eszopiclone,DBMET00137,Carbon dioxide,1
+DB00404,Alprazolam,DBMET01582,Beta-Hydroxyalprazolam,1
+DB00404,Alprazolam,DBMET00348,4-hydroxyalprazolam,1
+DB00404,Alprazolam,DBMET00112,alpha-Hydroxyalprazolam,1
+DB00410,Mupirocin,DBMET00912,Monic acid,1
+DB00412,Rosiglitazone,DBMET01365,Phenoxyacetic acid derivative of rosiglitazone,1
+DB00412,Rosiglitazone,DBMET00295,N-Desmethylrosiglitazone,1
+DB00412,Rosiglitazone,DBMET00296,para-Hydroxyrosiglitazone,1
+DB00412,Rosiglitazone,DBMET00942,N-Despyridinyl rosiglitazone,1
+DB00412,Rosiglitazone,DBMET00470,ortho-Hydroxyrosiglitazone,1
+DBMET00295,N-Desmethylrosiglitazone,DBMET00936,N-Desmethyl-ortho-hydroxy rosiglitazone,2
+DBMET00470,ortho-Hydroxyrosiglitazone,DBMET00936,N-Desmethyl-ortho-hydroxy rosiglitazone,2
+DBMET00295,N-Desmethylrosiglitazone,DBMET00938,N-Desmethyl-para-hydroxy rosiglitazone,2
+DBMET00296,para-Hydroxyrosiglitazone,DBMET00938,N-Desmethyl-para-hydroxy rosiglitazone,2
+DBMET00470,ortho-Hydroxyrosiglitazone,DBMET00968,ortho-O-Glucuronide rosiglitazone,2
+DBMET00470,ortho-Hydroxyrosiglitazone,DBMET00969,ortho-O-Sulfate rosiglitazone,2
+DBMET00295,N-Desmethylrosiglitazone,DBMET01111,N-Desmethyl glucuronide rosiglitazone,2
+DBMET00296,para-Hydroxyrosiglitazone,DBMET00981,para-O-Glucuronide rosiglitazone,2
+DBMET00296,para-Hydroxyrosiglitazone,DBMET01112,para-O-Sulfate rosiglitazone,2
+DBMET00936,N-Desmethyl-ortho-hydroxy rosiglitazone,DBMET00937,N-Desmethyl-ortho-O-sulfate rosiglitazone,3
+DBMET00938,N-Desmethyl-para-hydroxy rosiglitazone,DBMET01113,N-Desmethyl para-O-sulfate rosiglitazone,3
+DB00414,Acetohexamide,DBMET00884,Hydroxyhexamide,1
+DB00417,Phenoxymethylpenicillin,DBMET00758,6-aminopenicillanic acid,1
+DB00417,Phenoxymethylpenicillin,DBMET00983,Penicilloic acid,1
+DB00420,Promazine,DBMET01213,3-Hydroxypromazine,1
+DB00420,Promazine,DBMET00107,Promazine 5-sulfoxide,1
+DB00420,Promazine,DBMET00108,N-Desmethylpromazine,1
+DB00420,Promazine,DBMET01728,N-Desmethyl promazine,1
+DB00425,Zolpidem,DB00425,Zolpidem,1
+DB00425,Zolpidem,DBMET01794,methoxyzolpidem,1
+DB00425,Zolpidem,DBMET01238,Methoxyzolpidem derivative (M3),1
+DB00425,Zolpidem,DBMET01239,Methoxyzolpidem derivative (M4),1
+DB00425,Zolpidem,DBMET01240,Methoxyzolpidem derivative (M11),1
+DBMET01239,Methoxyzolpidem derivative (M4),DBMET01241,Zolpidem carboxylic acid derivative (M2),2
+DBMET01238,Methoxyzolpidem derivative (M3),DBMET01242,Zolpidem carboxylic acid derivative (M1),2
+DB00426,Famciclovir,DBMET00463,6-oxo-famciclovir,1
+DB00432,Trifluridine,DBMET00748,5-carboxy-2'-deoxyuridine,1
+DB00437,Allopurinol,DBMET00414,oxypurinol,1
+DB00439,Cerivastatin,DBMET00292,Hydroxycerivastatin,1
+DB00439,Cerivastatin,DBMET00293,Desmethylcerivastatin,1
+DB00441,Gemcitabine,DBMET01145,Gemcitabine Monophosphate,1
+DBMET01145,Gemcitabine Monophosphate,DBMET00694,Difluorodeoxyuridine monophosphate,2
+DBMET01145,Gemcitabine Monophosphate,DBMET00858,Gemcitabine diphosphate,2
+DBMET00858,Gemcitabine diphosphate,DBMET00859,Gemcitabine triphosphate,3
+DB00444,Teniposide,DBMET01761,Teniposide catechol,1
+DB00444,Teniposide,DBMET01262,Teniposide catechol derivative,1
+DBMET01262,Teniposide catechol derivative,DBMET01263,Teniposide o-quinone derivative,2
+DB00448,Lansoprazole,DBMET01822,Hydroxylansoprazole,1
+DB00448,Lansoprazole,DBMET00183,5-Hydroxylansoprazole,1
+DB00448,Lansoprazole,DBMET00184,Lansoprazole sulfone,1
+DB00455,Loratadine,DBMET00377,Descarboethoxyloratadine,1
+DB00457,Prazosin,DBMET00766,"6-O-demethyl,7-O-demethyl,2-[1-piperazinyl]-4-amino-6,7-dimethoxyquinazoline",1
+DB00457,Prazosin,DBMET00691,"2,4-diamino-6,7-dimethoxyquinazoline",1
+DB00458,Imipramine,DBMET00255,Desipramine,1
+DB00458,Imipramine,DBMET01957,Imipramine N-oxide,1
+DB00458,Imipramine,DBMET01958,Imidodibenzyl Metabolite,1
+DB00458,Imipramine,DBMET01959,Didemethylimipramine,1
+DB00458,Imipramine,DBMET00254,2-hydroxyimipramine,1
+DBMET00254,2-hydroxyimipramine,DBMET00680,2-hydroxy-imipramine glucuronide,2
+DBMET00255,Desipramine,DBMET00314,2-hydroxydesipramine,2
+DBMET01959,Didemethylimipramine,DBMET01961,10-hydroxydidemethylimipramine,2
+DBMET00314,2-hydroxydesipramine,DBMET01956,2-hydroxydesipramine glucuronide,3
+DB00461,Nabumetone,DBMET00764,6-methoxy-2-naphthylacetic acid,1
+DB00461,Nabumetone,DBMET01710,4-hydroxy-4-(6-methoxy-2-naphthyl)-2-butanone,1
+DB00465,Ketorolac,DBMET00978,4-hydroxy ketorolac,1
+DB00468,Quinine,DBMET00383,3-hydroxyquinine,1
+DB00469,Tenoxicam,DBMET00306,5'-Hydroxytenoxicam,1
+DB00470,Dronabinol,DBMET01785,11-OH-delata-Tetrahydrocannabinol,1
+DB00470,Dronabinol,DBMET01786,7-OH-delta-9-Tetrahydrocannabinol,1
+DB00470,Dronabinol,DBMET01787,7alpha-OH-delta-9-Tetrahydrocannabinol,1
+DB00470,Dronabinol,DBMET01788,8-OH-delta-9-Tetrahydrocannabinol,1
+DB00470,Dronabinol,DBMET01789,8alpha-OH-delta-9-Tetrahydrocannabinol,1
+DB00470,Dronabinol,DBMET00120,11-Hydroxy-delta-9-THC,1
+DB00470,Dronabinol,DBMET00122,7-beta-Hydroxy-delta-9-THC,1
+DB00470,Dronabinol,DBMET00123,7-alpha-Hydroxy-delta-9-THC,1
+DB00470,Dronabinol,DBMET00124,8-Hydroxy-delta-9-THC,1
+DB00470,Dronabinol,DBMET00125,8-beta-Hydroxy-delta-9-THC,1
+DB00470,Dronabinol,DBMET00126,"9-alpha,10-alpha-epoxyhexahydrocannabinol",1
+DBMET00124,8-Hydroxy-delta-9-THC,DBMET01220,"8,11-Dihydroxy-delta-9-THC",2
+DBMET00120,11-Hydroxy-delta-9-THC,DBMET01220,"8,11-Dihydroxy-delta-9-THC",2
+DBMET00120,11-Hydroxy-delta-9-THC,DBMET01221,11-Nor-9-carboxy-delta-9-THC,2
+DB00471,Montelukast,DBMET01243,Montelukast metabolite M1,1
+DB00471,Montelukast,DBMET01244,Montelukast metabolite M2a,1
+DB00471,Montelukast,DBMET01245,Montelukast metabolite M2b,1
+DB00471,Montelukast,DBMET01246,Montelukast metabolite M5a,1
+DB00471,Montelukast,DBMET01247,Montelukast metabolite M5b,1
+DB00471,Montelukast,DBMET01248,Montelukast metabolite M6a,1
+DB00471,Montelukast,DBMET01249,Montelukast metabolite M6b,1
+DB00471,Montelukast,DBMET01706,montelukast sulfoxide,1
+DB00471,Montelukast,DBMET01707,21-Hydroxymontelukast,1
+DB00471,Montelukast,DBMET01708,21(S)-Hydroxy Montelukast,1
+DB00471,Montelukast,DBMET01709,"Montelukast 1, 2-Diol",1
+DB00472,Fluoxetine,DBMET00507,Hippuric acid,1
+DB00472,Fluoxetine,DBMET00857,Fluoxetine glucuronide,1
+DB00472,Fluoxetine,DBMET00197,Norfluoxetine,1
+DB00472,Fluoxetine,DBMET00198,para-Trifluoromethylphenol,1
+DBMET00197,Norfluoxetine,DBMET01363,Norfluoxetine alcohol,2
+DBMET00197,Norfluoxetine,DBMET00964,Norfluoxetine glucuronide,2
+DBMET01363,Norfluoxetine alcohol,DBMET01364,Norfluoxetine acid,3
+DB00476,Duloxetine,DBMET00750,"5-hydroxy, 6-methoxy duloxetine sulfate",1
+DB00476,Duloxetine,DBMET00731,4-hydroxy duloxetine glucuronide,1
+DB00477,Chlorpromazine,DBMET00312,hydroxychlorpromazine,1
+DB00477,Chlorpromazine,DBMET00815,chlorpromazine-N-oxide,1
+DB00477,Chlorpromazine,DBMET00822,dedimethylchlorpromazine,1
+DB00477,Chlorpromazine,DBMET00825,demonomethylchlorpromazine,1
+DB00477,Chlorpromazine,DBMET01627,Chlorpromazine S-oxide,1
+DB00477,Chlorpromazine,DBMET00928,N-dedimethylchlorpromazine,1
+DB00482,Celecoxib,DBMET01624,Hydroxy celecoxib,1
+DB00482,Celecoxib,DBMET00165,Hydroxycelecoxib,1
+DBMET00165,Hydroxycelecoxib,DBMET00810,Carboxycelecoxib,2
+DBMET00810,Carboxycelecoxib,DBMET00813,Celecoxib glucuronide,3
+DB00484,Brimonidine,DBMET00464,2-oxobrimonidine,1
+DB00484,Brimonidine,DBMET00465,3-oxobrimonidine ,1
+DB00487,Pefloxacin,DBMET00631,Norfloxacin,1
+DB00487,Pefloxacin,DBMET00982,Pefloxacin N-oxide,1
+DB00490,Buspirone,DBMET00354,1-Pyrimidinylpiperazine,1
+DB00490,Buspirone,DBMET00477,Buspirone N-oxide,1
+DB00490,Buspirone,DBMET00478,3′-Hydroxybuspirone,1
+DB00490,Buspirone,DBMET00479,5-Hydroxybuspirone,1
+DB00490,Buspirone,DBMET00480,6'-Hydroxybuspirone,1
+DB00492,Fosinopril,DBMET01139,Fosinoprilat,1
+DB00493,Cefotaxime,DBMET00646,Desacetyl-cefotaxime,1
+DB00495,Zidovudine,DBMET00756,5’glucuronyl zidovudine,1
+DB00495,Zidovudine,DBMET00718,3'-azido-3'-deoxy-5'- O-beta-D-glucopyranuronosylthymidine,1
+DB00495,Zidovudine,DBMET00720,3’-amino-3’-deoxythimidine,1
+DB00495,Zidovudine,DBMET00721,3’-amino-3’-deoxythimidine glucuronide,1
+DB00497,Oxycodone,DBMET00321,oxymorphone,1
+DB00497,Oxycodone,DBMET00342,noroxycodone,1
+DB00499,Flutamide,DBMET00249,2-hydroxyflutamide,1
+DB00500,Tolmetin,DBMET00652,Tolmetin glucuronide,1
+DB00502,Haloperidol,DBMET00333,4-(4-Chlorophenyl)-1-[4-(4-fluorophenyl)-4-oxobutyl]-pyridinium (HPP+),1
+DB00502,Haloperidol,DBMET00103,4-(4-chlorophenyl)-4-hydroxypiperidine,1
+DB00502,Haloperidol,DBMET00104,Reduced haloperidol,1
+DB00502,Haloperidol,DBMET00105,Haloperidol glucuronide,1
+DB00502,Haloperidol,DBMET00106,"Haloperidol 1,2,3,6-tetrahydropyridine",1
+DB00502,Haloperidol,DBMET01676,p-Fluorobenzoylpropionic acid and 4-(4-chlorophenyl)-4-hydroxypiperidine,1
+DB00502,Haloperidol,DBMET00252,fluorobenzoylpropionic acid,1
+DBMET00104,Reduced haloperidol,DBMET01211,Haloperidol reduced pyridinium ion derivative,2
+DBMET00106,"Haloperidol 1,2,3,6-tetrahydropyridine",DBMET01212,Haloperidol pyridinium ion derivative,2
+DBMET01211,Haloperidol reduced pyridinium ion derivative,DBMET01212,Haloperidol pyridinium ion derivative,3
+DB00503,Ritonavir,DBMET01182,Ritonavir metabolite M1,1
+DB00503,Ritonavir,DBMET01183,Ritonavir metabolite M11,1
+DB00503,Ritonavir,DBMET00084,N-Desmethylritonavir,1
+DB00503,Ritonavir,DBMET00385,Hydroxy Ritonavir,1
+DB00507,Nitazoxanide,DBMET01012,Desacetyl-nitazoxanide,1
+DB00507,Nitazoxanide,DBMET01013,Tizoxanide glucuronide,1
+DB00509,Dextrothyroxine,DBMET00555,Thyroxine sulfate,1
+DB00509,Dextrothyroxine,DBMET00586,Thyroxine glucuronide,1
+DB00513,Aminocaproic Acid,DBMET00501,Adipic acid,1
+DB00514,Dextromethorphan,DBMET00224,Dextrorphan,1
+DB00514,Dextromethorphan,DBMET00225,3-Methoxymorphinan,1
+DBMET00224,Dextrorphan,DBMET00595,Dextrorphan O-glucuronide,2
+DBMET00224,Dextrorphan,DBMET01317,Dextrorphan sulfate,2
+DBMET00224,Dextrorphan,DBMET01318,3-Hydroxymorphinan,2
+DBMET00225,3-Methoxymorphinan,DBMET01318,3-Hydroxymorphinan,2
+DBMET01318,3-Hydroxymorphinan,DBMET01319,3-Hydroxymorphinan O-glucuronide,3
+DBMET01318,3-Hydroxymorphinan,DBMET01320,3-Hydroxymorphinan sulfate,3
+DB00518,Albendazole,DBMET00790,albendazole sulfone,1
+DB00518,Albendazole,DBMET00791,albendazole sulfoxide,1
+DB00519,Trandolapril,DBMET01014,Trandolaprilat,1
+DB00519,Trandolapril,DBMET00840,Diketopiperazine,1
+DB00521,Carteolol,DBMET00311,8-Hydroxycarteolol,1
+DB00530,Erlotinib,DBMET01790,2-(4-(3-Ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl)oxyethanol,1
+DB00531,Cyclophosphamide,DBMET00019,4-Hydroxycyclophosphamide,1
+DB00531,Cyclophosphamide,DBMET00020,Dechloroethyl cyclophosphamide,1
+DB00531,Cyclophosphamide,DBMET00023,Chloroacetaldehyde,1
+DBMET00019,4-Hydroxycyclophosphamide,DBMET01076,4-Ketocyclophosphamide,2
+DBMET00019,4-Hydroxycyclophosphamide,DBMET00658,Aldophosphamide,2
+DBMET00658,Aldophosphamide,DBMET01088,Carboxyphosphamide,3
+DBMET00658,Aldophosphamide,DBMET01123,Alcophosphamide,3
+DBMET00658,Aldophosphamide,DBMET01088,Carboxyphosphamide,3
+DBMET00658,Aldophosphamide,DBMET01126,Acrolein,3
+DBMET00658,Aldophosphamide,DBMET01147,Phosphoramide Mustard,3
+DBMET01088,Carboxyphosphamide,DBMET01125,Nornitrogen mustard,4
+DBMET01126,Acrolein,DBMET01146,Acrylic Acid,4
+DBMET01147,Phosphoramide Mustard,DBMET01148,Phosphoramide Aziridinium,4
+DB00532,Mephenytoin,DBMET00278,S-Nirvanol,1
+DB00532,Mephenytoin,DBMET00056,Nirvanol,1
+DB00532,Mephenytoin,DBMET00057,S-4-Hydroxymephenytoin,1
+DB00532,Mephenytoin,DBMET01808,4'-Hydroxymephenytoin,1
+DB00533,Rofecoxib,DBMET00169,5-Hydroxyrofecoxib,1
+DB00533,Rofecoxib,DBMET00170,Dihydro-5-hydroxyrofecoxib,1
+DB00533,Rofecoxib,DBMET00171,"Rofecoxib-threo-3,4-dihydrohydroxy acid",1
+DB00533,Rofecoxib,DBMET00172,"Rofecoxib-erythro-3,4-dihydrohydroxy acid",1
+DB00533,Rofecoxib,DBMET01838,5-OH-rofecoxib,1
+DBMET00172,"Rofecoxib-erythro-3,4-dihydrohydroxy acid",DBMET01292,cis-Dihydrorofecoxib,2
+DBMET00171,"Rofecoxib-threo-3,4-dihydrohydroxy acid",DBMET01293,trans-Dihydrorofecoxib,2
+DBMET00170,Dihydro-5-hydroxyrofecoxib,DBMET00171,"Rofecoxib-threo-3,4-dihydrohydroxy acid",2
+DBMET00169,5-Hydroxyrofecoxib,DBMET01294,5-Hydroxyrofecoxib O-glucuronide,2
+DB00539,Toremifene,DBMET00394,N-desmethyltoremifene,1
+DB00540,Nortriptyline,DBMET00052,E-10-Hydroxynortriptyline,1
+DB00540,Nortriptyline,DBMET00053,Desmethylnortriptyline,1
+DB00540,Nortriptyline,DBMET01719,E-10-OH-nortriptyline,1
+DBMET00052,E-10-Hydroxynortriptyline,DBMET00482,E-10-Hydroxydesmethylnortriptyline,2
+DBMET00053,Desmethylnortriptyline,DBMET00482,E-10-Hydroxydesmethylnortriptyline,2
+DB00542,Benazepril,DBMET00801,benazeprilat,1
+DB00543,Amoxapine,DBMET00775,7-hydroxyamoxapine,1
+DB00543,Amoxapine,DBMET00776,8-hydroxyamoxapine,1
+DB00546,Adinazolam,DBMET00280,desmethyladinazolam,1
+DB00546,Adinazolam,DBMET00112,alpha-Hydroxyalprazolam,1
+DB00546,Adinazolam,DBMET00632,Estazolam,1
+DB00549,Zafirlukast,DBMET00307,Zafirlukast metabolite M5,1
+DB00549,Zafirlukast,DBMET01791,3-hydroxycyclopentyl N-[3-({2-methoxy-4-[(2-methylbenzenesulfonyl)carbamoyl]phenyl}methyl)-1-methylindol-5-yl]carbamate,1
+DB00549,Zafirlukast,DBMET01250,Zafirlukast metabolite M1,1
+DBMET01250,Zafirlukast metabolite M1,DBMET01251,Zafirlukast metabolite M2,2
+DBMET00307,Zafirlukast metabolite M5,DBMET01254,Zafirlukast metabolite M8,2
+DBMET01251,Zafirlukast metabolite M2,DBMET01252,Zafirlukast metabolite M4,3
+DBMET01254,Zafirlukast metabolite M8,DBMET01253,Zafirlukast metabolite M3,3
+DBMET01252,Zafirlukast metabolite M4,DBMET01253,Zafirlukast metabolite M3,4
+DB00554,Piroxicam,DBMET00304,5'-Hydroxypiroxicam,1
+DB00555,Lamotrigine,DBMET00466,lamotrigine-2-N-glucuronide,1
+DB00559,Bosentan,DBMET00133,Bosentan metabolite Ro 48-5033,1
+DB00559,Bosentan,DBMET00134,Bosentan metabolite Ro 47-8634,1
+DBMET00133,Bosentan metabolite Ro 48-5033,DBMET01237,Bosentan metabolite Ro 64-1056,2
+DBMET00134,Bosentan metabolite Ro 47-8634,DBMET01237,Bosentan metabolite Ro 64-1056,2
+DB00563,Methotrexate,DBMET00467,7-hydroxymethotrexate,1
+DB00564,Carbamazepine,DBMET00291,"10,11-Epoxycarbamazepine",1
+DB00564,Carbamazepine,DBMET00804,"Carbamazepine 2,3-epoxide",1
+DB00564,Carbamazepine,DBMET00681,2-hydroxycarbamazepine,1
+DB00564,Carbamazepine,DBMET01623,9-Hydroxycarbamazepine,1
+DB00564,Carbamazepine,DBMET00710,3-hydroxycarbamazepine,1
+DBMET00710,3-hydroxycarbamazepine,DBMET01101,"2,3-Dihydroxycarbamazepine",2
+DBMET00804,"Carbamazepine 2,3-epoxide",DBMET00681,2-hydroxycarbamazepine,2
+DBMET00804,"Carbamazepine 2,3-epoxide",DBMET00710,3-hydroxycarbamazepine,2
+DBMET00291,"10,11-Epoxycarbamazepine",DBMET00806,"10,11-Dihydroxycarbamazepine",2
+DBMET00681,2-hydroxycarbamazepine,DBMET00684,2-hydroxyiminostilbene,3
+DBMET00681,2-hydroxycarbamazepine,DBMET01101,"2,3-Dihydroxycarbamazepine",3
+DBMET01101,"2,3-Dihydroxycarbamazepine",DBMET00807,Carbamazepine-O-quinone,3
+DBMET00684,2-hydroxyiminostilbene,DBMET01099,Carbamazepine iminoquinone,4
+DB00565,Cisatracurium,DBMET00636,laudanosine,1
+DB00565,Cisatracurium,DBMET00915,Monoquaternary acrylate,1
+DB00568,Cinnarizine,DBMET01193,Cinnarizine metabolite M1,1
+DB00568,Cinnarizine,DBMET01194,Cinnarizine metabolite M2,1
+DB00568,Cinnarizine,DBMET01195,Benzophenone,1
+DB00568,Cinnarizine,DBMET01196,Cinnarizine metabolite M4,1
+DB00568,Cinnarizine,DBMET01630,Cinnamaldehyde,1
+DB00568,Cinnarizine,DBMET01631,1-Cinnamylpiperazine,1
+DB00570,Vinblastine,DBMET00398,Desacetylvinblastine,1
+DB00571,Propranolol,DBMET00268,N-desisopropylpropranolol,1
+DB00571,Propranolol,DBMET00310,4'-hydroxypropanolol,1
+DB00573,Fenoprofen,DBMET00854,Fenoprofen glucuronide,1
+DB00573,Fenoprofen,DBMET00744,4'-hydroxyfenoprofen glucuronide,1
+DB00574,Fenfluramine,DBMET00316,norfenfluramine,1
+DB00575,Clonidine,DBMET00468,4-Hydroxyclonidine,1
+DB00580,Valdecoxib,DBMET00173,Valdecoxib N-glucuronide,1
+DB00580,Valdecoxib,DBMET01338,Valdecoxib metabolite M2,1
+DB00580,Valdecoxib,DBMET01344,Valdecoxib metabolite M1,1
+DB00580,Valdecoxib,DBMET01349,Valdecoxib metabolite M9,1
+DBMET01338,Valdecoxib metabolite M2,DBMET01339,Valdecoxib metabolite M2 glucuronide,2
+DBMET01338,Valdecoxib metabolite M2,DBMET01340,Valdecoxib metabolite M7,2
+DBMET01338,Valdecoxib metabolite M2,DBMET01342,Valdecoxib metabolite M5,2
+DBMET01344,Valdecoxib metabolite M1,DBMET01345,Valdecoxib metabolite M1 glucuronide,2
+DBMET01344,Valdecoxib metabolite M1,DBMET01342,Valdecoxib metabolite M5,2
+DBMET01344,Valdecoxib metabolite M1,DBMET01346,Valdecoxib metabolite M4,2
+DBMET01344,Valdecoxib metabolite M1,DBMET01347,Valdecoxib metabolite M3,2
+DBMET01349,Valdecoxib metabolite M9,DBMET01347,Valdecoxib metabolite M3,2
+DBMET01349,Valdecoxib metabolite M9,DBMET01350,Valdecoxib metabolite M9 glucuronide,2
+DBMET01340,Valdecoxib metabolite M7,DBMET01341,Valdecoxib metabolite M8,3
+DBMET01342,Valdecoxib metabolite M5,DBMET01343,Valdecoxib metabolite M5 glucuronide,3
+DBMET01347,Valdecoxib metabolite M3,DBMET01348,Valdecoxib metabolite M3 glucuronide,3
+DB00582,Voriconazole,DBMET00071,"UK-121,265 (Voriconazole N-oxide)",1
+DB00582,Voriconazole,DBMET00072,4-Hydroxyvoriconazole,1
+DB00582,Voriconazole,DBMET01773,Hydroxymethyl Voriconazole,1
+DB00582,Voriconazole,DBMET01774,Voriconazole N-Oxide,1
+DBMET00072,4-Hydroxyvoriconazole,DBMET01184,4-Hydroxyvoriconazole 4-O-glucuronide,2
+DBMET00071,"UK-121,265 (Voriconazole N-oxide)",DBMET01185,"UK-51,060",2
+DBMET01185,"UK-51,060",DBMET01186,"UK-215,364",3
+DBMET01186,"UK-215,364",DBMET01187,Voriconazole O-glucuronide derivative (1),4
+DB00583,L-Carnitine,DBMET00513,Trimethylamine N-oxide,1
+DB00583,L-Carnitine,DBMET00521,[3H]-gamma-Butyrobetaine,1
+DB00584,Enalapril,DBMET01269,Enalaprilat,1
+DB00585,Nizatidine,DBMET00959,N2-monodes-methylnizatidine,1
+DB00586,Diclofenac,DBMET01646,4'-OH-diclofenac,1
+DB00586,Diclofenac,DBMET00144,4'-Hydroxydiclofenac,1
+DB00586,Diclofenac,DBMET00145,Diclofenac acyl glucuronide,1
+DB00586,Diclofenac,DBMET00146,3'-Hydroxydiclofenac,1
+DB00586,Diclofenac,DBMET00147,5-Hydroxydiclofenac,1
+DBMET00144,4'-Hydroxydiclofenac,DBMET01258,"4',5-Dihydroxydiclofenac",2
+DBMET00147,5-Hydroxydiclofenac,DBMET01258,"4',5-Dihydroxydiclofenac",2
+DB00588,Fluticasone propionate,DBMET00450,fluticasone 17beta-carboxylic acid,1
+DB00592,Piperazine,DBMET00949,N-mononitrosopiperazine,1
+DB00592,Piperazine,DBMET00950,N-nitroso-3-hydroxypyrrolidine,1
+DB00601,Linezolid,DBMET01017,Hydroxyethyl glycine,1
+DB00601,Linezolid,DBMET00797,aminoethoxyacetic acid,1
+DB00603,Medroxyprogesterone acetate,DBMET00408,6β-Hydroxymedroxyprogesterone,1
+DB00603,Medroxyprogesterone acetate,DBMET00409,2β-Hydroxymedroxyprogesterone,1
+DB00603,Medroxyprogesterone acetate,DBMET00410,1β-Hydroxymedroxyprogesterone,1
+DB00604,Cisapride,DBMET01632,3-(4-fluorophenoxy)propanal,1
+DB00604,Cisapride,DBMET01633,3-Fluoro-4-hydroxycisapride,1
+DB00604,Cisapride,DBMET01634,4-Fluoro-2- hydroxycisapride,1
+DB00604,Cisapride,DBMET00355,norcisapride,1
+DB00605,Sulindac,DBMET01002,Sulindac sulfide,1
+DB00605,Sulindac,DBMET01003,Sulindac sulfone,1
+DB00608,Chloroquine,DBMET01559,"(R)-chloroquine, N-desethyl",1
+DB00609,Ethionamide,DBMET00850,Ethionamide sulphoxide,1
+DB00613,Amodiaquine,DBMET00290,desethylamodiaquine,1
+DB00614,Furazolidone,DBMET00639,beta-Hydroxyethylhydrazine,1
+DB00614,Furazolidone,DBMET00706,3-amino-2-oxazolidone,1
+DB00615,Rifabutin,DBMET00384,27-O-demethylrifabutin,1
+DB00615,Rifabutin,DBMET00696,25-O-desacetyl rifabutin,1
+DB00615,Rifabutin,DBMET00722,31-hydroxy rifabutin,1
+DB00617,Paramethadione,DBMET00434,"5-ethyl-5-methyl-2,4-oxazolidinedione",1
+DB00619,Imatinib,DBMET00025,N-desmethylimatinib (CGP74588),1
+DB00619,Imatinib,DBMET00026,AFN911,1
+DB00619,Imatinib,DBMET00027,CGP71422,1
+DB00619,Imatinib,DBMET00028,CGP72383,1
+DB00619,Imatinib,DBMET00931,n-demethylated piperazine,1
+DB00622,Nicardipine,DBMET01832,De-benzylated nicardipine,1
+DB00622,Nicardipine,DBMET01833,Dehydronicardipine,1
+DB00623,Fluphenazine,DBMET01670,Fluphenazine sulfoxide,1
+DB00624,Testosterone,DBMET01762,2alpha-hydroxytestosterone,1
+DB00624,Testosterone,DBMET01763,2beta-hydroxytestosterone,1
+DB00624,Testosterone,DBMET01764,15alpha-hydroxytestosterone,1
+DB00624,Testosterone,DBMET01765,15beta-hydroxytestosterone,1
+DB00624,Testosterone,DBMET01766,16alpha-hydroxytestosterone,1
+DB00624,Testosterone,DBMET01767,16beta-hydroxytestosterone,1
+DB00624,Testosterone,DB01536,Androstenedione,1
+DB00624,Testosterone,DBMET00556,Testosterone sulfate,1
+DB00624,Testosterone,DBMET00558,Dihydrotestosterone,1
+DB00624,Testosterone,DBMET00562,Testosterone glucuronide,1
+DB00624,Testosterone,DBMET00571,5-alpha-Dihydrotestosterone glucuronide,1
+DB00624,Testosterone,DBMET00574,5a-Dihydrotestosterone sulfate,1
+DB00624,Testosterone,DBMET00607,17-Hydroxyandrostane-3-glucuronide,1
+DB00624,Testosterone,DBMET00392,6-beta-hydroxytestosterone,1
+DB00624,Testosterone,DBMET00491,Estradiol,1
+DB00625,Efavirenz,DBMET01653,8-OH-efavirenz,1
+DB00628,Clorazepate,DBMET00246,Oxazepam,1
+DB00628,Clorazepate,DBMET00113,Nordiazepam,1
+DB00628,Clorazepate,DBMET00713,3-hydroxynordiazepam,1
+DB00628,Clorazepate,DBMET00980,p-Hydroxynordiazepam,1
+DB00629,Guanabenz,DB13410,Guanoxabenz,1
+DB00631,Clofarabine,DBMET00419,clofarabind-5'-monophosphate,1
+DB00635,Prednisone,DBMET00627,Prednisolone,1
+DB00637,Astemizole,DBMET01618,6-Hydroxyastemizole,1
+DB00637,Astemizole,DB06457,Tecastemizole,1
+DB00637,Astemizole,DBMET01619,2-(4-hydroxyphenyl)acetaldehyde,1
+DB00637,Astemizole,DBMET00350,desmethylastemizole,1
+DB00638,Inulin,DBMET00554,Methane,1
+DB00640,Adenosine,DBMET00485,Adenosine monophosphate,1
+DB00640,Adenosine,DBMET00496,Inosine,1
+DB00641,Simvastatin,DBMET01745,6'-beta-Hydroxysimvastatin,1
+DB00641,Simvastatin,DBMET01746,"3', 5'-Dihydrodiol",1
+DB00641,Simvastatin,DBMET01747,6'-exomethylene,1
+DB00641,Simvastatin,DBMET00388,simvastatin hydroxy acid,1
+DB00643,Mebendazole,DBMET00675,2-amino-5-benzoylbenzimidazole,1
+DB00650,Leucovorin,DBMET00528,5-Methyltetrahydrofolate,1
+DB00655,Estrone,DBMET00530,Estrone sulfate,1
+DB00655,Estrone,DBMET00569,Estrone glucuronide,1
+DB00655,Estrone,DBMET00332,4-hydroxyestrone,1
+DB00655,Estrone,DBMET00615,2-Hydroxyestrone sulfate,1
+DB00655,Estrone,DBMET00616,4-Hydroxyestrone sulfate,1
+DB00655,Estrone,DBMET01659,2-OH-estrone,1
+DB00655,Estrone,DBMET01660,4-OH-estrone,1
+DB00655,Estrone,DBMET01661,6alpha-OH-estrone,1
+DB00655,Estrone,DBMET01662,6beta-estrone,1
+DB00655,Estrone,DBMET01663,7alpha-OH-estrone,1
+DB00655,Estrone,DBMET01664,15alpha-OH-estrone,1
+DB00655,Estrone,DBMET01665,16alpha-OH-estrone,1
+DB00655,Estrone,DBMET01666,16beta-OH-estrone,1
+DB00655,Estrone,DBMET00248,2-hydroxyestrone,1
+DB00656,Trazodone,DBMET00325,4'-hydroxytrazodone glutathione ,1
+DB00656,Trazodone,DBMET00344,m-chlorophenylpiperazine (m-CPP) ,1
+DB00656,Trazodone,DBMET00860,Glucuonic acid,1
+DB00656,Trazodone,DBMET00403,triazolopropionic acid,1
+DB00656,Trazodone,DBMET00404,triazolopyridinone epoxide,1
+DB00656,Trazodone,DBMET00405,4'-hydroxytrazodone ,1
+DB00656,Trazodone,DBMET00976,Oxotriazolopyridinpropionic acid,1
+DB00656,Trazodone,DBMET00487,Glutathione,1
+DB00661,Verapamil,DBMET01779,D-702,1
+DB00661,Verapamil,DBMET01617,"2-(3,4-dimethoxyphenyl)acetaldehyde",1
+DB00661,Verapamil,DBMET00619,O-Desmethylverapamil (D-702),1
+DB00661,Verapamil,DBMET00131,Verapamil metabolite D-617,1
+DB00661,Verapamil,DBMET00132,Norverapamil,1
+DB00661,Verapamil,DBMET00471,O-Desmethylverapamil (D-703),1
+DBMET00619,O-Desmethylverapamil (D-702),DBMET01234,Verapamil metabolite D-620,2
+DBMET00131,Verapamil metabolite D-617,DBMET01234,Verapamil metabolite D-620,2
+DBMET00131,Verapamil metabolite D-617,DBMET01235,Verapamil metabolite PR-25,2
+DBMET00132,Norverapamil,DBMET01236,Verapamil metabolite D-715 (PR-22),2
+DBMET00132,Norverapamil,DBMET01234,Verapamil metabolite D-620,2
+DB00668,Epinephrine,DBMET00537,Epinephrine sulfate,1
+DB00668,Epinephrine,DBMET00591,Epinephrine glucuronide,1
+DB00672,Chlorpropamide,DBMET01628,2-OH-chlorpropamide,1
+DB00672,Chlorpropamide,DBMET01629,3-OH-chlorpropamide,1
+DB00672,Chlorpropamide,DBMET00199,2-Hydroxychlorpropamide,1
+DB00672,Chlorpropamide,DBMET00200,3-Hydroxychlorpropamide,1
+DB00672,Chlorpropamide,DBMET00201,p-Chlorobenzene sulfonylurea,1
+DBMET00201,p-Chlorobenzene sulfonylurea,DBMET00977,p-Chlorobenzene sulfonamide,2
+DB00673,Aprepitant,DBMET01589,"(2R,3S)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine",1
+DB00673,Aprepitant,DBMET01590,"5-oxo-1,4-dihydro-1,2,4-triazole-3-carbaldehyde",1
+DB00673,Aprepitant,DBMET01591,"1-[3,5-bis(trifluoromethyl)phenyl]ethanone",1
+DB00673,Aprepitant,DBMET01592,"5-{[(2S,3S)-3-(4-fluorophenyl)-2-hydroxymorpholin-4-yl]methyl}-2,4-dihydro-1,2,4-triazol-3-one",1
+DB00673,Aprepitant,DBMET00349,"(2S,3R)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine",1
+DB00673,Aprepitant,DBMET00474,"5-({[(1R)-1-(4-fluorophenyl)-2-hydroxyethyl]amino}methyl)-2,3-dihydro-1H-1,2,4-triazol-3-one",1
+DB00673,Aprepitant,DBMET00475,"(2R)-2-(4-fluorophenyl)-2-{[(5-oxo-2,5-dihydro-1H-1,2,4-triazol-3-yl)methyl]amino}acetic acid",1
+DB00674,Galantamine,DBMET01674,O-Desmethylgalantamine,1
+DB00674,Galantamine,DBMET01675,Galantamine N-oxide,1
+DB00675,Tamoxifen,DBMET01004,Tamoxifen-N-glucuronide,1
+DB00675,Tamoxifen,DBMET00029,N-Desmethyltamoxifen,1
+DB00675,Tamoxifen,DBMET00030,4-Hydroxytamoxifen,1
+DB00675,Tamoxifen,DBMET00031,3-Hydroxytamoxifen (Droloxifene),1
+DB00675,Tamoxifen,DBMET00032,Tamoxifen N-oxide,1
+DB00675,Tamoxifen,DBMET01758,3-Hydroxytamoxifen,1
+DB00675,Tamoxifen,DBMET00796,Alpha-hydroxytamoxifen,1
+DB00675,Tamoxifen,DBMET01130,4'-Hydroxytamoxifen,1
+DBMET00030,4-Hydroxytamoxifen,DBMET01044,Endoxifen,2
+DBMET00796,Alpha-hydroxytamoxifen,DBMET00794,Alpha-hydroxy-tamoxifen-O-glucuronide,2
+DBMET00030,4-Hydroxytamoxifen,DBMET00737,4-hydroxytamoxifen sulfate,2
+DBMET00030,4-Hydroxytamoxifen,DBMET00738,4-hydroxytamoxifen-N-glucuronide,2
+DBMET00030,4-Hydroxytamoxifen,DBMET00739,4-hydroxytamoxifen-O-glucuronide,2
+DBMET00029,N-Desmethyltamoxifen,DBMET01060,alpha-Hydroxy-N-desmethyltamoxifen,2
+DBMET00029,N-Desmethyltamoxifen,DBMET01044,Endoxifen,2
+DBMET00029,N-Desmethyltamoxifen,DBMET00441,N-Didesmethyl-tamoxifen,2
+DBMET00030,4-Hydroxytamoxifen,DBMET00442,"3,4-Dihydroxy-tamoxifen",2
+DBMET00030,4-Hydroxytamoxifen,DBMET01131,cis-4-Hydroxytamoxifen,2
+DBMET00032,Tamoxifen N-oxide,DBMET01132,alpha-Hydroxytamoxifen N-oxide,2
+DBMET00796,Alpha-hydroxytamoxifen,DBMET01132,alpha-Hydroxytamoxifen N-oxide,2
+DBMET00796,Alpha-hydroxytamoxifen,DBMET01060,alpha-Hydroxy-N-desmethyltamoxifen,2
+DBMET01044,Endoxifen,DBMET00849,Endoxifen sulfate,3
+DBMET01044,Endoxifen,DBMET00963,Norendoxifen,3
+DBMET01044,Endoxifen,DBMET00848,Endoxifen O-glucuronide,3
+DB00678,Losartan,DBMET00009,E-3179,1
+DB00678,Losartan,DBMET00010,Losartan N2-glucuronide,1
+DB00678,Losartan,DBMET00303,E-3174,1
+DBMET00009,E-3179,DBMET00303,E-3174,2
+DB00679,Thioridazine,DBMET01842,Thioridazine 2-sulfoxide,1
+DB00679,Thioridazine,DBMET01843,N-desmethylthioridazine,1
+DB00679,Thioridazine,DBMET01844,Thioridazine 5-sulfoxide,1
+DB00682,Warfarin,DBMET01042,S-7-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00043,S-6-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00044,S-4'-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00045,R-4'-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00046,R-6-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00047,R-10-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00048,R-8-Hydroxywarfarin,1
+DB00682,Warfarin,DBMET00049,R-7-Hydroxywarfarin,1
+DB00683,Midazolam,DBMET00444,Alpha-hydroxymidazolam,1
+DB00683,Midazolam,DBMET00446,4-hydroxymidazolam,1
+DB00685,Trovafloxacin,DBMET00640,Sulfamate,1
+DB00688,Mycophenolate mofetil,DBMET00629,Mycophenolic acid (MPA),1
+DB00688,Mycophenolate mofetil,DBMET00916,Mycophenolic acid glucuronide,1
+DB00688,Mycophenolate mofetil,DBMET00918,N-(2-carboxymethyl)-morpholine,1
+DB00688,Mycophenolate mofetil,DBMET00919,N-(2-hydroxyethyl)-morpholine,1
+DB00688,Mycophenolate mofetil,DBMET00920,N-(2-hydroxyethyl)-morpholine N-oxide,1
+DB00690,Flurazepam,DBMET00882,Hydroxyethyl flurazepam,1
+DB00690,Flurazepam,DBMET00933,N-desalkyl flurazepam,1
+DB00691,Moexipril,DBMET01140,Moexiprilat,1
+DB00695,Furosemide,DBMET00729,4-chloro-5-sulfamoylanthranilic acid,1
+DB00697,Tizanidine,DBMET00273,"5-chloro-4-(guanidino)-2,1,3-benzothiadiazole",1
+DB00697,Tizanidine,DBMET00274,"5-chloro-4-(2-imidazolin-4-on-2-ylamino)-2,1,3-benzothiadiazole",1
+DB00697,Tizanidine,DBMET01848,"2-[(5-chloro-2,1,3-benzothiadiazol-4-yl)amino]-4,5-dihydro-1H-imidazol-4-ol",1
+DB00698,Nitrofurantoin,DBMET00798,aminofurantoin,1
+DB00699,Nicergoline,DBMET00320,"10-alpha-methoxy-9,10-dihydrolysergol",1
+DB00700,Eplerenone,DBMET01654,6beta-hydroxyeplerenone,1
+DB00700,Eplerenone,DBMET01655,21-hydroxyeplerenone,1
+DB00702,Icodextrin,DBMET00523,Maltotriose,1
+DB00702,Icodextrin,DBMET00525,Maltotetraose,1
+DB00702,Icodextrin,DBMET00495,Maltose,1
+DB00704,Naltrexone,DBMET00760,6-beta-naltrexol,1
+DB00705,Delavirdine,DBMET00360,N-desalkyl delavirdine,1
+DB00709,Lamivudine,DBMET00895,Lamivudine sulfoxide,1
+DB00709,Lamivudine,DBMET00896,Lamivudine-diphosphate-choline,1
+DB00709,Lamivudine,DBMET00897,Lamivudine-diphosphate-ethanolamine,1
+DB00709,Lamivudine,DBMET00898,Lamivudine-monophosphate,1
+DB00709,Lamivudine,DBMET00899,Lamivudine-triphosphate,1
+DB00711,Diethylcarbamazine,DBMET00836,diethylcarbamazine N-oxide,1
+DB00712,Flurbiprofen,DBMET00151,4'-Hydroxyflurbiprofen,1
+DB00712,Flurbiprofen,DBMET00152,Flurbiprofen glucuronide,1
+DB00718,Adefovir Dipivoxil,DBMET01173,Adefovir,1
+DBMET01173,Adefovir,DBMET01174,Adefovir monophosphate,2
+DBMET01174,Adefovir monophosphate,DBMET01175,Adefovir Diphosphate,3
+DB00728,Rocuronium,DBMET00673,17-desacetyl-rocuronium,1
+DB00730,Thiabendazole,DBMET01768,5-hydroxythiabendazole,1
+DB00731,Nateglinide,DBMET01830,2-{[4-(1-hydroxypropan-2-yl)cyclohexyl]formamido}-3-phenylpropanoic acid,1
+DB00731,Nateglinide,DBMET01831,2-{[4-(2-hydroxypropan-2-yl)cyclohexyl]formamido}-3-phenylpropanoic acid,1
+DB00731,Nateglinide,DBMET01321,Nateglinide metabolite M2/M3,1
+DB00731,Nateglinide,DBMET01323,Nateglinide metabolite M1,1
+DB00731,Nateglinide,DBMET01324,Nateglinide metabolite M7,1
+DB00731,Nateglinide,DBMET01325,Nateglinide glucuronide and isomers (M4/M5/M6),1
+DBMET01321,Nateglinide metabolite M2/M3,DBMET01322,Nateglinide metabolite M11/M12,2
+DBMET01323,Nateglinide metabolite M1,DBMET01322,Nateglinide metabolite M11/M12,2
+DBMET01324,Nateglinide metabolite M7,DBMET01322,Nateglinide metabolite M11/M12,2
+DB00734,Risperidone,DBMET00323,9-hydroxyrisperidone,1
+DB00736,Esomeprazole,DBMET01164,Active Metabolite of Esomeprazole,1
+DB00736,Esomeprazole,DBMET00187,Omeprazole sulfone,1
+DB00736,Esomeprazole,DBMET01657,5-O-Desmethylomeprazole,1
+DB00736,Esomeprazole,DBMET00448,5-hydroxyesomeprazole,1
+DB00740,Riluzole,DBMET01737,4-OH-riluzole,1
+DB00740,Riluzole,DBMET01738,5-OH-riluzole,1
+DB00740,Riluzole,DBMET01739,7-OH-riluzole,1
+DB00740,Riluzole,DBMET01740,N-OH-riluzole,1
+DB00741,Hydrocortisone,DBMET00372,6-beta-hydrocortisol,1
+DB00742,Mannitol,DBMET00509,Glycogen,1
+DB00744,Zileuton,DBMET00138,Hydroxyzileuton,1
+DB00744,Zileuton,DBMET00139,Zileuton sulfoxide,1
+DB00744,Zileuton,DBMET00140,Dehydroxyzyleuton,1
+DB00744,Zileuton,DBMET00141,Zileuton O-glucuronide,1
+DBMET00140,Dehydroxyzyleuton,DBMET01255,Dehydroxyzileuton sulfoxide,2
+DB00745,Modafinil,DBMET00378,modafinil acid,1
+DB00749,Etodolac,DBMET00148,6-Hydroxyetodolac,1
+DB00749,Etodolac,DBMET00149,7-Hydroxyetodolac,1
+DB00749,Etodolac,DBMET00150,Etodolac acyl glucuronide,1
+DB00754,Ethotoin,DBMET00979,p-Hydroxyl-ethotoin,1
+DB00755,Tretinoin,DBMET00298,4-Hydroxyretinoic acid,1
+DB00755,Tretinoin,DBMET00561,Retinoyl b-glucuronide,1
+DB00755,Tretinoin,DBMET00594,Retinyl beta-glucuronide,1
+DB00755,Tretinoin,DBMET00453,18-Hydroxyretinoic acid,1
+DB00755,Tretinoin,DBMET00454,"5,6-Epoxyretinoic acid",1
+DB00755,Tretinoin,DBMET00455,4-Oxoretinoic acid,1
+DB00758,Clopidogrel,DBMET01210,Clopidogrel carboxylic acid derivative,1
+DB00758,Clopidogrel,DBMET00098,2-Oxoclopidogrel,1
+DBMET00098,2-Oxoclopidogrel,DBMET01163,Active Metabolite of Clopidogrel,2
+DB00762,Irinotecan,DBMET01681,7-ethyl-10-[4-N-(5-aminopentanoic acid)-1-piperidino] carbonyloxycamptothecin,1
+DB00762,Irinotecan,DBMET01143,SN-38,1
+DB00764,Mometasone,DBMET00759,6-beta-hydroxy-mometasone furoate,1
+DB00768,Olopatadine,DBMET00913,Mono-desmethyl olopatadine,1
+DB00768,Olopatadine,DBMET00970,Olopatadine n-oxide,1
+DB00772,Malathion,DBMET00901,Malaoxon,1
+DB00772,Malathion,DBMET00902,Malathion dicarboxylic acid,1
+DB00772,Malathion,DBMET00903,Malathion monocarboxylic acid,1
+DB00773,Etoposide,DBMET00853,Etoposide glucuronide,1
+DB00773,Etoposide,DBMET00367,3'-demethyletoposide,1
+DB00773,Etoposide,DBMET01264,Etoposide catechol,1
+DBMET01264,Etoposide catechol,DBMET01265,Etoposide ortho-quinone,2
+DB00776,Oxcarbazepine,DBMET00910,MHD,1
+DB00776,Oxcarbazepine,DBMET01105,10-Hydroxycarbazepine,1
+DBMET01105,10-Hydroxycarbazepine,DBMET00806,"10,11-Dihydroxycarbamazepine",2
+DB00778,Roxithromycin,DBMET00828,descladinose roxithromycin,1
+DB00778,Roxithromycin,DBMET00944,N-di-demethyl roxithromycin,1
+DB00778,Roxithromycin,DBMET00947,N-mono roxithromycin,1
+DB00779,Nalidixic Acid,DBMET00887,Hydroxynalidixic acid,1
+DB00780,Phenelzine,DB09269,Phenylacetic acid,1
+DB00780,Phenelzine,DB04325,Phenethylamine,1
+DB00780,Phenelzine,DBMET01955,4- hydroxyphenelzine,1
+DB09269,Phenylacetic acid,DBMET01954,4-hydroxyphenylacetic acid,2
+DB04325,Phenethylamine,DB09269,Phenylacetic acid,2
+DBMET01955,4- hydroxyphenelzine,DBMET01954,4-hydroxyphenylacetic acid,2
+DB09269,Phenylacetic acid,DBMET01954,4-hydroxyphenylacetic acid,3
+DB00783,Estradiol,DBMET00567,Estradiol-17beta 3-sulfate,1
+DB00783,Estradiol,DBMET00568,2-Methoxyestrone 3-glucuronide,1
+DB00783,Estradiol,DBMET00331,4-hydroxystradiol,1
+DB00783,Estradiol,DBMET00572,17-beta-Estradiol-3-glucuronide,1
+DB00783,Estradiol,DBMET00576,2-methoxy-17beta-estradiol 3-O-(beta-D-glucuronide),1
+DB00783,Estradiol,DBMET00581,17-beta-Estradiol glucuronide,1
+DB00783,Estradiol,DBMET00582,"3,17-Androstanediol glucuronide",1
+DB00783,Estradiol,DBMET00583,17-alpha-Estradiol-3-glucuronide,1
+DB00783,Estradiol,DBMET00600,Estradiol-17alpha 3-D-glucuronoside,1
+DB00783,Estradiol,DBMET00606,17-beta-estradiol 3-sulfate-17-(beta-D-glucuronide),1
+DB00783,Estradiol,DB07706,2-Hydroxyestradiol,1
+DB00783,Estradiol,DBMET01658,4-Hydroxyestradiol,1
+DB00783,Estradiol,DBMET00642,"17-Beta-Estradiol-3,17-beta-sulfate",1
+DB00783,Estradiol,DBMET00247,2-hydroxyestradiol,1
+DB00784,Mefenamic acid,DBMET01702,3-hydroxymethyl mefenamic aci,1
+DB00787,Acyclovir,DBMET00782,9-carboxymethoxymethylguanine,1
+DB00788,Naproxen,DBMET00159,O-Desmethylnaproxen,1
+DB00788,Naproxen,DBMET00160,Naproxen O-glucuronide,1
+DB00788,Naproxen,DBMET01711,Desmethylnaproxen,1
+DBMET00159,O-Desmethylnaproxen,DBMET01259,O-Desmethylnaproxen sulfate,2
+DBMET00159,O-Desmethylnaproxen,DBMET01260,O-Desmethylnaproxen acyl glucuronide,2
+DBMET00159,O-Desmethylnaproxen,DBMET01261,O-Desmethylnaproxen O-glucuronide,2
+DB00790,Perindopril,DBMET00984,Perindopril Acyl-beta-D-glucuronide,1
+DB00790,Perindopril,DBMET00985,Perindoprilat,1
+DB00790,Perindopril,DBMET00986,Perindoprilat glucuronide,1
+DB00794,Primidone,DBMET00285,Phenobarbital,1
+DB00796,Candesartan cilexetil,DB13919,Candesartan,1
+DB13919,Candesartan,DBMET00005,O-Deethylated candesartan,2
+DB13919,Candesartan,DBMET00006,Candesartan N2-glucuronide,2
+DB13919,Candesartan,DBMET00007,Candesartan O-glucuronide,2
+DB00799,Tazarotene,DBMET01005,Tazarotenic acid,1
+DB00802,Alfentanil,DBMET01579,N-phenylpropionamide,1
+DB00802,Alfentanil,DBMET01580,"2-(4-ethyl-5-oxo-1,2,3,4-tetrazol-1-yl)acetaldehyde",1
+DB00802,Alfentanil,DBMET00345,AMX,1
+DB00802,Alfentanil,DBMET00346,noralfentanil,1
+DB00805,Minaprine,DBMET01705,4-Hydroxyminaprine,1
+DB00808,Indapamide,DBMET01331,Indapamide metabolite M5,1
+DB00808,Indapamide,DBMET01334,Indapamide metabolite M1,1
+DB00808,Indapamide,DBMET01336,Indapamide epoxide intermediate,1
+DBMET01331,Indapamide metabolite M5,DBMET01332,Indapamide metabolite M4,2
+DBMET01334,Indapamide metabolite M1,DBMET01335,Indapamide metabolite M3,2
+DBMET01336,Indapamide epoxide intermediate,DBMET01337,Indapamide metabolite M6,2
+DBMET01332,Indapamide metabolite M4,DBMET01333,Indapamide metabolite M2,3
+DBMET01335,Indapamide metabolite M3,DBMET01333,Indapamide metabolite M2,3
+DB00813,Fentanyl,DBMET00341,norfentanyl,1
+DB00813,Fentanyl,DB02178,Phenylacetaldehyde,1
+DB00814,Meloxicam,DBMET00754,5'-carboxy meloxicam,1
+DB00814,Meloxicam,DBMET00755,5'-hydroxymethyl meloxicam,1
+DB00816,Orciprenaline,DBMET00975,Orciprenaline-3-O-sulfate,1
+DB00818,Propofol,DBMET01729,4-OH-propofol,1
+DB00818,Propofol,DBMET00193,4-Hydroxypropofol,1
+DB00818,Propofol,DBMET00194,Propofol glucuronide,1
+DBMET00194,Propofol glucuronide,DBMET01311,1-Quinol glucuronide,2
+DBMET00193,4-Hydroxypropofol,DBMET01311,1-Quinol glucuronide,2
+DBMET00193,4-Hydroxypropofol,DBMET01312,4-Quinol sulfate,2
+DB00825,Menthol,DBMET01828,"p-Menthane-3,-8-diol",1
+DB00829,Diazepam,DBMET00831,desmethyldiazepam,1
+DB00829,Diazepam,DBMET00113,Nordiazepam,1
+DB00829,Diazepam,DBMET00114,Temazepam,1
+DB00829,Diazepam,DBMET00246,Oxazepam,1
+DBMET00113,Nordiazepam,DBMET00246,Oxazepam,2
+DBMET00114,Temazepam,DBMET00246,Oxazepam,2
+DBMET00113,Nordiazepam,DBMET01219,Nordiazepam O-glucuronide,2
+DB00834,Mifepristone,DBMET01703,Monodemethylated mifepristone,1
+DB00834,Mifepristone,DBMET01704,17alpha-hydroxymifepristone,1
+DB00836,Loperamide,DBMET01697,N-Desmethyloperamide,1
+DB00843,Donepezil,DBMET01222,Donepezil metabolite M3,1
+DB00843,Donepezil,DBMET01223,Donepezil metabolite M5,1
+DB00843,Donepezil,DBMET01224,Donepezil metabolite M6,1
+DB00843,Donepezil,DBMET00127,5-O-Desmethyldonepezil,1
+DB00843,Donepezil,DBMET00128,6-O-Desmethyldonepezil,1
+DB00843,Donepezil,DBMET00129,Donepezil metabolite M4,1
+DBMET01222,Donepezil metabolite M3,DBMET01225,Donepezil metabolite M7,2
+DBMET00129,Donepezil metabolite M4,DBMET01227,Donepezil metabolite M8,2
+DBMET00127,5-O-Desmethyldonepezil,DBMET01228,Donepezil metabolite M9,2
+DBMET00128,6-O-Desmethyldonepezil,DBMET01228,Donepezil metabolite M9,2
+DBMET00127,5-O-Desmethyldonepezil,DBMET01225,Donepezil metabolite M7,2
+DBMET00128,6-O-Desmethyldonepezil,DBMET01230,Donepezil metabolite M11,2
+DBMET00127,5-O-Desmethyldonepezil,DBMET01231,Donepezil metabolite M12,2
+DBMET01225,Donepezil metabolite M7,DBMET01226,Donepezil metabolite M7 sulfate,3
+DBMET01228,Donepezil metabolite M9,DBMET01229,Donepezil metabolite M10,3
+DBMET01225,Donepezil metabolite M7,DBMET01229,Donepezil metabolite M10,3
+DBMET01228,Donepezil metabolite M9,DBMET01232,Donepezil metabolite M13,3
+DBMET01228,Donepezil metabolite M9,DBMET01233,Donepezil metabolite M14,3
+DB00845,Clofazimine,DBMET00816,clofazimine glucuronide,1
+DB00849,Methylphenobarbital,DBMET00285,Phenobarbital,1
+DB00850,Perphenazine,DBMET01720,N-Dealkylated perphenazine,1
+DB00850,Perphenazine,DBMET01721,Perphenazine sulfoxide,1
+DB00857,Terbinafine,DBMET01203,Terbinafine dihydrodiol derivative (1),1
+DB00857,Terbinafine,DBMET00068,Hydroxyterbinafine,1
+DB00857,Terbinafine,DBMET01204,Terbinafine dihydrodiol derivative (2),1
+DB00857,Terbinafine,DBMET00069,N-Desmethylterbinafine,1
+DB00857,Terbinafine,DBMET00070,1-Naphtaldehyde,1
+DB00857,Terbinafine,DBMET01205,N-Desmethylterbinafine dihydrodiol derivative (1),1
+DB00857,Terbinafine,DBMET01206,N-Desmethylterbinafine dihydrodiol derivative (2),1
+DBMET00068,Hydroxyterbinafine,DBMET01178,Carboxyterbinafine,2
+DBMET00068,Hydroxyterbinafine,DBMET01179,N-Desmethylhydroxyterbinafine,2
+DBMET00069,N-Desmethylterbinafine,DBMET01179,N-Desmethylhydroxyterbinafine,2
+DBMET00070,1-Naphtaldehyde,DBMET01180,1-Naphthoic acid,2
+DBMET00070,1-Naphtaldehyde,DBMET01181,1-Nahthalenethanol,2
+DBMET00069,N-Desmethylterbinafine,DBMET01205,N-Desmethylterbinafine dihydrodiol derivative (1),2
+DBMET00069,N-Desmethylterbinafine,DBMET01206,N-Desmethylterbinafine dihydrodiol derivative (2),2
+DB00863,Ranitidine,DBMET01735,Desmethylranitidine,1
+DB00864,Tacrolimus,DBMET00390,31-O-Demethyltacrolimus,1
+DB00864,Tacrolimus,DBMET01667,13-O-Desmethyltacrolimus,1
+DB00864,Tacrolimus,DBMET01668,15-O-Desmethyltacrolimus,1
+DB00864,Tacrolimus,DBMET00670,13-demethyl tacrolimus,1
+DB00865,Benzphetamine,DBMET00621,Amphetamine,1
+DB00865,Benzphetamine,DBMET00634,Methamphetamine,1
+DB00866,Alprenolol,DBMET00740,4-hydroxy-alprenolol,1
+DB00870,Suprofen,DBMET00162,Suprofen S-oxide,1
+DB00870,Suprofen,DBMET00163,"Thiophene-4,5-epoxide",1
+DB00870,Suprofen,DBMET00164,Suprofen glucuronide,1
+DB00874,Guaifenesin,DBMET00802,beta-(2-methoxyphenoxy)-lactic acid,1
+DB00877,Sirolimus,DBMET01748,39-O-Desmethylsirolimus,1
+DB00877,Sirolimus,DBMET01749,16-O-Desmethylsirolimus,1
+DB00877,Sirolimus,DBMET01750,12-OH-sirolimus,1
+DB00877,Sirolimus,DBMET01751,11-OH-sirolimus,1
+DB00877,Sirolimus,DBMET01752,25-OH-sirolimus,1
+DB00877,Sirolimus,DBMET01753,24-OH-sirolimus,1
+DB00877,Sirolimus,DBMET01754,46-OH-sirolimus,1
+DB00877,Sirolimus,DBMET00389,41-O-demethylrapamycin,1
+DB00881,Quinapril,DBMET01141,Quinaprilat,1
+DB00889,Granisetron,DBMET00406,9'-desmethylgranisetron,1
+DB00889,Granisetron,DBMET00407,7-hydroxygranisetron,1
+DB00897,Triazolam,DBMET00395,4-hydroxytriazolam,1
+DB00897,Triazolam,DBMET00396,1'-hydroxytriazolam,1
+DB00898,Ethanol,DBMET00328,acetaldehyde,1
+DB00898,Ethanol,DBMET00585,Ethyl glucuronide,1
+DB00900,Didanosine,DBMET00498,Uric acid,1
+DB00900,Didanosine,DBMET00499,Xanthine,1
+DB00900,Didanosine,DBMET00689,"2,3-dideoxyadenosine-5-triphosphate",1
+DB00900,Didanosine,DBMET00493,Hypoxanthine,1
+DB00904,Ondansetron,DBMET01834,6-OH-ondansetron,1
+DB00904,Ondansetron,DBMET01835,7-OH-ondansetron,1
+DB00904,Ondansetron,DBMET01836,8-OH-ondansetron,1
+DB00906,Tiagabine,DBMET00393,Unknown,1
+DB00907,Cocaine,DBMET00358,norcocaine,1
+DB00907,Cocaine,DBMET00644,Benzoylecgonine,1
+DB00907,Cocaine,DBMET00645,Cocaethylene,1
+DB00908,Quinidine,DBMET01731,Quinidine-N-oxide,1
+DB00908,Quinidine,DBMET00382,3-Hydroxyquinidine,1
+DB00909,Zonisamide,DBMET00401,2-sulfamoylacetylphenol,1
+DB00909,Zonisamide,DBMET00923,N-acetyl zonisamide,1
+DB00912,Repaglinide,DBMET00294,hydroxyrepaglinide,1
+DB00912,Repaglinide,DBMET00338,repaglinide aromatic amine,1
+DB00918,Almotriptan,DBMET01581,2-OH-almotriptan,1
+DB00918,Almotriptan,DBMET00347,N-desmethylalmotriptan,1
+DB00918,Almotriptan,DBMET00469,2-{5-[(pyrrolidine-1-sulfonyl)methyl]-1H-indol-3-yl}acetic acid,1
+DB00918,Almotriptan,DBMET00472,2-{5-[(pyrrolidine-1-sulfonyl)methyl]-1H-indol-3-yl}ethan-1-ol,1
+DB00918,Almotriptan,DBMET00473,1-[({3-[2-(dimethylamino)ethyl]-1H-indol-5-yl}methane)sulfonyl]pyrrolidin-2-ol,1
+DB00920,Ketotifen,DBMET00894,Ketotifen-N-glucuronide,1
+DB00920,Ketotifen,DBMET00930,10-alpha-hydroxyl Ketotifen,1
+DB00920,Ketotifen,DBMET00961,Nor-ketotifen,1
+DB00921,Buprenorphine,DBMET00174,Norbuprenorphine,1
+DB00921,Buprenorphine,DBMET00175,Hydroxybuprenorphine,1
+DB00921,Buprenorphine,DBMET00176,Buprenorphine glucuronide,1
+DBMET00174,Norbuprenorphine,DBMET01295,Hydroxynorbuprenorphine,2
+DBMET00175,Hydroxybuprenorphine,DBMET01295,Hydroxynorbuprenorphine,2
+DB00922,Levosimendan,DBMET00973,OR-1855,1
+DB00922,Levosimendan,DBMET00974,OR-1896,1
+DB00924,Cyclobenzaprine,DBMET00245,desmethylcyclobenzaprine,1
+DB00934,Maprotiline,DBMET00318,demethylmaprotiline,1
+DB00934,Maprotiline,DBMET01700,3-OH-maprotiline,1
+DB00934,Maprotiline,DBMET01701,2-OH-maprotiline,1
+DB00938,Salmeterol,DBMET00386,alpha-hydroxysalmeterol,1
+DB00945,Acetylsalicylic acid,DBMET00578,1-Salicylate glucuronide,1
+DB00946,Phenprocoumon,DBMET00039,4'-Hydroxy-R-phenprocoumon,1
+DB00946,Phenprocoumon,DBMET00040,6-Hydroxy-R-phenprocoumon,1
+DB00946,Phenprocoumon,DBMET00041,8-Hydroxy-R-phenprocoumon,1
+DB00946,Phenprocoumon,DBMET00042,7-Hydroxy-R-phenprocoumon,1
+DB00949,Felbamate,DBMET00282,"2-Phenyl-1,3-propanediol monocarbamate",1
+DB00949,Felbamate,DBMET01092,p-Hydroxyfelbamate,1
+DB00949,Felbamate,DBMET01093,2-Hydroxyfelbamate,1
+DBMET00282,"2-Phenyl-1,3-propanediol monocarbamate",DBMET01094,3-Carbamoyl-2-phenylpropionaldehyde,2
+DBMET01094,3-Carbamoyl-2-phenylpropionaldehyde,DBMET01095,Atropaldehyde,3
+DBMET01094,3-Carbamoyl-2-phenylpropionaldehyde,DBMET01096,"4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one",3
+DBMET01094,3-Carbamoyl-2-phenylpropionaldehyde,DBMET01097,3-Carbamoyl-2-phenylpropionic acid,3
+DBMET01096,"4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one",DBMET01098,"5-Phenyl-1,3-oxazinane-2,4-dione",4
+DBMET01098,"5-Phenyl-1,3-oxazinane-2,4-dione",DBMET01097,3-Carbamoyl-2-phenylpropionic acid,5
+DB00953,Rizatriptan,DBMET00948,N-monodesmethyl-rizatriptan,1
+DB00956,Hydrocodone,DBMET00317,hydromorphone,1
+DB00956,Hydrocodone,DBMET00420,norhydrocodone,1
+DB00962,Zaleplon,DBMET00399,desethylzaleplon,1
+DB00968,Methyldopa,DBMET00784,a-methyldopa mono-0-sulfate,1
+DB00968,Methyldopa,DBMET00785,a-methyldopamine,1
+DB00968,Methyldopa,DBMET00703,3-O-methyl-a-methyldopa,1
+DB00968,Methyldopa,DBMET00704,3-O-methyl-a-methyldopamine,1
+DB00972,Azelastine,DBMET00085,Desmethylazelastine,1
+DB00972,Azelastine,DBMET01555,"(R)-azelastine, N-desmethyl",1
+DB00973,Ezetimibe,DBMET02115,Ezetimibe glucuronide,1
+DB00973,Ezetimibe,DBMET02116,SCH 57871,1
+DB00973,Ezetimibe,DBMET02118,SCH 488128,1
+DBMET02116,SCH 57871,DBMET02117,SCH 57871-glucuronide,2
+DB00977,Ethinyl Estradiol,DBMET01270,2β-OH-17β-ethinylestradiol,1
+DB00988,Dopamine,DBMET00534,6-Hydroxydopamine,1
+DB00988,Dopamine,DBMET00565,Dopamine 4-sulfate,1
+DB00988,Dopamine,DBMET00573,Dopamine 3-O-sulfate,1
+DB00988,Dopamine,DBMET00587,Dopamine glucuronide,1
+DB00988,Dopamine,DBMET00614,Dopamine quinone,1
+DB00993,Azathioprine,DBMET01006,Thio-deoxyguanosine triphosphate,1
+DB00993,Azathioprine,DBMET01007,Thioguanine diphosphate,1
+DB00993,Azathioprine,DBMET01008,Thioguanine triphosphate,1
+DB00993,Azathioprine,DBMET01009,6-thiouric acid,1
+DB00993,Azathioprine,DBMET01010,6-Thioxanthine 5'-monophosphate,1
+DB00993,Azathioprine,DBMET00768,6-thioguanylic acid,1
+DB00993,Azathioprine,DBMET00769,6-thioinosine triphosphate,1
+DB00993,Azathioprine,DBMET00770,6-thioinosinic acid,1
+DB00993,Azathioprine,DBMET00771,6-thioxanthylic acid,1
+DB00993,Azathioprine,DBMET00780,8-hydroxythioguanine,1
+DB00993,Azathioprine,DBMET00623,6-Thioguanine,1
+DB00993,Azathioprine,DBMET00630,6-Mercaptopurine,1
+DB00993,Azathioprine,DBMET00416,S-methylazathioprine,1
+DB00997,Doxorubicin,DBMET00846,Doxorubicin-semiquinone,1
+DB00997,Doxorubicin,DBMET00847,Doxorubicinol deoxaglycone,1
+DB00997,Doxorubicin,DBMET01078,Doxorubicine hydroxyaglycone,1
+DB00997,Doxorubicin,DBMET00647,Doxorubicinol,1
+DBMET01078,Doxorubicine hydroxyaglycone,DBMET01079,Doxirubicinol hydroxyaglycone,2
+DB00998,Frovatriptan,DBMET00830,desmethyl frovatriptan,1
+DB00998,Frovatriptan,DBMET00885,Hydroxylated frovatriptan,1
+DB00998,Frovatriptan,DBMET00886,Hydroxylated N-acetyl desmethyl frovatriptan,1
+DB00998,Frovatriptan,DBMET00921,N-acetyl desmethyl frovatriptan,1
+DB01001,Salbutamol,DBMET01000,Salbutamol 4-O-sulfate,1
+DB01006,Letrozole,DBMET00376,"4,4'-methanol-bisbenzonitrile",1
+DB01009,Ketoprofen,DBMET00589,Ketoprofen glucuronide,1
+DB01011,Metyrapone,DBMET00909,Metyrapol,1
+DB01012,Cinacalcet,DBMET00510,Hydrocinnamic acid,1
+DB01012,Cinacalcet,DBMET00869,hydroxy-hydrocinnamic acid,1
+DB01014,Balsalazide,DBMET00402,5-aminosalicylic acid,1
+DB01014,Balsalazide,DBMET00725,4-aminobenzoyl-(beta)-alanine,1
+DB01015,Sulfamethoxazole,DBMET00016,5-Hydroxysulfamethoxazole,1
+DB01015,Sulfamethoxazole,DBMET00017,N-acetylsulfamethoxazole,1
+DB01015,Sulfamethoxazole,DBMET00018,Sulfamethoxazole N1-glucuronide,1
+DB01015,Sulfamethoxazole,DBMET00015,Sulfamethoxazole N4-hydroxylamine,1
+DBMET00016,5-Hydroxysulfamethoxazole,DBMET01048,N4-Acetyl-5-OH-sulfamethoxazole,2
+DBMET00017,N-acetylsulfamethoxazole,DBMET01048,N4-Acetyl-5-OH-sulfamethoxazole,2
+DBMET00015,Sulfamethoxazole N4-hydroxylamine,DBMET01049,Nitroso-sulfamethoxazole,2
+DBMET01049,Nitroso-sulfamethoxazole,DBMET01050,Sulfamethoxazole GSH conjugate,3
+DB01016,Glyburide,DBMET01802,2-trans-hydroxycyclohexyl glyburide,1
+DB01016,Glyburide,DBMET01803,4-cis-hydroxycyclohexyl glyburide,1
+DB01016,Glyburide,DBMET01804,4-trans-hydroxycyclohexyl glyburide,1
+DB01016,Glyburide,DBMET01805,3-trans-Hydroxycyclohexyl glyburide,1
+DB01016,Glyburide,DBMET01806,3-cis-Hydroxycyclohexyl glyburide,1
+DB01018,Guanfacine,DBMET00456,3-hydroxyguanfacine glucuronide,1
+DB01023,Felodipine,DBMET00368,dehydrofelodipine,1
+DB01024,Mycophenolic acid,DBMET00767,6-O-desmethyl-mycophenolic acid,1
+DB01024,Mycophenolic acid,DBMET00917,Mycophenolic acid-7-O-glucuornide,1
+DB01024,Mycophenolic acid,DBMET00662,Mycophenolic acid-acyl glucuronide,1
+DB01029,Irbesartan,DBMET00008,SR 49498,1
+DB01029,Irbesartan,DBMET00302,Irbesartan derivative M4,1
+DB01029,Irbesartan,DBMET01051,Irbesartan derivative M5,1
+DB01029,Irbesartan,DBMET01052,Irbesartan derivative M7,1
+DB01029,Irbesartan,DBMET01053,Irbesartan derivative M3,1
+DB01029,Irbesartan,DBMET01054,Irbesartan derivative M8,1
+DBMET00302,Irbesartan derivative M4,DBMET01055,Irbesartan derivative M1,2
+DBMET01052,Irbesartan derivative M7,DBMET01055,Irbesartan derivative M1,2
+DBMET01051,Irbesartan derivative M5,DBMET01055,Irbesartan derivative M1,2
+DBMET00302,Irbesartan derivative M4,DBMET01057,Irbesartan derivative M6,2
+DBMET01055,Irbesartan derivative M1,DBMET01056,Irbesartan derivative M2,3
+DBMET01057,Irbesartan derivative M6,DBMET01056,Irbesartan derivative M2,3
+DB01033,Mercaptopurine,DBMET00657,6-Thioinosine 5'-monophosphate,1
+DB01033,Mercaptopurine,DBMET00780,8-hydroxythioguanine,1
+DB01033,Mercaptopurine,DBMET01161,Thiouric acid,1
+DB01033,Mercaptopurine,DBMET01162,Methylmercaptopurine,1
+DBMET00657,6-Thioinosine 5'-monophosphate,DBMET01151,Thioxanthine monophosphate,2
+DBMET00657,6-Thioinosine 5'-monophosphate,DBMET01158,Methyl-thioinosine 5'-monophospate,2
+DBMET00657,6-Thioinosine 5'-monophosphate,DBMET01159,6-Mercaptopurine riboside,2
+DBMET01151,Thioxanthine monophosphate,DBMET01152,Thioguanosine monophosphate,3
+DBMET01159,6-Mercaptopurine riboside,DBMET01160,6-Methylmercaptopurine-riboside,3
+DBMET01152,Thioguanosine monophosphate,DBMET01153,Methyl-thioguanosine monophosphate,4
+DBMET01152,Thioguanosine monophosphate,DBMET01154,Thioguanosine diphosphate,4
+DBMET01160,6-Methylmercaptopurine-riboside,DBMET01158,Methyl-thioinosine 5'-monophospate,4
+DBMET01154,Thioguanosine diphosphate,DBMET01155,Thioguanosine triphosphate,5
+DBMET01154,Thioguanosine diphosphate,DBMET01156,Thiodeoxyguanosine diphosphate,5
+DBMET01156,Thiodeoxyguanosine diphosphate,DBMET01157,Thiodeoxyguanosine triphosphate,6
+DB01035,Procainamide,DBMET00322,N-Acetyl-3-hydroxyprocainamide,1
+DB01036,Tolterodine,DBMET00142,N-Dealkylated tolterodine,1
+DB01036,Tolterodine,DBMET00143,5-Hydroxymethyl tolterodine,1
+DBMET00142,N-Dealkylated tolterodine,DBMET01256,N-Dealkylated 5-hydroxymethyl tolterodine,2
+DBMET00143,5-Hydroxymethyl tolterodine,DBMET01256,N-Dealkylated 5-hydroxymethyl tolterodine,2
+DBMET00143,5-Hydroxymethyl tolterodine,DBMET01257,5-Carboxylic acid tolterodine,2
+DB01037,Selegiline,DBMET01743,Desmethylselegiline,1
+DB01037,Selegiline,DB09571,Levmetamfetamine,1
+DB01041,Thalidomide,DBMET00033,"cis, trans-5'-Hydroxythalidomide",1
+DB01041,Thalidomide,DBMET00034,5-Hydroxythalidomide,1
+DB01041,Thalidomide,DBMET00035,Thalidomide arene oxide,1
+DB01041,Thalidomide,DBMET01115,4-phthalimidoglutaramic acid,1
+DB01041,Thalidomide,DBMET01116,2-phthalimidoglutaramic acid,1
+DB01041,Thalidomide,DBMET01118,alpha-(o-carboxybenzamido)glutarimide,1
+DB01041,Thalidomide,DBMET01544,"cis, trans-5'-OH-thalidomide",1
+DB01041,Thalidomide,DBMET01545,5-OH-thalidomide,1
+DB01041,Thalidomide,DBMET01546,(-)-thalidomide arene oxide,1
+DBMET00035,Thalidomide arene oxide,DBMET00034,5-Hydroxythalidomide,2
+DBMET00034,5-Hydroxythalidomide,DBMET01114,"5,6-dihydroxythalidomide",2
+DBMET01116,2-phthalimidoglutaramic acid,DBMET01117,2-phthalimidoglutaric acid,2
+DBMET01115,4-phthalimidoglutaramic acid,DBMET01117,2-phthalimidoglutaric acid,2
+DBMET01115,4-phthalimidoglutaramic acid,DBMET01119,4-(o-carboxybenzamido)glutaramic acid,2
+DBMET01116,2-phthalimidoglutaramic acid,DBMET01120,2-(o-carboxybenzamido)glutaramic acid,2
+DBMET01118,alpha-(o-carboxybenzamido)glutarimide,DBMET01120,2-(o-carboxybenzamido)glutaramic acid,2
+DBMET01119,4-(o-carboxybenzamido)glutaramic acid,DBMET01121,2-(o-carboxybenzamido)glutaric acid,3
+DBMET01119,4-(o-carboxybenzamido)glutaramic acid,DBMET01121,2-(o-carboxybenzamido)glutaric acid,3
+DBMET01120,2-(o-carboxybenzamido)glutaramic acid,DBMET01121,2-(o-carboxybenzamido)glutaric acid,3
+DB01043,Memantine,DBMET00666,1-amino-3-hydroxymethyl-5-methyl-adamantane,1
+DB01043,Memantine,DBMET00705,"3-amino-1-hydroxy-5,7-dimethyl-adamantane",1
+DB01044,Gatifloxacin,DBMET00638,Ethylenediamine,1
+DB01044,Gatifloxacin,DBMET00908,Methylethylenediamine,1
+DB01050,Ibuprofen,DBMET00153,Ibuprofen glucuronide,1
+DB01050,Ibuprofen,DBMET00154,2-Hydroxyibuprofen,1
+DB01050,Ibuprofen,DBMET00155,3-Hydroxyibuprofen,1
+DB01050,Ibuprofen,DBMET00668,1-hydroxyibuprofen,1
+DBMET00155,3-Hydroxyibuprofen,DBMET00808,Carboxy-ibuprofen,2
+DB01053,Benzylpenicillin,DBMET00758,6-aminopenicillanic acid,1
+DB01053,Benzylpenicillin,DBMET00983,Penicilloic acid,1
+DB01062,Oxybutynin,DBMET01568,2-cyclohexyl-2-phenylglycolic acid,1
+DB01062,Oxybutynin,DBMET01569,4-(diethylamino)but-2-yn-1-ol,1
+DB01062,Oxybutynin,DBMET00381,N-desethyloxybutynin,1
+DB01065,Melatonin,DBMET00258,6-Hydroxymelatonin,1
+DB01065,Melatonin,DBMET01359,5-Methoxytryptamine,1
+DB01065,Melatonin,DBMET00411,N-Acetyl-5-hydroxytryptamine,1
+DBMET00258,6-Hydroxymelatonin,DBMET00763,6-Hydroxymelatonin sulfate,2
+DBMET00411,N-Acetyl-5-hydroxytryptamine,DBMET00926,N-Acetyl-5-hydroxytryptamine sulfate,2
+DBMET00411,N-Acetyl-5-hydroxytryptamine,DBMET00925,N-Acetyl-5-hydroxytryptamine glucuronide,2
+DBMET00258,6-Hydroxymelatonin,DBMET00762,6-Hydroxymelatonin glucuronide,2
+DBMET01359,5-Methoxytryptamine,DBMET01360,Pinoline,2
+DBMET01359,5-Methoxytryptamine,DBMET01361,Bufotenine,2
+DBMET01361,Bufotenine,DBMET01362,"N,N-Dimethyltryptamine",3
+DB01067,Glipizide,DBMET01821,4-trans-OH-glipizide,1
+DB01067,Glipizide,DBMET00205,3-cis-Hydroxyglipizide,1
+DB01067,Glipizide,DBMET00206,4-trans-Hydroxyglipizide,1
+DB01074,Perhexiline,DBMET00839,cis-Hydroxy Perhexiline,1
+DB01074,Perhexiline,DBMET00914,Monohydroxyperhexiline,1
+DB01074,Perhexiline,DBMET01547,trans-hydroxyperhexilline,1
+DB01075,Diphenhydramine,DBMET00086,N-Desmethyldiphenhydramine,1
+DB01075,Diphenhydramine,DBMET00087,Diphenhydramine N-glucuronide,1
+DBMET00086,N-Desmethyldiphenhydramine,DBMET01200,"N,N-Didesmethyldiphenhydramine",2
+DBMET01200,"N,N-Didesmethyldiphenhydramine",DBMET01201,Diphenylmethoxyacetic acid,3
+DB01076,Atorvastatin,DBMET00351,para-hydroxyatorvastatin,1
+DB01076,Atorvastatin,DBMET00352,ortho-hydroxyatorvastatin,1
+DB01076,Atorvastatin,DBMET01268,Atorvastatin lactone,1
+DBMET00351,para-hydroxyatorvastatin,DBMET01266,para-hydroxyatorvastatin lactone,2
+DBMET00352,ortho-hydroxyatorvastatin,DBMET01267,ortho-hydroxyatorvastatin lactone,2
+DB01084,Emedastine,DBMET00752,5-hydroxyemedastine,1
+DB01084,Emedastine,DBMET00761,6-hydroxyemedastine,1
+DB01093,Dimethyl sulfoxide,DBMET00551,Dimethyl sulfide,1
+DB01093,Dimethyl sulfoxide,DBMET00570,Dimethyl sulfone,1
+DB01094,Hesperetin,DBMET00253,eriodictyol,1
+DB01095,Fluvastatin,DBMET01671,6-OH-fluvastatin,1
+DB01095,Fluvastatin,DBMET01672,5-OH-fluvastatin,1
+DB01095,Fluvastatin,DBMET00213,6-Hydroxyfluvastatin,1
+DB01095,Fluvastatin,DBMET00214,N-Deisopropyl-fluvastatin,1
+DB01095,Fluvastatin,DBMET00215,5-Hydroxyfluvastatin,1
+DB01097,Leflunomide,DBMET00226,A771726,1
+DB01098,Rosuvastatin,DBMET01839,N-Desmethylrosuvastatin,1
+DB01098,Rosuvastatin,DBMET01840,Rosuvastatin 5 S-lactone,1
+DB01101,Capecitabine,DBMET00656,5’-Deoxy-5-fluorouridine,1
+DBMET00656,5’-Deoxy-5-fluorouridine,DBMET00449,5-fluorouracil,2
+DB01102,Arbutamine,DBMET00893,Ketoarbutamine,1
+DB01102,Arbutamine,DBMET00907,Methoxyarbutamine,1
+DB01104,Sertraline,DBMET00335,norsertraline,1
+DB01112,Cefuroxime,DBMET00328,acetaldehyde,1
+DB01112,Cefuroxime,DBMET00484,Acetic acid,1
+DB01115,Nifedipine,DBMET00380,dehydronifedipine,1
+DB01118,Amiodarone,DBMET00012,N-desethylamiodarone,1
+DB01120,Gliclazide,DBMET01819,7-OH-gliclazide,1
+DB01120,Gliclazide,DBMET01820,6-OH-gliclazide,1
+DB01120,Gliclazide,DBMET00202,7-β-Hydroxygliclazide,1
+DB01120,Gliclazide,DBMET00203,6-β-Hydroxygliclazide,1
+DB01120,Gliclazide,DBMET00204,Methylhydroxygliclazide,1
+DB01120,Gliclazide,DBMET01329,7-α-Hydroxygliclazide,1
+DB01120,Gliclazide,DBMET01330,6-α-Hydroxygliclazide,1
+DBMET00204,Methylhydroxygliclazide,DBMET01328,Carboxygliclazide,2
+DB01124,Tolbutamide,DBMET00289,4-Hydroxy tolbutamide,1
+DB01129,Rabeprazole,DBMET01169,Active Metabolite of Rabeprazole,1
+DB01131,Proguanil,DBMET00287,cycloguanil,1
+DB01131,Proguanil,DBMET01778,4-Chlorophenylbiguanide,1
+DB01132,Pioglitazone,DBMET01300,Pioglitazone metabolite M-I,1
+DB01132,Pioglitazone,DBMET01301,Pioglitazone metabolite M-II,1
+DB01132,Pioglitazone,DBMET01304,Pioglitazone metabolite M-VI,1
+DB01132,Pioglitazone,DBMET01305,Pioglitazone metabolite M-V,1
+DB01132,Pioglitazone,DBMET01306,Pioglitazone metabolite M-IV,1
+DBMET01301,Pioglitazone metabolite M-II,DBMET01302,Pioglitazone metabolite M-II metabolite,2
+DBMET01301,Pioglitazone metabolite M-II,DBMET01303,Pioglitazone metabolite M-XI,2
+DBMET01305,Pioglitazone metabolite M-V,DBMET01304,Pioglitazone metabolite M-VI,2
+DBMET01306,Pioglitazone metabolite M-IV,DBMET01307,Pioglitazone metabolite M-III,2
+DBMET01306,Pioglitazone metabolite M-IV,DBMET01303,Pioglitazone metabolite M-XI,2
+DB01136,Carvedilol,DBMET00115,8-Hydroxycarvedilol,1
+DB01136,Carvedilol,DBMET00116,4'-Hydroxycarvedilol,1
+DB01136,Carvedilol,DBMET00117,5'-Hydroxycarvedilol,1
+DB01136,Carvedilol,DBMET00118,O-Desmethylcarvedilol,1
+DB01136,Carvedilol,DBMET00119,1-Hydroxycarvedilol,1
+DB01136,Carvedilol,DBMET01563,5'-OH-carvedilol,1
+DB01136,Carvedilol,DBMET01564,8-OH-carvedilol,1
+DB01136,Carvedilol,DBMET00745,4'-hydroxyphenyl Carvedilol,1
+DB01138,Sulfinpyrazone,DBMET00218,Sulfinpyrazone sulfide,1
+DB01138,Sulfinpyrazone,DBMET00219,Sulfinpyrazone sulfone,1
+DB01139,Cefapirin,DBMET00641,Desacetylcephapirin,1
+DB01142,Doxepin,DBMET00315,N-desmethyldoxepin,1
+DB01142,Doxepin,DBMET00844,Doxepin N-oxide,1
+DB01142,Doxepin,DBMET00873,(E)-2-hydroxydoxepin,1
+DB01142,Doxepin,DBMET01650,2-OH-doxepin,1
+DB01142,Doxepin,DBMET00875,(Z)-N-desmethyldoxepin,1
+DB01142,Doxepin,DBMET00876,(E)-N-desmethyldoxepin,1
+DB01142,Doxepin,DBMET00877,Doxepin-N-oxide,1
+DB01142,Doxepin,DBMET00878,(E)-2-O-glucuronyldoxepin,1
+DBMET00315,N-desmethyldoxepin,DBMET00834,Didesmethyl doxepin,2
+DBMET00844,Doxepin N-oxide,DBMET00845,Doxepin N-oxide glucuronide,2
+DBMET00873,(E)-2-hydroxydoxepin,DBMET00881,Hydroxydoxepin glucuronide,2
+DBMET00315,N-desmethyldoxepin,DBMET00872,Hydroxydesmethyl doxepin,2
+DBMET00873,(E)-2-hydroxydoxepin,DBMET00872,Hydroxydesmethyl doxepin,2
+DBMET00872,Hydroxydesmethyl doxepin,DBMET00879,Hydroxydesmethyl doxepin glucuronide,3
+DB01149,Nefazodone,DBMET00379,hydroxynefazodone,1
+DB01149,Nefazodone,DB12110,m-Chlorophenylpiperazine,1
+DB01149,Nefazodone,DBMET01712,"3-[3-ethyl-5-oxo-4-(2-phenoxyethyl)-4,5-dihydro-1H-1,2,4-triazol-1-yl]propanal",1
+DB01151,Desipramine,DBMET00314,2-hydroxydesipramine,1
+DBMET00314,2-hydroxydesipramine,DBMET00679,2-hydroxy-desipramine glucuronide,2
+DB01155,Gemifloxacin,DBMET00922,N-acetyl gemifloxacin,1
+DB01156,Bupropion,DBMET00277,Hydroxybupropion,1
+DB01156,Bupropion,DBMET01556,(2R)-1-(3-chlorophenyl)-2-[(1-hydroxy-2-methylpropan-2-yl)amino]propan-1-one,1
+DB01156,Bupropion,DBMET01557,(2R)-2-(tert-butylamino)-1-(3-chlorophenyl)-3-hydroxypropan-1-one,1
+DB01156,Bupropion,DBMET01557,(2R)-2-(tert-butylamino)-1-(3-chlorophenyl)-3-hydroxypropan-1-one,1
+DB01156,Bupropion,DBMET01558,(2R)-2-(tert-butylamino)-1-(3-chloro-5-hydroxyphenyl)propan-1-one,1
+DB01159,Halothane,DBMET00329,bromide,1
+DB01159,Halothane,DBMET00330,trifluoroacetic acid,1
+DB01159,Halothane,DBMET01783,Trifluoroacetyl chloride,1
+DB01159,Halothane,DBMET01784,chlorotrifluoroethane,1
+DB01159,Halothane,DBMET01542,"2-chloro-1,1-difluoroethene",1
+DB01159,Halothane,DBMET01542,"2-chloro-1,1-difluoroethene",1
+DB01159,Halothane,DBMET01543,"1-chloro-2,2,2-trifluoroethanide",1
+DB01167,Itraconazole,DBMET00374,hydroxyitraconazole,1
+DB01168,Procarbazine,DBMET00617,Hydrazine,1
+DB01168,Procarbazine,DBMET00946,N-isopropylterephthalamic acid,1
+DB01173,Orphenadrine,DBMET00929,N-demethyl orphenadrine,1
+DB01173,Orphenadrine,DBMET00953,"N,N-didemethyl orphenadrine",1
+DB01174,Phenobarbital,DBMET00111,p-Hydroxyphenobarbital,1
+DBMET00111,p-Hydroxyphenobarbital,DBMET01217,Phenobarbital O-sulfate,2
+DBMET00111,p-Hydroxyphenobarbital,DBMET01218,Phenobarbital O-glucuronide,2
+DB01181,Ifosfamide,DBMET00021,3-Dechloroethylifosfamide,1
+DB01181,Ifosfamide,DBMET00022,2-Dechloroethylifosfamide,1
+DB01181,Ifosfamide,DBMET00023,Chloroacetaldehyde,1
+DB01181,Ifosfamide,DBMET00024,4-Hydroxyifosfamide,1
+DBMET00024,4-Hydroxyifosfamide,DBMET01077,4-Ketoifosfamide,2
+DBMET00024,4-Hydroxyifosfamide,DBMET00792,aldoifosfamide,2
+DBMET00024,4-Hydroxyifosfamide,DBMET01100,4-Thioifosfamide,2
+DBMET00792,aldoifosfamide,DBMET01102,Alcoifosfamide,3
+DBMET00792,aldoifosfamide,DBMET01103,Carboxylifosfamide,3
+DBMET00792,aldoifosfamide,DBMET01126,Acrolein,3
+DBMET00792,aldoifosfamide,DBMET01127,Isophosphamide mustard,3
+DBMET01126,Acrolein,DBMET01146,Acrylic Acid,4
+DBMET01127,Isophosphamide mustard,DBMET01150,Ifosforamide Aziridinium,4
+DB01182,Propafenone,DBMET01570,(S)-5-Hydroxypropafenone,1
+DB01182,Propafenone,DBMET01571,(S)-N-Despropylpropafenone,1
+DB01182,Propafenone,DBMET01572,(S)-4'-Hydroxypropafenone,1
+DB01182,Propafenone,DBMET00267,N-desalkylpropafenone,1
+DB01182,Propafenone,DBMET00309,5-hydroxypropafenone,1
+DB01182,Propafenone,DBMET00932,N-depropylpropafenone,1
+DB01184,Domperidone,DBMET00364,"5-Chloro-1,3-dihydro-1-(4-piperidinyl)-2H-benzimidazol-2-one",1
+DB01192,Oxymorphone,DBMET00342,noroxycodone,1
+DB01192,Oxymorphone,DBMET00424,noroxymorphone,1
+DB01192,Oxymorphone,DBMET00425,alpha-noroxycodol,1
+DB01192,Oxymorphone,DBMET00426,beta-noroxycodol,1
+DB01192,Oxymorphone,DBMET00321,oxymorphone,1
+DB01192,Oxymorphone,DBMET00427,beta-oxymorphol,1
+DB01192,Oxymorphone,DBMET00428,alpha-oxycodol,1
+DB01192,Oxymorphone,DBMET00429,beta-oxycodol,1
+DB01195,Flecainide,DBMET01817,"2-hydroxy-N-[(piperidin-2-yl)methyl]-5-(2,2,2-trifluoroethoxy)benzamide",1
+DB01195,Flecainide,DBMET00905,Meta-O-dealkylated flecainide,1
+DB01195,Flecainide,DBMET00906,Meta-o-dealkylated lactam,1
+DB01197,Captopril,DBMET00803,captopril-cysteine disulfide,1
+DB01198,Zopiclone,DBMET00299,zopiclone-N-oxide,1
+DB01198,Zopiclone,DBMET00300,N-desmethylzopiclone,1
+DB01198,Zopiclone,DBMET00135,Zopiclone N-oxide,1
+DB01198,Zopiclone,DBMET00137,Carbon dioxide,1
+DB01211,Clarithromycin,DBMET00356,14-hydroxyclarithromycin,1
+DB01211,Clarithromycin,DBMET00357,N-desmethylclarithromycin,1
+DB01213,Fomepizole,DBMET00728,4-carboxypyrazole,1
+DB01213,Fomepizole,DBMET00736,4-hydroxymethylpyrazole,1
+DB01215,Estazolam,DBMET00732,4-hydroxy-estazolam,1
+DB01216,Finasteride,DBMET00369,omega-hydroxyfinasteride,1
+DB01218,Halofantrine,DBMET00371,N-debutylhalofantrine,1
+DB01219,Dantrolene,DBMET00751,5-hydroxydantrolene,1
+DB01221,Ketamine,DBMET00189,Norketamine,1
+DB01221,Ketamine,DBMET00190,6-Hydroxyketamine,1
+DB01221,Ketamine,DBMET00191,5-Hydroxyketamine,1
+DB01221,Ketamine,DBMET00192,4-Hydroxyketamine,1
+DBMET00189,Norketamine,DBMET01308,4-Hydroxynorketamine,2
+DBMET00189,Norketamine,DBMET01309,5-Hydroxynorketamine,2
+DBMET00189,Norketamine,DBMET01310,6-Hydroxynorketamine,2
+DBMET00190,6-Hydroxyketamine,DBMET01310,6-Hydroxynorketamine,2
+DBMET00191,5-Hydroxyketamine,DBMET01309,5-Hydroxynorketamine,2
+DBMET00192,4-Hydroxyketamine,DBMET01308,4-Hydroxynorketamine,2
+DB01222,Budesonide,DBMET00353,16-alpha-hydroxyprednisolone,1
+DB01222,Budesonide,DBMET00476,6-beta-hydroxybudesonide,1
+DB01227,Levomethadyl Acetate,DBMET00375,noracymethadol,1
+DB01227,Levomethadyl Acetate,DBMET00962,Nor-levomethadyl acetate (nor-LAAM),1
+DBMET00962,Nor-levomethadyl acetate (nor-LAAM),DBMET00843,Dinor-levomethadyl acetate,2
+DB01228,Encainide,DBMET01814,N-demethylencainide,1
+DB01228,Encainide,DBMET01815,O-demethylencainide,1
+DB01229,Paclitaxel,DBMET00773,6a-hydrox-ypaclitaxel,1
+DB01229,Paclitaxel,DBMET00774,"6a, 3'-p-dihydroxypaclitaxel",1
+DB01229,Paclitaxel,DBMET01759,6α-Hydroxypaclitaxel,1
+DB01229,Paclitaxel,DBMET01760,3′-pHydroxypaclitaxel,1
+DB01229,Paclitaxel,DBMET00719,3'-p-hydroxypaclitaxel,1
+DB01232,Saquinavir,DBMET00387,M2 di-hydroxylated metabolite,1
+DB01232,Saquinavir,DBMET01548,"(2S)-N-[(2S,3R)-4-[(3S,4aS,8aS)-3-[(1-hydroxy-2-methylpropan-2-yl)carbamoyl]-decahydroisoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-[(quinolin-2-yl)formamido]butanediamide",1
+DB01232,Saquinavir,DBMET01549,"(2S)-N-[(2S,3R)-4-[(3S,4aR,8aS)-3-(tert-butylcarbamoyl)-6-hydroxy-decahydroisoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-[(quinolin-2-yl)formamido]butanediamide",1
+DB01232,Saquinavir,DBMET01550,"(2S)-N-[(2S,3R)-4-[(3S,4aS,8aS)-3-(tert-butylcarbamoyl)-7-hydroxy-decahydroisoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-[(quinolin-2-yl)formamido]butanediamide",1
+DB01234,Dexamethasone,DBMET00361,6-beta-hydroxydexamethasone,1
+DB01234,Dexamethasone,DBMET01644,6-alpha-OH DEXAMETHASONE,1
+DB01234,Dexamethasone,DBMET01645,6-beta-OH DEXAMETHASONE,1
+DB01235,Levodopa,DBMET00548,DOPA sulfate,1
+DB01236,Sevoflurane,DBMET00504,Fluoride,1
+DB01236,Sevoflurane,DBMET00137,Carbon dioxide,1
+DB01236,Sevoflurane,DBMET00862,Hexafluoroisopropanol,1
+DB01238,Aripiprazole,DBMET01611,dehydro-aripiprazole,1
+DB01238,Aripiprazole,DBMET01612,4-Hydroxyaripiprazole,1
+DB01238,Aripiprazole,DBMET01613,"2,3-dichlorophenylpiperazine",1
+DB01238,Aripiprazole,DBMET01614,"4-[(2-oxo-3,4- dihydro-1H-quinolin-7-yl)oxy]butanal",1
+DB01240,Epoprostenol,DBMET00543,"6,15-Diketo-13,14-dihydro-PGF1-alpha",1
+DB01240,Epoprostenol,DBMET00557,6-Keto-PGF1-alpha,1
+DB01241,Gemfibrozil,DBMET01165,Gemfibrozil 1-beta-glucuronide,1
+DB01242,Clomipramine,DBMET00777,8-hydroxyclomipramine,1
+DB01242,Clomipramine,DBMET00817,clomipramine N-oxide,1
+DB01242,Clomipramine,DBMET01635,8-OH-clomipramine,1
+DB01242,Clomipramine,DBMET01636,10-OH-clomipramine,1
+DB01242,Clomipramine,DBMET00682,2-hydroxyclomipramine,1
+DB01242,Clomipramine,DBMET00244,Desmethylclomipramine,1
+DBMET00244,Desmethylclomipramine,DBMET00835,didesmethylclomipramine,2
+DBMET00682,2-hydroxyclomipramine,DBMET01069,2-hydroxydesmethyl clomipramine,2
+DBMET00682,2-hydroxyclomipramine,DBMET01071,2-hydroxyclomipramine glucuronide,2
+DBMET00777,8-hydroxyclomipramine,DBMET01072,8-hydroxyclomipramine glucuronide,2
+DBMET00777,8-hydroxyclomipramine,DBMET01073,8-hydroxydesmethyl clomipramine,2
+DBMET01069,2-hydroxydesmethyl clomipramine,DBMET01074,2-hydroxydesmethyl clomipramine glucuronide,3
+DBMET01073,8-hydroxydesmethyl clomipramine,DBMET01075,8-hyroxydesmethyl clomipramine glucuronide,3
+DB01247,Isocarboxazid,DBMET00507,Hippuric acid,1
+DB01248,Docetaxel,DBMET01649,Hydroxy-Docetaxel,1
+DB01250,Olsalazine,DBMET00971,Olsalazine-O-sulfate,1
+DB01275,Hydralazine,DBMET00863,Hydralazine acetone hydrazone,1
+DB01275,Hydralazine,DBMET00864,Hydralazine pyruvate hydrazone,1
+DB01280,Nelarabine,DBMET00412,arabinofuranosylguanine,1
+DB01280,Nelarabine,DBMET00413,ara-G diphosphate,1
+DB01283,Lumiracoxib,DBMET01274,Lumiracoxib metabolite M21,1
+DB01283,Lumiracoxib,DBMET01279,Lumiracoxib glucuronide (M24),1
+DB01283,Lumiracoxib,DBMET01280,4'-hydroxylumiracoxib (M23),1
+DBMET01274,Lumiracoxib metabolite M21,DBMET01275,5-Carboxylumiracoxib (M11),2
+DBMET01280,4'-hydroxylumiracoxib (M23),DBMET01281,4'-Carboxylumiracoxib glucuronide (M22),2
+DBMET01280,4'-hydroxylumiracoxib (M23),DBMET01282,Lumiracoxib metabolite M25,2
+DBMET01280,4'-hydroxylumiracoxib (M23),DBMET01284,Lumiracoxib metabolite M9,2
+DBMET01274,Lumiracoxib metabolite M21,DBMET01284,Lumiracoxib metabolite M9,2
+DBMET01275,5-Carboxylumiracoxib (M11),DBMET01276,Lumiracoxib metabolite M15,3
+DBMET01275,5-Carboxylumiracoxib (M11),DBMET01278,5-Carboxylumiracoxib glucuronide (M3),3
+DBMET01282,Lumiracoxib metabolite M25,DBMET01283,Lumiracoxib metabolite M25 glucuronide (M20),3
+DBMET01284,Lumiracoxib metabolite M9,DBMET01285,4'-Hydroxy-5-carboxylumiracoxib (M5),3
+DBMET01275,5-Carboxylumiracoxib (M11),DBMET01285,4'-Hydroxy-5-carboxylumiracoxib (M5),3
+DBMET01276,Lumiracoxib metabolite M15,DBMET01277,Lumiracoxib metabolite M16/17,4
+DBMET01285,4'-Hydroxy-5-carboxylumiracoxib (M5),DBMET01286,Lumiracoxib metabolite M2,4
+DBMET01285,4'-Hydroxy-5-carboxylumiracoxib (M5),DBMET01287,Lumiracoxib metabolite M8,4
+DBMET01276,Lumiracoxib metabolite M15,DBMET01287,Lumiracoxib metabolite M8,4
+DBMET01287,Lumiracoxib metabolite M8,DBMET01288,Lumiracoxib metabolite M4/M6,5
+DBMET01287,Lumiracoxib metabolite M8,DBMET01289,Lumiracoxib metabolite M10,5
+DBMET01287,Lumiracoxib metabolite M8,DBMET01290,Hydroxylumiracoxib metabolite M8 (M12),5
+DBMET01290,Hydroxylumiracoxib metabolite M8 (M12),DBMET01291,Lumiracoxib metabolite M12 glucuronide (M13),6
+DB01320,Fosphenytoin,DBMET01170,Phenytoin,1
+DB01340,Cilazapril,DBMET01138,Cilazaprilat,1
+DB01348,Spirapril,DBMET01142,Spiraprilat,1
+DB01355,Hexobarbital,DBMET01567,3'-OH-(S)-hexobarbital,1
+DB01355,Hexobarbital,DBMET00109,3'-Hydroxyhexobarbital,1
+DB01355,Hexobarbital,DBMET00110,Epoxy-hexobarbital,1
+DBMET00109,3'-Hydroxyhexobarbital,DBMET01214,3'-Oxohexobarbital,2
+DBMET00110,Epoxy-hexobarbital,DBMET01216,Hexobarbital dihydrodiol derivative,2
+DBMET01214,3'-Oxohexobarbital,DBMET01215,Hexobarbital glutathione conjugate derivative,3
+DB01357,Mestranol,DB00977,Ethinyl Estradiol,1
+DB01357,Mestranol,DBMET00457,17β-ethinylestradiol,1
+DB01395,Drospirenone,DBMET00741,"4,5-dihydro-drospirenone-3-sulfate",1
+DB01406,Danazol,DBMET00851,Ethisterone,1
+DB01406,Danazol,DBMET00674,17-hydroxymethylethisterone,1
+DB01408,Bambuterol,DBMET00417,terbutaline,1
+DB01413,Cefepime,DBMET00539,N-Methylpyrrolidine,1
+DB01413,Cefepime,DBMET00960,NMP-N-oxide,1
+DB01418,Acenocoumarol,DBMET00036,6-Hydroxy-R-acenocoumarol,1
+DB01418,Acenocoumarol,DBMET00037,7-Hydroxy-R-acenocoumarol,1
+DB01418,Acenocoumarol,DBMET00038,8-Hydroxy-R-acenocoumarol,1
+DB01420,Testosterone propionate,DB00624,Testosterone,1
+DB00624,Testosterone,DBMET00558,Dihydrotestosterone,2
+DBMET00558,Dihydrotestosterone,DBMET00593,3-alpha-Androstanediol glucuronide,3
+DB01424,Aminophenazone,DBMET01583,"4-(Dimethylamino)-5-methyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-one",1
+DB01424,Aminophenazone,DBMET00001,N-Desmethylaminopyrine,1
+DB01429,Aprindine,DBMET01809,"N-[3-(N,NDiethylamino)propyl]-N-phenyl-2-aminoindan-5-ol",1
+DB01429,Aprindine,DBMET01810,p-Hydroxyphenylaprindine,1
+DB01429,Aprindine,DBMET01811,Desethylaprindine,1
+DB01435,Antipyrine,DBMET00002,Norantipyrine,1
+DB01435,Antipyrine,DBMET00003,3-Hydroxymethylantipyrine,1
+DB01435,Antipyrine,DBMET00004,4-Hydroxyantipyrine,1
+DB01435,Antipyrine,DBMET01588,3-OH-methylantipyrine,1
+DB01438,Phenazopyridine,DBMET00266,acetaminophen,1
+DB01452,Heroin,DBMET01172,6-Monoacetylmorphine,1
+DB01452,Heroin,DBMET00313,morphine,1
+DBMET01172,6-Monoacetylmorphine,DBMET00313,morphine,2
+DB01536,Androstenedione,DBMET01585,6beta-hydroxy-androstenedione,1
+DB01577,Methamphetamine,DBMET01018,4-Hydroxynorephedrine,1
+DB01577,Methamphetamine,DBMET00540,Norephedrine,1
+DB01577,Methamphetamine,DB01576,Dextroamphetamine,1
+DB01577,Methamphetamine,DBMET00733,4-hydroxyamphetamine,1
+DB01577,Methamphetamine,DBMET00735,4-hydroxymethamphetamine,1
+DB01579,Phendimetrazine,DBMET00626,Phenmetrazine,1
+DB01589,Quazepam,DBMET01730,2-Oxoquazepam,1
+DB01591,Solifenacin,DBMET00747,4R-hydroxy-N-oxide solifenacin,1
+DB01591,Solifenacin,DBMET00746,4R-hydroxy solifenacin,1
+DB01628,Etoricoxib,DBMET00166,Etoricoxib 1'-N'-oxide,1
+DB01628,Etoricoxib,DBMET00167,6-Hydroxymethyletoricoxib,1
+DBMET00167,6-Hydroxymethyletoricoxib,DBMET01271,6-Hydroxymethyletoricoxib 1'-N'-oxide,2
+DBMET00167,6-Hydroxymethyletoricoxib,DBMET01272,6-Carboxy-etoricoxib,2
+DBMET00167,6-Hydroxymethyletoricoxib,DBMET01273,6-Hydroxymethyletoricoxib glucuronide,2
+DB01645,Genistein,DBMET00251,3'-hydroxygenistein,1
+DB01656,Roflumilast,DBMET00997,Roflumilast N-oxide,1
+DB01685,Topiroxostat,DBMET01498,2-hydroxy-topiroxostat,1
+DB01685,Topiroxostat,DBMET01500,Topiroxostat N-oxide,1
+DB01708,Prasterone,DBMET00518,Dehydroepiandrosterone sulfate,1
+DB01708,Prasterone,DBMET00599,Dehydroepiandrosterone 3-glucuronide,1
+DB01744,Camphor,DB02817,5-Exo-Hydroxycamphor,1
+DB01744,Camphor,DBMET01812,8-hydroxycamphor,1
+DB01914,D-glucose,DBMET01478,Glucose-6-phosphate,1
+DB01956,Taurine,DBMET01883,5-glutamyl-taurine,1
+DB01956,Taurine,DBMET01884,taurocholate,1
+DB02513,Thymol,DBMET01845,"p-Cymene-2,3-diol",1
+DB02513,Thymol,DBMET01846,Thymoquinol,1
+DB02513,Thymol,DBMET01847,p-Cymen-8-en-3-ol,1
+DB02546,Vorinostat,DBMET00726,4-anilino-4-oxobutanoic acid,1
+DB02659,Cholic Acid,DBMET00553,Cholic acid glucuronide,1
+DB02703,Fusidic Acid,DBMET00505,Dicarboxylic acid,1
+DB02703,Fusidic Acid,DBMET00833,dicarboxylic ester,1
+DB02703,Fusidic Acid,DBMET00861,Glucuronide fusidic acid,1
+DB02703,Fusidic Acid,DBMET00867,Hydroxy fusidic acid,1
+DB02703,Fusidic Acid,DBMET00715,3-keto fusidic acid,1
+DB02709,Resveratrol,DBMET00435,"piceatannol (3,5,3',4'-tetrahydroxystilbene)",1
+DB02709,Resveratrol,DBMET00436,tetrahydroxystilbene M1,1
+DB02789,Pregnenolone,DBMET00500,17-Hydroxypregnenolone sulfate,1
+DB02789,Pregnenolone,DBMET00511,Pregnenolone sulfate,1
+DB02789,Pregnenolone,DBMET00654,3beta-Hydroxypregn-5-en-20-one sulfate,1
+DB02901,Stanolone,DBMET00592,11-Oxo-androsterone glucuronide,1
+DB02901,Stanolone,DBMET00593,3-alpha-Androstanediol glucuronide,1
+DB02901,Stanolone,DBMET00601,11-beta-Hydroxyandrosterone-3-glucuronide,1
+DB03017,Lauric Acid,DB03704,12-Hydroxydodecanoic Acid,1
+DB03088,Pidolic Acid,DBMET02102,Glutamate,1
+DB03255,Phenol,DB09526,Hydroquinone,1
+DB03701,Vanoxerine,DBMET00397,GBR-12935,1
+DB03756,Doconexent,DBMET01479,"19,20-epoxydocosapentaenoic acid",1
+DB03766,Propanoic acid,DB02912,Propanoyl-CoA,1
+DB02912,Propanoyl-CoA,DB04045,Methylmalonyl-Coenzyme A,2
+DB04045,Methylmalonyl-Coenzyme A,DB03699,Succinyl-Coenzyme A,3
+DB03783,Phenacetin,DBMET00266,acetaminophen,1
+DB03783,Phenacetin,DB00316,Acetaminophen,1
+DB03783,Phenacetin,DBMET01722,N-OH-phenacetin,1
+DB03793,Benzoic Acid,DBMET00584,Benzoyl glucuronide (Benzoic acid),1
+DB03852,Eucalyptol,DBMET01573,"2alpha-hydroxy-1,8-cineole",1
+DB03852,Eucalyptol,DBMET01574,"3alpha-hydroxy-1,8-cineole",1
+DB04168,2-Amino-5-Bromo-6-Phenylpyrimidin-4-Ol,DBMET01621,m-hydroxybropirimine,1
+DB04168,2-Amino-5-Bromo-6-Phenylpyrimidin-4-Ol,DBMET01622,p-hydroxybropirimine,1
+DB04557,Arachidonic Acid,DBMET01593,5-HETE,1
+DB04557,Arachidonic Acid,DBMET01594,7-HETE,1
+DB04557,Arachidonic Acid,DBMET01595,10-HETE,1
+DB04557,Arachidonic Acid,DBMET01596,13-HETE,1
+DB04557,Arachidonic Acid,DBMET01597,20-HETE,1
+DB04557,Arachidonic Acid,DBMET01598,19-HETE,1
+DB04557,Arachidonic Acid,DBMET01599,18-HETE,1
+DB04557,Arachidonic Acid,DBMET01600,17-HETE,1
+DB04557,Arachidonic Acid,DBMET01601,16-HETE,1
+DB04557,Arachidonic Acid,DBMET01602,"14,15-EET",1
+DB04557,Arachidonic Acid,DBMET01603,"11,12-EET",1
+DB04557,Arachidonic Acid,DBMET01604,"8,9-EET",1
+DB04557,Arachidonic Acid,DBMET01605,"5,6-EET",1
+DB04557,Arachidonic Acid,DBMET01606,15-HETE,1
+DB04557,Arachidonic Acid,DBMET01607,12-HETE,1
+DB04557,Arachidonic Acid,DBMET01608,11-HETE,1
+DB04557,Arachidonic Acid,DBMET01609,9-HETE,1
+DB04557,Arachidonic Acid,DBMET01610,8-HETE,1
+DB04573,Estriol,DBMET00577,Estriol-16-Glucuronide,1
+DB04573,Estriol,DBMET00588,Estriol-17-glucuronide,1
+DB04573,Estriol,DBMET00590,Estriol-3-glucuronide,1
+DB04573,Estriol,DBMET00603,"16-alpha,17-beta-estriol 17-beta-D-glucuronide",1
+DB04573,Estriol,DBMET00604,Estriol 3-sulfate 16-glucuronide,1
+DB04574,Estrone sulfate,DBMET00490,Estrone,1
+DB04574,Estrone sulfate,DBMET00492,Estriol,1
+DB04575,Quinestrol,DBMET00538,Ethinyl estradiol,1
+DB04630,Aldosterone,DBMET00598,Aldosterone 18-glucuronide,1
+DB04630,Aldosterone,DBMET00605,Tetrahydroaldosterone-3-glucuronide,1
+DB04665,Coumarin,DBMET01637,7-Hydroxycoumarin,1
+DB04665,Coumarin,DBMET01638,3-Hydroxycoumarin,1
+DB04665,Coumarin,DBMET01639,"Coumarin 3,4-epoxide",1
+DB04725,Licofelone,DBMET01313,Licofelone metabolite M4,1
+DB04725,Licofelone,DBMET01315,Licofelone metabolite M2,1
+DB04725,Licofelone,DBMET00227,Licofelone acyl glucuronide,1
+DBMET01313,Licofelone metabolite M4,DBMET01314,Licofelone metabolite M5,2
+DBMET01315,Licofelone metabolite M2,DBMET01316,Licofelone metabolite M3,2
+DBMET00227,Licofelone acyl glucuronide,DBMET01316,Licofelone metabolite M3,2
+DB04831,Ticrynafen,DBMET01171,Ticrynafen S-oxide,1
+DB04831,Ticrynafen,DBMET01769,Tienilic acid-s-oxide,1
+DB04831,Ticrynafen,DBMET00163,"Thiophene-4,5-epoxide",1
+DB04839,Cyproterone acetate,DBMET00672,15beta-hydroxycyproterone acetate,1
+DB04840,Debrisoquin,DBMET01641,4-Hydroxydebrisoquine,1
+DB04841,Flunarizine,DBMET01197,Flunarizine metabolite M1,1
+DB04841,Flunarizine,DBMET01198,Flunarizine metabolite M2,1
+DB04841,Flunarizine,DBMET01199,Flunarizine metabolite M3,1
+DB04844,Tetrabenazine,DBMET00800,b-dihydrotetrabenazine,1
+DB04844,Tetrabenazine,DBMET00458,alpha-dihydrotetrabenazine,1
+DB04871,Lorcaserin,DBMET00900,Lorcaserin sulfamate,1
+DB04871,Lorcaserin,DBMET00927,N-carbamoyl glucuronide lorcaserin,1
+DB04948,Lofexidine,DBMET02111,"N-(2-aminoethyl)-2-(2,6-dichlorophenoxy)propanamide",1
+DBMET02111,"N-(2-aminoethyl)-2-(2,6-dichlorophenoxy)propanamide",DBMET02112,"2-(2,6-dichlorophenoxy) propionic acid",2
+DBMET02111,"N-(2-aminoethyl)-2-(2,6-dichlorophenoxy)propanamide",DBMET02113,"2,6-dichlorophenol",2
+DB05015,Belinostat,DBMET01443,Belinostat glucuronide,1
+DB05016,Ataluren,DBMET01532,ataluren-O-1β-acyl glucuronide,1
+DB05039,Indacaterol,DBMET00781,8-O-glucuronide,1
+DB05109,Trabectedin,DBMET01133,Trabectedin metabolite M8a,1
+DB05109,Trabectedin,DBMET01134,Trabectedin metabolite M8b (ET-729),1
+DB05109,Trabectedin,DBMET01135,Trabectedin metabolite M9,1
+DB05109,Trabectedin,DBMET01136,Trabectedin metabolite 16c,1
+DB05109,Trabectedin,DBMET01137,Trabectedin metabolite M16e,1
+DBMET01133,Trabectedin metabolite M8a,DBMET01137,Trabectedin metabolite M16e,2
+DB05271,Rotigotine,DBMET00941,N-despropyl-rotigotine,1
+DB05271,Rotigotine,DBMET00943,N-desthienylethyl-rotigotine,1
+DB05289,Tarenflurbil,DBMET01566,4-OH-S-flurbiprofen,1
+DB05294,Vandetanib,DBMET00935,N-desmethyl vandetanib,1
+DB05351,Dexlansoprazole,DBMET01494,5-hydroxy dexlansoprazole,1
+DB05521,Telaprevir,DBMET00993,Pyrazinoic acid,1
+DB05676,Apremilast,DBMET01392,M3,1
+DBMET01392,M3,DBMET01393,M12,2
+DB05812,Abiraterone,DBMET00788,abiraterone sulfate,1
+DB05812,Abiraterone,DBMET00951,N-oxide abiraterone sulfate,1
+DB06148,Mianserin,DBMET01732,"(R)-mianserin, N-Desmethyl",1
+DB06148,Mianserin,DBMET01733,"(R)-mianserin, 8-hydroxy",1
+DB06148,Mianserin,DBMET01734,"(R)-mianserin, N-oxide",1
+DB06148,Mianserin,DBMET01824,8-Hydroxymianserin,1
+DB06148,Mianserin,DBMET01825,Desmethylmianserin,1
+DB06148,Mianserin,DBMET01826,Mianserin N-oxide,1
+DB06153,Pizotifen,DBMET02053,Pizotifen glucuronide,1
+DB06154,Pentaerythritol Tetranitrate,DB12529,Nitrite,1
+DB06154,Pentaerythritol Tetranitrate,DB13526,Pentaerithrityl,1
+DB06154,Pentaerythritol Tetranitrate,DBMET01482,Ammonia,1
+DB06154,Pentaerythritol Tetranitrate,DBMET01480,Nitric Oxide,1
+DB06176,Romidepsin,DBMET01414,Romidepsin (active),1
+DB06201,Rufinamide,DBMET00814,CGP 47292,1
+DB06202,Lasofoxifene,DBMET01444,7-hydroxy-lasofoxifene (7-OHLAS),1
+DB06202,Lasofoxifene,DBMET01445,5-hydroxy-lasofoxifene (5-OHLAS),1
+DB06204,Tapentadol,DBMET00934,N-desmethyl tapentadol,1
+DB06209,Prasugrel,DBMET00099,R-95913,1
+DBMET00099,R-95913,DBMET00483,R-138727,2
+DB06211,Doripenem,DBMET01407,doripenem-M1,1
+DB06217,Vernakalant,DBMET01446,RSD1385,1
+DB06218,Lacosamide,DBMET00965,O-Desmethyl-lacosamide,1
+DB06230,Nalmefene,DBMET01858,Nalmefene 3-O-glucuronide,1
+DB06230,Nalmefene,DBMET01859,Nalmefene 3-O-sulfate,1
+DB06230,Nalmefene,DBMET01860,Nornalmefene,1
+DBMET01860,Nornalmefene,DBMET01861,Nornalmefene 3-O-glucuronide,2
+DBMET01860,Nornalmefene,DBMET01862,Nornalmefene 3-O-sulfate,2
+DB06235,Vadimezan,DBMET01775,6-Hydroxy-MXAA,1
+DB06267,Udenafil,DBMET00421,N-desalkyludenafil,1
+DB06287,Temsirolimus,DBMET00628,Sirolimus,1
+DB06292,Dapagliflozin,DBMET01372,dapagliflozin 3-O-glucuronide,1
+DB06335,Saxagliptin,DBMET00459,5-hydroxy saxagliptin,1
+DB06401,Bazedoxifene,DBMET01399,bazedoxifene-4'-glucuronide,1
+DB06401,Bazedoxifene,DBMET01400,bazedoxifene-5-glucuronide,1
+DB06402,Telavancin,DBMET01011,THRX-651540,1
+DB06403,Ambrisentan,DBMET01405,Ambrisentan glucuronide,1
+DB06403,Ambrisentan,DBMET00460,4-hydroxymethyl ambrisentan,1
+DBMET00460,4-hydroxymethyl ambrisentan,DBMET01406,4-hydroxymethyl ambrisentan glucuronide,2
+DB06590,Ceftaroline fosamil,DBMET00812,ceftaroline,1
+DB06595,Midostaurin,DBMET01440,CGP 52421,1
+DB06595,Midostaurin,DBMET01441,CGP 62221,1
+DB06637,Dalfampridine,DBMET00708,3-hydroxy-4-aminopyridine,1
+DB06637,Dalfampridine,DBMET00709,3-hydroxy-4-aminopyridine sulfate,1
+DB06652,Vicriviroc,DBMET00078,O-Desmethylvicriviroc,1
+DB06652,Vicriviroc,DBMET00079,Vicriviroc hydroxylamine,1
+DB06652,Vicriviroc,DBMET00080,Vicriviroc N-oxide,1
+DB06652,Vicriviroc,DBMET00081,N-Desalkylvicriviroc,1
+DB06652,Vicriviroc,DBMET00082,"N,N-Desalkylvicriviroc",1
+DB06652,Vicriviroc,DBMET00083,Vicriviroc carboxylic acid,1
+DB06669,Arverapamil,DBMET01615,"(2R)-5-{[2-(3,4-dimethoxyphenyl)ethyl]amino}-2-(3-methoxyphenyl)-2-(propan-2-yl)pentanenitrile",1
+DB06669,Arverapamil,DBMET01616,(2R)-5-amino-2-(3-methoxyphenyl)-2-(propan-2-yl)pentanenitrile,1
+DB06669,Arverapamil,DBMET01617,"2-(3,4-dimethoxyphenyl)acetaldehyde",1
+DB06670,Odanacatib,DBMET01469,M6 (Odanacatib),1
+DB06670,Odanacatib,DBMET01471,M9 (Odanacatib),1
+DB06670,Odanacatib,DBMET01470,M10 (Odanacatib),1
+DB06670,Odanacatib,DBMET01472,M8 (Odanacatib),1
+DBMET01472,M8 (Odanacatib),DBMET01473,M3 (Odanacatib),2
+DBMET01472,M8 (Odanacatib),DBMET01475,M7-B (Odanacatib),2
+DBMET01475,M7-B (Odanacatib),DBMET01474,M7-A (Odanacatib),3
+DB06685,Laquinimod,DBMET01684,"5-chloro-N-ethyl-4-hydroxy-N-(4-hydroxyphenyl)-1-methyl-2-oxo-1,2-dihydroquinoline-3-carboxamide",1
+DB06685,Laquinimod,DBMET01685,"5-chloro-4-hydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB06685,Laquinimod,DBMET01686,"5-chloro-N-ethyl-4-hydroxy-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB06685,Laquinimod,DBMET01687,"5-chloro-N-ethyl-4,8-dihydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB06685,Laquinimod,DBMET01688,"5-chloro-N-ethyl-4,7-dihydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB06685,Laquinimod,DBMET01689,"5-chloro-N-ethyl-4,6-dihydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB06697,Artemether,DBMET00783,"9,10-dihydrodeoxy-artemsinin",1
+DB06697,Artemether,DBMET00793,Alpha-dihydroartemisinin,1
+DB06697,Artemether,DBMET00826,Deoxyartemsinin,1
+DB06697,Artemether,DBMET00827,Deoxydihydro-artemisinin,1
+DB06697,Artemether,DBMET00443,Dihydroartemisinin (DHA),1
+DB06698,Betahistine,DBMET00688,2-pyridylacetic acid,1
+DB06700,Desvenlafaxine,DBMET00437,"N,O-Didesmethylvenlafaxine",1
+DB06701,Dexmethylphenidate,DBMET00651,Ritalinic acid,1
+DB06708,Lumefantrine,DBMET00438,desbutyl-lumefantrine,1
+DB06716,Fospropofol,DBMET00531,Formaldehyde,1
+DB06716,Fospropofol,DBMET00532,Phosphate,1
+DB06716,Fospropofol,DBMET00625,Propofol,1
+DB06716,Fospropofol,DBMET00489,Formic acid,1
+DB06725,Lornoxicam,DBMET00161,5'-Hydroxylornoxicam,1
+DB06726,Bufuralol,DBMET01780,4-Hydroxybufuralol,1
+DB06726,Bufuralol,DBMET01781,6-Hydroxubufuralol,1
+DB06726,Bufuralol,DBMET01782,1'2'-Ethenylbufuralol,1
+DB06728,Aniline,DBMET01586,4-aminophenol,1
+DB06728,Aniline,DBMET01587,N-Hydroxyaniline,1
+DB06736,Aceclofenac,DBMET01576,4'-OH-aceclofenac,1
+DB06736,Aceclofenac,DBMET01577,5-OH-aceclofenac,1
+DB06736,Aceclofenac,DBMET01501,Diclofenac,1
+DB06736,Aceclofenac,DBMET00241,4'-Hydroxyaceclofenac,1
+DB06736,Aceclofenac,DBMET00242,5-Hydroxyaceclofenac,1
+DB06737,Zaltoprofen,DBMET01852,10-OH-zaltoprofen,1
+DB06737,Zaltoprofen,DBMET00230,Zaltoprofen S-oxide,1
+DB06737,Zaltoprofen,DBMET00228,Zaltoprofen acyl glucuronide,1
+DB06737,Zaltoprofen,DBMET00229,10-Hydroxyzaltoprofen,1
+DB06737,Zaltoprofen,DBMET00230,Zaltoprofen S-oxide,1
+DB06738,Ketobemidone,DBMET01297,Dihydroxy ketobemidone,1
+DB06738,Ketobemidone,DBMET00237,Reduced ketobemidone,1
+DB06738,Ketobemidone,DBMET00238,Norketobemidone,1
+DB06738,Ketobemidone,DBMET00240,Ketobemidone N-oxide,1
+DBMET00238,Norketobemidone,DBMET01296,Dihydroxy norketobemidone,2
+DBMET01297,Dihydroxy ketobemidone,DBMET01298,p-Hydroxymethoxy ketobemidone,2
+DBMET01297,Dihydroxy ketobemidone,DBMET01299,m-Hydroxymethoxy ketobemidone,2
+DB06739,Seratrodast,DBMET01625,5-OH-seratrodast,1
+DB06739,Seratrodast,DBMET01626,4'-OH-seratrodast,1
+DB06739,Seratrodast,DBMET00231,5-Methylhydroxyseratrodast,1
+DB06739,Seratrodast,DBMET00232,4-Hydroxyseratrodast,1
+DB06739,Seratrodast,DBMET00233,Seratrodast acyl glucuronide,1
+DB06739,Seratrodast,DBMET00234,Dihydroseratrodast,1
+DB06741,Gavestinel,DBMET01818,p-OH-gavestinel,1
+DB06741,Gavestinel,DBMET00235,p-Hydroxygavestinel,1
+DB06741,Gavestinel,DBMET00236,Gavestinel acyl glucuronide,1
+DB06755,Beta carotene,DBMET02045,Retinol,1
+DBMET02045,Retinol,DBMET02046,retinoic acid,2
+DB06769,Bendamustine,DBMET01421,γ-hydroxybendamustine (Bendamustine metabolite M3),1
+DB06769,Bendamustine,DBMET01422,N-desmethyl-bendamustine (Bendamustine metabolite M4),1
+DB06769,Bendamustine,DBMET01423,monohydroxy-bendamustine (bendamustine metabolite HP1),1
+DBMET01423,monohydroxy-bendamustine (bendamustine metabolite HP1),DBMET01424,dihydroxy-bendamustine (bendamustine metabolite HP2),2
+DB06772,Cabazitaxel,DBMET00633,Docetaxel,1
+DB06772,Cabazitaxel,DBMET00998,RPR112698,1
+DB06772,Cabazitaxel,DBMET00999,RPR123142,1
+DB06781,Difluprednate,DBMET00837,difluoroprednisolone butyrate,1
+DB06781,Difluprednate,DBMET00883,Hydroxyfluoroprednisolone butyrate (HFB),1
+DB06799,Methenamine,DBMET00531,Formaldehyde,1
+DB06799,Methenamine,DBMET01432,ammonium,1
+DB06819,Phenylbutyric acid,DBMET01431,Phenylacetate,1
+DB06823,Tiopronin,DBMET01416,2-mercaptopropionic acid,1
+DB06824,Triethylenetetramine,DBMET01456,1-N-acetyltriethylenetetramine,1
+DB06824,Triethylenetetramine,DBMET01457,"1,10-N-diacetyltriethylenetetramine",1
+DB07129,"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",DBMET01551,"(R)-(-)-Mexiletine, p-hydroxyl",1
+DB07129,"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",DBMET01552,"(R)-(-)-Mexiletine, m-hydroxyl",1
+DB07129,"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",DBMET01553,"(R)-(-)-Mexiletine, 2-OH-hydroxymethyl",1
+DB07129,"(2R)-1-(2,6-dimethylphenoxy)propan-2-amine",DBMET01554,"(R)-(-)-Mexiletine, N-hydroxy",1
+DB07919,7-METHOXY-1-METHYL-9H-BETA-CARBOLINE,DBMET01678,Harmol,1
+DB07919,7-METHOXY-1-METHYL-9H-BETA-CARBOLINE,DBMET01679,6-OH-harmaline,1
+DB08472,(R)-Fluoxetine,DBMET01807,(R)-Norfluoxetine,1
+DB08472,(R)-Fluoxetine,DB03610,"Alpha,Alpha,Alpha-Trifluoro-P-Cresol",1
+DB08472,(R)-Fluoxetine,DBMET01565,3-(methylamino)-1-phenylpropan-1-one,1
+DB08544,(S)-Fluoxetine,DBMET01565,3-(methylamino)-1-phenylpropan-1-one,1
+DB08544,(S)-Fluoxetine,DB06731,Seproxetine,1
+DB08544,(S)-Fluoxetine,DB03610,"Alpha,Alpha,Alpha-Trifluoro-P-Cresol",1
+DB08808,Bupranolol,DBMET00809,"carboxybupranolol, 4-chloro-3-[3-(1,1-dimethylethylamino)-2-hydroxy-propyloxy]benzoic acid",1
+DB08814,Triflusal,DBMET00686,2-hydroxy-4-trifluoromethyl benzoic acid,1
+DB08815,Lurasidone,DBMET00890,ID11614,1
+DB08815,Lurasidone,DBMET00891,ID14326,1
+DB08819,Tafluprost,DBMET00481,Tafluprost free acid,1
+DB08864,Rilpivirine,DBMET01864,hydroxilated form of rilpivirine 1 (M1),1
+DB08864,Rilpivirine,DBMET01865,hydroxilated form of rilpivirine 2 (M2),1
+DB08864,Rilpivirine,DBMET01867,hydroxilated form of rilpivirine 3 (M3),1
+DB08864,Rilpivirine,DBMET01868,hydroxilated form of rilpivirine 4 (M4),1
+DB08864,Rilpivirine,DBMET01870,glucurinated form of rilpivirine (M5),1
+DBMET01865,hydroxilated form of rilpivirine 2 (M2),DBMET01866,glucurinated form of rilpivirine (M6),2
+DBMET01868,hydroxilated form of rilpivirine 4 (M4),DBMET01869,glucurinated form of rilpivirine (M7),2
+DB08874,Fidaxomicin,DBMET00972,OP-1118,1
+DB08881,Vemurafenib,DBMET01854,vemurafenib intermediary metabolite,1
+DBMET01854,vemurafenib intermediary metabolite,DBMET01855,secondary metabolite of vemurafenib,2
+DBMET01854,vemurafenib intermediary metabolite,DBMET01856,secondary metabolite of vemurafenib alternative,2
+DB08882,Linagliptin,DBMET00811,CD 1790,1
+DB08887,Icosapent ethyl,DBMET00546,EPA,1
+DB08890,Linaclotide,DBMET00911,MM-419447,1
+DB08905,Formestane,DBMET00579,4-Hydroxyandrostenedione glucuronide,1
+DB08921,(4R)-limonene,DBMET01188,Perillyl alcohol,1
+DB08921,(4R)-limonene,DBMET01190,Uroterpenol,1
+DB08921,(4R)-limonene,DBMET01837,Carveol,1
+DBMET01188,Perillyl alcohol,DBMET01189,Perillyl acid,2
+DBMET01190,Uroterpenol,DBMET01191,Uroterpenol-O-glucuronide,2
+DBMET01190,Uroterpenol,DBMET01191,Uroterpenol-O-glucuronide,2
+DB08922,Perospirone,DBMET01502,Hydroxyperospirone,1
+DB08930,Dolutegravir,DBMET01871,ether glucuronide dolutegravir (M2),1
+DB08930,Dolutegravir,DBMET01872,hydroxilated form of dolutegravir (M3),1
+DB08930,Dolutegravir,DBMET01874,defluorinated and gutathione conjugated form of dolutegravir (M4.1),1
+DB08930,Dolutegravir,DBMET01875,defluorinated and gutathione conjugated form of dolutegravir (M4.2),1
+DBMET01872,hydroxilated form of dolutegravir (M3),DBMET01873,hydrolized form of dolutegravir (M1),2
+DB08934,Sofosbuvir,DBMET01381,GS-56650,1
+DBMET01381,GS-56650,DBMET01382,GS-606965,2
+DBMET01382,GS-606965,DBMET01383,GS-461203,3
+DB08949,Inositol nicotinate,DBMET01486,Inositol pentanicotinate,1
+DBMET01486,Inositol pentanicotinate,DBMET01487,Inositol tetranicotinate,2
+DBMET01487,Inositol tetranicotinate,DBMET01488,Inositol trinicotinate,3
+DBMET01488,Inositol trinicotinate,DBMET01489,Inositol dinicotinate,4
+DBMET01489,Inositol dinicotinate,DBMET01490,Inositol mononicotinate,5
+DBMET01490,Inositol mononicotinate,DBMET01491,Inositol,6
+DB09030,Vorapaxar,DBMET01376,amine metabolite (M19),1
+DB09030,Vorapaxar,DBMET01375,monohydroxy-vorapaxar (M20),1
+DB09031,Miltefosine,DBMET01373,Choline,1
+DB09034,Suvorexant,DBMET01374,Hydroxy-suvorexant,1
+DB09038,Empagliflozin,DBMET01377,empagliflozin 3-O-glucuronide,1
+DB09042,Tedizolid Phosphate,DBMET01378,Tedizolid,1
+DB09048,Netupitant,DBMET01379,Desmethyl Netupitant,1
+DB09048,Netupitant,DBMET01380,N-oxide Netupitant,1
+DB09053,Ibrutinib,DBMET02020,PCI-7503 (M23),1
+DB09053,Ibrutinib,DBMET02021,PCI-48303 (M26),1
+DB09053,Ibrutinib,DBMET02022,PCI-45227 (M37),1
+DB09053,Ibrutinib,DBMET02023,PCI-45773 (M35),1
+DB09053,Ibrutinib,DBMET02025,PCI-45741 (M25),1
+DB09053,Ibrutinib,DBMET02027,PCI-45752 (M34),1
+DBMET02023,PCI-45773 (M35),DBMET02024,M17,2
+DBMET02025,PCI-45741 (M25),DBMET02026,M20,2
+DBMET02027,PCI-45752 (M34),DBMET02028,M24,2
+DBMET02027,PCI-45752 (M34),DBMET02024,M17,2
+DB09054,Idelalisib,DBMET01387,GS-563117,1
+DB09059,Atosiban,DBMET02065,Reduced Metabolite (Atosiban),1
+DBMET02065,Reduced Metabolite (Atosiban),DBMET02066,Large Fragment Metabolite (Atosiban),2
+DBMET02065,Reduced Metabolite (Atosiban),DBMET02067,Small Fragment Metabolite (Atosiban),2
+DB09068,Vortioxetine,DBMET01389,Vortioxetine Metabolite 1,1
+DB09068,Vortioxetine,DBMET01388,M8,1
+DB09068,Vortioxetine,DBMET01391,Vortioxetine Metabolite 2,1
+DBMET01389,Vortioxetine Metabolite 1,DBMET01390,M0,2
+DB09072,Sodium oxybate,DBMET01476,Succinic Semialdehyde,1
+DBMET01476,Succinic Semialdehyde,DBMET01477,Succinic Acid,2
+DB09079,Nintedanib,DBMET01384,BIBF 1202,1
+DBMET01384,BIBF 1202,DBMET01385,BIBF 1202 glucuronide,2
+DB09080,Olodaterol,DBMET01386,O-demethylated olodaterol,1
+DB09081,Idebenone,DBMET01521,QS10,1
+DBMET01521,QS10,DBMET01522,QS8,2
+DBMET01522,QS8,DBMET01523,QS6,3
+DBMET01523,QS6,DBMET01524,QS4,4
+DB09082,Vilanterol,DBMET01394,M29 (GW630200),1
+DB09082,Vilanterol,DBMET01395,M33 (GSK932009),1
+DB09084,Benzydamine,DBMET02061,Benzydamine N-oxide,1
+DB09084,Benzydamine,DBMET02062,Norbenzydamine,1
+DB09085,Tetracaine,DBMET01429,para-aminobenzoic acid,1
+DB09085,Tetracaine,DBMET01430,diethylaminoethanol,1
+DB09089,Trimebutine,DBMET01503,Nortrimebutine,1
+DB09089,Trimebutine,DBMET01505,2-dimethylamino-2-phenylbutan-1-ol,1
+DBMET01503,Nortrimebutine,DBMET01504,N-didesmethyltrimebutine,2
+DBMET01505,2-dimethylamino-2-phenylbutan-1-ol,DBMET01506,2-methylamino-2-phenylbutan-1-ol ,2
+DBMET01506,2-methylamino-2-phenylbutan-1-ol ,DBMET01507,2-amino-2-phenylbutan-1-ol,3
+DB09096,Benzoyl peroxide,DBMET01436,Benzoyloxyl radical,1
+DBMET01436,Benzoyloxyl radical,DBMET01437,Benzoic acid,2
+DB09110,Coenzyme M,DBMET01434,dimesna,1
+DB09112,Nitrous acid,DBMET01480,Nitric Oxide,1
+DB09112,Nitrous acid,DBMET01481,Nitrate,1
+DBMET01480,Nitric Oxide,DBMET01482,Ammonia,2
+DB09116,Calcium carbimide,DBMET01896,N-hydroxycynamide,1
+DBMET01896,N-hydroxycynamide,DBMET01897,cyanide,2
+DBMET01896,N-hydroxycynamide,DBMET01898,nitroxyl,2
+DB09117,Paraldehyde,DBMET00328,acetaldehyde,1
+DBMET00328,acetaldehyde,DBMET01513,Acetate,2
+DBMET01513,Acetate,DBMET00137,Carbon dioxide,3
+DBMET01513,Acetate,DBMET01514,Water,3
+DB09119,Eslicarbazepine acetate,DBMET01408,Eslicarbazepine [(S)-licarbazepine],1
+DBMET01408,Eslicarbazepine [(S)-licarbazepine],DBMET01409,Oxcarbazepine,2
+DBMET01408,Eslicarbazepine [(S)-licarbazepine],DBMET01413,Eslicarbazepine-O-glucuronide,2
+DBMET01409,Oxcarbazepine,DBMET01410,R-licarbazepine,3
+DBMET01409,Oxcarbazepine,DBMET01411,10-hydroxycarbazepine sulfate,3
+DBMET01409,Oxcarbazepine,DBMET01412,10-hydroxycarbazepine glucuronide,3
+DB09128,Brexpiprazole,DBMET01397,DM-3411,1
+DB09144,Uridine triacetate,DBMET01435,Uridine,1
+DB09149,Florbetapir (18F),DBMET01426,[18F]AV-160 (desmethyl-[18F]AV-45),1
+DB09149,Florbetapir (18F),DBMET01427,[18F]AV-267 (N-acetyl–[18F]AV-160),1
+DB09149,Florbetapir (18F),DBMET01428,[18F]-Polar species,1
+DB09166,Etizolam,DBMET01525,alpha-hydroxyetizolam,1
+DB09167,Dosulepin,DBMET01516,Northiaden,1
+DB09167,Dosulepin,DBMET01519,Dosulepin S-oxide,1
+DBMET01516,Northiaden,DBMET01520,Northiaden S-oxide,2
+DB09194,Etoperidone,DBMET01876,"2-[3-[4-(3-chlorophenyl)-1-piperazinyl]propyl]-4-ethyl-2,4-dihydro-5- (1-hydroxyethyl)-3H-1,2,4-triazole-3-one",1
+DB09194,Etoperidone,DBMET01877,N-oxide etoperidone,1
+DB09194,Etoperidone,DBMET01878,1-(3-chlorophenyl) piperazine,1
+DB09194,Etoperidone,DBMET01879,triazole propionic acid,1
+DB09198,Lobeglitazone,DBMET01517,M1,1
+DB09198,Lobeglitazone,DBMET01518,M2,1
+DB09205,Moxisylyte,DBMET01914,Deacetyl-thymoxamine,1
+DBMET01914,Deacetyl-thymoxamine,DBMET01915,deacetyl-demethyl-thymoxamine,2
+DBMET01914,Deacetyl-thymoxamine,DBMET01916,glucuronide of deacetyl-thymoxamine,2
+DBMET01914,Deacetyl-thymoxamine,DBMET01918,sulfate of deacetyl-thymoxamine,2
+DBMET01915,deacetyl-demethyl-thymoxamine,DBMET01917,glucuronide of deacetyl-demethyl-thymoxamine,3
+DBMET01915,deacetyl-demethyl-thymoxamine,DBMET01919,sulfate of deacetyl-demethyl-thymoxamine,3
+DB09209,Pholcodine,DBMET01920,desmorpholino-hydroxy-pholcodine,1
+DB09209,Pholcodine,DBMET01921,hydroxypholcodine,1
+DB09209,Pholcodine,DBMET01922,oxopholcodine,1
+DB09209,Pholcodine,DB00295,Morphine,1
+DB09213,Dexibuprofen,DBMET00154,2-Hydroxyibuprofen,1
+DB09213,Dexibuprofen,DBMET00155,3-Hydroxyibuprofen,1
+DB09215,Droxicam,DB00554,Piroxicam,1
+DB09216,Tolfenamic Acid,DBMET01926,Glucuronide form of tolfenamic acid,1
+DB09216,Tolfenamic Acid,DBMET01927,N-(2-methyl-3-chlorophenyl)-5-hydroxy-anthranilic acid,1
+DB09216,Tolfenamic Acid,DBMET01928,ether glucuronide ofN-(2-methyl-3-chloro-4-hydroxyphenyl)-anthranilic acid,1
+DB09216,Tolfenamic Acid,DBMET01929,N-(2-methyl-3-chloro-4-hydroxyphenyl)-anthranilic acid,1
+DB09216,Tolfenamic Acid,DBMET01934,N-(2-methyl-3-chloro-5-hydroxyphenyl)-anthranilic acid,1
+DB09216,Tolfenamic Acid,DBMET01935,N-(2-methyl-3-chloro-5-hydroxyphenyl)-anthranilic acid form 2,1
+DB09216,Tolfenamic Acid,DBMET01937,N-(2-hydroxymethyl-3-chlorophenyl)-anthranilic acid,1
+DB09216,Tolfenamic Acid,DBMET01942,N-(2-methyl-3-chlorophenyl)-4-hydroxy-anthranilic acid,1
+DBMET01929,N-(2-methyl-3-chloro-4-hydroxyphenyl)-anthranilic acid,DBMET01932,N-(2-methyl-3-chloro-4-metoxyphenyl)-anthranilic acid,2
+DBMET01929,N-(2-methyl-3-chloro-4-hydroxyphenyl)-anthranilic acid,DBMET01933,N-(2-methyl-4-hydroxyphenyl)-anthranilic acid,2
+DBMET01935,N-(2-methyl-3-chloro-5-hydroxyphenyl)-anthranilic acid form 2,DBMET01936,N-(2-methyl-3-chloro-5-hydroxyphenyl)-anthranilic acid form 3,2
+DBMET01937,N-(2-hydroxymethyl-3-chlorophenyl)-anthranilic acid,DBMET01938,N-(2-formyl-3-chlorophenyl) anthranilic acid,2
+DBMET01937,N-(2-hydroxymethyl-3-chlorophenyl)-anthranilic acid,DBMET01939,N-(2-hydroxymethyl-3-chloro-4-hydroxyphenyl)-anthranilic acid,2
+DBMET01937,N-(2-hydroxymethyl-3-chlorophenyl)-anthranilic acid,DBMET01940,N-(2-hydroxymethyl-3-chlorophenyl)-4-hydroxy-anthranilic acid,2
+DBMET01938,N-(2-formyl-3-chlorophenyl) anthranilic acid,DBMET01941,N-(2-carboxy-3-chlorophenyl)-anthranilic acid,3
+DB09223,Blonanserin,DBMET01888,M1 (Blonanserin),1
+DB09223,Blonanserin,DBMET01890,M3 (Blonanserin),1
+DB09223,Blonanserin,DBMET01892,M5 (Blonanserin),1
+DB09223,Blonanserin,DBMET01893,M6 (Blonanserin),1
+DBMET01888,M1 (Blonanserin),DBMET01889,M2 (Blonanserin),2
+DBMET01890,M3 (Blonanserin),DBMET01891,M4 (Blonanserin),2
+DBMET01892,M5 (Blonanserin),DBMET01894,M7 (Blonanserin),2
+DBMET01894,M7 (Blonanserin),DBMET01895,M8 (Blonanserin),3
+DB09225,Zotepine,DBMET01795,Norzotepine,1
+DB09225,Zotepine,DBMET01796,Zotepine N-oxide,1
+DB09225,Zotepine,DBMET01797,2-OH-zotepine,1
+DB09225,Zotepine,DBMET01798,3-OH-zotepine,1
+DB09225,Zotepine,DBMET01799,Zotepine -oxide,1
+DB09227,Barnidipine,DBMET01899,M-8,1
+DB09227,Barnidipine,DBMET01901,M-1,1
+DBMET01899,M-8,DBMET01900,M-2,2
+DBMET01901,M-1,DBMET01902,M-3,2
+DBMET01902,M-3,DBMET01903,M-4,3
+DB09229,Aranidipine,DBMET01949,Aranidipine M-1,1
+DB09229,Aranidipine,DBMET01952,Aranidipine M-3,1
+DBMET01949,Aranidipine M-1,DBMET01950,Aranidipine M-2,2
+DBMET01949,Aranidipine M-1,DBMET01951,Aranidipine M-4,2
+DBMET01952,Aranidipine M-3,DBMET01951,Aranidipine M-4,2
+DBMET01951,Aranidipine M-4,DBMET01953,Aranidipine M-5,3
+DBMET01950,Aranidipine M-2,DBMET01953,Aranidipine M-5,3
+DB09231,Benidipine,DBMET01963,N-desbenzylbenidipine,1
+DB09231,Benidipine,DBMET01964,Dehydrobenidipine,1
+DB09256,Tegafur,DBMET02058,5'-hydroxytegafur,1
+DBMET02058,5'-hydroxytegafur,DB00544,Fluorouracil,2
+DB09277,Choline C 11,DBMET01973,betaine,1
+DB09288,Propacetamol,DBMET01974,"N, N-diethylglycine",1
+DB09288,Propacetamol,DB00316,Acetaminophen,1
+DB09291,Rolapitant,DBMET01398,M19 (C4-pyrrolidine-hydroxylated rolapitant),1
+DB09292,Sacubitril,DBMET01401,Sacubitrilat (LBQ657),1
+DB09298,Silibinin A,DBMET01841,O-demethylated-silybin,1
+DB09299,Tenofovir alafenamide,DBMET01425,Tenofovir,1
+DBMET01425,Tenofovir,DBMET01176,Tenofovir Monophosphate,2
+DBMET01176,Tenofovir Monophosphate,DBMET01177,Tenofovir Diphosphate,3
+DB09300,Butylscopolamine,DBMET01508,BA 345 Br (Scopolamine Butylbromide),1
+DB09300,Butylscopolamine,DBMET01509,BA 790 Br (Scopolamine Butylbromide),1
+DBMET01508,BA 345 Br (Scopolamine Butylbromide),DBMET01510,AD12 (Scopolamine Butylbromide),2
+DB09301,Chondroitin sulfate,DBMET01975,cs_a_deg4,1
+DB09301,Chondroitin sulfate,DBMET01976,cs_e_deg1,1
+DB09301,Chondroitin sulfate,DBMET01977,cs_e_deg5,1
+DB09301,Chondroitin sulfate,DBMET01978,sulfate,1
+DB09301,Chondroitin sulfate,DBMET01986,cs_a_deg1,1
+DB09301,Chondroitin sulfate,DB09419,Xylose,1
+DB09301,Chondroitin sulfate,DB11735,Galactose,1
+DB09301,Chondroitin sulfate,DBMET01994,D-glucuronate,1
+DBMET01975,cs_a_deg4,DBMET01980,cs_e_deg7,2
+DBMET01975,cs_a_deg4,DBMET01979,cs_a_deg5,2
+DBMET01975,cs_a_deg4,DBMET01982,cs_d_deg2,2
+DBMET01975,cs_a_deg4,DBMET01983,cs_d_deg6,2
+DBMET01975,cs_a_deg4,DBMET01984,cs_b_deg2,2
+DBMET01975,cs_a_deg4,DBMET01985,N-acetyl-D-galactosamine,2
+DBMET01975,cs_a_deg4,DBMET01988,cs_c_deg2,2
+DBMET01975,cs_a_deg4,DBMET01987,cs_a_deg2,2
+DBMET01975,cs_a_deg4,DBMET01989,cs_e_deg3,2
+DBMET01975,cs_a_deg4,DBMET01990,cs_c_deg5,2
+DBMET01982,cs_d_deg2,DBMET01991,cs_c_deg3,3
+DBMET01982,cs_d_deg2,DBMET01992,cs_e_deg4,3
+DBMET01982,cs_d_deg2,DBMET01993,cs_a_deg3,3
+DBMET01982,cs_d_deg2,DBMET01994,D-glucuronate,3
+DBMET01982,cs_d_deg2,DBMET01995,cs_d_deg3,3
+DBMET01982,cs_d_deg2,DBMET01990,cs_c_deg5,3
+DBMET01982,cs_d_deg2,DBMET01978,sulfate,3
+DBMET01983,cs_d_deg6,DBMET01990,cs_c_deg5,3
+DBMET01983,cs_d_deg6,DBMET01995,cs_d_deg3,3
+DBMET01983,cs_d_deg6,DBMET01978,sulfate,3
+DBMET01983,cs_d_deg6,DBMET01993,cs_a_deg3,3
+DBMET01983,cs_d_deg6,DBMET01997,L-iduronic acid,3
+DBMET01984,cs_b_deg2,DBMET01998,cs_b_deg3,3
+DBMET01984,cs_b_deg2,DBMET01978,sulfate,3
+DBMET01995,cs_d_deg3,DBMET01991,cs_c_deg3,4
+DBMET01995,cs_d_deg3,DBMET01996,cs_d_deg4,4
+DBMET01995,cs_d_deg3,DBMET01992,cs_e_deg4,4
+DBMET01995,cs_d_deg3,DBMET01993,cs_a_deg3,4
+DBMET01995,cs_d_deg3,DBMET01994,D-glucuronate,4
+DB09327,Tegafur-uracil,DBMET00753,5-hydroxytegafur,1
+DB09327,Tegafur-uracil,DBMET02001,3-hydroxytegafur,1
+DB09327,Tegafur-uracil,DBMET02002,4-hydroxytegafur,1
+DB09327,Tegafur-uracil,DBMET02003,dihydrotegafur,1
+DBMET00753,5-hydroxytegafur,DBMET00449,5-fluorouracil,2
+DBMET00449,5-fluorouracil,DBMET02004,5-FUH2,3
+DBMET00449,5-fluorouracil,DBMET01999,5-fluorodeoxyuridine-monophosphate,3
+DBMET00449,5-fluorouracil,DBMET02000,5-fluorouridine-triphosphate,3
+DBMET02004,5-FUH2,DBMET02005,FUPA,4
+DBMET02005,FUPA,DBMET02006,FBAL,5
+DBMET02005,FUPA,DB03904,Urea,5
+DB09343,Tipiracil,DBMET01853,6-(hydroxymethyl)uracil,1
+DB09344,Invert sugar,DBMET01478,Glucose-6-phosphate,1
+DB09344,Invert sugar,DB04277,Fructose -6-Phosphate,1
+DB09348,beta-Propiolactone,DBMET02012,beta-propionic acid derivative,1
+DB09348,beta-Propiolactone,DBMET02013,hydracrylic acid derivatives,1
+DB09357,Dexpanthenol,DB01783,Pantothenic acid,1
+DB09419,Xylose,DB11195,Xylitol,1
+DB11195,Xylitol,DB03947,D-Xylulose,2
+DB03947,D-Xylulose,DBMET02033,D-Xylulose-5-phosphate,3
+DB09494,Cetyl alcohol,DB03796,Palmitic Acid,1
+DB09516,Mequinol,DBMET02068,"3,4-dihydroxyanisole",1
+DB09516,Mequinol,DBMET02069,3-hydroxy-4-methoxyanisole,1
+DB09516,Mequinol,DBMET02070,4-hydroxy-3-methoxyanisole,1
+DB09543,Methyl salicylate,DBMET01455,Salicylic acid,1
+DB09546,Iobenguane sulfate I-123,DBMET01492,m-Iodohippuric acid,1
+DBMET01492,m-Iodohippuric acid,DBMET01493,Radioiodide 123,2
+DB11090,Potassium nitrate,DBMET01480,Nitric Oxide,1
+DB11090,Potassium nitrate,DBMET00818,cyanmethemoglobin,1
+DB11091,Hydrogen peroxide,DB09140,Oxygen,1
+DB11091,Hydrogen peroxide,DB09145,Water,1
+DB11094,Vitamin D,DB00146,Calcidiol,1
+DB11094,Vitamin D,DBMET00596,25-Hydroxyvitamin D2-25-glucuronide,1
+DB00146,Calcidiol,DB00136,Calcitriol,2
+DBMET00596,25-Hydroxyvitamin D2-25-glucuronide,DBMET00608,25-Hydroxyvitamin D2 25-(beta-glucuronide),2
+DB11113,Castor oil,DB02955,Ricinoleic Acid,1
+DB11113,Castor oil,DBMET02109,Glycerol,1
+DB11118,Ammonia,DB03904,Urea,1
+DB11121,Chloroxylenol,DBMET00488,Glucuronic acid,1
+DB11121,Chloroxylenol,DB11309,Sulfuric acid,1
+DB11127,Selenious acid,DBMET01468,Selenodiglutathione,1
+DB11127,Selenious acid,DBMET01458,Hydrogen Selenide,1
+DBMET01468,Selenodiglutathione,DBMET01458,Hydrogen Selenide,2
+DBMET01458,Hydrogen Selenide,DBMET01461,Methyl-selenol,2
+DBMET01458,Hydrogen Selenide,DBMET01459,Selenocysteine,2
+DBMET01458,Hydrogen Selenide,DBMET01460,Selenophosphate,2
+DBMET01461,Methyl-selenol,DBMET01462,Dimethyl selenide,3
+DBMET01459,Selenocysteine,DBMET01461,Methyl-selenol,3
+DBMET01459,Selenocysteine,DBMET01466,Se-methylselenocysteine selenoxide,3
+DBMET01462,Dimethyl selenide,DBMET01463,Trimethylselenonium,4
+DBMET01466,Se-methylselenocysteine selenoxide,DBMET01467,Methyl selenic acid,4
+DB11130,Opium,DBMET01172,6-Monoacetylmorphine,1
+DBMET01172,6-Monoacetylmorphine,DBMET00313,morphine,2
+DBMET00313,morphine,DBMET00461,morphine-6-glucuronide,3
+DBMET00313,morphine,DBMET00462,morphine-3-glucuronide,3
+DBMET00461,morphine-6-glucuronide,DBMET02018,"morphine-3,6-diglucuronide",4
+DBMET00462,morphine-3-glucuronide,DBMET02018,"morphine-3,6-diglucuronide",4
+DB11143,Cresol,DBMET02031,p-cresol sulfate,1
+DB11143,Cresol,DBMET02032,p-cresol glucuronide,1
+DB11145,Oxyquinoline,DBMET02059,Glucuronide Conjugate (Oxyquinoline),1
+DB11145,Oxyquinoline,DBMET02060,Sulfate Conjugate (Oxyquinoline),1
+DB11195,Xylitol,DB03947,D-Xylulose,1
+DB03947,D-Xylulose,DBMET02033,D-Xylulose-5-phosphate,2
+DB11204,Panthenol,DB01783,Pantothenic acid,1
+DB11217,Arbutin,DB09526,Hydroquinone,1
+DB11217,Arbutin,DB01914,D-glucose,1
+DB09526,Hydroquinone,DBMET02100,hydroquinone glucuronide,2
+DB09526,Hydroquinone,DBMET02101,hydroquinone sulfate,2
+DB11219,Enzacamene,DBMET02091,3-(4-hydroxymethylbenzylidene)camphor,1
+DBMET02091,3-(4-hydroxymethylbenzylidene)camphor,DBMET02092,3-(4-carboxybenzylidene)camphor,2
+DBMET02092,3-(4-carboxybenzylidene)camphor,DBMET02093,3-(4-carboxybenzylidene)-6-hydroxycamphor,3
+DB11251,Tocopherol,DBMET02034,13'-hydroxychromanol,1
+DBMET02034,13'-hydroxychromanol,DBMET02035,13'-carboxychromanol,2
+DBMET02035,13'-carboxychromanol,DBMET02036,CDMDHC,3
+DBMET02036,CDMDHC,DBMET02037,CDMOHC,4
+DBMET02037,CDMOHC,DBMET02038,CDMHHC,5
+DBMET02038,CDMHHC,DBMET02039,CMBHC,6
+DBMET02039,CMBHC,DBMET02040,CEHC,7
+DB11282,Diethyltoluamide,DBMET01776,"N,N-diethyl-m-hydroxymethylbenzamide",1
+DB11282,Diethyltoluamide,DB11282,Diethyltoluamide,1
+DB11282,Diethyltoluamide,DBMET01777,N-ethyl-m-toluamide,1
+DB11282,Diethyltoluamide,DBMET00328,acetaldehyde,1
+DB11296,Prezatide,DBMET01483,Histidyl-lysine,1
+DB11345,(S)-camphor,DBMET02114,5-exo-hydroxyfenchone,1
+DB11358,Evening primrose oil,DB13854,Gamolenic acid,1
+DB13854,Gamolenic acid,DB00154,Dihomo-gamma-linolenic acid,2
+DB00154,Dihomo-gamma-linolenic acid,DBMET02086,Prostaglandin E1,3
+DB00154,Dihomo-gamma-linolenic acid,DBMET02087,15-HETrE,3
+DB00154,Dihomo-gamma-linolenic acid,DB04557,Arachidonic Acid,3
+DB11362,Selexipag,DBMET01403,ACT-333679,1
+DB11363,Alectinib,DBMET01404,M4,1
+DBMET01404,M4,DBMET01415,Metabolite 3,2
+DB11365,Sennosides,DBMET01449,Sennidin A,1
+DBMET01449,Sennidin A,DBMET01450,Rheinanthrone,2
+DBMET01450,Rheinanthrone,DBMET01451,Rhein,3
+DB11366,Roquinimex,DBMET01690,"4,8-dihydroxy-N,1-dimethyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB11366,Roquinimex,DBMET01691,"4,7-dihydroxy-N,1-dimethyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB11366,Roquinimex,DBMET01692,"4,6-dihydroxy-N,1-dimethyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB11366,Roquinimex,DBMET01693,"4-hydroxy-N-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB11366,Roquinimex,DBMET01694,"4-hydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide",1
+DB11366,Roquinimex,DBMET01695,"4-hydroxy-N-(4-hydroxyphenyl)-N,1-dimethyl-2-oxo-1,2-dihydroquinoline-3-carboxamide",1
+DB11421,Imidacloprid,DBMET01823,"1H-Imidazol-2-amine, 1-((6-chloro-3-pyridinyl)methyl)-4,5-dihydro-N-nitroso-",1
+DB11431,Moxidectin,DBMET02119,Monohydroxy metabolite of moxidectin at the C14,1
+DB11431,Moxidectin,DBMET02120,Monohydroxy metabolite of moxidectin at C29,1
+DB11482,Balsam of Peru,DB06770,Benzyl alcohol,1
+DB06770,Benzyl alcohol,DBMET01437,Benzoic acid,2
+DBMET01437,Benzoic acid,DBMET00507,Hippuric acid,3
+DB11558,Toluene,DB06770,Benzyl alcohol,1
+DB11558,Toluene,DBMET01770,o-Cresol,1
+DB11558,Toluene,DB01688,P-Cresol,1
+DB11581,Venetoclax,DBMET01433,M27 ,1
+DB11582,Thiocolchicoside,DBMET01418,3-demethylcolchicine (M2),1
+DBMET01418,3-demethylcolchicine (M2),DBMET01419,3-O-glucorono-demethylcolchicine,2
+DB11586,Asunaprevir,DBMET02048,Asunaprevir M8,1
+DB11586,Asunaprevir,DBMET02049,Asunaprevir M10,1
+DB11586,Asunaprevir,DBMET02050,BMS-798430,1
+DB11586,Asunaprevir,DBMET02052,Asunaprevir M2,1
+DBMET02050,BMS-798430,DBMET02051,BMS-558364,2
+DB11596,Levoleucovorin,DBMET00528,5-Methyltetrahydrofolate,1
+DB11635,Tocofersolan,DB00163,Vitamin E,1
+DB11637,Delamanid,DBMET01965,DM-6705,1
+DBMET01965,DM-6705,DBMET01966,"(4RS,5S)-DM-6720",2
+DBMET01965,DM-6705,DBMET01968,DM-6704,2
+DBMET01965,DM-6705,DBMET01972,DM-6706,2
+DBMET01966,"(4RS,5S)-DM-6720",DBMET01967,(S)-DM-6718,3
+DBMET01968,DM-6704,DBMET01969,"(4R,5S)-DM-6721",3
+DBMET01968,DM-6704,DBMET01970,"(4S,5S)-DM-6722",3
+DBMET01969,"(4R,5S)-DM-6721",DBMET01971,(S)-DM-6717,4
+DBMET01970,"(4S,5S)-DM-6722",DBMET01971,(S)-DM-6717,4
+DB11638,Artenimol,DBMET01913,α-artenimol-β-glucuronide,1
+DB11640,Amifampridine,DBMET02121,3-N-acetylamifampridine,1
+DB11641,Vinflunine,DBMET02055,4-O-deacetylvinflunine,1
+DB11644,Tafamidis,DBMET02054,Tafamidis Acylglucuronide metabolite,1
+DB11660,Latanoprostene Bunod,DB00654,Latanoprost,1
+DB11660,Latanoprostene Bunod,DBMET02011,Butanediol mononitrate,1
+DBMET02011,Butanediol mononitrate,DB01955,"1,4-Butanediol",2
+DBMET02011,Butanediol mononitrate,DBMET01480,Nitric Oxide,2
+DB00654,Latanoprost,DBMET02014,"1,2 dinor latanoprost acid",2
+DB00654,Latanoprost,DBMET02015,"1,2,3,4-tetranor latanoprost acid",2
+DB01955,"1,4-Butanediol",DB01440,Gamma Hydroxybutyric Acid,3
+DB01440,Gamma Hydroxybutyric Acid,DBMET01477,Succinic Acid,4
+DB11672,Curcumin,DBMET01640,O-demethyl curcumin,1
+DB11735,Galactose,DBMET02088,α-D-galactose,1
+DBMET02088,α-D-galactose,DBMET02089,galactose-1-phosphate,2
+DBMET02089,galactose-1-phosphate,DB03501,Galactose-uridine-5'-diphosphate,3
+DB03501,Galactose-uridine-5'-diphosphate,DB01861,Uridine diphosphate glucose,4
+DB11742,Ebastine,DBMET01651,Deslakylebastine,1
+DB11742,Ebastine,DBMET01652,4-(4-tert-butylphenyl)-4-oxobutanal,1
+DB11827,Ertugliflozin,DBMET01904,M1b ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01905,M1a ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01906,M2 ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01909,M3 ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01910,M4c ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01911,M4b ertugliflozin,1
+DB11827,Ertugliflozin,DBMET01912,M4a ertugliflozin,1
+DBMET01906,M2 ertugliflozin,DBMET01907,M5a ertugliflozin,2
+DBMET01906,M2 ertugliflozin,DBMET01908,M5b ertugliflozin,2
+DB11842,Angiotensin II,DB11720,Angiotensin 1-7,1
+DB11842,Angiotensin II,DBMET02044,Angiotensin III,1
+DB11901,Apalutamide,DBMET01923,N-desmethyl apalutamide,1
+DB11915,Valbenazine,DBMET01447,NBI-136110,1
+DB11915,Valbenazine,DBMET01448, [+]-α-HTBZ,1
+DBMET01448, [+]-α-HTBZ,DBMET00393,Unknown,2
+DB11994,Diacerein,DBMET01451,Rhein,1
+DB12010,Fostamatinib,DBMET02094,R406,1
+DBMET02094,R406,DBMET02095,R529,2
+DBMET02094,R406,DBMET02096,R406 N-glucuronide,2
+DBMET02095,R529,DBMET02097,R529 O-glucuronide,3
+DBMET02095,R529,DBMET02098,R529 Sulfate-conjugate,3
+DBMET02095,R529,DBMET02099,"3,5 benzene diol metabolite of R406",3
+DB12070,Letermovir,DBMET01857,M1 (Letermovir),1
+DB12072,Orantinib,DBMET01849,"3‐(5‐([(3Z)‐5‐hydroxy‐2‐oxo‐2,3‐dihydro‐1H‐indol‐3‐ylidene]methyl)‐2,4‐dimethyl‐1H‐pyrrol‐3‐yl)propanoic acid",1
+DB12072,Orantinib,DBMET01850,"3‐(5‐([(3Z)‐7‐hydroxy‐2‐oxo‐2,3‐dihydro‐1H‐indol‐3‐ylidene]methyl)‐2,4‐dimethyl‐1H‐pyrrol‐3‐yl)propanoic acid",1
+DB12072,Orantinib,DBMET01851,"3‐(5‐([(3Z)‐6‐hydroxy‐2‐oxo‐2,3‐dihydro‐1H‐indol‐3‐ylidene]methyl)‐2,4‐dimethyl‐1H‐pyrrol‐3‐yl)propanoic acid",1
+DB12110,m-Chlorophenylpiperazine,DBMET01575,2-chloro-4-(piperazin-1-yl)phenol,1
+DB12267,Brigatinib,DBMET01863,AP26123,1
+DB12364,Betrixaban,DBMET01533,O-desmethylbetrixaban,1
+DB12364,Betrixaban,DBMET01534,N-desmethylbetrixaban,1
+DB12364,Betrixaban,DBMET01535,PRT062802,1
+DB12364,Betrixaban,DBMET01536,PRT062803,1
+DBMET01536,PRT062803,DBMET01537,PRT062799,2
+DBMET01536,PRT062803,DBMET01538,PRT062982,2
+DBMET01538,PRT062982,DBMET01539,PRT063069,3
+DB12406,Lisofylline,DBMET01696,"lisofylline 4,5-diol",1
+DB12406,Lisofylline,DB00806,Pentoxifylline,1
+DB12532,Oxetacaine,DB01365,Mephentermine,1
+DB12532,Oxetacaine,DB00191,Phentermine,1
+DB12590,Indiplon,DBMET01680,N-Desmethylindiplon,1
+DB12783,Benserazide,DBMET02071,Trihydroxybenzylhydrazine,1
+DB12902,Trofosfamide,DBMET01682,L-ifosfamide,1
+DB12902,Trofosfamide,DB01181,Ifosfamide,1
+DB12902,Trofosfamide,DBMET01683,L-cyclophosphamide,1
+DB12911,Nicoboxil,DB00627,Niacin,1
+DB12911,Nicoboxil,DBMET02072,2-butoxyethanol,1
+DB13175,Rheinanthrone,DBMET01451,Rhein,1
+DB13175,Rheinanthrone,DBMET01449,Sennidin A,1
+DB13178,Inositol,DBMET00488,Glucuronic acid,1
+DB13185,Oxabolone cipionate,DBMET01495,Oxabolone,1
+DBMET01495,Oxabolone,DBMET01496,"4-Hydroxyestr-4-en-3,17-dione (M2)",2
+DBMET01495,Oxabolone,DBMET01497,"4-Hydroxyestran-3,17-dione (M1)",2
+DB13235,Perboric acid,DB09460,Sodium carbonate,1
+DB13235,Perboric acid,DB11091,Hydrogen peroxide,1
+DB13235,Perboric acid,DBMET02108,Carbonate,1
+DB13269,Dichlorobenzyl alcohol,DBMET00507,Hippuric acid,1
+DB13293,Ipecac,DBMET02103,Cephaeline,1
+DB13293,Ipecac,DBMET02104,9-O-demethylemetine,1
+DB13293,Ipecac,DBMET02104,9-O-demethylemetine,1
+DB13293,Ipecac,DBMET02105,10-O-demethylemetine,1
+DBMET02104,9-O-demethylemetine,DBMET02107,9-O-demethylemetine glucuronide,2
+DBMET02103,Cephaeline,DBMET02106,Cephaeline 6'-O-glucuronide,2
+DB13323,Trichloroethylene,DB01563,Chloral hydrate,1
+DB13345,Dihydroergocristine,DBMET02090,8'-hydroxy-dihydroergocristine,1
+DB13746,Bioallethrin,DBMET02076,M1 (Bioallethrin),1
+DBMET02076,M1 (Bioallethrin),DBMET02077,M2 (Bioallethrin),2
+DBMET02077,M2 (Bioallethrin),DBMET02078,M3 (Bioallethrin),3
+DBMET02078,M3 (Bioallethrin),DBMET02079,M4 (Bioallethrin),4
+DBMET02078,M3 (Bioallethrin),DBMET02080,M5 (Bioallethrin),4
+DBMET02078,M3 (Bioallethrin),DBMET02081,M6 (Bioallethrin),4
+DBMET02078,M3 (Bioallethrin),DBMET02082,M7 (Bioallethrin),4
+DBMET02078,M3 (Bioallethrin),DBMET02083,M8 (Bioallethrin),4
+DBMET02083,M8 (Bioallethrin),DBMET02084,M9 (Bioallethrin),5
+DB13747,Trolamine,DBMET02085,Glucuronide Conjugate (Trolamine),1
+DB13751,Glycyrrhizic acid,DBMET02110,glycyrrhetinic acid,1
+DB13751,Glycyrrhizic acid,DBMET00488,Glucuronic acid,1
+DB13783,Acemetacin,DB00328,Indomethacin,1
+DB13783,Acemetacin,DBMET01880,O-demethylated acemetacin,1
+DB13783,Acemetacin,DBMET01881,des-4-chlorobenzoyl-indomethacin,1
+DB13783,Acemetacin,DBMET01882,O-desmethyl-des-4-chlorobenzoyl,1
+DB13813,Iodoform,DB05382,Iodine,1
+DB13853,Anethole trithione,DBMET02057,4-Hydroxy-anethorithion (ATX),1
+DB13854,Gamolenic acid,DB00154,Dihomo-gamma-linolenic acid,1
+DB00154,Dihomo-gamma-linolenic acid,DBMET02086,Prostaglandin E1,2
+DB00154,Dihomo-gamma-linolenic acid,DBMET02087,15-HETrE,2
+DB00154,Dihomo-gamma-linolenic acid,DB04557,Arachidonic Acid,2
+DB04557,Arachidonic Acid,DB00917,Dinoprostone,3
+DB13872,Lormetazepam,DBMET01529,Lormetazepam glucuronide,1
+DB13875,Harmaline,DBMET01677,Harmalol,1
+DB13876,Brofaromine,DBMET01620,O-desmethyl-brofaromine,1
+DB13882,Methyl nicotinate,DBMET00536,Methanol,1
+DB13882,Methyl nicotinate,DB00627,Niacin,1
+DB13928,Semaglutide,DBMET01886,U7 semaglutide,1
+DB13928,Semaglutide,DBMET01885,P3 semaglutide,1
+DBMET01886,U7 semaglutide,DBMET01887,U6 semaglutide,2
+DB13931,Netarsudil,DBMET02043,Netarsudil-M1,1
+DB13941,Piperaquine,DBMET01943,M1 (piperaquine),1
+DB13941,Piperaquine,DBMET01944,Byproduct (piperaquine),1
+DB13941,Piperaquine,DBMET01945,M4 (piperaquine),1
+DB13941,Piperaquine,DBMET01946,M3 (piperaquine),1
+DB13941,Piperaquine,DBMET01947,M2 (piperaquine),1
+DBMET01947,M2 (piperaquine),DBMET01948,M5 (piperaquine),2
+DB13943,Testosterone cypionate,DB00624,Testosterone,1
+DB00624,Testosterone,DBMET00558,Dihydrotestosterone,2
+DBMET00558,Dihydrotestosterone,DBMET00593,3-alpha-Androstanediol glucuronide,3
+DB13944,Testosterone enanthate,DB00624,Testosterone,1
+DB00624,Testosterone,DBMET00558,Dihydrotestosterone,2
+DBMET00558,Dihydrotestosterone,DBMET00593,3-alpha-Androstanediol glucuronide,3
+DB13946,Testosterone undecanoate,DB00624,Testosterone,1
+DB00624,Testosterone,DBMET00558,Dihydrotestosterone,2
+DBMET00558,Dihydrotestosterone,DBMET00593,3-alpha-Androstanediol glucuronide,3
+DB13949,Ferric cation,DBMET02047,ferrous cation (Fe2+),1
+DB13952,Estradiol acetate,DB00783,Estradiol,1
+DB13953,Estradiol benzoate,DB00783,Estradiol,1
+DB13954,Estradiol cypionate,DB00783,Estradiol,1
+DB13955,Estradiol dienanthate,DB00783,Estradiol,1
+DB13956,Estradiol valerate,DB00783,Estradiol,1
+DB13960,Bronopol,DBMET00531,Formaldehyde,1
+DB13960,Bronopol,DBMET02073,Bromonitroethanol,1
+DBMET02073,Bromonitroethanol,DBMET00531,Formaldehyde,2
+DBMET02073,Bromonitroethanol,DBMET02074,Bromonitromethane,2
+DBMET02073,Bromonitroethanol,DB12529,Nitrite,2
+DBMET02073,Bromonitroethanol,DBMET02075,2-bromoethanol,2
+DB13966,Isopropyl myristate,DB02325,Isopropyl Alcohol,1
+DB13966,Isopropyl myristate,DB08231,Myristic acid,1
+DB14001,alpha-Tocopherol succinate,DBMET02034,13'-hydroxychromanol,1
+DBMET02034,13'-hydroxychromanol,DBMET02035,13'-carboxychromanol,2
+DBMET02035,13'-carboxychromanol,DBMET02036,CDMDHC,3
+DBMET02036,CDMDHC,DBMET02038,CDMHHC,4
+DBMET02038,CDMHHC,DBMET02039,CMBHC,5
+DBMET02039,CMBHC,DBMET02040,CEHC,6
+DB14002,D-alpha-Tocopherol acetate,DBMET02034,13'-hydroxychromanol,1
+DBMET02034,13'-hydroxychromanol,DBMET02035,13'-carboxychromanol,2
+DBMET02035,13'-carboxychromanol,DBMET02036,CDMDHC,3
+DBMET02036,CDMDHC,DBMET02037,CDMOHC,4
+DBMET02037,CDMOHC,DBMET02038,CDMHHC,5
+DBMET02038,CDMHHC,DBMET02039,CMBHC,6
+DBMET02039,CMBHC,DBMET02040,CEHC,7
+DB14003,alpha-Tocopherol acetate,DBMET02034,13'-hydroxychromanol,1
+DBMET02034,13'-hydroxychromanol,DBMET02035,13'-carboxychromanol,2
+DBMET02035,13'-carboxychromanol,DBMET02036,CDMDHC,3
+DBMET02036,CDMDHC,DBMET02037,CDMOHC,4
+DBMET02037,CDMOHC,DBMET02038,CDMHHC,5
+DBMET02038,CDMHHC,DBMET02039,CMBHC,6
+DBMET02039,CMBHC,DBMET02040,CEHC,7
+DB14009,Medical Cannabis,DBMET02063,11-hydroxy-THC,1
+DBMET02063,11-hydroxy-THC,DBMET02064,11-Nor-9-carboxy-THC (THC-COOH),2
+DB14186,Cinnamyl alcohol,DBMET01630,Cinnamaldehyde,1
+DB14187,Hydroxycitronellal,DBMET02122,7-hydroxycitronellol,1
+DB14187,Hydroxycitronellal,DBMET02123,7-hydroxycitronellylic acid,1

@@ -1,0 +1,4092 @@
+coder,drugbank-id,language,synonym
+,BIOD00024,,Lepirudin recombinant
+,BIOD00071,,"Immunoglobulin G 1 (human-mouse monoclonal C 225 gamma 1 - chain anti-human epidermal growt factor receptor), disulfide wit human-mouse monoclonal C 225 kappa - chain, dimer"
+,BIOD00001,,Recombinant deoxyribonuclease (DNAse)
+,BIOD00084,,NAD(+--diphthamide ADP- ribosyltransferase)
+,BIOD00052,,TNFR-Immunoadhesin
+,DB02351,,Hirulog
+,BIOD00009,,PGlu-his-trp-ser-tyr-D-leu-leu-arg-pro-nhet
+,BIOD00043,,Pegylated interferon alpha2a
+,BIOD00050,,tPA
+,DB00084,,LeIF A
+,BIOD00032,,"Darbepoetin alfa,recombinant"
+,BIOD00030,,Urokinase-type plasminogen activator precursor
+,BIOD00013,,"Reteplase,recombinant"
+,DB08923,,SH-polypeptide-72
+,BIOD00025,,Salmon calcitonin
+,BIOD00094,,pegfilgrastim-jmdb
+,BIOD00035,,GM-CSF
+,BIOD00011,,L-asparagine amidohydrolase
+,BIOD00020,,TSH
+,DBSALT002413,,Recombinant antihemophilic factor VIII
+,BIOD00060,,IRAP
+,BIOD00036,,Gramicidine
+,BIOD00091,,IVIg
+,BIOD00102,,APSAC
+,DB08914,,"Regular Insulin, human"
+,BIOD00019,,TNK-tPA
+,BIOD00018,,Menotropins (FSH;LH)
+,BIOD00017,,Interferon gamma-2a
+,DB00037,,SH-polypeptide-46
+,BIOD00061,,Desmopressinum
+,BIOD00006,,rFVIIa
+,BIOD00021,,Interleukin-11 precursor
+,BIOD00042,,24-163 fibroblast growth factor 7 (human)
+,BIOD00057,,Glucagonum
+,BIOD00082,,Recombinant interleukin-2 human
+,BIOD00070,,RimabotulinumtoxinB
+,BIOD00056,,Lutropin beta chain precursor
+,BIOD00054,,OspA lipoprotein
+,DB01310,,"Insulin,lispro,protamine/rDNA"
+,DB01308,,Insulin glargine recombinant
+,DB11249,,Collagenase
+,BIOD00090,,Uricase
+,BIOD00115,,Cetrorelixum
+,BIOD00049,,adalimumab-atto
+,DB06417,,Somatropin(recombinant DNA origin)
+,BIOD00041,,c7E3
+,BIOD00068,,Recombinant human activated protein C (rH-APC)
+,BIOD00108,,Indium-111 satumomab pendetide
+,BIOD00002,,API
+,BIOD00079,,Peg/L-asparaginase
+,BIOD00093,,Interferon-beta-1a
+,BIOD00100,,Adenosine deaminase
+,DB00064,,Serum albumin
+,BIOD00063,,Intrifiban
+,BIOD00004,,Infliximab-qbtx
+,DB09024,,rFSH-alpha
+,DB09392,,"Vasopressin, unspecified"
+,BIOD00078,,Recombinant interferon beta-1b
+,BIOD00062,,Recombinant methionyl human consensus interferon
+,BIOD00022,,Sperm surface protein PH-20
+,BIOD00031,,Porcine insulin
+,BIOD00098,,trastuzumab-dkst
+,BIOD00014,,AntiCD20
+,BIOD00073,,chimeric mouse-human antiCD25
+,BIOD00005,,Muromonab-CD3
+,BIOD00027,,Ovine digoxin immune fab
+,BIOD00069,,mAb Murine (IGG1) Anti P19437 (CD20_MOUSE)
+,BIOD00092,,OnabotulinumtoxinA
+,DB05356,,Pancrelipase (amylase;lipase;protease)
+,BIOD00028,,Streptokinase C precursor
+,BIOD00080,,Indium In 111 capromab pendetide
+,BIOD00008,,Alpha-L-iduronidase precursor
+,BIOD00003,,Cyclosporin A
+,BIOD00055,,ASP0485
+,BIOD00114,,PLV-2
+,BIOD00104,,Urofollitrophin
+,BIOD00074,,hu1124
+,BIOD00034,,Chorionic gonadotropin (recombinant)
+,BIOD00040,,Thymoglobuline
+,DB09560,,Tbo-filgrastim
+,BIOD00038,,Recombinant factor IX
+,BIOD00053,,SH-POLYPEPTIDE-59
+,BIOD00075,,Melibiase
+,BIOD00088,,Octrotide
+,DB05600,,rIFN-alpha-2b
+,BIOD00083,,Anti-VLA4
+,BIOD00097,,anti-RSV
+,BIOD00007,,Daclizumab beta
+,BIOD00087,,bevacizumab-awwb
+,BIOD00107,,Technetium-99m arcitumomab
+,NUTR00045,,Pyridoxal-P
+,EXPT00965,,Vitamin B12 NOS
+,NUTR00056,,Tetrahydrofolate
+,NUTR00030,,L-Histidine
+,NUTR00052,,SAMe
+,DB11194,,α-Oxopropionsäure
+,NUTR00044,,β-phenyl-L-alanine
+,NUTR00019,,Vitamin H
+,NUTR00020,,Vitamin J
+,DB11101,,Lysinum
+,NUTR00014,,R
+,DB11317,,L-Ascorbic Acid
+,DB02564,,Spermine
+,EXPT01823,,L-Aspartic acid
+,NUTR00043,,levo-ornithine
+,NUTR00026,,Q
+,EXPT00512,,Phosphate d'adenosine
+,NUTR00034,,α-linolenic acid
+,DB03375,,Serinum
+,NUTR00038,,Met
+,NUTR00059,,Y
+,DB05314,,Calcitriolum
+,DB11138,,Xantofyl
+,NUTR00023,,"β,β'-dithiodialanine"
+,NUTR00054,,Succinic acid
+,DB09358,,Vitamin G
+,NUTR00040,,N-Acetylchitosamine
+,NUTR00027,,L-Glutaminic acid
+,EXPT01650,,Reduced glutathione
+,NUTR00048,,Ptd-L-Ser
+,NUTR00028,,Leimzucker
+,APRD00428,,Calcifediolum
+,NUTR00049,,Pyridoxaldehyde
+,NUTR00022,,N-methyl-N-guanylglycine
+,NUTR00033,,Leucine
+,EXPT02064,,W
+,DB09485,,L-Zystein
+,EXPT03222,,Vitamin B1
+,APRD00426,,Vitamina D2
+,NUTR00032,,Homo-γ-linolensäure
+,NUTR00021,,δ-ureidonorvaline
+,NUTR00057,,Threonine
+,DB03527,,Reduced nicotinamide-adenine dinucleotide
+,NUTR00025,,Vitamin M
+,NUTR00024,,Timnodonic acid
+,NUTR00013,,L-α-alanine
+,NUTR00060,,Valine
+,APRD00486,,Vitamin A1
+,EXPT03227,,d-α-tocopherol
+,APRD00204,,Vitamin B6
+,NUTR00035,,α-lipoic acid
+,NUTR00031,,α-amino-β-methylvaleric acid
+,NUTR00046,,L-Aspartyl-L-phenylalanine methyl ester
+,APRD00506,,Vitamin D3
+,NUTR00062,,Vitamin K3
+,EXPT00007,,ATP
+,NUTR00047,,Prolinum
+,EXPT00520,,Vitamin B4
+,NUTR00015,,α-aminosuccinamic acid
+,APRD00328,,Pravastatinum
+,APRD00425,,Fluvoxaminum
+,APRD00133,,N-pentanoyl-N-{[2'-(1H-tetrazol-5-yl)biphenyl-4-yl]methyl}-L-valine
+,APRD00009,,Tritace
+,DB05900,,Nordihydroguaiaretic acid
+,APRD00976,,Flunisolidum
+,APRD00551,,gamma-Amino-beta-(P-chlorophenyl)butyric acid
+,APRD00480,,β-phenylisopropylamine
+,DB11303,,Nicotine polacrilex
+,APRD00224,,Sni 2011
+,APRD00116,,o-Chloroxazepam
+,APRD00954,,methyl p-(2-hydroxy-3-(isopropylamino)propoxy)hydrocinnamate
+,DB07475,,N-[(1R)-1-(DIHYDROXYBORYL)-3-METHYLBUTYL]-N-(PYRAZIN-2-YLCARBONYL)-L-PHENYLALANINAMIDE
+,APRD00958,,β-chlorovinyl ethyl ethynyl carbinol
+,APRD00160,,L-α-methyldopahydrazine
+,APRD00093,,Phenterminum
+,APRD01032,,Indecainidum
+,APRD00028,,(+)-trans-2-(Dimethylaminomethyl)-1-(m-methoxyphenyl)cyclohexanol
+,EXPT02753,,Vidarabine
+,APRD00245,,Betaxololum
+,APRD00327,,Triflucan
+,APRD01148,,Oseltamivirum
+,APRD00953,,Erythromycinum
+,APRD01022,,Vitamin B-12b
+,APRD00673,,Theine
+,APRD00159,,Suxamethonium
+,APRD00556,,"1-((3-(4,7-Dihydro-1-methyl-7-oxo-3-propyl-1H-pyrazolo(4,3-d)pyrimidin-5-yl)-4-ethoxyphenyl)sulfonyl)-4-methylpiperazine"
+,APRD00367,,Dofetilidum
+,APRD00599,,Pyrimethaminum
+,APRD00472,,Serpalan
+,APRD00397,,Azitromicina
+,APRD01257,,Ticlopidinum
+,APRD00780,,Differine
+,APRD01116,,Midodrinum
+,APRD00073,,Pantoprazolum
+,APRD00217,,Torsemide
+,APRD00147,,Nitalapram 
+,APRD00945,,Eletriptanum
+,APRD00825,,"N,N'-dimethyl-N''-(phenylmethyl)-guanidine"
+,APRD00281,,"1-Cyclopropyl-6-fluoro-1,4-dihydro-8-methoxy-7-((4as,7as)-octahydro-6H-pyrrolo(3,4-b)pyridin-6-yl)-4-oxo-3-quinolinecarboxylic acid"
+,APRD00189,,Oxyphenonium ion
+,APRD00750,,Isoetharine
+,APRD00381,,Glimepiridum
+,APRD00921,,Diflorasonum
+,APRD00069,,Indinavir anhydrous
+,APRD00990,,Gadodiamide anhydrous
+,APRD01006,,Guanadrelum
+,APRD00370,,Mevinolin
+,APRD00234,,Methylflurether
+,APRD00855,,CTM
+,APRD01198,,S-(+)-3-isobutylgaba
+,DB09367,,PAS
+,APRD00010,,Milrinonum
+,APRD00693,,Vercyte
+,APRD00752,,Secbutabarbital
+,DB08311,,NVP
+,APRD01154,,Oxiconazolum
+,APRD00783,,7α-Chloro-16α-methylprednisolone
+,APRD00266,,Tetrallobarbital
+,APRD00260,,CldAdo
+,DB06396,,p-Aminosalicylsaeure
+,APRD00748,,Tropine Benzohydryl Ether
+,APRD00540,,Ziprasidonum
+,APRD00463,,N-(1-(Hydroxymethyl)propyl)-1-methyl-dextro-(+)-lysergamide
+,APRD00836,,Cabergolinum
+,DB03778,,Joddeoxiuridin
+,APRD00345,,"P,P'-diaminodiphenyl sulfone"
+,APRD00241,,Phenytoinum
+,APRD01091,,"11beta-Hydroxy-6alpha-methylpregn-4-ene-3,20-dione"
+,APRD00597,,Doxycyclinum
+,EXPT01164,,"α,α'-diethyl-(E)-4,4'-stilbenediol"
+,EXPT01049,,Tetracycline-L-methylenelysine
+,APRD00244,,Mycelex (tn)
+,APRD00839,,Lime pyrolignite
+,APRD00438,,Sulphanilamide
+,DB03123,,α-Cycloserine
+,APRD00798,,Anagrelidum
+,APRD00006,,"N,N'-Bis(2-chloroethyl)-N-nitrosourea"
+,APRD00595,,Sulphofurazole
+,APRD00208,,DL-metoprolol
+,APRD00761,,Dicumarol
+,APRD00851,,Cefmenoximum
+,APRD00302,,Ropinirolum
+,APRD00715,,Clorotrianiseno
+,APRD00298,,Isradipinum
+,APRD00913,,Urogranoic acid
+,APRD00714,,Betazolum
+,APRD00237,,TPM
+,APRD00852,,Cefmetazolum
+,APRD00223,,"4-(hydroxy-1-methylethyl)-2-propyl-1-{[2'-(1H-tetrazol-5-yl)-1,1'-biphenyl-4-yl]methyl}-1H-imidazole-5-carboxylic acid"
+,APRD00064,,mAMSA
+,DB09359,,"Theophylline, anhydrous"
+,APRD00105,,Argatroban anhydrous
+,APRD01074,,Triiodothyronine
+,APRD00507,,Disopyramidum
+,DB05291,,"α-diethylamino-2,6-dimethylacetanilide"
+,APRD01161,,Ribodroat
+,APRD00875,,Meclastin
+,APRD00656,,Acarbosum
+,APRD00125,,Venlafaxinum
+,APRD00396,,"Estrogens,conjugated"
+,APRD01271,,Travoprostum
+,APRD00788,,Triamcinolonacetatcyclopentanonid
+,APRD00614,,Tomoxetinum
+,EXPT00718,,BLM
+,APRD00115,,γ-[p-di(2-chloroethyl)aminophenyl]butyric acid
+,APRD00965,,R-(+)-Ethyl 1-(1-phenylethyl)-1H-imidazole-5-carboxylate
+,EXPT01092,,Raltitrexed
+,APRD00766,,Etonogestrelum
+,DB05354,,Morphium
+,APRD00492,,Ropivacainum
+,APRD00247,,racemic bupivacaine
+,APRD00902,,Dapiprazolum
+,DB01730,,Penciclovirum
+,DB13426,,Tenofovir bis(isopropyloxycarbonyloxymethyl) ester
+,APRD00609,,Flucloxacillinum
+,EXPT00508,,trans-Tranexamic acid
+,APRD00952,,ERTAPENEM
+,APRD00762,,Desogestrelum
+,APRD00284,,MMC
+,APRD01333,,Talbutalum
+,APRD00114,,Targrexin
+,APRD01025,,N-(4-{4-[ethyl(heptyl)amino]-1-hydroxybutyl}phenyl)methanesulfonamide
+,APRD00392,,Desacetylvinblastine amide
+,APRD00127,,Phthalamudine
+,DB07727,,Ethoxyzolamide
+,APRD01174,,Pentobarbitone
+,APRD00066,,VPA
+,APRD00376,,Zolmitriptanum
+,APRD00252,,Paracetamolum
+,DB07998,,ZD 1839
+,DB09471,,O(3)-methylmorphine
+,APRD00325,,Piperacillinum
+,DB05743,,Diidroergotamina
+,APRD00227,,Amitriptylinum
+,APRD00692,,Fluoruridine Deoxyribose
+,APRD00445,,Tolcaponum
+,APRD00980,,Oxylone
+,APRD01143,,Nitroferricyanide
+,APRD00841,,Trimethylene chlorobromide
+,APRD01021,,Idromorfone
+,APRD00109,,Indomethacin
+,APRD00957,,"S,S-Ethambutol"
+,APRD01099,,Metforminum
+,APRD00537,,Ipratropium ion
+,APRD00485,,Methadonum
+,APRD00138,,Olanzapinum
+,APRD00172,,Atenololum
+,APRD00050,,Nitrofural
+,APRD01182,,Pimecrolimusum
+,APRD00446,,Omeprazolum
+,APRD01206,,Pyrizinamide
+,APRD01101,,Metixenum
+,APRD00630,,Cetirizinum
+,APRD00606,,Terfenadinum
+,APRD00473,,Diltiazemum
+,APRD00441,,Protriptylinum
+,APRD00792,,paraaminohippuric acid
+,APRD00490,,"N-[3-[(4-amino-6,7-dimethoxy-quinazolin-2-yl)- methyl-amino]propyl] tetrahydrofuran- 2-carboxamide"
+,APRD00315,,Troxidone
+,APRD01141,,Nitisinonum
+,APRD00307,,Clobazamum
+,DB08225,,Tricoxidil
+,APRD01092,,MGA
+,APRD00290,,Tioguaninum
+,APRD00739,,Metilergometrina
+,APRD00723,,Buclizinum
+,EXPT00605,,Primbactam
+,APRD00308,,Clorzoxazone
+,APRD00592,,α-(p-Aminophenyl)-α-ethylglutarimide
+,APRD00300,,Mefloquinum
+,APRD00190,,Sulphadiazine
+,DB02692,,Tetrahydrobiopterin
+,APRD00101,,Vinorelbinum
+,APRD01301,,V-Echinocandin
+,APRD00470,,Clozapinum
+,APRD01238,,Sucralfatum
+,APRD00937,,"Phenyl-2-pyridylmethyl-beta-N,N-dimethylaminoethyl ether"
+,APRD00106,,Postinor
+,APRD01299,,Norepinephrinum
+,APRD00148,,Cidofovirum
+,APRD00685,,Mirtazapinum
+,APRD01095,,Meprobamic acid
+,APRD00323,,Tietilperazina
+,DB08625,,Timololum
+,APRD01272,,Uniprost
+,APRD00884,,Epichlorohydrin-tetraethylenepentamine polymer
+,APRD00070,,Trihexyphenidylum
+,APRD00351,,Palonosetronum
+,APRD00941,,Retro-6-dehydroprogesterone
+,APRD00242,,Mexiletinum
+,DB02444,,Dextrorazoxane
+,APRD00520,,Amlodipinum
+,APRD00690,,THA
+,APRD00399,,Oxyphencycliminum
+,APRD00079,,Triamterenum
+,APRD00662,,Valrubicinum
+,APRD00383,,Tricyclamol
+,APRD00365,,R(-)-Phenylephrine
+,APRD00503,,Ethyl 3-methyl-2-thioimidazoline-1-carboxylate
+,APRD00098,,Lanadicor
+,APRD00032,,Sulpyrid
+,APRD00729,,Profenaminum
+,APRD00612,,Nimodipinum
+,DB11897,,Beclometasone dipropionate
+,APRD00417,,Someprobamate
+,APRD00700,,Progesteronum
+,DB09441,,β-hydroxyamphetamine
+,DB07438,,Sorafenibum
+,DB06286,,"Zoledronic Acid, Anhydrous"
+,APRD01004,,Sporostatin
+,APRD00635,,Nisoldipinum
+,APRD00431,,Eszopiclone
+,APRD00861,,Ceruletidum
+,DB05925,,Alprazolam
+,APRD00770,,Parabromodylamine
+,APRD00998,,Methylrosanilinium
+,APRD00574,,oxilapine
+,APRD00316,,Remoxipridum
+,APRD00162,,Pseudomonic acid a
+,DB02487,,Karbamoylcholin chlorid
+,APRD00403,,Rosiglitazonum
+,APRD00156,,Pramipexolum
+,APRD00773,,N-(p-Acetylphenylsulfonyl)-N'-cyclohexylurea
+,APRD00320,,D-(−)-ampicillin
+,APRD01318,,Trimethyltubocurarine Iodide
+,DB08415,,PV
+,APRD00497,,Seconal
+,APRD01118,,SC-48334
+,APRD00358,,Promazinum
+,APRD01234,,Spironolattone
+,APRD00657,,α-phenyl-2-piperidineacetic acid methyl ester
+,APRD01102,,Metocarbamolo
+,APRD00607,,Tropine-L-tropate
+,APRD00095,,Zolpidemum
+,APRD00600,,FCV
+,APRD00306,,Triprolidinum
+,APRD00209,,Streptozotocin
+,APRD00847,,Methyldinoprost
+,APRD00856,,Cefpiramidum
+,APRD01072,,γ-lindane
+,APRD01275,,Trifluridinum
+,APRD00624,,Proclorperazina
+,APRD00033,,Glutodina
+,APRD01142,,Stickstoffmonoxid
+,APRD00666,,Benzhydroflumethiazide
+,DB03027,,Alopurinol
+,APRD00857,,Ceftazidimum
+,APRD00103,,Trimetoprima
+,APRD00201,,Gemcitabinum
+,APRD00948,,Entecavirum
+,APRD00513,,Rinderon
+,APRD00649,,Teniposidum
+,APRD00361,,Pidorubicinum
+,EXPT00942,,Sificetina
+,APRD01077,,Loracarbefum
+,APRD00077,,Opiren
+,APRD00930,,Pro-Epinephrine
+,APRD00939,,Droperidolum
+,EXPT02993,,T4
+,APRD00618,,Neomycin B
+,APRD00343,,Clomocyclinum
+,APRD00074,,Petydyna
+,APRD00384,,Loratadinum
+,EXPT00946,,CET
+,APRD00020,,Prazosinum
+,DB08002,,N-(γ-dimethylaminopropyl)iminodibenzyl
+,APRD00778,,Neotigason
+,APRD01290,,Verteporfinum
+,APRD01128,,Nabumetonum
+,APRD00314,,Scopolamine methyl bromide
+,APRD00757,,Metharbitalum
+,APRD00575,,Tetradecyl sulfate de sodium
+,APRD01060,,rac-Ketorolac
+,APRD00269,,cocculin
+,APRD00947,,Enoxacinum
+,APRD00563,,Quinine
+,APRD00011,,Tenoxicamum
+,APRD00571,,Δ9-tetrahydrocannabinol
+,APRD00434,,Montelukastum
+,APRD00530,,Fluoxetinum
+,APRD01014,,Hexylcainum
+,APRD00058,,Metohexital
+,APRD00682,,Methaminodiazepoxide
+,APRD00060,,(S)-duloxetine
+,APRD00482,,N-(3-dimethylaminopropyl)-3-chlorophenothiazine
+,APRD01219,,Rimantadine
+,APRD00550,,O-3-amino-3-Deoxy-alpha-D-glucopyranosyl-(1->4)-O-(6-amino-6-deoxy-alpha-D-glucopyranosyl-(1->6))-N(3)-(4-amino-L-2-hydroxybutyryl)-2-deoxy-L-streptamine
+,APRD01303,,IMiD3
+,APRD00400,,Raloxifenum
+,APRD00373,,P-(5-P-Tolyl-3-(trifluoromethyl)pyrazol-1-yl)benzenesulfonamide
+,APRD00712,,Trietioduro de galamina
+,APRD00034,,Bromoxidine
+,APRD00916,,Dicloxacillinum
+,APRD01127,,Nabilonum
+,APRD00108,,PFLX
+,APRD00652,,HMM
+,APRD01230,,Sotalolum
+,APRD00222,,Buspironum
+,APRD01117,,Miglitolum
+,APRD00854,,Cephotaxime
+,APRD00416,,"N,N-Diethyl-2-cyano-3-(3,4-dihydroxy-5-nitrophenyl) acrylamide"
+,APRD00449,,Zidovudinum
+,APRD00903,,Darifenacinum
+,APRD00387,,Oxycodonum
+,APRD00166,,PID
+,APRD00984,,Niftolide
+,APRD01268,,Tolmetinum
+,APRD00568,,Ulcerfen
+,APRD00538,,γ-(4-(p-chlorophenyl)-4-hydroxpiperidino)-p-fluorbutyrophenone
+,APRD00312,,Ritonavirum
+,APRD00733,,Naloxiphan
+,APRD00558,,Nitazoxanidum
+,APRD00465,,Triflupromazinum
+,APRD00911,,"O-(4-Hydroxy-3,5-diiodophenyl)-3,5-diiodo-D-tyrosine"
+,APRD01334,,Digitoxin 3'''-acetate
+,EXPT03217,,Vancomycinum
+,DB04134,,omega-Aminohexanoic acid
+,APRD00655,,DM
+,APRD00359,,cis-diamminedichloroplatinum(II)
+,APRD00800,,Octatropini methylbromidum
+,APRD00782,,Proftril
+,APRD01269,,Trandolaprilum
+,APRD00199,,"1-[(4R,5S)-5-[(2-Aminoethyl)amino]-N(2)-(10,12-dimethyl-1-oxotetradecyl)-4-hydroxy-L-ornithine]-5-[(3R)-3-hydroxy-L-ornithine]-pneumocandin b0"
+,APRD00195,,Carteololum
+,APRD00818,,PFT
+,APRD00017,,Alitretinoinum
+,APRD01109,,Metolazonum
+,APRD01607,,Tolnaphthate
+,APRD00186,,oxaliplatinum
+,APRD00915,,N-(2-(Diethylamino)ethyl)-2-butoxycinchoninamide
+,APRD00193,,Lercanil
+,APRD00669,,Phosphonomethanoic acid
+,APRD00951,,"[6,7-Bis-(2-methoxy-ethoxy)-quinazolin-4-yl]-(3-ethynyl-phenyl)-amine"
+,APRD00408,,"N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide"
+,APRD00864,,Chlormerodrinum
+,APRD00644,,CFDN
+,EXPT01546,,Iminourea
+,EXPT00999,,Ciprofloxacinum
+,APRD00993,,Gadoversetamidum
+,APRD00391,,Toremifenum
+,APRD00602,,Sensaval
+,APRD00495,,Vincristinum
+,APRD00063,,Benazeprilum
+,APRD00142,,Desmethylloxapin
+,EXPT03204,,FU
+,APRD00380,,Pyridostigmini Bromidum
+,APRD00724,,Adinazolamum
+,APRD00910,,Desoxymethasone
+,EXPT00598,,Skinoren
+,APRD00377,,"ICI-204,219"
+,APRD00297,,Propylthiouracilum
+,EXPT01688,,N-Hydroxyacetamide
+,APRD00202,,Pentostatinum
+,APRD00157,,Zanthotoxin
+,APRD01187,,Pyroxycam
+,APRD00570,,Lamotriginum
+,APRD01177,,Perflutren
+,APRD00688,,Hydroxyzinum
+,APRD00378,,ZMR
+,APRD00829,,p-tert-Butyl-N-(6-(2-hydroxyethoxy)-5-(o-methoxyphenoxy)-2-(2-pyrimidinyl)-4-pyrimidinyl)benzenesulfonamide
+,APRD01307,,Tigecyclinum
+,APRD00935,,Doxapramum
+,APRD00728,,Benztiazide
+,APRD00353,,"N-[4-[[(2,4-diamino-6-pteridinyl)methyl]methylamino]benzoyl]-L-glutamic acid"
+,APRD00337,,CBZ
+,APRD00874,,Cisatracurium cation
+,APRD01236,,meso-dimercaptosuccinic acid
+,APRD00250,,Cephalexin anhydrous
+,APRD00332,,Cinnarizinum
+,DB11728,,Natural heparin pentasaccharide
+,APRD00708,,Vincaleukoblastine
+,APRD00194,,β-Propranolol
+,EXPT02427,,Tropine tropate
+,APRD00970,,Fenoprofenum
+,APRD00319,,Fenfluraminum
+,DB07566,,Clonidinum
+,APRD00684,,Sulfametizol
+,APRD00697,,Valacyclovir
+,APRD00846,,"N-(2-Carboxy-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo(3.2.0)hept-6-yl)-2-phenylmalonamic acid"
+,APRD01085,,Mazindolum
+,APRD01063,,Lactulosum
+,APRD00543,,Voriconazolum
+,APRD01070,,Vitamin BT
+,APRD00510,,Enalaprilum
+,APRD00706,,Nizatidinum
+,APRD00527,,Diclofenacum
+,APRD00637,,Cinalukast
+,APRD00636,,"N'-((8alpha)-9,10-didehydro-6-methylergolin-8-yl)-N,N-diethylurea"
+,APRD00474,,Doxazosinum
+,APRD00977,,fluocinoloni acetonidum
+,DB11514,,Piperazin
+,APRD00318,,γ-ethyl-γ-methyl-succinimide
+,EXPT00514,,"N-amidino-3,5-diamino-6-chloropyrazinecarboxamide"
+,APRD00019,,Oxytetracyclinum
+,APRD01010,,Ulobetasolum
+,APRD00992,,Gd-hpdo3a
+,APRD01062,,Labetolol
+,APRD00660,,Trapanal
+,APRD01121,,p-Hydroxyphenyl benzyl ether
+,DB08769,,N-(((S)-3-(3-Fluoro-4-morpholinophenyl)-2-oxo-5-oxazolidinyl)methyl)acetamide
+,APRD01058,,Ivermectinum
+,APRD00627,,MPA
+,APRD00454,,Cisapridum
+,APRD01243,,Sulindacum
+,EXPT01082,,Cyclothiazidum
+,DB08269,,Naphcillin
+,APRD00468,,"N4-(7-chloro-4-quinolinyl)-N1,N1-diethyl-1,4-pentanediamine"
+,APRD00961,,ETP
+,APRD00555,,Metaraminolum
+,APRD00835,,Butorphanolum
+,APRD00257,,Bisoprololum
+,APRD00796,,Amodiaquinum
+,APRD00988,,Nitrofurazolidonum
+,APRD00094,,Rifabutinum
+,APRD00027,,4-({1-[(S)-2-(indan-5-yloxycarbonyl)-3-(2-methoxy-ethoxy)-propyl]-cyclopentanecarbonyl}-amino)-cyclohexanecarboxylic acid
+,APRD00236,,Paramethadionum
+,APRD00272,,DMCTC
+,DB03261,,STI 571
+,APRD00422,,Triamcinolonum
+,APRD01151,,Protivar
+,APRD00088,,Nicardipinum
+,APRD00633,,Triflumethazine
+,DB05275,,Virosterone
+,DB07709,,Efavirenzum
+,APRD00816,,"Bacitracin F, 1-(N-((2-(1-amino-2-methylbutyl)-4,5-dihydro-4-thiazolyl)carbonyl)-L-leucine)-"
+,APRD00536,,β-pyridinecarboxylic acid
+,APRD00881,,Clorazepic acid
+,APRD00487,,Guanabenzum
+,APRD00561,,Alendronate
+,DB06189,,Clofarex
+,APRD00933,,N-Docosanol
+,APRD00578,,Dexmedetomidinum
+,APRD00452,,Sulphacetamidum
+,APRD00340,,Prednisonum
+,APRD00879,,Liprin
+,APRD00585,,Astemizolum
+,APRD00834,,Polyfructosanum
+,DB06639,,beta-D-Adenosine
+,APRD00104,,Synvinolin
+,APRD01086,,Mebendazolum
+,APRD01001,,Gonadotropin-releasing hormone
+,APRD00940,,Dycloninum
+,APRD01146,,Nystatinum
+,APRD00548,,Propoxyphene
+,APRD00494,,"Piprine-DDD, O-"
+,APRD00440,,STV
+,APRD00698,,N5-Formyltetrahydrofolic acid
+,APRD00769,,Dyphylline
+,APRD01173,,Pentazocinum
+,APRD01080,,MgSO4
+,APRD01065,,"Propan-2-yl (5Z)-7-{(1R,2R,3R,5S)-3,5-dihydroxy-2-[(3R)-3-hydroxy-5-phenylpentyl]cyclopentyl}hept-5-enoate"
+,APRD00588,,Oestrone
+,APRD00533,,Trazodonum
+,APRD00458,,Versamine
+,APRD01226,,Sevelamerum
+,APRD00661,,N-Acetylhomotaurine
+,APRD00514,,Metaxalonum
+,APRD00335,,Verapamilum
+,APRD01277,,Trimetobenzamida
+,APRD00975,,Flumetasonum
+,APRD00517,,Sulfalenum
+,APRD00150,,Nilutamidum
+,APRD01129,,Nafarelinum
+,EXPT00496,,levoepinephrine
+,APRD00379,,triptan
+,APRD00515,,Pirenzepinum
+,APRD00583,,Cefiximum
+,APRD00029,,N-Propyl-n'-P-chlorophenylsulfonylcarbamide
+,APRD00100,,Aprepitantum
+,EXPT01628,,Galanthamine
+,APRD00123,,trans-Tamoxifen
+,DB02775,,Phenylmethyl benzoate
+,APRD00763,,"O,O'-diisopropyl phosphoryl fluoride"
+,APRD00052,,Losartan
+,APRD00596,,Tioridazina
+,APRD01124,,Moricizine
+,APRD00797,,Liposomal amphotericin b
+,APRD00341,,Zoocoumarin
+,APRD00680,,Midazolamum
+,APRD00582,,Tobrex (tn)
+,APRD01175,,Pentosanpolysulfat
+,DB02478,,Fluohydrocortisone
+,APRD01602,,Mycophenolic acid morpholinoethyl ester
+,APRD00858,,D-Cephaloglycine
+,APRD00983,,Insumin
+,APRD01120,,Moexiprilum
+,APRD00615,,Vesomax
+,DB07777,,Yellow fluorescein
+,APRD00521,,Rubidomycin
+,DB07799,,Lasix (tn)
+,APRD00677,,Ergotaminum
+,APRD00128,,Tizanidinum
+,APRD00191,,Nitrofurantoinum anhydrous
+,APRD00617,,Sermion
+,APRD00707,,Epoxymexrenone
+,APRD00605,,Amprenavirum
+,APRD01026,,Icodextrinum
+,APRD00740,,Neptazaneat
+,DB05067,,Naltrexonum
+,DB08563,,N-{2-[4-(3-isopropylamino-pyridin-2-yl)-piperazine-1-carbonyl]-1H-indol-5-yl}-methanesulfonamide
+,APRD00036,,Tamsulosinum
+,APRD00078,,Porfimerum natricum
+,DB05563,,Sufentanyl
+,APRD00681,,Lamivudinum
+,DB04635,,Ibandronic Acid
+,APRD00918,,"N,N-Diethyl-4-methyl-1-piperazinecarboxamide"
+,APRD00753,,S-flurbiprofen
+,APRD01149,,Oxazocilline
+,DB05816,,R-(−)-apomorphine
+,DB00715,,Paroxetinum
+,APRD01137,,Nedocromilum
+,APRD00679,,Noretisterona
+,APRD00781,,bis-POM PMEA
+,APRD00810,,Azatadinum
+,APRD00639,,Dichloromethylidene diphosphonate
+,DB05342,,β-(diethylamino)ethyl p-aminobenzoate
+,APRD00560,,Lisinoprilum
+,APRD00062,,Pseudomethoxamine
+,APRD01030,,Zartra
+,APRD01017,,Tropinium methobromide mandelate
+,APRD00498,,Trimipraminum
+,APRD00153,,Trinitroglycerol
+,APRD01221,,Rocuronium
+,APRD00928,,Vagophemanil
+,DB08630,,Tiabendazole
+,APRD00806,,Atracurium dibesylate
+,APRD01193,,Pralidoximum
+,APRD00187,,Sequinan
+,APRD01131,,Naftifinum
+,APRD00363,,Perprazole
+,APRD00354,,Nevidoxine
+,EXPT02625,,Pentamidinum
+,APRD01012,,Phenazacillin
+,APRD00145,,Riluzolum
+,DB07886,,Reichstein's substance M
+,EXPT02246,,Mannitolum
+,APRD00989,,Gadobensäure
+,APRD00265,,Zileutonum
+,APRD00534,,Moderateafinil
+,APRD00904,,DFOM
+,APRD00616,,Scopolamine hydrobromide
+,APRD00765,,Paracarbinoxamine
+,APRD00067,,Etodolsäure
+,APRD00180,,Propitocaine
+,APRD00043,,Epinastinum
+,APRD00645,,Tranylcyprominum
+,APRD00212,,Isofluranum
+,APRD00962,,Etotoina
+,APRD00362,,Vitamin A acid
+,APRD00722,,Hexaclorofeno
+,APRD00518,,Dolasetronum
+,APRD00444,,clopidogrelum
+,APRD00572,,Tsiklomitsin
+,EXPT02153,,Meropenemum trihydricum
+,APRD01322,,Sylvite
+,APRD00579,,Camptothecin-11
+,APRD00002,,USAF el-30
+,APRD00289,,Mometasonum
+,APRD01112,,α-MPT
+,APRD00049,,MM 14151
+,APRD00820,,BZQ
+,APRD00310,,Opatanol
+,APRD01018,,Hydrocortamatum
+,APRD00785,,Prostaglandin e1
+,APRD00737,,N-methyl quinuclidinyl benzilate
+,APRD01081,,"O,O-dimethyldithiophosphate diethylmercaptosuccinate"
+,APRD00239,,trans-Etoposide
+,APRD01020,,Metforylthiadiazin
+,APRD00304,,Tirofibanum
+,APRD01308,,Oxcarbazepinum
+,APRD00339,,Propiomazinum
+,APRD01305,,Roxitromicina
+,APRD01133,,Nalidixinsäure
+,APRD00099,,Phenelzinum
+,APRD01190,,Polymyxinum B
+,APRD00177,,Propanthelini Bromidum
+,APRD00311,,Estradiolum
+,APRD00730,,"N-2,3-Xylylanthranilic acid"
+,APRD00559,,Marimastat
+,DB05347,,Acycloguanosine
+,DB08298,,Naproxenum
+,APRD00991,,Meglumine gadopentetate
+,APRD01178,,Perindoprilum
+,APRD00130,,Uramustine
+,APRD00689,,Tripelennaminum
+,APRD01011,,Haloproginum
+,APRD00549,,Primidonum
+,DB08518,,Sulfasalazinum
+,APRD00170,,Tolazolinum
+,APRD01246,,Tazarotenum
+,APRD00969,,Fenoldopamum
+,APRD01009,,Halazepamum
+,APRD00726,,N-(1-(2-(4-Ethyl-5-oxo-2-tetrazolin-1-yl)ethyl)-4-(methoxymethyl)-4-piperidyl)propionanilide
+,APRD00886,,Polymyxin E
+,APRD00113,,Dicycloverinum
+,APRD00735,,N-(4-Methyl-6-phenyl-3-pyridazinyl)-4-morpholineethanamine
+,APRD00121,,Pentoxifyllinum
+,APRD00522,,Proxymetacainum
+,APRD01031,,Metindamide
+,APRD00287,,Tropicamidum
+,APRD00725,,Biperidenum
+,DB01693,,Tribavirin
+,DB08343,,Phenylbutazonum
+,DB05564,,Phentanyl
+,APRD00529,,UNII-vg2qf83cgl
+,APRD01606,,Sodium lauryl sulphate
+,APRD00210,,Orciprenalinum
+,APRD00369,,Roxadyl
+,DB05893,,Propofolum
+,EXPT00604,,"N-[5-(aminosulfonyl)-1,3,5-thiadiazol-2-yl]acetamide"
+,APRD00071,,Tadanafil
+,APRD00849,,Carprofenum
+,APRD00767,,Tetraethylthiuram Disulphide
+,APRD00760,,Etynodiol diacetate
+,APRD00273,,Enprofyllinum
+,APRD01604,,Levomentol
+,APRD01136,,Pimaricin
+,APRD00873,,Cinoxacinum
+,APRD00987,,Phosphonomycin
+,DB07699,,Methyl diazepinone
+,APRD00262,,Phenmetrazinum
+,DB08616,,Trifluperazine
+,APRD00496,,Phensuximidum
+,APRD00243,,Cephaclor
+,APRD00432,,Mifepristonum
+,APRD00832,,Brompheniraminum
+,APRD00275,,Loperamidum
+,APRD00072,,Progabidum
+,APRD00877,,Clocortolonum
+,APRD01267,,Tolazamidum
+,APRD01023,,Modified cellulose
+,APRD00122,,Racemic-dobutamine
+,APRD01152,,(RS)-Oxazepam
+,APRD00039,,Donepezilum
+,APRD01132,,Nalbuphinum
+,APRD00278,,Riminophenazine
+,APRD00982,,Flurandrenolone
+,APRD00896,,β-MEA
+,APRD01067,,Levamisolum
+,APRD00047,,N-Methylphenobarbital
+,APRD00429,,Perphenazinum
+,APRD00331,,ICDMT
+,APRD00634,,ψ-ephedrine
+,APRD00557,,Temozolomidum
+,APRD00764,,Levorphanolum
+,DB05277,,δ-aminolevulinic acid
+,APRD00867,,P-Chlorophenyl-alpha-glyceryl ether
+,APRD00508,,Terbinafinum
+,APRD00938,,Metholone
+,APRD01171,,"D-β,β-dimethylcysteine"
+,APRD00197,,Prednisolonum
+,DB06895,,Diflunisalum
+,APRD00699,,Vardenafilum
+,APRD00254,,Ranitidinum
+,EXPT01437,,"Tacrolimus, anhydrous"
+,APRD00759,,N-methyl-1-phenyl-N-(phenylmethyl)propan-2-amine
+,APRD00736,,Aprenololo
+,APRD00541,,Ritodrinium
+,APRD00629,,P-Butylaminobenzoic acid omega-O-methylnonaethyleneglycol ester
+,DB04507,,Dorzolamidum
+,APRD00230,,SUTOPROFEN
+,APRD00589,,Terbutalinum
+,APRD01302,,Conivaptan
+,APRD01078,,Loteprednolum
+,APRD01005,,Hustosil
+,APRD00388,,Flupentixolum
+,APRD00950,,Eprosartanum
+,DB02439,,sirolimusum
+,APRD00545,,"N,N'-bis(4-chlorophenyl)-3,12-diimino-2,4,11,13-tetraazatetradecanediimidamide"
+,APRD00226,,Emtricitabinum
+,APRD00721,,Uroflux
+,APRD00523,,Quinaprilum
+,APRD00880,,Clomiphene
+,APRD00455,,Sorbidnitrate
+,DB02782,,Risedronsäure
+,APRD00394,,Pemirox
+,APRD00443,,Omapatrilate
+,APRD00294,,Bumetanidum
+,APRD00249,,"β,β'-dichlorodiethyl-N-methylamine"
+,APRD01002,,granisetronum
+,APRD00917,,DV
+,APRD00491,,Sulphapyridine
+,APRD00817,,Oxyriprocaine
+,APRD01053,,Iron dextran complex
+,APRD00640,,Δ1-testololactone
+,APRD00822,,Benzylpenicilloyl-polylysine
+,APRD01220,,Rimexolon
+,APRD00313,,Triazolamum
+,APRD00738,,Spiritus vini
+,APRD01216,,Remifentanyl
+,DB02392,,Dideoxyinosine
+,APRD00827,,Bitolterolum
+,APRD00713,,Metodilazina
+,APRD00251,,Methylenebutyrylphenoxyacetic acid
+,DB06863,,Bimatoprostum
+,APRD00344,,Tiagabinum
+,APRD00080,,Neurocaine
+,APRD00136,,β-quinine
+,APRD00004,,Zonisamidum
+,APRD01165,,Paricalcitol
+,APRD01260,,Timidazole
+,APRD00439,,Surepost
+,APRD00741,,N-β-(p-aminophenyl)ethylnormeperidine
+,APRD00511,,β-Phenethybiguanide
+,APRD00787,,Virosol
+,APRD00631,,Metronidazolum
+,APRD00927,,Prostaglandin E2
+,APRD00169,,1-(((3-(2-(Dimethylamino)ethyl)indol-5-yl)methyl)sulfonyl)pyrrolidine
+,APRD01232,,Spectinomycinum
+,APRD01061,,Ketotifenum
+,APRD00670,,Buprenorphinum
+,APRD01296,,Simdax
+,APRD00853,,Ceforanidum
+,APRD00213,,"N,N-dimethyl-5H-dibenzo(a,d)cycloheptene-Δ5,γ-propylamine"
+,APRD00651,,POB
+,APRD00296,,N-Sulfamoyl-3-((2-guanidinothiazol-4-yl)methylthio)propionamide
+,APRD00809,,Azacytidine
+,DB05379,,Misoprostolum
+,APRD00137,,Tri-methacycline
+,APRD00610,,TPS-23
+,APRD00747,,Maprotylina
+,APRD01158,,Oxymetozoline
+,DB01398,,O-hydroxybenzoic acid
+,APRD00919,,Diethylpropion
+,APRD00277,,Salmeterolum
+,APRD01090,,"N-(3-Methyl-2,6-dichlorophenyl)anthranilic acid"
+,APRD00751,,Methanthelinum
+,APRD01013,,Hexamethylenebis(fluoren-9-yldimethylammonium)
+,APRD00731,,Cycriminum
+,APRD00562,,Dideoxycytidine
+,APRD00905,,Demecarium
+,EXPT00475,,salicylic acid acetate
+,APRD00228,,Phenprocumone
+,APRD00654,,"ICI 182,780"
+,APRD01113,,Mezlocillinum
+,APRD00505,,Felbamatum
+,APRD00349,,Terfenadine-COOH
+,EXPT01940,,Pyridine-4-carboxylic acid hydrazide
+,APRD00220,,Naratriptanum
+,APRD00008,,Rizatriptanum
+,APRD00232,,Netilmycin
+,DB09475,,Idrocodone
+,APRD00569,,Norgestimatum
+,APRD00466,,"cis-Diammine(1,1-cyclobutanedicarboxylato)platinum(II)"
+,APRD00342,,Urbason
+,APRD00678,,Pindololum
+,APRD01094,,"N-(2,6-Dimethylphenyl)-1-methylpiperidine-2-carboxamide"
+,APRD00411,,"3'-(3-Cyanopyrazolo(1,5-a)pyrimidin-7-yl)-N-ethylacetanilide"
+,APRD00831,,Bromfenacum
+,APRD00012,,Apraclonidinum
+,APRD00960,,EOE 13
+,APRD01247,,Telmisartan
+,APRD00324,,DESLORATADINE
+,APRD01106,,α-methyl-L-dopa
+,APRD00580,,"2,3,4,5-Tetrahydro-5-methyl-2-((5-methyl-1H-imidazol-4-yl)methyl)-1H-pyrido(4,3-b)indol-1-one"
+,APRD00124,,Meractinomycin
+,APRD01323,,Selenium(IV) sulphide
+,APRD00813,,Azelastinum
+,APRD00619,,Ezetrol
+,APRD01327,,"N,N'-1,2-Ethane diylbis-(N-(carboxymethyl)glycine)"
+,APRD00360,,Persantin
+,APRD00691,,Etinilestradiol
+,APRD01076,,Lomefloxacinum
+,APRD00893,,β-dimethylaminoethyl (1-hydroxycyclopentyl)phenylacetate
+,APRD00406,,Physostol
+,APRD00140,,Neovitamin a acid
+,APRD00641,,N-[2-Hydroxy-5-(1-hydroxy-2-{[2-(4-methoxyphenyl)-1-methylethyl]amino}ethyl)phenyl]formamide
+,APRD00134,,NTPP
+,APRD00924,,O-Benzhydryldimethylaminoethanol 8-chlorotheophyllinate
+,DB06583,,Glycopyrronium ion
+,APRD00499,,cytosine-β-D-arabinofuranoside
+,APRD00085,,Oxytyramine
+,APRD00321,,m-((S)-1-(Dimethylamino)ethyl)phenyl ethylmethylcarbamate
+,APRD00144,,Exemestanum
+,APRD00030,,Walix
+,APRD01105,,Methyl delta-aminolevulinate
+,APRD00811,,Imuran (tn)
+,APRD00808,,Triethylphosphine gold
+,APRD00015,,Gabapetin
+,DB05847,,Hydroxydaunorubicin
+,APRD00092,,HCTZ
+,APRD00892,,Wyvital
+,APRD00553,,Albuterol
+,APRD00110,,Levobupivacaine
+,APRD00336,,Cromolyn
+,EXPT01540,,Gancyclovir
+,APRD00023,,Oxyurea
+,APRD01066,,Letrozol
+,APRD01262,,Tioconazolum
+,APRD00664,,Tetramethylene bis(methanesulfonate)
+,DB05335,,Orudis (tn)
+,APRD00944,,"N-ethyl-3-hydroxy-N,N-dimethylbenzenaminium"
+,EXPT02271,,Metyraponum
+,APRD00872,,N-((1R)-1-(Naphthalen-1-yl)ethyl)-3-(3-(trifluoromethyl)phenyl)propan-1-amine
+,APRD00876,,Clobetasol propionate E
+,APRD00141,,Balsalazidum
+,APRD00076,,Sulfamethoxazole
+,APRD00233,,Glibenclamidum
+,APRD00547,,Minocyclinum
+,APRD00075,,Guanfacinum
+,APRD00051,,carbamyl-β-methylcholine
+,APRD00528,,Monosorbitrate
+,DB09528,,α-phylloquinone
+,APRD00374,,Felodipinum
+,EXPT02208,,Mycophenolsäure
+,APRD00795,,Amoxanox
+,APRD00401,,Ketozole
+,APRD00744,,Metoxiflurano
+,APRD00413,,Irbesartan
+,APRD00687,,Topotecanum
+,APRD00959,,Etinamato
+,APRD00167,,Probenecidum
+,APRD01096,,Mercapurin
+,APRD00703,,Cerulenin
+,APRD00509,,Procainamidum
+,APRD00146,,Tolterodinum
+,APRD00525,,Selegilinum
+,APRD00848,,carfenazinum
+,DB09545,,Procetofen
+,APRD01024,,Hydroxystilbamidine isetionate
+,APRD01251,,α-phthalimidoglutarimide
+,APRD00118,,Phenylalanine nitrogen mustard
+,APRD00221,,Memantinum
+,APRD00996,,Gatifloxacinum
+,EXPT02777,,Rifampin
+,APRD00978,,Fluocinonidum
+,APRD00216,,ABC 
+,DB01287,,hydrogenated ergot alkaloids
+,APRD00372,,α-(p-isobutylphenyl)propionic acid
+,APRD00694,,Novobiocinum
+,DB11612,,PG
+,APRD00421,,Nitrendipinum
+,APRD00647,,Mimosin
+,APRD01266,,Tocainidum
+,APRD00942,,Phospholine
+,APRD00469,,Norfloxacinum
+,APRD00248,,α-amino-p-hydroxybenzylpenicillin
+,APRD00814,,Azlocillinum
+,APRD00427,,Oxybutyninum
+,APRD00462,,Acetophenazine
+,APRD00182,,α-(isopropylaminomethyl)protocatechuyl alcohol
+,DB08189,,N-Acetyl-5-methoxytryptamine
+,APRD00436,,N-{4-[β-(5-methylpyrazine-2-carboxamido)ethyl]benzenesulphonyl}-N'-cyclohexylurea
+,APRD00054,,Clonazepamum
+,APRD00601,,Promethazinum
+,APRD00143,,Dihydrotachysterolum
+,APRD00386,,Mequitazinum
+,APRD00804,,Zrivada
+,APRD00594,,2-fluoro ARA-A
+,APRD00107,,Perhexilline
+,DB06975,,β-dimethylaminoethyl benzhydryl ether
+,APRD00055,,atorvastatinum
+,APRD00964,,Oxyethylidenediphosphonic acid
+,APRD00909,,Glucodigoxin
+,APRD00096,,tegaserodum
+,APRD00282,,Vinyl gamma-aminobutyric acid
+,APRD00366,,"Ethyl 1-(3-cyano-3,3-diphenylpropyl)-4-phenylisonipecotate"
+,APRD00412,,Streptomyzin
+,APRD00255,,Tetrahydrolipstatin
+,APRD00946,,Emedastinum
+,APRD00382,,Pilocarpine
+,APRD00539,,p-Ethoxycarboxylic Aniline
+,APRD00604,,Primaquinum
+,APRD00906,,Recanescine
+,APRD00038,,Pentolonum
+,APRD00833,,N-(P-Tert-butylbenzyl)-N-methyl-1-naphthalenemethylamine
+,APRD00135,,Oubain
+,EXPT01231,,Sulfinylbis(methane)
+,APRD00117,,YSO2
+,APRD00346,,fluvastatinum
+,APRD01150,,Mansil
+,APRD00205,,Lefunomide
+,APRD00546,,"(3R,5S,6E)-7-{4-(4-fluorophenyl)-6-isopropyl-2-[methyl(methylsulfonyl)amino]pyrimidin-5-yl}-3,5-dihydroxyhept-6-enoic acid"
+,APRD00299,,Fluorcytosine
+,APRD00218,,Pimozidum
+,APRD00203,,"Pentyl 1-(5-deoxy-beta-D-ribofuranosyl)-5-fluoro-1,2-dihydro-2-oxo-4-pyrimidinecarbamate"
+,APRD00802,,Arbutaminum
+,APRD00317,,"N4-(6-chloro-2-methoxy-9-acridinyl)-N1,N1-diethyl-1,4-pentanediamine"
+,DB08567,,Sertralinum
+,APRD00456,,Sibutraminum
+,APRD01069,,Levocabastinum
+,APRD00734,,Metiprilone
+,APRD01276,,Trilostanum
+,APRD00056,,Unfractionated heparin
+,APRD01115,,Monistat iv (tn)
+,APRD00885,,Colistinmethanesulfonic acid
+,APRD00285,,Zinacef danmark
+,DB07725,,Mesotina
+,DB09440,,γ-(4-chlorophenyl)-γ-(2-pyridyl)propyldimethylamine
+,APRD00590,,Nifedipres
+,APRD00044,,Trimethaphan
+,APRD00805,,Wellvone
+,APRD00288,,Amiodaronum
+,APRD00914,,Eudemine
+,APRD00460,,N-(4-Methylbenzenesulfonyl)-N'-(3-azabicyclo(3.3.0)oct-3-yl)urea
+,APRD00771,,Ambenonum
+,APRD00535,,Proflavinum
+,APRD00267,,Tolylsulfonylbutylurea
+,APRD00799,,Anisindionum
+,APRD00385,,"alpha,alpha,alpha,Alpha',alpha',alpha'-hexafluoro-3-oxo-4-aza-5alpha-androst-1-ene-17beta-carboxy-2',5'-xylidide"
+,APRD00943,,Econazole Nitrate
+,DB06284,,Bicalutamidum
+,APRD01212,,Rabeprazole
+,APRD00188,,Proguanilum
+,APRD00653,,Pioglitazonum
+,APRD01259,,Tiludronate
+,APRD00709,,DTMA
+,APRD00091,,SKF 105517
+,DB06085,,Ofloxacin S-(-)-form
+,APRD00620,,Sulfoxyphenylpyrazolidine
+,APRD00860,,CEPR
+,APRD00196,,D-Cefadroxil
+,APRD00398,,Doxepin
+,APRD00021,,Aminopropylaminoethyl thiophosphate
+,DB07948,,Diclofenamidum
+,APRD00704,,Aldesulphone
+,APRD00719,,Diphenylpyralinum
+,EXPT01068,,Cloxacillinum
+,APRD00972,,Flavoxatum
+,APRD00402,,Nefazodonum
+,APRD00461,,Cefprozilum
+,DB07682,,Norimipramine
+,APRD00843,,Candizidin
+,APRD00305,,Sertaconazolum
+,APRD00154,,Thioseconal
+,APRD00053,,gemifloxacin mesylate
+,APRD00621,,Amfebutamone
+,APRD00268,,Trimetrexatum
+,APRD00830,,"N-Ethyl-N,N-dimethyl-2-bromobenzenemethanaminium"
+,DB02330,,Rhodialothan
+,APRD00926,,Prostin F2 Alpha
+,APRD00404,,Cloroprocaina
+,APRD00667,,Terazosinum
+,APRD00789,,Penicillin HX
+,APRD00840,,calcium(2+) chloride
+,APRD00502,,OFLX
+,APRD00155,,Cilostazolum
+,APRD00040,,Sporanox (tn)
+,APRD00695,,Procarbazinum
+,APRD00171,,White arsenic
+,APRD01007,,N-(2-Perhydroazocin-1-ylethyl)guanidine
+,APRD00603,,p-Chloro-N-(2-morpholinoethyl)benzamide
+,APRD00026,,Kanamycin A
+,APRD00097,,β-dimethylaminoethyl 2-methylbenzhydryl ether
+,APRD00184,,PHENYLETHYLMALONYLUREA
+,APRD00683,,S(+)-Citalopram
+,APRD00061,,N-methyl-N'-benzhydrylpiperazine
+,APRD00126,,Idarubicinum
+,APRD00865,,Clormezanona
+,DB08417,,PPT
+,APRD00112,,Tsuruselpi S
+,APRD00007,,Isosfamide
+,APRD00261,,Propafenonum
+,APRD00025,,Naloxonum
+,APRD00418,,Domperidonum
+,APRD00981,,"Testosterone, 9-fluoro-11beta-hydroxy-17-methyl-"
+,APRD00663,,Pergolidum
+,DB13498,,Iofendylate
+,APRD00871,,Ciclopiroxum
+,APRD00907,,"Difluoromethyl 1,2,2,2-tetrafluoroethyl ether"
+,APRD00566,,"Methyl 7-chloro-6,7,8-trideoxy-6-(1-methyl-trans-4-propyl-L-2-pyrrolidinecarboxamido)-1-thio-L-threo-alpha-D-galacto-octopyranoside"
+,APRD00648,,Dextrofenfluramine
+,APRD00158,,Oxymorphone
+,APRD00772,,N-[3-acetyl-4-[2-hydroxy-3-[(1-methylethyl)amino]propoxy]phenyl]butanamide
+,APRD00475,,Brinzolamide
+,APRD00129,,"N-(2-Piperidinylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamide"
+,APRD00625,,Estramustinum
+,APRD00164,,Tensoprel
+,APRD00356,,Zopiclonum
+,APRD00176,,Tubocurarin
+,APRD00622,,Bromoergocryptine
+,APRD01217,,Priftin (tn)
+,APRD01068,,Levitiracetam
+,APRD00371,,Mitoxantronum
+,APRD00974,,Flumazepil
+,APRD00292,,N-(2-Chloroethyl)-n'-cyclohexyl-N-nitrosourea
+,APRD00271,,Ridogrelum
+,APRD01231,,Sparfloxacin
+,APRD00912,,Dezocinum
+,APRD00165,,Levobunololum
+,APRD00181,,Clarithromycinum
+,APRD00395,,Ceftriazone
+,APRD00985,,Fomepizolum
+,APRD00668,,Metipranololum
+,APRD00955,,Estazolamum
+,DB07774,,Finasteridum
+,APRD00016,,Anastrozol
+,APRD00419,,Halofantrinum
+,APRD00901,,F-368
+,APRD01218,,Xifaxsan
+,APRD00493,,Special K
+,APRD00442,,"(11beta,16alpha)-16,17-(Butylidenebis(oxy))-11,21-dihydroxypregna-1,4-diene-3,20-dione"
+,APRD00329,,Theophylline ethylenediamine
+,APRD00675,,Quetiapinum
+,APRD00068,,Enoxaparin sodium
+,APRD01119,,Mivacurium
+,APRD00745,,Levomethadyl acetate
+,APRD00613,,Encainidum
+,DB05526,,Taxol A
+,APRD00929,,Diphenyl(3-(1-piperidyl)propyl)carbinol
+,APRD00623,,SQV
+,APRD00665,,Metoclopramidum
+,APRD00674,,Dexamethasonum
+,EXPT01107,,"β-(3,4-dihydroxyphenyl)alanine"
+,APRD00219,,Sevofluranum
+,APRD00710,,Bromodiphenhydramine
+,APRD00638,,OPC 31
+,APRD00718,,Chlothixen
+,APRD00949,,Vasocyclin
+,APRD00293,,Gemfibrozilum
+,DB07600,,Monochlorimipramine
+,APRD00866,,CHQ
+,APRD00727,,Bepridil
+,APRD00696,,"N,N,N,N',n',n'-hexamethyl-1,10-decanediaminium"
+,APRD00258,,Trimeprazine
+,APRD00701,,Isocarboxazidum
+,APRD00932,,TXL
+,DB01249,,Iodixanolum
+,DB01251,,Glurenorm
+,DB01253,,N-(α-(hydroxymethyl)ethyl)-D-lysergamide
+,DB01254,,"N-(2-CHLORO-6-methylphenyl)-2-({6-[4-(2-hydroxyethyl)piperazin-1-yl]-2-methylpyrimidin-4-yl}amino)-1,3-thiazole-5-carboxamide"
+,DB01255,,NRP104
+,DB01257,,5G1.1
+,DB02584,,N-{3-chloro-4-[(3-fluorobenzyl)oxy]phenyl}-6-[5-({[2-(methylsulfonyl)ethyl]amino}methyl)-2-furyl]-4-quinazolinamine
+,DB01260,,Desonidum
+,DB07214,,Sitagliptinum
+,DB01262,,Dezocitidine
+,EXPT00002,,"N-((1S,2R)-3-(((4-Aminophenyl)sulfonyl)(2-methylpropyl)amino)-2-hydroxy-1-benzylpropyl)((1S,2R,5R)-4,6-dioxabicyclo(3.3.0)oct-2-yloxy)carboxamide"
+,DB01265,,Telbivudin
+,DB01266,,Kunecatechins
+,DB01267,,Ro-76477
+,DB07417,,Sunitinibum
+,DB01269,,ABX-EGF
+,DB01270,,rhuFab V2
+,DB01271,,Iduronate 2-sulfatase
+,DB01272,,Lysosomal Alpha-Glucosidase
+,DB01274,,"(R,R)-formoterol"
+,DB01275,,Phthalazin-1-ylhydrazine
+,DB01276,,Synthetic exendin-4
+,DB01277,,Somatomedin-C
+,DB01279,,Arylsufatase B
+,DB01280,,Nelzarabine
+,DB01281,,Abatacept recombinant
+,DB01282,,Deamino-2-O-methyltyrosine-1-carbaoxytocin
+,DB01283,,Lumiracoxibum
+,DB01284,,β1-24-corticotrophin
+,DB09547,,H.P. acthar gel
+,DB01288,,Phenoterol
+,DB01291,,Pirbuterolum
+,DB01402,,Wismutsubsalicylat
+,DB01295,,Bevantololum
+,EXPT01563,,D-Glucosamine
+,DB01297,,Tocris-0831
+,DB01298,,Sulfacitinum
+,DB01299,,Sulphormethoxine
+,DB01301,,Synterin
+,DB01303,,Theophyline - choline mixt
+,DB01306,,"Insulin,aspart protamine"
+,DB01307,,"Insulin,detemir,human"
+,DB01309,,Insulin glulisine recombinant
+,DB01319,,Fosamprenavir
+,DB01320,,Fosphenytoinum
+,DB01321,,yl-704 a3
+,DB01323,,St. johnswort flowering top
+,DB01325,,Quinethazonum
+,DB01326,,L-Cefamandole
+,DB01327,,CEZ
+,DB01328,,Cefonicidum
+,DB01329,,Cefoperazonum
+,DB01330,,Cefotetanum
+,EXPT00897,,Rephoxitin
+,DB01332,,Syn-7-(2-(2-amino-4-thiazolyl)-2-methoxyiminoacetamido)-3-cephem-4-carboxylic acid
+,DB01333,,Sefril
+,DB01336,,"O,O-Dimethylchondrocurarine"
+,DB01337,,Pancuronium
+,DB01338,,Pipecuronium
+,DB01339,,Vecuronium
+,DB01340,,Cilazaprilum 
+,DB06658,,polystyrenesulfonic acid
+,DB01345,,potassium(I) cation
+,DB01348,,Spirapril
+,DB01349,,WAY-ana-756
+,DB01351,,Barbamyl
+,DB01352,,Aprobarbital
+,DB01353,,Neonal
+,DB01354,,Medomine
+,EXPT03301,,Methylhexabital
+,DB01356,,"Lithium, ion (li1+)"
+,DB01359,,Penbutololum
+,DB01362,,"N,N'-Bis(2,3-dihydroxypropyl)-5-(N-(2,3-dihydroxypropyl)acetamido)-2,4,6-triiodoisophthalamide"
+,DB01363,,Ma huang
+,DB01364,,L(−)-ephedrine
+,DB01365,,Mephentermine
+,EXPT02758,,RAS
+,DB11314,,Aluminum
+,DB01375,,Dihydroxyaluminum stearate
+,DB01377,,Magmitt
+,DB01380,,Cortisyl
+,DB01381,,Yinhsing
+,DB01382,,Glymidine
+,DB01384,,Dillar
+,DB01390,,Sodium hydrogencarbonate
+,DB01392,,Yohimbine
+,DB08380,,Cedur
+,DB01394,,Colchicinum
+,DB01395,,DRSP
+,DB01396,,Digitoxoside
+,DB01397,,Magnesium salicylate anhydrous
+,DB01399,,Sasapyrinum
+,DB01400,,m-Trimethylammoniumphenyldimethylcarbamate
+,DB01403,,Methotrimeprazine
+,DB01404,,True ginseng root
+,DB01405,,Temafloxacinum
+,DB01406,,Danazolum
+,DB01407,,Clenbuterolum
+,DB01408,,Bambuterolum
+,DB01411,,ONO-RS 411
+,DB01412,,Theobromine
+,DB01413,,Cefepimum
+,DB01414,,Vetrimast [veterinary]
+,DB01415,,cis-Ceftibuten
+,DB01416,,Cefpodoximum
+,DB01418,,Nitrowarfarin
+,DB01421,,Zygomycin a1
+,DB01422,,Nitroxolinum
+,DB01423,,Tiofacic
+,DB01424,,Dipyrine
+,DB01425,,Plitican
+,DB01426,,Ajmalin
+,DB01427,,Inamrinone
+,DB01428,,Oxybenzonum
+,DB01429,,Compound 99170
+,DB01430,,Almitrinum
+,DB01431,,Allyloestrenol
+,DB01432,,Colestyramine
+,DB01433,,Betamethadol
+,DB01434,,NOR
+,DB01435,,Phenazone
+,DB01436,,Alsiodol
+,DB01437,,Doriden
+,DB01438,,Fenazopiridina
+,DB01439,,3-Methyl-thiofentanyl
+,DB01440,,γ-Hydroxybutyric acid
+,DB01441,,Foxy methoxy
+,DB01442,,"Amphetamine, 3,4-methylenedioxy-5-methoxy"
+,DB01443,,"estr-5-ene-3,17-dione"
+,DB01444,,Ohton
+,DB01445,,"N,N-dimethylserotonin"
+,DB01446,,αMT
+,DB01452,,"O,O'-Diacetylmorphine"
+,DB01454,,Methylenedioxymethamphetamine
+,DB01456,,"delta5-Androstene-3,17-dione"
+,DB01458,,"2,5-dimethoxy-4-propylthiophenethylamine"
+,DB01459,,"1-[1-(3-Cyano-3,3-diphenylpropyl)-4-piperidinyl]-1,3-dihydro-3-(1-oxopropyl)-2H-benzimidazol-2-one"
+,DB01460,,"N,N-Diethyl-2-(1H-indol-3-yl)ethanamine"
+,DB01461,,estocin
+,DB01463,,Fencanfamina
+,DB01466,,Ethylmorphine
+,DB01469,,Acetylpropylorvinol
+,DB01470,,alpha-methylthiofentanyl
+,EXPT03303,,Paramethoxyamphetamine
+,DB01473,,Betaprodinum
+,DB01474,,"17-Methylandrost-4-ene-3beta,17beta-diol"
+,DB01478,,MPPP
+,DB01479,,"17alpha-methyl-3alpha,17beta-dihydroxy-5alpha-androstane"
+,DB01481,,delta1-Dihydrotestosterone
+,DB01482,,Fenetylline
+,DB01485,,7alpha-Hydroxytestosterone
+,DB01486,,Pseudonorephedrine
+,DB11402,,Embutramid
+,DB01494,,Cloral betaine
+,DB01497,,Etorphinum
+,DB01499,,Alphameprodinum
+,DB01500,,4-hydroxy-19-nortestosterone
+,DB01501,,Diphenoxylic acid
+,DB01509,,Tenamfetamine
+,DB01511,,Chlordesmethyldiazepam
+,DB01515,,O-benzoylecgonine
+,DB01520,,TCP
+,DB01524,,hermaphrodiol
+,DB01528,,STP
+,DB01529,,Pyrrolamidol
+,DB01530,,hombreol
+,DB01531,,Dihydrodesoxymorphine D
+,DB01532,,alphamethylacetylfentanyl
+,DB01534,,Merchloral
+,DB01535,,Carfentanyl
+,DB07386,,4-Androstenedione
+,DB01537,,2C-B
+,DB01540,,4-Hydroxy-19-normethyltestosterone
+,DB01541,,delta1-Testosterone
+,DB01543,,13beta-ethyl-17beta-hydroxygon-4-en-3-one
+,DB01544,,Rohypnol
+,DB01545,,Meilax
+,DB01546,,αET
+,DB01548,,Diprenorfin
+,DB01549,,Rolicyclidinum
+,DB01550,,Perphoxene
+,DB01551,,Remedacen
+,DB01552,,Betameprodinum
+,DB01553,,Cloxazolazepam 
+,DB01554,,4-norendiol
+,DB01556,,Clorfentermina
+,DB01557,,alpha-methylfentanyl
+,DB01558,,Lectopam
+,DB01559,,Rize
+,DB01560,,β-ketoamphetamine
+,DB03620,,"5alpha-Androstan-3,17-dione"
+,DB01562,,PEPAP
+,DB01563,,trichloroacetaldehyde hydrate
+,DB01564,,CLS
+,DB01566,,n-ethyl MDA
+,DB01567,,Fludiazepamum
+,DB01569,,Formyldienolone
+,DB01570,,β-hydroxy-3-methylfentanyl
+,DB01571,,mefentanyl
+,DB01572,,17beta-Hydroxy-17alpha-methyl-5alpha-androst-1-ene-3-one
+,DB01574,,Attapulgus clay
+,DB01575,,"Kaolin, light"
+,DB01576,,Dextroamphetamine
+,DB01577,,methyl-β-phenylisopropylamine
+,DB01579,,"(2S,3S)-3,4-dimethyl-2-phenylmorpholine"
+,DB01580,,Oxprenololum
+,DB01581,,Sulphamerazine
+,DB01582,,Sulphamethazine
+,DB01583,,Liotrix (T4;T3)
+,DB01584,,Tiroglobulina
+,DB01586,,Ursodiol
+,DB01587,,U-28774
+,DB01588,,Prazepamum
+,DB01589,,Quazepamum
+,DB01590,,40-O-(2-hydroxyethyl)-rapamycin
+,DB01592,,Reduced iron
+,DB01593,,Zn2+
+,DB01594,,Cinolazepamum
+,DB01595,,Trazenin
+,EXPT00918,,Cilastatinum
+,DB01598,,N-formimidoylthienamycin
+,DB01599,,Probucolum
+,DB01600,,Tiaprofensäure
+,EXPT00388,,LPV
+,DB01602,,Bacampicillinum
+,DB01603,,Meticillinum
+,DB01604,,Pivampicillinum
+,DB01605,,Pivmecillinamum
+,EXPT03012,,YTR-830H
+,DB01607,,Ticarcillinum
+,DB01608,,Propericiazine
+,DB01609,,ICL 670a
+,DB01610,,Valganciclovir
+,DB01611,,Polirreumin
+,DB01612,,pentyl nitrite
+,DB01613,,Tetranitrol
+,DB01614,,Acetylpromazine
+,DB01615,,Acepromethazine
+,DB01616,,Phenpropamine
+,DB01618,,Molindonum
+,DB01619,,Thephorin
+,DB01620,,Pheniraminum
+,DB01621,,Pipotiazinum
+,DB01622,,Tioproperazina
+,DB01623,,Tiotixenum
+,DB08920,,Zuclopentixol
+,DB01625,,Isopropamide
+,DB01626,,Pargyline
+,DB01627,,Lincomycine
+,DB07166,,L791456
+,EXPT00263,,FUrd
+,EXPT02663,,"Ribofuranose, 5-phosphate 1-pyrophosphate"
+,DB09391,,L-Gulitol
+,EXPT02988,,Thymidylic acid polymer
+,EXPT01582,,Genisterin
+,EXPT00506,,Thiomedon
+,EXPT00259,,(R)-Mesopram
+,EXPT01652,,"P1-7-METHYLGUANOSINE-P3-ADENOSINE-5',5'-TRIPHOSPHATE"
+,EXPT00123,,Trans-o-hydroxycinnamic acid
+,EXPT00637,,"Coenzyme A, S-(4-hydroxybenzoate)"
+,EXPT02022,,6-O-phosphono-L-gulonic acid
+,EXPT02802,,Roflumilastum
+,EXPT02665,,Phosphoribosyl ATP
+,EXPT02903,,(S)-2-AMINO-3-(3-HYDROXY-ISOXAZOL-4-YL)PROPIONIC ACID
+,EXPT00097,,2H-BENZOIMIDAZOL-2-YLAMINE
+,EXPT00603,,Pathocidine
+,EXPT03225,,Streptogramin A
+,EXPT03079,,α-TNT
+,EXPT01511,,trans-Butenedioic acid
+,EXPT00280,,"N-acetyl-N-[1-(1,1'-biphenyl-4-ylmethyl)-2-oxoazepan-3-yl]-3-formyl-O-phosphonotyrosinamide"
+,EXPT01517,,"4-(5-(pyridin-4-yl)-1H-1,2,4-triazol-3-yl)pyridine-2-carbonitrile"
+,EXPT01101,,"NG,NG-dimethyl-l-arginine"
+,EXPT02103,,β-mannobiose
+,EXPT01292,,"erythro-1,4-Dimercapto-2,3-butanediol"
+,EXPT03007,,Levotartaric Acid
+,EXPT01054,,β-cellotriose
+,EXPT02824,,sophorin
+,EXPT00407,,AICAR
+,DB06593,,DHEA
+,DB03465,,D-glycerate 2-phosphate
+,DB13159,,Trimethylhexadecylammonium
+,DB06854,,"3-{5-[AMINO(IMINIO)METHYL]-1H-BENZIMIDAZOL-2-YL}-1,1'-BIPHENYL-2-OLATE"
+,DB04403,,Phosphorylethanolamine
+,EXPT00827,,Natural camphor
+,EXPT01216,,D-Leuzin
+,EXPT02353,,α-naphthaleneacetic acid
+,EXPT02842,,S-Adenosylhomocysteine
+,EXPT01163,,4-O-phosphono-L-threonic acid
+,EXPT01978,,5-hydroxy-2-(hydroxymethyl)-4H-pyran-4-one
+,EXPT03005,,TATP
+,EXPT01246,,Dalfopristinum
+,EXPT02501,,Vitamin B5
+,EXPT01109,,DAL
+,EXPT02600,,RP 73-401
+,EXPT00277,,I-5
+,EXPT02688,,W-molybdopterin cofactor
+,EXPT01055,,"1,6,7,8-tetrahydroxyoctahydroindolizine"
+,EXPT01282,,Dithiane Diol
+,EXPT02411,,O3-acetyl-L-serine
+,DB11078,,α-propyleneglycol
+,EXPT01224,,"N,N-Dimethylmethanamide"
+,EXPT00640,,Bacterio-chlorophyll A
+,DB04355,,Uridine-5'-Diphosphoglucose
+,EXPT01924,,isopropyl-β-D-thiogalactoside
+,EXPT01350,,Desoxyepothilone B
+,EXPT00794,,Phenyl ketone
+,EXPT01003,,"N,N'-((((3alpha,5beta,12alpha)-3,12-Dihydroxy-24-oxocholan-24-yl)imino)di-3,1-propandiyl)bis-D-gluconamide"
+,EXPT01804,,Hyperforine
+,EXPT02151,,(3S)-3-methyl-L-glutamic acid
+,EXPT02871,,Sucrose octasulfate
+,EXPT03268,,Xylitol
+,EXPT02890,,sinefunginum
+,DB11280,,"Glucose, anhydrous"
+,EXPT01461,,Methanoic acid
+,EXPT02804,,Rolipramum
+,DB11103,,Taurineold
+,EXPT00809,,Cytidine-3'-Monophosphate
+,EXPT03207,,Urocanic acid
+,EXPT00439,,alpha-beta methylene adp-ribose
+,EXPT03093,,Thiamine pyrophosphate
+,DBSALT002202,,Cholesteryl sulphate
+,EXPT00991,,HSCoA
+,EXPT01537,,6-O-phosphono-α-D-glucopyranose
+,EXPT00090,,5-{2-fluoro-5-[3-(3-hydroxy-2-methoxycarbonyl-phenoxy)-propenyl]-phenyl}-isoxazole-3-carboxylic acid
+,EXPT01433,,Aldos
+,EXPT01708,,Phenylpropanoate
+,EXPT03050,,(6S)-THFA
+,DB06425,,Swainosine
+,DB03579,,"D-pyridoxyl-N,O-cycloserylamide-5-monophosphate"
+,EXPT00549,,4-aminophthalhydrazide
+,EXPT02747,,D-Ribose 5-phosphate
+,DB08863,,PGD2
+,EXPT00513,,(S)-alpha-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid
+,EXPT00544,,ADPR
+,EXPT00844,,D-glucosyl-β-(1-4)-D-glucose
+,EXPT00325,,2-(3-{5-[AMINO(IMINIO)METHYL]-1H-BENZIMIDAZOL-2-YL}-5-BROMO-4-OXIDOPHENYL)SUCCINATE
+,EXPT03240,,n-hydroxy-2-[(4-methoxy-benzenesulfonyl)-pyridin-3-ylmethyl-amino]-3-methyl-benzamide
+,EXPT02565,,Glyme 4
+,EXPT00528,,Carboxymethoxylamine
+,EXPT01225,,"N,N-Dimethylaminoacetic acid"
+,EXPT00994,,bis[5-chloro-1h-indol-2-yl-carbonyl-aminoethyl]-ethylene glycol
+,EXPT00941,,"cholesteryl (9Z,12Z-octadecadienoate)"
+,EXPT01935,,"1H-indole-2,3-dione"
+,EXPT01483,,1-[(2R)-1-hydroxy-4-phenylbutan-2-yl]-1H-imidazole-4-carboxamide
+,EXPT02848,,(4s)-7-azabisabolene
+,EXPT01435,,Fidarestat(stereoisomer)
+,EXPT01311,,Daidzoside
+,EXPT00996,,"2-(1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl) ethyl-4-(4'-ethoxy [1,1'-biphenyl]-4-yl)-4-oxobutanoic acid"
+,EXPT03229,,VA
+,EXPT00935,,Chlorophyll
+,EXPT02517,,MoCo
+,EXPT02621,,Pyridoxamine phosphate
+,EXPT00068,,N-butyl alcohol
+,DB01769,,S-Sulfinocysteine
+,EXPT02574,,"R-1,2-propanediol"
+,EXPT01181,,D-Glutaminsäure-5-amid
+,EXPT02179,,Propanedioic acid
+,EXPT01293,,"D-threo-1,4-dimercapto-2,3-butanediol"
+,EXPT01355,,Equilin
+,EXPT02549,,Phenylethanol
+,EXPT02710,,Pyridoxine 5-phosphate
+,EXPT01185,,Dihydroquercetin
+,EXPT00116,,2-FLUORO-2-DEOXY-BETA-D-GALACTOPYRANOSE
+,DB02539,,Etiron
+,EXPT02921,,Methionine Sulfoxide
+,EXPT02252,,Amylotetraose
+,EXPT01504,,FTP
+,EXPT02559,,Platelet-activating factor
+,EXPT02507,,PBG
+,EXPT02794,,D(−)-mandelic acid
+,EXPT02636,,Protoporphyrin IX
+,DB12437,,"6-Oxo-8,9,10,11-Tetrahydro-7h-Cyclohepta[C][1]Benzopyran-3-O-Sulfamate"
+,EXPT02131,,Daivonex
+,EXPT00688,,beta-galactose-6-phosphate
+,DB04536,,"Guanosine-3',5'-monophosphate"
+,DB04402,,Isopropanol
+,EXPT01362,,Panzem
+,EXPT01033,,Selenium cysteine
+,EXPT02486,,4-aminobenzoic acid
+,EXPT02265,,Myricitin
+,EXPT01603,,β-D-glucose
+,EXPT00134,,Deoxyinosine
+,DB12913,,Nomega-Hydroxy-nor-L-arginine
+,EXPT02326,,Neopterin D-threo-form
+,EXPT00974,,Hexadecyl N-octanoate
+,EXPT01737,,HGA
+,EXPT00831,,Cytosine arabinoside monophosphate
+,DB04412,,DNP-SGc
+,EXPT02119,,MAFP
+,EXPT02527,,Deoxyamidinoproclavaminate
+,EXPT00745,,HBPG
+,EXPT01913,,IPMP
+,EXPT00596,,s-(-)-n-acetylalanine
+,EXPT01132,,diethyldithiocarbamic acid
+,EXPT00380,,[2-(AMINO-OXY)ETHYL](5'-DEOXYADENOSIN-5'-YL)(METHYL)SULFONIUM
+,EXPT00959,,Cyclic AMP
+,DB08850,,ω-aminobutyric acid
+,DB04305,,2-Methyl-propionic acid
+,EXPT02902,,Vorinostatum
+,EXPT02834,,Sorbitol-6-phosphate
+,EXPT01799,,S-hexanoyl-coenzyme-A
+,EXPT02468,,"6-(2,6-dichlorophenyl)-8-methyl-2-{[3-(methylthio)phenyl]amino}pyrido[2,3-d]pyrimidin-7(8H)-one"
+,DB07442,,Peldesine
+,EXPT00484,,Vinylformic acid
+,EXPT02566,,pentaethyleneglycol dimethyl ether
+,EXPT01467,,Forskolin
+,EXPT00394,,α-abequopyranose
+,EXPT01140,,Deoxyribose cytidine
+,EXPT01591,,p-hydroxyphenylglycine
+,EXPT02004,,LatA
+,EXPT02071,,Xylitol 5-phosphate
+,EXPT00033,,p-Nitrophenyl-beta-D-galactoside
+,EXPT03310,,Terlipressinum
+,EXPT02256,,7-(α-D-glucopyranosyloxy)-4-methyl-2H-1-benzopyran-2-one
+,EXPT02073,,2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one
+,EXPT03088,,"(1R,2S)-tranylcypromine(1+)"
+,EXPT00608,,Vitamin B 12 factor IIIm
+,EXPT01558,,N-choloylglycine
+,EXPT01093,,oxidized dithiothreitol
+,EXPT02307,,Nicotinic amide
+,EXPT01507,,Ramycin
+,EXPT02968,,trans-resveratrol
+,EXPT03160,,Uridine 3'-phosphate
+,EXPT01342,,2-(ethylmercuriothio)benzoic acid
+,EXPT00610,,β-D-Galp-(1→4)-β-D-Galp
+,EXPT02364,,N-amidinoglycine
+,EXPT02727,,"1,2-Diazole"
+,EXPT00559,,"9-Hydroxypropyladenine, R-Isomer"
+,EXPT01702,,(S)-2-acetoin
+,EXPT03163,,Arabinouridine 3'-Phosphate
+,EXPT02819,,D-2-keto-3-deoxygalactonate
+,EXPT00124,,Dihydrogenphosphate ion
+,EXPT00308,,9-amino-N-(3-dimethylaminopropyl)acridine-4-carboxamide
+,EXPT01520,,glucose-1-phosphate
+,EXPT02664,,γ-thioproline
+,EXPT01248,,L-domoic acid
+,EXPT01259,,DPR
+,EXPT00003,,N-(3-Propylcarbamoyloxirane-2-carbonyl)-isoleucyl-proline
+,EXPT01622,,Guo
+,EXPT01080,,(-)-calyculin A
+,EXPT03128,,TTNPB
+,EXPT00658,,Tricyclazone
+,EXPT02248,,MMPR
+,EXPT02088,,Man6P
+,EXPT01199,,Dihydrotestosterone
+,EXPT00059,,S-Propionylcoenzyme A
+,EXPT02019,,"D-limonene 1,2-epoxide"
+,DB01660,,gamma-Thio-ATP
+,EXPT00064,,(-)-Bicalutamide
+,EXPT02086,,diethylene glycol dimethyl ether
+,EXPT01842,,α-L-iduronic acid
+,EXPT01780,,Tript-OH
+,DB01869,,L-rhamnose
+,EXPT01578,,Antibiotic GE 2270A
+,EXPT00823,,Hydroxydimethylarsine oxide
+,EXPT02741,,Metribolone
+,EXPT00545,,"9-Hydroxypropyladenine, S-Isomer"
+,EXPT01906,,4-iodophenol
+,EXPT00575,,p-arsanilic acid
+,EXPT01349,,Epothilone B
+,EXPT02006,,Vulvic acid
+,EXPT00184,,(S)-(+)-1-Octen-3-ol
+,EXPT03256,,R-Ofloxacin
+,EXPT03177,,Uridine-5'-diphosphate-glucuronic acid
+,EXPT03297,,Dazoxibenum
+,EXPT02127,,Tribromomethane
+,EXPT02934,,o-Aminobenzylic alcohol
+,EXPT00820,,S-acetoacetyl-coenzyme A
+,EXPT01215,,D-Milchsäure
+,EXPT03280,,Pyrimidin-2-one ribonucleoside
+,DB11307,,α-hydroxyacetic acid
+,EXPT00247,,Pyroglutamic Acid
+,DB11931,,Scyllitol
+,EXPT01166,,4-Phosphoerythronate
+,EXPT00412,,Acetylcholine Chloride
+,EXPT02010,,Perchlorate Ion
+,EXPT01391,,Riboflavin 5'-adenosine diphosphate
+,EXPT01175,,Glucuronic acid
+,EXPT01980,,2-ketopropyl-CoM
+,DB04184,,Vinegar
+,EXPT03017,,Tubercidine
+,EXPT02630,,Propanol
+,EXPT01852,,"3,5-dichloro-4-(4-hydroxy-3-isopropylphenoxy)phenylacetic acid"
+,EXPT00250,,ethyl 4-cyanophenylalaninate
+,EXPT02965,,Stearinsaeure
+,EXPT01139,,D-Zystein
+,EXPT01236,,DNJ
+,EXPT02456,,Oxonic Acid
+,EXPT02068,,L-vinylglycine
+,EXPT01288,,Deoxyadenosine triphosphate
+,EXPT01142,,2-(3-Carboxyamido-3-(Trimethylammonio)Propyl)Histidine
+,EXPT01290,,DTR
+,EXPT01458,,Vitamin B2 phosphate
+,EXPT01219,,D-Lysin
+,EXPT01917,,PHOH
+,EXPT01470,,"N-{[4-({[(6R)-2-amino-5-formyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)phenyl]carbonyl}-L-glutamic acid"
+,EXPT01137,,Deoxycytidine triphosphate
+,EXPT02681,,Pentanedial
+,EXPT02187,,α-maltotriose
+,EXPT01510,,6-Deoxy-Beta-L-Galactose
+,EXPT00542,,D-2-Amino-3-phosphonopropionic acid
+,EXPT02917,,"Alpha(2,3) Sialyl Lactose"
+,EXPT02959,,D-2-keto-3-deoxygluconate
+,EXPT02344,,CHES
+,DB09544,,Oxiglutatione
+,EXPT01505,,5-Fluoro-L-tryptophan
+,EXPT00169,,Guanylic acid
+,EXPT00882,,(S)-2-Amino-3-(3-Hydroxy-5-Tert-Butyl-Isoxazol-4-Yl)Propionic Acid
+,EXPT02111,,Maltose anhydrous
+,DB03131,,2-Sulfhydryl-Ethanol
+,EXPT01794,,HupB
+,EXPT02313,,hexaamminecobalt(3+)
+,EXPT01037,,CSR
+,EXPT01870,,"Hexahydro-2-imino-1h-thieno(3,4-d)imidazole-4-pentanoic acid"
+,EXPT02923,,L-mandelic acid
+,EXPT02279,,N-acetyl-L-proline
+,EXPT02553,,3-phenyl-3-({[4-(4-pyridin-4-ylphenyl)thien-2-yl]carbonyl}amino)propanoic acid
+,EXPT03135,,Tyrosinamide
+,EXPT02611,,PLY
+,EXPT01041,,S-oxocysteine
+,EXPT01811,,IP3
+,EXPT00796,,pC
+,EXPT01720,,protohemin
+,EXPT00168,,γGluCys
+,EXPT00215,,benzotetronic acid
+,EXPT00673,,Bestatin
+,EXPT00874,,Diphosphatidylglycerol
+,EXPT03016,,Tazobactam Trans-Enamine Intermediate
+,EXPT00470,,N-BENZYL-3-(ALPHA-D-GALACTOS-1-YL)-BENZAMIDE
+,EXPT02836,,5'-[N-[(3s)-3-Amino-3-Carboxypropyl]-N-Methylamino]-5'-Deoxyadenosine
+,EXPT02494,,phosphonoacetyl-L-aspartic acid
+,EXPT03252,,zeaxanthin diepoxide
+,DB04550,,"delta-bis(2,2'-bipyridine)imidazole osmium (II)"
+,EXPT00998,,Flavopiridol
+,EXPT01576,,Uridinediphosphogalactose
+,DB03334,,α-D-galacturonic acid
+,EXPT03299,,Compound 776C
+,EXPT02156,,"3,5-Dihydroxy-3-methylvaleric acid"
+,EXPT01967,,α-KDop
+,DB02387,,meta-tyrosine
+,EXPT02942,,Spermidin
+,EXPT00365,,α-GalpNAc
+,EXPT00774,,Propylformic acid
+,EXPT03307,,PCP
+,DB03599,,4-Thio-β-D-glucopyranose
+,EXPT02440,,Oxyphenbutazonum
+,EXPT02707,,Pyruvic aldehyde
+,DB03838,,N-decanoic acid
+,DB12922,,Triiodothyroacetic acid
+,EXPT00229,,S-rolipram
+,EXPT00754,,Diminazine aceturate
+,EXPT00979,,Methylcobalamin
+,EXPT02786,,Xylostasin
+,DB07690,,Desoxycholsäure
+,EXPT01298,,"2,4(1h,3h)-pyrimidinedione, 1-[2-deoxy-5-o-[hydroxy(phosphonoamino)phosphinyl]-beta-d-erythro-pentofuranosyl]-"
+,EXPT00171,,3-Oxyanthranilic acid
+,EXPT01991,,Archaeol
+,EXPT03078,,Trinitrophenol
+,EXPT02024,,β-D-galacturonic acid
+,EXPT00085,,Tribenuron-methyl
+,EXPT02080,,n-butylamine
+,EXPT02587,,p-iodophenylalanine
+,EXPT03194,,"[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methyl [[[[[(2R,3S,4R,5R)-5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl] hydrogen phosphate"
+,EXPT03155,,Uridine-5'-monophosphate
+,EXPT03312,,1-(2-(bis(p-fluorophenyl)methoxy)ethyl)-4-(3-phenylpropyl)piperazine
+,EXPT00441,,APS
+,DB02344,,α-Neu5Ac
+,EXPT00054,,Chlorodracylic acid
+,EXPT02319,,α-GlcNAc
+,EXPT03072,,Trometamol
+,DB11070,,Docosahexaenoic acid
+,EXPT01239,,DNQX
+,EXPT00808,,"Cytidine, 2'-phosphate"
+,EXPT02641,,Propionic acid
+,EXPT01152,,Lentysine
+,DB04319,,α-D-quinovopyranose
+,EXPT00138,,L-lactaldehyde
+,DB08243,,Acetphenetidin
+,EXPT02607,,Palmitinsaeure
+,EXPT03187,,dUMP
+,EXPT02042,,(3R)-3-methyl-L-glutamic acid
+,EXPT01465,,L-Fucitol
+,EXPT01102,,"L-2,4-Diaminobutyrate"
+,EXPT01331,,L-epigallocatechin
+,EXPT02782,,R6G
+,EXPT03014,,Tazobactam Intermediate
+,EXPT01295,,D-Tyrosin
+,EXPT01444,,Paraformaldehyde
+,EXPT00732,,benzenesulphinic acid
+,EXPT00920,,cis-4-cyano-4-(3-(cyclopentyloxy)-4-methoxyphenyl)cyclohexanecarboxylic acid
+,EXPT00969,,Zineol
+,EXPT02816,,RR6 azo-dye hapten
+,EXPT01229,,(-)-2-difluoromethylornithine
+,EXPT02958,,"1,4-deoxy-1,4-dithio-beta-D-glucopyranose"
+,DB02003,,"delta-bis(2,2'-bipyridine)imidazole ruthenium (II)"
+,EXPT02245,,MT-ImmH
+,EXPT02168,,malachite green(1+)
+,EXPT00188,,tripolyphosphoric acid
+,EXPT01381,,"N-{N-[O-(7,8-didemethyl-8-hydroxy-5-deazariboflavin phospho)-(S)-lactyl]-γ-L-glutamyl}-L-glutamate"
+,EXPT00279,,CP-955
+,EXPT02523,,CPRPP
+,EXPT02629,,Phosphocholine cation
+,EXPT00050,,2-acetamido-2-deoxy-6-O-phosphono-D-glucopyranose
+,EXPT01145,,D-manno-Deoxynojirimycin
+,EXPT01655,,mRNA cap analog N7-Methyl GpppG
+,EXPT00847,,Chlorobiocin
+,EXPT02759,,(4r)-7-azabisabolene
+,EXPT00500,,D-Allose
+,EXPT00638,,Cyclomaltoheptaose
+,EXPT01781,,phosphoric acid mono-[2-amino-3-(3H-imidazol-4-yl)-propyl]ester
+,EXPT03210,,Uridine triphosphate
+,DB14032,,Clorgyline
+,EXPT02685,,ψ-tropine
+,EXPT01113,,D-Arginin
+,EXPT03143,,α-tyvelopyranose
+,EXPT02982,,SVA
+,EXPT01357,,Provitamin D2
+,EXPT01706,,p-Coumaric acid
+,EXPT01974,,alpha-Ketovaline
+,EXPT02107,,2-deoxy-2-fluoro-alpha-D-mannose
+,EXPT00193,,Compound 6
+,EXPT03300,,Fotemustinum
+,EXPT01999,,6-O-β-D-galactopyranosyl-D-glucopyranose
+,EXPT00684,,beta-D-glucose-6-phosphate
+,EXPT02115,,Goldinomycin
+,EXPT00395,,β-D-arabinofuranose 5-phosphate
+,EXPT02720,,Pyridylmethanol
+,EXPT00228,,R-rolipram
+,DB11055,,Pyrophosphorsäure
+,DB04056,,Vitamin L1
+,EXPT02358,,N-acetyl-L-glutamine
+,DB03519,,L-Norvaline
+,EXPT02118,,Dibenzylbutyrolactone lignanolide
+,DB11615,,Decamethylenebis(4-aminoquinaldinium chloride)
+,EXPT02732,,"3,5,7,3',4'-Pentahydroxyflavone"
+,EXPT02057,,L-C-Propargylglycine
+,DB11287,,Didecyldimonium
+,EXPT02387,,NRG
+,EXPT01305,,"1,2-HYDRO-1-OXY-3,4-HYDRO-3-(1-METHOXY-2-OXY-3,4-DIHYDROXYPENTYL)-8,9-DIHYDROXY-7-(SEC-BUTYL)-ANTHRACENE"
+,EXPT00613,,β-D-Galp-(1→4)-β-D-Galp-(1→4)-β-D-Galp
+,EXPT02495,,zoomaric acid
+,EXPT01322,,"22-24-DIENE-24A,26A,27A,TRIHOMO-1ALPHA,25-DIHYDROXYVITAMIN D3"
+,EXPT02915,,β-Neu5Ac
+,EXPT00922,,Citronensäure
+,EXPT01525,,2-DEOXY-2-FLUORO-GLUCOSE
+,EXPT02506,,Stachydrine
+,EXPT02787,,β-D-ribopyranose
+,EXPT01097,,L-4-hydroxyphenylglycine
+,EXPT01560,,Xylosecarboxylic acid
+,EXPT01178,,P-hydroxy-d-phenylglycine
+,EXPT00104,,D-methyl aspartic acid
+,EXPT02542,,β-phenethylamine
+,DB12496,,Glycerone phosphate
+,EXPT01201,,"1,8-Octylenediamine"
+,EXPT03094,,Topa quinone
+,EXPT02378,,Ribonosine
+,DB02476,,S-carboxymethylcysteine
+,EXPT02065,,Riboflavin lumichrome
+,EXPT02573,,"S-1,2-Propanediol"
+,EXPT02785,,FO 7314
+,EXPT02809,,β-D-ribofuranose 5-phosphate
+,EXPT01715,,Methyldiimide
+,EXPT01701,,(R)-dimethylketol
+,EXPT01039,,S-Sulfocysteine
+,EXPT03230,,2-amino-3-methylbutan-1-ol
+,EXPT01749,,"(8,12-Diethyl-3,8,13,17-Tetramethyl-7-Oxo-Porphyrinato-2,18-Dipropionic Acid)Iron(III)"
+,EXPT01135,,Hydroxydichlorodiphenyl ether
+,DB09294,,α-hydroxypropionic acid
+,EXPT01698,,Quinonoid dihydrobiopterin
+,EXPT02655,,hydrocinnamylamine
+,EXPT00146,,"N(6)-(1,2-dicarboxyethyl)AMP"
+,EXPT02355,,D-2-aminohexanoic acid
+,EXPT03275,,3-fluoro-L-tyrosine
+,EXPT00784,,BVP
+,EXPT02701,,Purine riboside
+,EXPT00114,,6-amino-2-fluoro-9-β-D-ribofuranosylpurine
+,EXPT00497,,tetrafluoroaluminate(1−)
+,DB11214,,Red mercuric iodide
+,EXPT01291,,"2,3-dihydroxy-1,4-dithiobutane"
+,EXPT03008,,trihydroxyarsenite(III)
+,EXPT00993,,"5,10,15,20,22,24-hexahydro-3,8,13,17-tetramethyl-21H,23H-porphine-2,7,12,18-tetrapropanoic acid"
+,EXPT02425,,4-OHT
+,EXPT02121,,2-deoxy-2-fluoro-beta-D-mannose
+,EXPT02590,,L-2-Amino-3-phenylpropan-1-ol
+,EXPT03053,,thymine deoxyriboside
+,EXPT01581,,Guanidinoethyl-Mercaptosuccinic Acid
+,EXPT02435,,OMO
+,EXPT03145,,Para acetamido benzoic acid
+,EXPT00824,,OR7980
+,EXPT00187,,D-glycerate 3-phosphate
+,EXPT02413,,Octylic acid
+,EXPT02883,,Phosphonoserine
+,EXPT02180,,S-(Hydrogen malonyl)coenzyme A
+,EXPT00462,,3-Hydroxyasparagine
+,EXPT01235,,Dinitrophenol
+,EXPT00179,,L-threo-3-Methylaspartate
+,EXPT00945,,Cholesterin
+,EXPT01847,,Isofagomine
+,EXPT01395,,"β-D-fructofuranose 1,6-bisphosphate"
+,EXPT02331,,Niflugel
+,EXPT02023,,Glucono-delta-lactone
+,EXPT01874,,Cytosine inosinate
+,DB04570,,Oxa-cephem
+,DB04571,,trisoralen
+,DB05375,,Trihydroxyestrin
+,DB04574,,"Estrone, hydrogen sulfate"
+,DB04575,,Quinestrolum
+,DB04576,,Quinodis
+,DB04577,,C-(1-Phenyl-cyclopentyl)-methylamine
+,DB04581,,N-Benzylimidazole
+,DB04584,,alpha-Aminocinnamate
+,DB04586,,o-bromophenol
+,DB04599,,1-P-ANISOYL-2-PYRROLIDINONE
+,DB04610,,Analogue of Pterin Substrate
+,DB04620,,Cycloleucin
+,DB04626,,Nebramycin II
+,DB04627,,"O2,2'-Cyclouridine"
+,DB04628,,NAA-(1-4)NAA-(1-4)AMI
+,DB04630,,Elektrocortin
+,DB04631,,AT5
+,DB04633,,BE3
+,DB04640,,"naphthalene-2,6-disulphonic acid"
+,DB04646,,DBMIB
+,DB04648,,BPE
+,DB04652,,Reichstein's substance H
+,DB04657,,CBX
+,DB04660,,sn-Glycero-3-phosphocholine
+,DB04661,,"(2S,3R,4E)-n-nervonic-1-[beta-d-(3-sulfate)-galactopyranosyl]-2-amino-octadecene-3-ol"
+,DB04664,,CYMAL-5
+,DB04665,,Cumarin
+,DB04672,,d4TMP
+,DB04676,,Nepsilon-Dansyl-L-lysine
+,DB04682,,Anapoe-305
+,DB04688,,Ecgonine methyl ester
+,DB04690,,D-camptothecin
+,DB04694,,"2,6-anhydro-3-deoxy-3-fluoro-l-arabino-d-galacto-nononic acid"
+,DB04699,,γ-butyrolactone
+,DB04707,,Hydroxy-Fasudil
+,DB04711,,Adipiodonum
+,DB04713,,D-p-Iodophenylalanine
+,DB04718,,JS5
+,DB04725,,ML3000
+,DB04734,,α-methylmaleic acid
+,DB04738,,nodularin-V
+,DB04741,,"(2Z,6E)-7-{2'-[(2E,4E)-1,6-DIMETHYLHEPTA-2,4-DIENYL]-2,4'-BI-1,3-THIAZOL-4-YL}-3,5-DIMETHOXY-4-METHYLHEPTA-2,6-DIENAMIDE"
+,DB04746,,"10E,Z12-CLA"
+,DB04751,,Purv
+,DB04752,,PEth
+,DB04776,,Aftin-4
+,DB04777,,(R)-PARA-NITROSTYRENE OXIDE
+,DB04780,,SULFOGALACTOCERAMIDE
+,DB04781,,delta-hydroxyvaleric acid
+,DB04782,,SNO
+,DB04784,,(R)-α-methylbenzyl alcohol
+,DB04785,,Portamycin
+,DB04786,,Suramine
+,DB04788,,"(1R,4R,5R,6R,7S,8R)-6-ACETOXY-7-AMINO-4-CARBAMOYL-4-HYDROXY-8-(PHOSPHONOOXY)-9-OXA-3-THIABICYCLO[3.3.1]NONANE-1-CARBOXYLIC ACID"
+,DB04789,,N5-Methyltetrahydropteroylglutamate
+,DB04790,,"2,5-O,O-BIS-(3',3""-AMIDINOPHENYL)-1,4:3,6-DIANHYDRO-D-SORBITOL"
+,DB04794,,Trifonazole
+,DB04795,,TTFA
+,DB04796,,"9,10-seco-14bh-19-norcholesta-5(z),7(e)-dien-1(r),3(r),25-triol-23-yne"
+,DB04799,,UHDBT
+,DB04805,,Virginiamycin factor S1
+,DB04808,,Neomycin A
+,DB04812,,DL-benoxaprofen
+,DB04813,,Bitionol
+,DB04814,,Bunamiodylum
+,DB04815,,Iodochloroxyquinoline
+,DB04816,,Dantron
+,DB04819,,Thenylpyramine
+,DB04820,,Pyridine-4-carboxylic 2-[2-(benzylcarbamoyl)ethyl]hydrazide
+,DB04821,,Nomifensinum
+,DB04822,,Oxeladinum
+,DB04823,,Oxyphenisatinum
+,DB04824,,Yellow phenolphthalein
+,DB04825,,Prenylaminum
+,DB04826,,Thenophenopiperidine
+,DB04827,,Urethanum
+,DB04828,,Zomepiracum
+,DB04829,,"N,n-diethyllysergamide"
+,DB04830,,Buforminum
+,DB04831,,Tienilico acido
+,DB04832,,Zimeldine
+,DB04837,,Clofedianolo
+,DB04838,,Cyclandelatum
+,DB04839,,Cyproterone 17-O-acetate
+,DB04840,,Isocaramidine
+,DB04841,,Flunarizinum
+,DB04842,,Imap
+,DB04843,,Mepenzolic acid
+,DB04844,,Tetrabenazinum
+,DB04845,,Azaepothilone B
+,DB04846,,"RS)-N'-{3-acetyl-4-[3-(tert-butylamino)-2-hydroxypropoxy]phenyl}-N,N-diethylurea"
+,DB04851,,biricodar
+,DB04852,,AEGR427
+,DB04853,,MRE 0470
+,DB03786,,Febuxostatum
+,DB04855,,SR 33589b
+,DB04856,,CR 2017
+,DB04858,,"3-Amino-1,2,4-benzotriazine 1,4-dioxide"
+,DB04859,,Zanepezil
+,DB04860,,7-TOG
+,DB04861,,Nebivololum
+,DB04862,,MMPD
+,DB01928,,selagine
+,DB04865,,Homoharringtonine
+,DB04866,,(+/-)-trans-7-bromo-6-chloro-3-(3-(3-hydroxy-2-piperidyl)-acetonyl)-4(3H)-quinazolinone
+,DB04868,,Nilotinibum
+,DB04870,,Oleoylestrone
+,DB04871,,Lorqess
+,DB04874,,(SP-4-3)-Amminedichloro(2-methylpyridine)platinium
+,DB04876,,Xiliarx
+,DB04877,,Vocamine
+,DB04878,,Basen
+,DB04879,,PTK/ZK
+,DB04880,,Perfan
+,DB04882,,Edotecarinum
+,DB04884,,Dapoxetinum
+,DB04886,,(+/-)-calanolide A
+,DB04887,,BCV
+,DB04888,,Bifeprunoxum
+,DB04890,,TAU-284DS
+,DB04892,,(-)-phenserine
+,DB04894,,Vapreotidum
+,DB04895,,Pegaptanib sodium
+,DB04896,,Milnacipranum
+,DB04897,,KL4-surfactant
+,DB04898,,Ximelagatranum
+,DB04899,,Nesiritide recombinant
+,DB04900,,Thymosin alpha1 (human)
+,DB04901,,Anti-CD80 monoclonal antibody
+,DB04904,,ZYC101a
+,DB04905,,"N,N-diethyl-2-((4-phenylmethyl)phenoxy)ethanamine"
+,DB04907,,Sitimagene ceradenovec
+,DB04908,,BIMT-17-BS
+,DB04909,,WR-6026
+,DB04910,,Oxybendazole
+,DB04911,,Chlorobiphenyl-chloroeremomycin
+,DB04912,,tin-mesoporphyrin
+,DB04914,,Gastrin 17 vaccine
+,DB04915,,Phenoxodiol
+,DB04918,,Ceftobiprole Medocaril 
+,DB04920,,Clevidipine butyrate
+,DB04924,,N-(p-(2-(Dimethylamino)ethoxy)benzyl)veratramide
+,DB04925,,DSPA
+,DB04930,,Permethrin
+,DB04931,,MT-I
+,DB04932,,Defibrotide free acid (porcine)
+,DB04934,,3'-hydroxy-5'-(4-isobutyl-1-piperazinyl)benzoxazinorifamycin
+,DB04936,,D-tagatose
+,DB04938,,Deamino-hydroxytoremifene
+,DB04941,,SP-303
+,DB03873,,retinobenzoic acid
+,DB04944,,AICA-riboside
+,DB04946,,Zomaril
+,DB04948,,Lofexidinum
+,DB04949,,h5G1.1-SC
+,DB04953,,RTG
+,DB04956,,MAK 195F
+,DB04958,,humanised anti-CD22 antibody
+,DB04959,,HPV E7 Peptide Epitope Vaccine
+,DB04960,,Zarnestra
+,DB04961,,(-)-ODDC
+,DB04963,,Recombinant human GAD65
+,DB04964,,Oregovamab
+,DB04967,,Lucantona
+,DB04970,,Lesopitran
+,DB04971,,JTT-501
+,DB04975,,AQ4N
+,DB04977,,plitidepsium
+,DB04998,,AS1411
+,DB05004,,PYY 3-36
+,DB05013,,ingenol mebutate
+,DB05016,,EC-000.2051
+,DB05029,,Duramycin
+,DB05034,,Urodilatin ularitide
+,DB05041,,BVDU
+,DB05045,,(34-L-glutamine)pancreatic hormone (human)
+,DB03922,,N-(4-Hydroxyphenyl)All-Trans Retinamide
+,DB05088,,ATN-224
+,DB05097,,monoclonal antibody hMN-14
+,DB05103,,Pivanex
+,DB05107,,16alpha-bromoepiandrosterone
+,DB05109,,Ecteinascidin 743
+,DB05128,,NXL-201
+,DB06398,,17AAG
+,DB05143,,OXI4503
+,DB05144,,malaria vaccine
+,DB05145,,ThGLP-1
+,DB05152,,AF267B
+,DB05207,,NSL-043
+,DB05209,,Symphoglobulin-D
+,DB05237,,rhMBP
+,DB05242,,NUC B1000
+,DB05245,,Sulfadiazine silver salt
+,DB05246,,"N,2-Dimethyl-2-phenylsuccinimide"
+,DB05252,,Fenoxaprop ethyl
+,DB05253,,Progenta
+,DB08977,,Plasmin bovine
+,DB05258,,Interferon alpha
+,APRD00999,,Copolymer-1
+,DB05260,,"Nitric acid, gallium salt, anhydrate"
+,DB05262,,Oxyprim
+,DB05265,,Ecabet sodium
+,DB05066,,Ibudilastum
+,DB05271,,"(6S)-6-(propyl(2-(2-thienyl)ethyl)amino)-5,6,7,8-tetrahydro-1-naphthalenol"
+,DB05273,,Samarium-153-EDTMP
+,DB05276,,Human hepatitis-B immunoglobulin
+,DB12936,,(R)-flurbiprofen
+,DB08764,,N-(4-Bromo-2-fluorophenyl)-6-methoxy-7-((1-methylpiperidin-4-yl)methoxy)quinazolin-4-amine
+,DB05295,,"1α,25-dihydroxy-2β-(3-hydroxypropoxy)cholecalciferol"
+,DB05296,,Motexafin lutetium anhydrous
+,DB05297,,Paclitaxel docosahexaenoic acid ester
+,DB05306,,Ad5FGF-4
+,DB05319,,VB4-845
+,DB11887,,(2R)-2-propyloctanoic acid
+,DB05344,,Human CNTF
+,DB05351,,"2-((R)-((3-methyl-4-(2,2,2-trifluoroethoxy)-2-pyridinyl)methyl)sulfinyl)-1H-benzimidazole"
+,DB05612,,Rintega
+,DB05377,,Ester sulfonate
+,DB05380,,Holmium Ho-166 DOTMP
+,DB00667,,beta-aminoethylimidazole
+,DB05247,,molecular iodine
+,DB02533,,Hydrazinecarboximidamide
+,DB05384,,Carbopol polymer
+,DB05385,,PRO 2000/5
+,DB05389,,Tetrachlorodecaoxygen
+,DB05394,,Human corticotropin-releasing factor
+,DB05396,,Albumin-interferon alpha
+,DB05413,,Peptide T1249
+,DB13015,,GW 501516
+,DB05422,,PRS-013
+,DB05431,,PEP-03
+,DB05448,,1-methylpropyl 2-imidazolyl disulfide
+,DB05454,,"1-[2-(biphenyl-4-yl)ethyl]-4-[3-(trifluoromethyl)phenyl]-1,2,3,6-tetrahydropyridine"
+,DB12215,,gamma-Glutamyl-S-(benzyl)-cysteinyl-R(-)-phenylglycine diethyl ester
+,DB05463,,ISS 1018 CpG ODN
+,DB05478,,Pradefovir mesilate
+,DB05481,,Recombinant alpha 1-antitrypsin
+,DB05488,,Technetium Tc 99m ciprofloxacin
+,DB05490,,INT-131
+,DB05513,,azaspirane
+,DB05520,,N-(2-Hydroxy-3-methoxy-5-chlorobenzylidene)huperzine A
+,DB05521,,"(1S,3AR,6as)-(2S)-2-cyclohexyl-N-(pyrazinylcarbonyl)glycyl-3-methyl-L-valyl-N-((1S)-1-((cyclopropylamino)oxoacetyl)butyl)octahydrocyclopenta(c)pyrrole-1-carboxamide"
+,DB05524,,(2E)-N-(4-((3-chloro-4-fluorophenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethylamino)-2-butenamide
+,DB05525,,EW-A-401 DNA Plasmid Vector
+,DB05540,,L-Alanosine
+,DB05549,,"(9-(N-(3-Morpholinopropyl)-sulfonyl)-5,6-dihydro-5-oxo-11-H-indeno (1,2-C) isoquinoline methanesulfonic acid"
+,DB05552,,"6,7-Bis(3-hydroxyphenyl)pteridine-2,4-diamine"
+,DB05555,,7F3com2H2
+,DB05590,,KUR-1246
+,DB05595,,Fareletuzumab
+,DB05599,,"Fibroblast growth factor, acidic"
+,DB05624,,Antarelix
+,DB05630,,"Trisodium 1-{[3-carboxylato-5-(1,2-dihydroxyethyl)-1-hydroxy-2,6,7-trioxa-1lambda(5)-stibabicyclo[2.2.1]hept-1-yl]oxy}-5-(1,2-dihydroxyethyl)-1-oxido-2,6,7-trioxa-1lambda(5)-stibabicyclo[2.2.1]heptane-3-carboxylate nonahydrate"
+,DB05631,,"4,4-Dimethyl-3,4-dihydro-2H-1,2-benzoselenazine"
+,DB05633,,GPE
+,DB05642,,DDP225
+,DB05644,,SN1212
+,DB05659,,SUN-208
+,DB05660,,XG-102 C-terminal acid
+,DB05675,,EP 2104R
+,DB05676,,"N-{2-[(1S)-1-(3-Ethoxy-4-methoxyphenyl)-2-(methylsulfonyl)ethyl]-1,3-dioxo-2,3-dihydro-1H-isoindol-4-yl}acetamide"
+,DB05679,,Stelera
+,DB05683,,Iodofiltic acid I 123
+,DB05708,,DMXB-Anabaseine
+,DB05710,,AV430A
+,DB05713,,PMD-3112
+,DB05714,,TGN 255
+,DB05719,,STA-4783
+,DB05732,,NB S101
+,DB12164,,Varespladib methyl ester
+,DB05773,,Trastuzumab-MCC-DM1
+,DB05777,,Thrombomodulin (human 498-amino acid fragment)
+,DB05779,,α-Glu-Trp
+,DB11733,,HMAF
+,DB05794,,Recombinant human relaxin
+,DB12995,,"((3S)-3-{1-((2R)-2-Ethoxycarbonyl-4-phenylbutyl)cyclopentanecarboxamido}-2-oxo-2,3,4,5-tetrahydro-1H-1-benzazepin-1-yl)acetic acid"
+,DB05800,,Betathine
+,DB05804,,Prasterone sulphate
+,DB05806,,Karenitecin
+,DB05812,,"17-(3-Pyridyl)androsta-5,16-dien-3beta-ol"
+,DB12324,,Onrigin
+,DB05829,,rPTH(1-84)
+,DB05830,,Trestolonum
+,DB05855,,trans-metanicotine
+,DB05861,,TASQ
+,DB05869,,"Pyruvic acid, ethyl ester"
+,DB12175,,"(2S)-2-((4S)-4-(2,2-Difluoroethenyl)-2-oxopyrrolidin-1-yl)butanamide"
+,DB05974,,trans-crocetin
+,DB05990,,6α-ethylchenodeoxycholic acid
+,DB06014,,"(P-deoxy-P-(dimethylamino)](2',3'-dideoxy-2',3'-imino-2',3'-seco)(2'a→5')(C-m5U-C-C-A-A-C-A-m5U-C-A-A-G-G-A-A-G-A-m5U-G-G-C-A-m5U-m5U-m5U-C-m5U-A-G),5'-(P-(4-((2-(2-(2-hydroxyethoxy)ethoxy)ethoxy)carbonyl)-1-piperazinyl)-N,N-dimethylphosphonamidate) RNA"
+,DB06016,,"trans-N-{4-[2-[4-(2,3-dichlorophenyl)piperazine-1-yl]ethyl]cyclohexyl}-N’,N’-dimethylurea hydrochloride"
+,DB06083,,Benvitimod
+,DB06087,,Friulimycin B
+,DB07361,,"1-(3-chlorophenyl)-3-{5-[2-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl]-1,3-thiazol-2-yl}urea"
+,DB06144,,Sertindolum
+,DB06145,,Spiramycin A
+,DB06147,,Sulphathiazole
+,DB06148,,Mianseryna
+,DB06149,,teicoplaninum
+,DB06150,,Sulphadimethoxine
+,DB05436,,NAC
+,DB06152,,Bupheninum
+,DB06153,,Pizotyline
+,DB06154,,tetranitrato de pentaeritritilo
+,DB06157,,ST-2744
+,DB06159,,RF-2000
+,DB06160,,desquinolone
+,DB06162,,Gomiliximab
+,DB06163,,BGC-9331
+,DB06168,,ACZ885
+,DB06174,,CB3304
+,DB06176,,chromodax
+,DB06178,,PT-523
+,DB06182,,PT-100
+,DB03743,,Immucillin-H
+,DB06186,,MOAB-CTLA-4
+,DB06187,,LDC-300 or LdC
+,DB06192,,TheraCIM h-R3
+,DB06193,,PIX
+,DB06194,,BXL628
+,DB06195,,R-roscovitine
+,DB06196,,HOE 140 
+,DB06197,,TBC 1269
+,DB06198,,MIV-310
+,DB06201,,Xilep 
+,DB06202,,"(-)-cis-5,6,7,8-Tetrahydro-6-phenyl-5-(p-(2-(1-pyrrolidinyl)ethoxy)phenyl)-2-naphthol"
+,DB06203,,SYR-322
+,DB06205,,Vorhyaluronidase alfa
+,DB06207,,Urief
+,DB06209,,Prasugrel
+,DB06210,,Eltrombopagum
+,DB06213,,Regadenoson anhydrous
+,DB06215,,Ferumoxytol non-stoichiometric magnetite
+,DB06217,,RSD1235
+,DB06218,,Harkoseride
+,DB06219,,dalbavancin B0
+,DB06224,,ISIS-2302
+,DB06226,,Nelipepimut S
+,DB06229,,"R 79,598"
+,DB06233,,Deforolimus
+,DB13081,,DMXAA
+,DB06236,,B-L-Fd4C
+,DB06237,,(S)-4-(3-Chloro-4-methoxybenzylamino)-2-(2-hydroxymethylpyrrolidin-1-yl)-N-pyrimidin-2-ylmethyl-5-pyrimidinecarboxamide
+,DB06241,,IDEC-151
+,DB06243,,α-difluoromethylornithine
+,DB06244,,fibroblast growth factor (FGF-2)
+,DB06246,,sulindac sulfone
+,DB06250,,HE 2500
+,DB06253,,Thioctic acid tromethamine
+,DB06255,,Incadronate
+,DB06260,,Vasoactive intestinal octacosapeptide (swine)
+,DB06261,,"Pentanoic acid, 5-amino-4-oxo-, hexyl ester, hydrochloride"
+,DB06262,,L-threo-dihydroxyphenylserine
+,DB03762,,lonidaminum
+,DB06267,,Udenafil
+,DB06268,,Sitaxsentan
+,DB06273,,Atlizumab
+,DB06274,,Anhydrous alvimopan
+,DB06281,,"CP 529,414"
+,DB06282,,2-(2-{4-[(R)-(4-chlorophenyl)(phenyl)methyl]piperazin-1-yl}ethoxy)acetic acid
+,DB05581,,Teriparatide recombinant human
+,DB06287,,42-[3-Hydroxy-2-(hydroxymethyl)-2-methylpropanoate]rapamycin
+,DB06288,,Amisulpridum
+,DB06292,,"(2S,3R,4R,5S,6R)-2-(4-Chloro-3-(4-ethoxybenzyl)phenyl)-6- (hydroxymethyl)tetrahydro-2H-pyran-3,4,5-triol"
+,DB06305,,Sphingomab
+,DB06310,,anti-RSV Mab
+,DB06317,,"Immunoglobulin G1, anti-(human SLAM family member 7 (CD2-like receptor activating cytotoxic cells, CD319 antigen)), humanized mouse monoclonal HuLuc63 gamma-1 heavy chain (222-214')-disulfide with humanized mouse monoclonal HuLuc63 kappa light chain (228-228'';231-231'')-bisdisulfide dimer"
+,DB06331,,DMPEN
+,DB06334,,Chidamide
+,DB06335,,Saxagliptin anhydrous
+,DB06342,,Anti-CD19 humanized monoclonal antibody conjugated to DM4
+,DB06354,,"NGX424,NGX426"
+,DB06361,,rsPSMA
+,DB06362,,XL 119
+,DB06366,,rhuMAb-2C4
+,DB06368,,MCC-478)
+,DB06372,,interleukin-1 (IL-1) trap
+,DB05621,,LAB CGRP
+,DB06395,,abafunginum
+,DB06399,,TACI-Ig
+,DB06401,,bazedoxifene/conjugated estrogens
+,DB06402,,Telavancinum
+,DB06403,,"(2S)-2-[(4,6-dimethylpyrimidin-2-yl)oxy]-3-methoxy- 3,3-diphenylpropanoic acid"
+,DB06404,,Plasma protease C1 inhibitor
+,DB06408,,viramidine
+,DB06410,,Doxercalciferolum
+,DB06412,,Oxymetholonum
+,DB06413,,R-modafinil
+,DB06415,,Calf lung surfactant extract (CLSE)
+,DB06420,,AR-522
+,DB06422,,(+)-norcisapride
+,DB06433,,FMdC
+,DB06441,,"[dichloro-[[[(2R,3S,4R,5R)-3,4-dihydroxy-5-[6-(2-methylsulfanylethylamino)-2-(3,3,3-trifluoropropylsulfanyl)purin-9-yl]oxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphonic acid"
+,DB06444,,Sinnabidol
+,DB06451,,ISIS-3521
+,DB06454,,neuroleptic
+,DB06455,,reminertant
+,DB06457,,norastemizole
+,DB06461,,MSI-1246
+,DB06467,,SMART 1D10
+,DB06471,,"8-((2S,5,6-exo)-5,6-epoxy-2-norbonyl)-1,3-dipropylxanthine"
+,DB06492,,APT070
+,DB06495,,R-HTBP-1
+,DB06506,,BAYx3702
+,DB06515,,RTX
+,DB06525,,CHF 2819
+,DB06527,,NC-531
+,DB06532,,DB-289
+,DB06538,,NAD-299
+,DB06545,,ABX-CBL
+,DB06548,,Minodronate
+,DB06549,,RMP-7
+,DB06554,,THIP
+,DB06556,,E2F Decoy
+,DB06559,,rM-CSF
+,DB06568,,αHGA
+,DB06576,,Baminercept alfa
+,DB06580,,MBI-3253
+,DB06581,,YK-FH312
+,DB06582,,R-tofisopam
+,DB06585,,JP-1730
+,DB06587,,GM-611
+,DB06588,,NV-196
+,DB06589,,Pazopanibum
+,DB06590,,Ceftarolinum fosamilum
+,DB06594,,Valdoxan
+,DB06595,,4'-N-benzoylstaurosporine
+,DB06599,,TRAIL-R2
+,DB06603,,panobinostat
+,DB07828,,apixabanum
+,DB06610,,MBI 226
+,DB06611,,sTNF-R1
+,DB03655,,Peramivir anhydrous
+,DB06616,,SKI 606
+,DB06619,,DAPD
+,DB06620,,DAB-452
+,DB06623,,Flupirtine
+,DB06626,,axitinibum
+,DB06637,,P-Aminopyridine
+,DB06638,,Itarnafloxin
+,DB06642,,Cand5
+,DB06647,,Eos200-4
+,DB06649,,Ralfinamide
+,DB06650,,Ofatumumabum
+,DB06655,,NNC 90-1170
+,DB06656,,"4-Amino-1-((2R,3R,4R,5R)-4-ethynyl-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl)pyrimidin-2-one"
+,DB06657,,TVP-1901
+,DB06659,,tin ethyl etiopurpurin
+,DB06663,,Pasireotidum
+,DB06667,,glucocerebrosidase
+,DB06678,,"(S)-1,2,3,4,10,14b-hexahydro-2-methylpyrazino(2,1-a)pyrido(2,3-c)(2)benzazepine"
+,DB06679,,K2tu-PA
+,DB06682,,AZD 3582
+,DB06683,,L-FMAU
+,DB06684,,Vilazodonum
+,DB06685,,SAIK-MS
+,DB06688,,Sipuleucel-T
+,DB06689,,Oldamin
+,DB06690,,Nitrious oxide
+,DB06691,,Pyrilamine
+,DB06692,,"Trypsin Inhibitor, Pancreatic Basic"
+,DB06693,,mevastatinum
+,DB06694,,Xylomethazoline
+,DB06695,,Ethyl 3-[[[4-[[[(hexyloxyl)carbonyl]amino]iminomethyl]phenyl]amino]methyl]-1-methyl-1H-benzimidazol-5-yl]carbonyl](pyridin-2-yl)amino] propanoate
+,DB06696,,Haberacin
+,DB06697,,SM-224
+,DB06698,,N-Methyl-2-pyridineethanamine
+,DB06700,,ODV
+,DB06701,,Dexmethylphenidate
+,DB06702,,Fesoterodine
+,DB06703,,"gadolinium(III) 2,2',2''-(10-((2R,3S )-1,3,4-trihydroxybutan-2-yl)-1,4,7,10-tetraazacyclododecane-1,4,7-triyl)triacetate"
+,DB09497,,mIBG
+,DB06705,,Gadofosveset
+,DB06706,,Isometheptene
+,DB06707,,Neo-cobefrin
+,DB06708,,dl-Benflumelol
+,DB06709,,Methacholine
+,DB06710,,Metiltestosterona
+,DB06711,,Nafazolin
+,DB06712,,Nivadil
+,DB06713,,Norplant 3-oxime
+,DB06715,,Potassium iodide
+,DB05279,,Fospropofol
+,DB06717,,"L-758,298"
+,DB06718,,androstanazole
+,DB06719,,Tiloryth
+,DB05543,,Imiglucerase
+,DB06723,,Dried aluminum hydroxide gel
+,DB06724,,Precipitated calcium carbonate
+,DB06725,,Lornoxicamum
+,DB06726,,Bufuralolum
+,DB06727,,Sparteinum sulfuricum
+,DB06728,,Trimethoprim specified impurity K
+,DB06729,,Sulphaphenazole
+,DB06730,,SH b 331
+,DB06731,,(S)-norfluoxetine
+,DB06732,,beta-NF
+,DB06734,,Setamycin
+,DB06735,,trans-Clomiphene
+,DB06736,,"glycolic acid [o-(2,6-dichloroanilino)phenyl]acetate ester"
+,DB06737,,Zaltoprofenum
+,DB06738,,Ketorax
+,DB06740,,"2-[4-(1,1-Dimethylethyl)cyclohexyl]-3-hydroxy-1,4-naphthalenedione"
+,DB06742,,"trans-4-((2-Amino-3,5-dibromobenzyl)amino)cyclohexanol"
+,DB06743,,Ginkgolide a
+,DB06748,,ginsenoside Rb2
+,DB06749,,Sanchinoside E1
+,DB06750,,Sanchinoside C1
+,DB06751,,Drotin
+,DB06755,,β-Karotin
+,DB06756,,trimethylglycocoll
+,DB06762,,Pinacidil anhydrous
+,DB06764,,Tetryzolinum
+,DB06766,,Vilasta
+,DB06768,,Lactic acid ammonium salt
+,DB06769,,Ribomustine
+,DB06770,,Phenylmethyl alcohol
+,DB06772,,XRP6258
+,DB06773,,"Calcitonin, human synthetic"
+,DB05318,,trans-8-Methyl-N-vanillyl-6-nonenamide
+,DB06775,,Ureidoglutaric acid
+,DB06776,,Cellulose sodium phosphate
+,DB06777,,Gallodesoxycholic acid
+,DB06778,,"Cupric sulphate, anhydrous"
+,DB06779,,alpha-heparin
+,DB06780,,DOCA
+,DB06781,,Difluoroprednisolone butyrate acetate
+,DB06782,,Sulfactin
+,DB09538,,Prussian blue insoluble
+,DB09412,,Gallium-67 Citrate
+,DB06786,,Halcinonidum
+,DB06788,,L-pyroglutamyl-L-histidyl-L-tryptophyl-L-seryl-L-tyrosyl-D-Nim-benzyl-histidyl-L-leucyl-L-arginyl-L-proline ethylamide
+,DB06789,,Primolut depot
+,DB06792,,Lanthanum(3+) carbonate
+,DB06793,,(l)-Propoxyphene
+,DB06794,,"N,N'-(2-chloro-5-cyano-m-phenylene)dioxamate"
+,DB06795,,Maphenidum
+,DB06797,,Mebutamatum
+,DB06146,,methenaminum
+,DB06800,,MNTX
+,DB06801,,Octanoic acid 1-monoglyceride
+,DB06802,,Nepafenacum
+,DB06804,,Tergitol NP9
+,DB06807,,Phenyl PAS
+,DB06810,,Plicamycinum
+,DB06811,,Polyoxyl 9 lauryl ether
+,DB06812,,Povidone iodine
+,DB05527,,Pralatrexatum
+,DB06814,,Protoquilol
+,DB06815,,Pyridinethiol N-oxide
+,DB12600,,ω-phenylbutyric acid
+,DB06821,,Sulfametoxydiazinum
+,DB06822,,Tinzaparin sodium
+,DB06823,,α-MPG
+,DB06824,,Trientine
+,DB06825,,triptorelinum
+,DB06826,,"13,14-dihydro-15-keto-20-ethyl PGF2α"
+,DB07232,,2-((2R)-2-methylpyrrolidin-2-yl)-1H-benzimidazole-4-carboxamide
+,DB07348,,Synergisidin
+,DB07371,,3-(10-METHYL-ANTHRACEN-9-YL)-PROPIONIC ACID
+,DB07379,,Aminopurvalanol
+,DB03954,,2-PHENYL-LACTIC ACID
+,DB07402,,Azapropazone
+,DB07419,,CCTH-methylpropionamide
+,DB07447,,etiocholan-17-beta-ol-3-one
+,DB07565,,Chloramphenicol hemisuccinate
+,DB07615,,tranilastum
+,DB07637,,"3,5-dibromo-L-tyrosine"
+,DB07706,,2-OH-Estradiol
+,DB12653,,Schuttgelb
+,DB07720,,"(1R,2R,4S)-epibatidine"
+,DB07744,,Z-VAD-FMK
+,DB11139,,Flavon
+,DB13079,,"Isopropyl (2S)-3,4-dihydro-7-methoxy-2-((methylthio)methyl)-3-thioxo-1(2H)-quinoxalinecarboxylate"
+,DB07899,,N2-Acetyl-N-[(2S)-5-chloro-3-oxo-1-phenyl-2-pentanyl]-L-alaninamide
+,DB08959,,Synoestrolum
+,DB12801,,"(3aS,4R,9bR)-4-(4-Hydroxyphenyl)-1,2,3,3a,4,9b-hexahydrocyclopenta(c)(1) benzopyran-8-ol"
+,DB07954,,IBMX
+,DB07965,,6-(Cyclohexylamino)-9-[2-(4-methyl-1-piperazinyl)ethyl]-9H-purine-2-carbonitrile
+,DB07996,,1-(5-Isoquinolinylsulfonyl)-2-methylpiperazine
+,DB08059,,Wartmannin
+,DB12603,,"7-methoxy-4-[(6-phenyl[1,2,4]triazolo[4,3-b]pyridazin-3-yl)methoxy]quinoline"
+,DB08089,,"6-(Bis-(2,2,2-trifluoroethyl)amino)-4-trifluoromethyl-1H-quinolin-2-one"
+,DB08167,,Methylene blue cation
+,DB12488,,6-benzyl-1-(ethoxymethyl)-5-(1-methylethyl)uracil
+,DB08231,,Tetradecanoic acid
+,DB08276,,N-methyl O-nitrophenyl aminoethyldiphosphate beryllium trifluoride
+,DB08329,,Sultiame
+,DB08332,,[2'-CARBOXYLETHYL]-10-METHYL-ANTHRACENE ENDOPEROXIDE
+,DB08374,,Phenylalanylmethylchloride
+,DB08377,,p-nitrophenyl phosphonobutanoyl D-alanine
+,DB12502,,"2-(4-{(3S,5S)-5-[(3,3-difluoropyrrolidin-1-yl)carbonyl]pyrrolidin-3-yl}piperazin-1-yl)pyrimidine"
+,DB12735,,PhIP
+,DB08411,,p-nitrophenyl phosphonobutanoyl L-alanine
+,DB08455,,"(2E,4E,6E,8E)-9-(4-Hydroxy-2,3,6-trimethylphenyl)-3,7-dimethyl-2,4,6,8-nonatetraenoic acid"
+,DB08472,,(R)-Prozac
+,DB08496,,"R,R-Warfarin alcohol"
+,DB06456,,Capravirine
+,DB08544,,(S)-Prozac
+,DB08604,,Triclosanum
+,DB08619,,Testosterone-17-succinate
+,DB12828,,O-chloroacetylcarbamoylfumagillol
+,DB05577,,1-Chloro-N-(hydroxyformylmethyl-4-hydroxyisoquinoline-3-carboxamide
+,DB08711,,"Vanillic acid, methyl ester"
+,DB08794,,Ethyldicoumarol
+,DB08795,,D-(-)-(alpha-Azidobenzyl)penicillin
+,DB08796,,Pipazetate
+,DB08797,,Salicylic acid amide
+,DB08798,,Sulphamoxole
+,DB08799,,Antazoline
+,DB07523,,Halopyramine
+,DB08801,,Dimethindene
+,DB08802,,Actapront
+,DB08803,,Thymazen
+,DB08804,,Nandrolone 17β-decanoate
+,DB08805,,Metiamidum
+,DB08806,,Pifatidine
+,DB08807,,Sandonorm
+,DB08808,,Bupranol
+,DB08809,,dichloroacetate
+,DB08810,,Paxapride
+,DB08811,,Tofizopam
+,DB08814,,Triflusal
+,DB08815,,Lurasidonum
+,DB04902,,"(1S,2S,3R,5S)-3-(7-((1R,2S)-2-(3,4-Difluorophenyl)cyclopropylamino)-5-(propylthio)-3H-(1,2,3)triazolo(4,5-D)pyrimidin-3-yl)-5-(2-hydroxyethoxy)cyclopentane-1,2-diol"
+,DB08818,,Hyaluronate
+,DB08819,,AFP-168
+,DB05989,,"N-(2,4-di-tert-butyl-5-hydroxyphenyl)-4-oxo-1,4-dihydroquinoline-3-carboxamide"
+,DB05358,,Azilsartanum medoxomilum
+,DB08823,,XDE-105
+,DB09548,,ioflupanum (123I)
+,DB08826,,PL-1
+,DB08827,,BMS 201038
+,DB08828,,Vismodegibum
+,DB08830,,oxidized vitamin C
+,DB08831,,D-arabino-2-desoxyhexose
+,DB08834,,Ursodeoxycholyltaurine
+,DB08835,,N-Acetyl-L-β-aspartyl-L-glutamic acid
+,DB08836,,Temocaprilum
+,DB08838,,N-(4-aminobutyl)guanidine
+,DB08839,,thrombotonin
+,DB08842,,O-Acetylcarnitine
+,DB08843,,"9-(2-phosphonylmethoxyethyl)-2,6-diaminopurine"
+,EXPT03202,,Urate
+,EXPT00137,,α-Ketoglutarate
+,DB08468,,"2,3,7,8-tetrahydroxychromeno[5,4,3-cde]chromene-5,10-dione"
+,DB08847,,trans-4-Hydroxy-L-proline
+,DB08855,,LTC4
+,DB08856,,L-Tyrosyl-D-alanylglycyl-L-phenylalanyl-D-leucine
+,DB06514,,Pitavastatinum
+,DB08861,,"L-tyrosyl-3-mercapto-D-valylglycyl-L-phenylalanyl-3-mercapto-D-valine, cyclic (2-5)-disulfide"
+,DB08862,,Pancreozymin
+,DB05083,,"4-{[4-({4-[(E)-2-cyanovinyl]-2,6-dimethylphenyl}amino)pyrimidin-2-yl]amino}benzonitrile"
+,DB08700,,Crizotinibum
+,DB08868,,Fingolimodum
+,DB08869,,N-[(3E)-1-oxo-3-hexenyl]Somatoliberin (human pancreatic islet)
+,DB08870,,cAC10-vcMMAE
+,DB04922,,Gabapentinum enacarbilum
+,DB08874,,Tiacumicin B
+,DB08876,,prGCD
+,DB08877,,INCB424
+,DB08878,,Pteramina
+,DB03805,,Teriflunomidum
+,DB05238,,BRAF(V600E) Kinase Inhibitor RO5185426
+,DB08882,,Trajenta
+,DB08883,,Perampanelum
+,DB08884,,Gd-EOB-DTPA
+,DB08885,,Ziv-Aflibercept 
+,DB08886,,L-asparaginase (Erwinia)
+,DB06291,,Timnodonic acid ethyl ester
+,DB05028,,Recombinant human microplasmin
+,DB05566,,"L-Cysteinyl-L-cysteinyl-L-alpha-glutamyl-L-tyrosyl-L-cysteinyl-L-cysteinyl-L-asparaginyl-L-prolyl-L-alanyl-L-cysteinyl-L-threonylglycyl-L-cysteinyl-L-tyrosine cyclic (1->6),(2->10),(5->13)-tris(disulfide)"
+,DB08891,,(R)-Baclofen
+,DB08894,,Hematide
+,DB08183,,Tofacitinibum
+,DB08896,,Regorafenibum
+,DB08897,,Aclidinium
+,DB08898,,Pteroylmonoglutamic acid hydrolase G2
+,DB08900,,Teduglutide Recombinant
+,DB06300,,Ponatinibum
+,DB05872,,PA mAb
+,DB08903,,TMC207
+,DB08905,,Formestanum
+,DB08906,,Furoato de fluticasona
+,DB08907,,Canagliflozin anhydrous
+,DB08908,,trans-Butenedioic acid dimethyl ester
+,DB06170,,GT4P
+,DB08911,,Trametinibum
+,DB08912,,Dabrafenib
+,DB09566,,Radium-223 dichloride
+,DB08916,,Afatinibum
+,DB08917,,VIT 45
+,DB08918,,"(1S,2R)-milnacipran"
+,DB08921,,D-limonene
+,DB08922,,SM-9018
+,DB08924,,Amphecloral
+,DB08926,,Bentrofene
+,DB08928,,Arsthinenol
+,DB08931,,Riociguatum
+,DB08932,,Macitentanum
+,DB08934,,"S)-Isopropyl 2-((S)-(((2R,3R,4R,5R)-5-(2,4-dioxo-3,4- dihydropyrimidin-1(2H)-yl)-4-fluoro-3-hydroxy-4-methyltetrahydrofuran-2-yl)methoxy)- (phenoxy)phosphorylamino)propanoate"
+,DB08935,,Afutuzumab
+,DB08936,,Clorciclizina
+,DB08938,,Monalium hydrate
+,DB08940,,ketophenylbutazone
+,DB08945,,Acidum iotroxicum
+,DB08946,,Iodopanoic acid
+,DB08948,,Triomiro
+,DB08949,,myo-inositol hexanicotinate
+,DB08950,,Indoramine
+,DB08956,,5β-dihydrodeoxycorticosterone
+,DB08958,,Hexétidine
+,DB08960,,"N,N,N,N',N',N'-hexamethylhexane-1,6-diaminium"
+,DB08961,,azosemidum
+,DB08962,,Glibornuridum
+,DB08964,,SC-37681
+,DB08968,,PB-89 [as hydrochloride]
+,DB08969,,Flurotyl
+,DB08973,,Flucloronide
+,DB08979,,Eurespal
+,DB08981,,"gamma-oxo(1,1'-Biphenyl)-4-butanoic acid"
+,DB08983,,Etofibrate
+,DB08984,,Etofenamate
+,DB08988,,Etoheptazina
+,DB08989,,Ethamivan
+,DB08990,,Éprazinone
+,DB08991,,Polihexanid
+,DB08992,,Eperisonum
+,DB08993,,Tuberactinomycin N 
+,DB08994,,"2,2'-(4,5-Diphenyloxazol-2-ylazanediyl)diethanol"
+,DB08995,,Diosmine
+,DB08996,,Miroistonil
+,DB09001,,Barbexaclonum 
+,DB09003,,Y-4153 [as hydrochloride]
+,DB09005,,Bothrops atrox blood-coagulation factor X activator
+,DB09008,,Cephalomycine
+,DB09011,,Benzylamide
+,DB09012,,NSC 73742
+,DB09013,,(RS)-1-{7-[2-hydroxy-3-(propan-2-ylamino)propoxy]- 1-benzofuran-2-yl}ethanone
+,DB09014,,Captodiame
+,DB09015,,Canrenoate
+,DB09016,,"(±)-3-(10,11-dihydro-5H-dibenzo[a,d]cycloheptene-5-yl)-N,N,2-trimethylpropan-1-amine"
+,DB09017,,Brotizolamum
+,DB09018,,Bromopridum
+,DB09019,,Tauglicolo
+,DB09020,,Spirolax
+,DB09021,,"N-Methyl-9,10-ethanoanthracene-9(10H)-methanamine"
+,DB09022,,Benfluorexum
+,DB09027,,"methyl [(2S)-1-{(6S)-6-[4-(9,9-difluoro-7-{2-[(1R,3S,4S)-2-{(2S)-2-[(methoxycarbonyl)amino]-3-methylbutanoyl}-2-azabicyclo[2.2.1]hept-3-yl]-1H-benzimidazol-5-yl}-9H-fluoren-2-yl)-1H-imidazol-2-yl]-5-azaspiro[2.4]hept-5-yl}-3-methyl-1-oxobutan-2-yl]carbamate"
+,DB09028,,Ulexin
+,DB05692,,"Ethyl N-[(3R,3aS,4S,4aR,7R,8aR,9aR)-4-[(E)-2-[5-(3-fluorophenyl)-2-pyridyl]vinyl]-3-methyl-1-oxo-3a,4,4a,5,6,7,8,8a,9,9a-decahydro-3H-benzo[f]isobenzofuran-7-yl]carbamate"
+,DB09031,,Monohexadecylphosphorylcholine
+,DB09034,,"[(7R)-4-(5-chlorobenzoxazol-2-yl)-7-methylhexahydro-1H-1,4-diazepin-1-yl][5-methyl-2-(2H-1,2,3-triazol-2-yl)phenyl]methanone"
+,DB09037,,Lambrolizumab
+,DB09038,,1-chloro-4-(glucopyranos-1-yl)-2-(4-(tetrahydrofuran-3-yloxy)benzyl)benzene
+,DB05715,,"N-[(1R,2R)-1-(2,3-Dihydro-1,4-benzodioxin-6-yl)-1-hydroxy-3-(1-pyrrolidinyl)-2-propanyl]octanamide"
+,DB09040,,"(2R,3R)-2-(2,4-Difluorophenyl)-3-(4-methylene-1-piperidinyl)-1-(1H-1,2,4-triazol-1-yl)-2-butanol"
+,DB05058,,"5-Fluoro-2,1-benzoxaborol-1(3H)-ol"
+,DB09042,,Torezolid Phosphate
+,DB09046,,r-metHuLeptin
+,DB09047,,gastroquinolone
+,DB09048,,"2-[3,5-Bis(trifluoromethyl)phenyl]-N,2-dimethyl-N-[4-(2-methylphenyl)-6-(4-methyl-1-piperazinyl)-3-pyridinyl]propanamide"
+,DB09049,,"(5α,6α)-17-Allyl-6-[(20-hydroxy-3,6,9,12,15,18-hexaoxaicos-1-yl)oxy]-4,5-epoxymorphinan-3,14-diol"
+,DB09050,,"(6R,7R)-3-([3-Amino-4-(2-aminoethylcarbamoylamino)-2-methylpyrazol-1-ium-1-yl]methyl)-7-([(2Z)-2-(5-amino-1,2,4-thiadiazol-3-yl)-2-(2-carboxypropan-2-yloxyimino)acetyl]amino)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate"
+,DB09051,,N-acetylgalactosamine-6-sulfatase
+,DB09053,,"1-[(3R)-3-[4-Amino-3-(4-phenoxyphenyl)-1H-pyrazolo[3,4-d]pyrimidin-1-yl]piperidin-1-yl]prop-2-en-1-one"
+,DB09054,,5-fluoro-3-phenyl-2-[(1S)-1-(3H-purin-6-ylamino)propyl]quinazolin-4(3H)-one
+,DB09056,,Amorolfin
+,DB09057,,Bacillus anthracis immune globulin human
+,DB09061,,Δ1(2)-trans-cannabidiol
+,DB09062,,CMNX
+,DB09063,,N-{2-[(5-chloro-2-{[2-isopropoxy-5-methyl-4-(piperidin-4-yl)phenyl]amino}pyrimidin-4-yl)amino]phenyl}propane-2-sulfonamide
+,DB09065,,"1,3-thiazol-5-ylmethyl [(2R,5R)-5-{[(2S)-2-({[(2-isopropyl-1,3-thiazol-4-yl)methyl](methyl)carbamoyl}amino)-4-(morpholin-4-yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate"
+,DB09066,,FSH-CTP
+,DB09067,,Sheep corticotropin-releasing factor (1-41)
+,DB05700,,vortioxetinum
+,DB09069,,"1-[2,3,4-trimethoxybenzyl] piperazine dihydrochloride"
+,DB09070,,tibolonum
+,DB05359,,tasimeltéon
+,DB09072,,Oxybate sodium
+,DB09073,,"6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-d]pyrimidin-7(8H)-one"
+,DB05940,,4-(3-{[4-(cyclopropylcarbonyl)piperazin-1-yl]carbonyl}-4-fluorobenzyl)phthalazin-1(2H)-one
+,DB09076,,1-[2-(benzyloxy)ethyl]-4-[hydroxy(diphenyl)methyl]-1-azoniabicyclo[2.2.2]octane
+,DB09077,,Monoclonal antibody ch14.18
+,DB09078,,Lenvatinib Mesylate
+,DB09079,,"methyl (3Z)-3-[(4-{methyl[(4-methylpiperazin-1-yl)acetyl]amino}anilino)(phenyl)methylidene]-2-oxo-2,3-dihydro-1H-indole-6-carboxylate"
+,DB09081,,idébénone
+,DB06577,,vilantérol
+,DB09083,,Ivabradinum
+,DB09085,,Tetracaine HCl
+,DB09087,,Potassium aluminium sulfate
+,DB09088,,Stovaine
+,DB09089,,Trimebutino
+,DB09092,,Xantinol
+,DB09094,,Podophyllum resin
+,DB09095,,Diflucortolone
+,DB09096,,Bepio
+,DB09097,,SDZ 205-502
+,DB09098,,Somatrem (genetical recombination)
+,DB09099,,Synthetic somatostatin-14
+,DB09100,,"Thyroid extract, porcine"
+,DB05618,,GS 9137
+,DB09102,,BMS-790052
+,DB09104,,Milk of magnesia
+,DB09105,,Asfotase alpha
+,DB09106,,Hydroxyethylstarch
+,DB06279,,Pegzerepoetin alfa
+,DB09110,,β-mercaptoethanesulfonic acid
+,DB09112,,nitrosyl hydroxide
+,DB09115,,Ioquin
+,DB09116,,Nitrogen lime
+,DB09118,,Stiripentolum
+,DB09119,,Stedesa
+,DB09120,,Civamide
+,DB09121,,Gold thioglucose
+,DB09123,,Endometrion
+,DB09125,,tripotassium citrate
+,DB09126,,Urinary hCG
+,DB09129,,Trichlorochromium
+,DB09130,,Kupfer
+,DB09131,,Cupric chloride anhydrous
+,DB09132,,Gd-DOTA
+,DB09133,,Iothalamate
+,DB09134,,Optiray
+,DB09135,,"N-(2,3-dihydroxypropyl)-N’-(2- hydroxyethyl)-5-[N-(2,3-dihydroxypropyl) acetamido]-2,4,6-triiodoisophthal-amide"
+,DB09136,,Isosulfan blue inner salt
+,DB09137,,Technetium Tc-99m mebrofenin kit
+,DB09138,,Technetium tc-99m medronate kit
+,DB09139,,Technetium Tc-99m oxidronate kit
+,DB09140,,Pure oxygen
+,DB09142,,Cholecystokinin C-terminal octapeptide
+,DB09143,,"N-[6-(cis-2,6-dimethylmorpholin-4-yl)pyridin-3-yl]-2-methyl-4'-(trifluoromethoxy)[1,1'-biphenyl]-3-carboxamide"
+,DB05425,,Vistonuridine
+,DB09145,,Water purified
+,DB06790,,Sucroferric oxyhydroxide
+,DB09147,,Iron(III) pyrophosphate
+,DB09148,,Florbetaben F-18
+,DB09149,,florbetapir-fluorine-18
+,DB09151,,Flutemetamol F18
+,DB09159,,"Trisodium citrate, anhydrous"
+,DB09155,,atomic helium
+,DB09156,,"N,N'-bis(2,3-dihydroxypropyl)-2,4,6-triiodo-5-[(methoxyacetyl)amino]-N-methylisophthalamide"
+,DB09505,,Technetium-99 tetrofosmin
+,DB09161,,Technetium Tc 99m sestamibi
+,DB09163,,Technetium Tc-99m exametazime kit
+,DB09164,,Technetium-99m-Diisopropyliminodiacetic Acid
+,DB09417,,Technetium TC 99M Pyrophosphate
+,DB09166,,"4-(o-Chlorophenyl)-2-ethyl-9-methyl-6H-thieno(3,2-f)-s-triazolo(4,3-a)(1,4)diazepine"
+,DB09167,,trans-dothiepin
+,DB09170,,beta-Hydroxythiofentanyl
+,DB09171,,Betamethylfentanyl
+,DB09173,,Butyrylfentanyl
+,DB09177,,Parafluorofentanyl
+,DB09178,,"2,5-Dimethylfentanyl"
+,DB09180,,Thiofentanyl
+,DB09183,,"N-{6-[3-tert-butyl-5-(2,4-dioxo-3,4-dihydropyrimidin-1(2H)-yl)-2-methoxyphenyl]naphthalen-2-yl}methanesulfonamide"
+,DB09185,,Viloxazinum
+,DB09188,,3-methyl-3-(3-(methylamino)propyl)-1-phenyl-2-indolinone
+,DB09190,,Phthalapromine
+,DB09203,,p-synephrine
+,DB09208,,Puricase
+,DB09211,,Limaprost alfadex
+,DB09213,,d-ibuproten
+,DB09220,,SG-75
+,DB09221,,Zinc L-carnosine
+,DB09222,,Human fibrinogen
+,DB09226,,RP5000
+,DB09227,,Mepirodipine
+,DB09228,,Recombinant human C1-inhibitor rabbit milk derived
+,DB09237,,S-amlodipine
+,DB09241,,Methylthioninium chloride
+,DB09242,,"(2R,4R)-1-[(2S)-5-[(aminoiminomethyl)amino]-1-oxo-2-[[(1,2,3,4-tetrahydro-3-methyl-8- quinolinyl)sulfonyl]amino]pentyl]-4-methyl-2-piperidinecarboxylic acid"
+,DB09246,,Mebamoxine
+,DB09249,, 2-octylhydrazine
+,DB09252,,Pivazide
+,DB09253,,Safra
+,DB09256,,1-(2-Tetrahydrofuryl)-5-fluorouracil
+,DB09257,,Ts-1 (TN)
+,DB09259,,Reviparin sodium
+,DB09260,,Parnaparin sodium
+,DB09263,,Patiromer FOS
+,DB09264,,aDabi-Fab
+,DB09265,,lixisénatide
+,DB09266,,Technetium Tc99 tilmanocept
+,DB09268,,Picosulphate
+,DB09269,,ω-phenylacetic acid
+,DB09270,,Coenzyme Q10
+,DB09271,,Cimetropium ion
+,DB09272,,"5-({(4-carbamoyl-2,6-dimethyl-L-phenylalanyl)[(1S)-1-(4-phenyl-1H-imidazol-2-yl)ethyl]amino}methyl)-2-methoxybenzoic acid"
+,DB09273,,Doxophylline
+,DB09274,,dihydroqinghasu hemsuccinate
+,DB09275,,Tripotassium dicitratobismuthate
+,DB09276,,Gold sodium thiomalate
+,DB09277,,11C-choline chloride
+,DB05269,,Medicinal charcoal
+,DB09280,,lumacaftor
+,DB09286,,Fluoropipamide
+,DB09287,,polyoxyethylene
+,DB12217,,Radioiodine
+,DB09296,,"dimethyl ([(2S,5S)-1-(4-tert-butylphenyl)pyrrolidine-2,5-diyl]bis{(4,1-phenylene)carbamoyl(2S)pyrrolidine-2,1-diyl[(2S)-3-methyl-1-oxobutane-1,2-diyl]})biscarbamate"
+,DB09297,,Veruprevir
+,DB09298,,Silymarin I
+,DB11535,,N-butylscopolammonium ion
+,DB11339,,Chondroitin sulfates
+,DB09306,,Inkazan
+,DB09307,,Hydroxymaprotiline
+,DB09309,,Leucomycin
+,DB09310,,Recombinant Coagulation Factor XIII
+,DB09311,,Polycarbophilum
+,DB09312,,"Lymphocyte immune globulin, anti-thymocyte globulin"
+,DB13043,,Technetium Tc 99m Pertechnetate
+,DB09315,,"Xenon, Xe-133"
+,DB09316,,Thallous Chloride Tl-201
+,DB09317,,"Estrogens, Conjugated Synthetic A"
+,DB09318,,"Estrogens, Conjugated Synthetic B"
+,DB09319,,Indanyl carbenicillin
+,DB09320,,Penicillin G procaine
+,DB09321,,Zinkoxid
+,DB09322,,"Zinc sulphate, anhydrous"
+,DB09323,,Penicillin G benzathine
+,DB09324,,Sulbactam Benzathine
+,DB09326,,Ammonia N 13
+,DB09327,,UFUR
+,DB09328,,"Phosphatidylserine, DHA, and EPA"
+,DB09329,,"Antihemophilic Factor (Recombinant), PEGylated"
+,DB09330,,N-(2-{[2-(dimethylamino)ethyl](methyl)amino}-4-methoxy-5-{[4-(1-methyl-1H-indol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide
+,DB09331,,HuMax-CD38
+,DB09332,,Menadiol sodium diphosphate
+,DB09333,,Ipodate
+,DB09336,,Technetium Tc 99m nofetumomab merpentan
+,DB09337,,"Air, synthetic medicinal"
+,DB09338,,Mersal
+,DB09339,,Myoscint indium In-111
+,DB09341,,Grape sugar
+,DB09343,,TPI
+,DB09345,,Pramoxine
+,DB09347,,Urokonic acid
+,DB09348,,β-propiolactone
+,DB09349,,Intrinsic factor
+,DB09351,,(S)-betaxolol
+,DB09352,,p-hydroxyamphetamine
+,DB09355,,Sulfamylbenzamide
+,DB09357,,Provitamin B
+,DB00386,,Snakeroot
+,DB09364,,Merethoxylline procaine
+,DB09366,,Propyliodonum
+,DB09369,,Polyestradioli phosphas
+,DB09371,,Noretynodrelum
+,DB09373,,Triethanolamine polypeptide
+,DB09375,,Quimotripsina
+,DB09378,,Fluprednisolonum
+,DB09379,,Sutilaines
+,DB09381,,"Menrium Component Estrogens, Esterified"
+,DB09389,,Methylnorethindrone
+,DB09393,,Amino acids NOS
+,DB09470,,"Sodium acetate,anhydrous"
+,DB09397,,Technetium Tc-99m Sulfur Colloid
+,DB09398,,Fluoride-18 anion
+,DB09403,,Acidum iocetamicum
+,DB09407,,Magnesium chloride anhydrous
+,DB09409,,Magnesium diacetate tetrahydrate
+,DB09413,,"Potassium phosphate,monobasic"
+,DB09414,,Secondary potassium phosphate
+,DB09418,,"Perchloric acid, potassium salt"
+,DB09419,,Wood sugar
+,DB11240,,Iodine-123
+,DB09421,,TSH-releasing hormone
+,DB09425,,Indium In-111 pentetate
+,DB09446,,Carthamus tinctorius seed oil
+,DB09525,,Sodium phosphates
+,DB09456,,Insulin purified beef
+,DB09460,,Sodium salt of carbonic acid
+,DB04077,,Trihydroxypropane
+,DB09476,,"Sulfuric acid disodium salt, anhydrous"
+,DB09473,,Indium-111 oxyquinoline
+,DB09477,,Enalaprilat anhydrous
+,DB09479,,Rubidium Rb-82 cation
+,DB09487,,Iotrolum
+,DB09488,,(2E)-3-{6-[(1E)-1-(4-methylphenyl)-3-(pyrrolidin-1-yl)prop-1-en-1-yl]pyridin-2-yl}acrylic acid
+,DB09490,,Indium-111 chloride
+,DB09493,,Technetium Tc-99m red blood cell kit
+,DB09494,,palmityl alcohol
+,DB09495,,Parsol 1789
+,DB09496,,parsol
+,DB12546,,Strontium-89 chloride
+,DB09499,,Sulfurothioic S-acid
+,DB09150,,"Fludeoxyglucose, F-18"
+,DB09510,,"Urea, C-13"
+,DB09512,,Simeticone
+,DB09513,,"Urea, C-14"
+,DB09516,,4-Methoxyphenol
+,DB09517,,Ferric sodium gluconate complex
+,DB09526,,quinol
+,DB09527,,Synthetic porcine secretin
+,DB06369,,Synthetic human secretin
+,DB09534,,Terephthalylidene dicamphor sulfonic acid
+,DB09540,,omega-3 Fatty acid ethyl esters
+,DB09543,,Teaberry oil
+,DB09546,,Iobenguane sulfate I 123
+,DB09552,,Tonzonium
+,DBSALT001586,,Sodium glycerophosphate anhydrous
+,DB09571,,Levomethamphetamine
+,DB10076,,"Haemophilus influenzae type b strain 1482, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine"
+,DB10307,,"Rotavirus vaccine, live, oral"
+,DB10283,,Rabies virus vaccine flury-lep strain
+,DB10286,,Streptococcus pneumoniae serotype 4 capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10287,,Streptococcus pneumoniae serotype 6B capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10288,,Streptococcus pneumoniae serotype 9V capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10289,,Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10290,,Streptococcus pneumoniae serotype 18C capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10291,,Streptococcus pneumoniae serotype 19F capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10292,,Streptococcus pneumoniae serotype 23F capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10293,,Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10294,,Streptococcus pneumoniae serotype 3 capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10295,,Streptococcus pneumoniae serotype 5 capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10296,,Streptococcus pneumoniae serotype 6A capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10297,,Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10298,,Streptococcus pneumoniae serotype 19A capsular antigen diphtheria CRM197 protein conjugate vaccine
+,DB10299,,Recombinant human papillomavirus type 6 L1 protein
+,DB10300,,Recombinant human papillomavirus type 11 L1 protein
+,DB10301,,Recombinant human papillomavirus type 16 L1 protein
+,DB10302,,Recombinant human papillomavirus type 18 L1 protein
+,DB10310,,Recombinant human papillomavirus type 31 L1 protein
+,DB10311,,Recombinant human papillomavirus type 33 L1 protein
+,DB10312,,Recombinant human papillomavirus type 45 L1 protein
+,DB10313,,Recombinant human papillomavirus type 52 L1 protein
+,DB10314,,Recombinant human papillomavirus type 58 L1 protein
+,DB10315,,"Measles Virus Vaccine Live, Enders' attenuated Edmonston strain"
+,DB10316,,"Mumps Virus Vaccine Live, Jeryl Lynn Strain"
+,DB10317,,Rubivirus rubella virus wistar ra 27/3 whole
+,DB10318,,Varicella-zoster virus strain oka/merck live antigen
+,DB10319,,pneumococcal capsular polysaccharide type 1 vaccine
+,DB10320,,pneumococcal capsular polysaccharide type 2 vaccine
+,DB10321,,pneumococcal capsular polysaccharide type 3 vaccine
+,DB10322,,Pneumococcal polysaccharide serotype 4
+,DB10323,,pneumococcal capsular polysaccharide type 5 vaccine
+,DB10324,,Pneumococcal polysaccharide serotype 6B
+,DB10325,,pneumococcal capsular polysaccharide type 7F vaccine
+,DB10326,,pneumococcal capsular polysaccharide type 8 vaccine
+,DB10327,,pneumococcal capsular polysaccharide type 9N vaccine
+,DB10328,,Pneumococcal polysaccharide serotype 9V
+,DB10329,,pneumococcal capsular polysaccharide type 10A vaccine
+,DB10330,,pneumococcal capsular polysaccharide type 11A vaccine
+,DB10331,,pneumococcal capsular polysaccharide type 12F vaccine
+,DB10332,,Pneumococcal polysaccharide serotype 14
+,DB10333,,pneumococcal capsular polysaccharide type 15B vaccine
+,DB10334,,pneumococcal capsular polysaccharide type 17F vaccine
+,DB10335,,Pneumococcal polysaccharide serotype 18C
+,DB10336,,Pneumococcal polysaccharide serotype 19F
+,DB10337,,pneumococcal capsular polysaccharide type 19A vaccine
+,DB10338,,pneumococcal capsular polysaccharide type 20 vaccine
+,DB10339,,pneumococcal capsular polysaccharide type 22F vaccine
+,DB10340,,Pneumococcal polysaccharide serotype 23F
+,DB10341,,pneumococcal capsular polysaccharide type 33F vaccine
+,DB10342,,Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine
+,DB10343,,"BCG, Live, Tice Strain"
+,DB10348,,white ash pollen extract
+,DB10349,,Bahia grass pollen extract
+,DB10350,,beech pollen extract
+,DB10585,,Standardized bermuda grass pollen
+,DB10352,,cherry birch pollen extract
+,DB10353,,annual bluegrass pollen extract
+,DB10354,,box elder maple pollen extract
+,DB10355,,smooth brome pollen extract
+,DB10356,,rough cocklebur pollen extract
+,DB10359,,sheep sorrel pollen extract
+,DB10361,,American elm pollen extract
+,DB10362,,Siberian elm pollen extract
+,DB10363,,hazelnut pollen extract
+,DB10364,,shagbark hickory pollen extract
+,DB10365,,Johnson grass pollen extract
+,DB10366,,Standardized kentucky blue/june grass pollen
+,DB10368,,lambs quarters pollen extract
+,DB10369,,hard maple pollen extract
+,DB10370,,Standardized meadow fescue grass pollen
+,DB10371,,mesquite pollen extract
+,DB10372,,mugwort sage pollen extract
+,DB10373,,red mulberry pollen extract
+,DB10374,,coast live oak pollen extract
+,DB10377,,cultivated oat pollen extract
+,DB10378,,european olive pollen extract
+,DB10402,,Standardized orchard grass pollen
+,DB10382,,English plantain pollen extract
+,DB10383,,white poplar pollen extract
+,DB10384,,false ragweed pollen extract
+,DB05583,,Standardized short ragweed pollen allergenic extract
+,DB10386,,giant ragweed pollen extract
+,DB10387,,western ragweed pollen extract
+,DB10388,,Russian thistle pollen extract
+,DB10405,,Standardized perennial rye grass pollen
+,DB10390,,common sagebrush pollen extract
+,DB10391,,saltbush pollen extract
+,DB10392,,American sycamore pollen
+,DB10393,,western sycamore pollen extract
+,DB05908,,Timothy pollen
+,DB10395,,velvet grass pollen extract
+,DB10396,,black walnut pollen extract
+,DB10397,,California black walnut pollen extract
+,DB10399,,Standardized cat pelt
+,DB05902,,Mite D.F. (dermatophagoides farinae) standardized
+,DB10401,,Mite D.P. (dermatophagoides pteronyssinus) standardized
+,DB10403,,Standardized redtop grass pollen
+,DB10404,,Sweet vernal grass pollen extract
+,DB10406,,domestic cow skin extract
+,DB10411,,kapok tree fiber extract
+,DB10412,,house mouse skin extract
+,DB10709,,Iris x germanica root
+,DB10689,,American cockroach allergenic extract
+,DB10692,,German cockroach allergenic extract
+,DB10419,,red imported fire ant allergenic extract
+,DB10420,,chicken feather extract
+,DB10421,,duck feather extract
+,DB10422,,goose feather extract
+,DB10595,,Allergen pack alternaria tenuis
+,DB10427,,Pullularia extract
+,DB10441,,Rhizopus oryzae extract
+,DB10443,,corn smut allergenic extract
+,DB10444,,wheat loose smut extract
+,DB10453,,tag alder pollen extract
+,DB10454,,alfalfa pollen extract
+,DB10455,,Arizona ash pollen extract
+,DB10456,,aspen pollen extract
+,DB10457,,southern bayberry pollen extract
+,DB10458,,river birch pollen extract
+,DB10459,,careless weed pollen extract
+,DB10461,,red cedar pollen extract
+,DB10462,,common cocklebur pollen extract
+,DB10463,,eastern cottonwood pollen extract
+,DB10464,,Fremont cottonwood pollen extract
+,DB10465,,plains cottonwood pollen extract
+,DB10466,,Arizona cypress pollen extract
+,DB10467,,bald cypress pollen extract
+,DB10468,,dogfennel pollen extract
+,DB10469,,cedar elm pollen extract
+,DB10471,,Canada goldenrod pollen extract
+,DB10472,,hackberry pollen extract
+,DB10473,,California juniper pollen extract
+,DB10474,,black locust pollen extract
+,DB10478,,Broad leaved paperbark pollen extract
+,DB10479,,Mexican tea pollen extract
+,DB10482,,queen palm pollen extract
+,DB10483,,pepper tree pollen extract
+,DB10484,,spiny pigweed pollen extract
+,DB10485,,Australian pine pollen extract
+,DB10486,,eastern white pine pollen extract
+,DB10487,,shortleaf pine pollen extract
+,DB10488,,privet pollen extract
+,DB10489,,quackgrass pollen extract
+,DB10490,,slender ragweed pollen extract
+,DB10491,,southern ragweed pollen extract
+,DB10493,,prairie sagebrush pollen extract
+,DB10494,,salt grass pollen extract
+,DB10495,,sweet gum pollen extract
+,DB10496,,English walnut pollen extract
+,DB10498,,wheat pollen extract
+,DB05909,,Felis silvestris catus hair
+,DB10504,,avocado oil
+,DB10516,,Milk protein
+,DB10526,,Red king crab
+,DB10531,,Southern flounder
+,DB10534,,Citrus X paradisi fruit
+,DB10537,,lamb preparation
+,DB11013,,"Lobster, unspecified"
+,DB10546,,Oats preparation
+,DB10550,,"Oyster, unspecified"
+,DB10551,,Pisum sativum (pea) extract
+,DB10552,,PEACH ALLERGENIC EXTRACT
+,DB10555,,pecan pollen extract
+,DB10559,,pistachio nut allergenic extract
+,DB10563,,rice allergenic extract
+,DB11015,,"Shrimp, unspecified"
+,DB11016,,"Tuna, unspecified"
+,DB10576,,vanilla bean allergenic extract
+,DB10579,,whole wheat allergenic extract
+,DB10580,,orange pekoe tea allergenic extract
+,DB10582,,common wormwood pollen extract
+,DB10583,,"tetanus toxoid vaccine, inactivated"
+,DB10603,,Mongolian gerbil skin allergenic extract
+,DB10604,,domestic goat skin extract
+,DB10605,,Syrian hamster skin extract
+,DB10606,,hog skin extract
+,DB10607,,European rabbit skin extract
+,DB10608,,rat skin extract
+,DB10609,,silk allergenic extract
+,DB10611,,beef liver allergenic extract
+,DB10622,,sardine allergenic extract
+,DB10920,,Whitefish
+,DB10628,,Blackberry Flavor
+,DB10629,,blueberry allergenic extract
+,DB10635,,lime allergenic extract
+,DB10640,,sugar beet allergenic extract
+,DB10645,,lentil seed extract
+,DB10650,,Raphanus sativa extract
+,DB10653,,cashew nut allergenic extract
+,DB11012,,"Hazelnut, unspecified"
+,DB10670,,bay leaf allergenic extract
+,DB10863,,Caraway
+,DB10688,,house fly extract
+,DB10690,,dog flea allergenic extract
+,DB10691,,mosquito allergenic extract
+,DB10693,,cat flea allergenic extract
+,DB10697,,Curvularia inequalis allergenic extract
+,DB10704,,oat smut allergenic extract
+,DB10706,,wheat stem rust extract
+,DB10407,,Cotton fiber
+,DB10708,,Flaxseed extract
+,DB10711,,jute fiber extract
+,DB10712,,sisal fiber extract
+,DB10713,,Canadian bluegrass pollen extract
+,DB10714,,canary grass pollen extract
+,DB10715,,grama grass pollen extract
+,DB10716,,para grass pollen extract
+,DB10717,,cultivated rye grass pollen extract
+,DB10718,,giant wild rye pollen extract
+,DB10719,,Western wheatgrass pollen extract
+,DB10720,,Cootamundra wattle pollen extract
+,DB10721,,red alder pollen extract
+,DB10722,,white alder pollen extract
+,DB10723,,Oregon ash pollen extract
+,DB10724,,gray birch pollen extract
+,DB10725,,salt cedar pollen extract
+,DB10728,,redberry juniper pollen extract
+,DB10729,,Rocky Mountain juniper pollen extract
+,DB10730,,Utah juniper pollen extract
+,DB10731,,western juniper pollen extract
+,DB10732,,American basswood pollen extract
+,DB10733,,mango blossom pollen extract
+,DB10734,,coast maple pollen extract
+,DB10736,,mulberry pollen extract
+,DB10737,,black oak pollen extract
+,DB10738,,bur oak pollen extract
+,DB10739,,California black oak pollen extract
+,DB10740,,Gambels oak pollen extract
+,DB10741,,valley oak pollen extract
+,DB10742,,water oak pollen extract
+,DB10743,,orange pollen extract
+,DB10744,,loblolly pine pollen extract
+,DB10745,,longleaf pine pollen extract
+,DB10746,,yellow pine pollen extract
+,DB10747,,slash pine pollen extract
+,DB10748,,scrub pine pollen extract
+,DB10749,,western white pine pollen extract
+,DB10750,,Lombard poplar pollen extract
+,DB10751,,Russian olive pollen extract
+,DB10752,,Arroyo willow pollen extract
+,DB10753,,pussy willow pollen extract
+,DB10951,,Populus trichocarpa pollen
+,DB10755,,dandelion pollen extract
+,DB10756,,Allscale pollen extract
+,DB10757,,groundsel pollen extract
+,DB10758,,Burrobrush pollen extract
+,DB10759,,iodine bush pollen extract
+,DB10760,,lens scale pollen extract
+,DB10761,,California mugwort pollen extract
+,DB10762,,dark leaved mugwort pollen extract
+,DB10763,,nettle pollen extract
+,DB10764,,poverty weed pollen extract
+,DB10765,,rabbit bush pollen extract
+,DB10766,,Greasewood pollen extract
+,DB10767,,wing scale pollen extract
+,DB10768,,wormwood sage pollen extract
+,DB10770,,"foreskin fibroblast, neonatal"
+,DB10771,,"Collagen Type I, Bovine"
+,DB10772,,"foreskin keratinocyte, neonatal"
+,DB10788,,Filamentous haemagglutinin adsorbed
+,DB10789,,Pertactin adsorbed
+,DB10790,,"Bordetella pertussis fimbriae 2/3 vaccine, inactivated"
+,DB10795,,"poliovirus vaccine inactivated, type 1 (Mahoney)"
+,DB10796,,"poliovirus vaccine inactivated, type 2 (MEF-1)"
+,DB10797,,"poliovirus vaccine inactivated, type 3 (Saukett)"
+,DB10798,,Neisseria meningitidis serogroup A capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+,DB10799,,Neisseria meningitidis serogroup C capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+,DB10800,,Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+,DB10801,,Neisseria meningitidis serogroup W-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+,DB10802,,"Influenza Virus Vaccine, Inactivated A-California-07-2009 X-179A (H1N1) strain"
+,DB10803,,"Typhoid Vi Polysaccharide Vaccine, S typhi Ty2 strain"
+,DB10804,,"BCG, Live, Connaught Strain"
+,DB10805,,"Yellow fever, live attenuated"
+,DB10808,,Mucor extract
+,DB10812,,Penicillium roquefortii allergenic extract
+,DB10815,,green ash pollen extract
+,DB10816,,shad scale pollen extract
+,DB10819,,gliocladium allergenic extract
+,DB10831,,paper birch pollen extract
+,DB10832,,water birch pollen extract
+,DB10833,,yellow birch pollen extract
+,DB10834,,Bermuda grass smut extract
+,DB10835,,Ustilago nuda
+,DB10836,,cheat grass pollen extract
+,DB10837,,sugar beet pollen extract
+,DB10838,,Jerusalem oak pollen extract
+,DB10845,,Algal fungi allergenic extract
+,DB10846,,white-rot fungus extract
+,DB10851,,Catfish
+,DB10857,,canary feather extract
+,DB10858,,white sweet clover pollen extract
+,DB10859,,yellow sweet clover pollen extract
+,DB10860,,broadleaf cattail pollen extract
+,DB10866,,cricket allergenic extract
+,DB10867,,dog hair extract
+,DB10868,,white-tailed deer hair extract
+,DB10871,,desert ragweed pollen extract
+,DB10872,,weakleaf bur ragweed pollen extract
+,DB10873,,Johnson grass smut extract
+,DB10876,,domestic goat hair extract
+,DB10879,,tall oat grass pollen extract
+,DB10880,,horse hair extract
+,DB10882,,bitternut hickory pollen extract
+,DB10883,,pignut hickory pollen extract
+,DB10884,,Millet extract
+,DB10887,,pin oak pollen extract
+,DB10888,,post oak pollen extract
+,DB10889,,Garrys oak pollen extract
+,DB10649,,Allergenic extract- pumpkin cucurbita pepo
+,DB10893,,parakeet feather allergenic extract
+,DB10894,,lodgepole pine pollen extract
+,DB10895,,Scotch pine pollen extract
+,DB10896,,pitch pine pollen extract
+,DB10897,,cayenne pepper allergenic extract
+,DB10898,,European rabbit hair extract
+,DB10899,,redwood pollen extract
+,DB10900,,bitter dock pollen extract
+,DB10901,,pale dock pollen extract
+,DB10902,,white (mexican) dock pollen extract
+,DB10903,,grain moth extract
+,DB10905,,safflower seed allergenic extract
+,DB10908,,maple leaf sycamore pollen extract
+,DB10909,,coast sage pollen extract
+,DB10910,,sunflower pollen extract
+,DB10911,,blue beech pollen extract
+,DB10912,,blue spruce pollen extract
+,DB10913,,tapioca starch allergenic extract
+,DB10914,,tamarack pollen extract
+,DB10916,,western black willow pollen extract
+,DB10921,,Indian wormwood sage pollen extract
+,DB10922,,jack pine pollen extract
+,DB10923,,red pine pollen extract
+,DB10924,,Austrian pine pollen extract
+,DB10925,,Japanese black pine pollen extract
+,DB10726,,white hickory pollen extract
+,DB10477,,rough marshelder pollen extract
+,DB10367,,Kochia scoparia pollen
+,DB10476,,Iva xanthifolia pollen
+,DB10933,,Curvularia extract
+,DB10934,,Fusarium extract
+,DB10935,,Monilia sitophila extract
+,DB10936,,Phoma extract
+,DB10937,,wheat rust extract
+,DB10941,,fivehorn smotherweed pollen extract
+,DB10942,,mustard pollen extract
+,DB10943,,bottlebrush pollen extract
+,DB10945,,silver ragweed pollen extract
+,DB10946,,winterfat pollen extract
+,DB10947,,canyon ragweed pollen extract
+,DB10948,,sandbur ragweed pollen extract
+,DB10949,,Standardized june grass pollen
+,DB10950,,date palm pollen extract
+,DB10952,,California scrub oak pollen extract
+,DB10953,,Suaeda nigra pollen
+,DB10954,,linden pollen extract
+,DB10957,,yellow hornet venom protein
+,DB10958,,White faced hornet venom protein
+,DB10959,,northern paper wasp venom protein
+,DB10961,,cultivated barley pollen extract
+,DB10962,,creeping bentgrass pollen extract
+,DB10963,,littleseed canary grass pollen extract
+,DB10492,,Lolium perenne ssp. multiflorum pollen
+,DB10965,,Sorghum bicolor pollen extract
+,DB10966,,Sudan grass pollen extract
+,DB10967,,broomweed pollen extract
+,DB10968,,narrowleaf marshelder pollen extract
+,DB10414,,Pyrethrum cinerariifolium
+,DB10522,,Cocoa bean
+,DB10979,,blue crab preparation
+,DB10980,,Barley Malt Syrup
+,DB10682,,Salvia officinalis
+,DB10684,,Garden thyme
+,DB10680,,Peppermint flowering top
+,DB10986,,Douglas fir pollen extract
+,DB10988,,osage orange pollen extract
+,DB10309,,"Hepatitis A vaccine, inactivated"
+,DB10990,,"Haemophilus influenzae type b strain 20752, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine"
+,DB10991,,"Bordetella pertussis toxoid vaccine, inactivated"
+,DB10998,,influenza A virus A/Brisbane/10/2010 (H1N1) antigen
+,DB06648,,Bacillus anthracis strain V770-NP1-R filtrate antigen
+,DB11005,,Chinese elm pollen extract
+,DB10854,,Quahog
+,DB10524,,codfish allergenic extract
+,DB10565,,salmon preparation
+,DB11026,,black imported fire ant allergenic extract
+,DB11027,,red paper wasp venom protein
+,DB11028,,common paper wasp venom protein
+,DB11029,,Metricus paper wasp venom protein
+,DB11030,,German wasp venom protein
+,DB11031,,western yellow jacket venom protein
+,DB10960,,Yellow jacket venom protein
+,DB11034,,influenza A virus A/Bolivia/559/2013 (H1N1) antigen
+,DB11050,,Typhoid Vaccine Live Ty21a
+,DB05348,,Autologous cultured fibroblasts
+,DB11056,,Tin dichloride
+,DB11057,,White Mineral Oil
+,DB09520,,Yellow soft paraffin
+,DB11059,,Thylose
+,DB11060,,"Polyvinyl alcohol, unspecified"
+,DB11061,,Povidonum
+,DB11063,,Tween 80
+,DB11065,,Porcine pancreas alpha-amylase
+,DB11066,,"Protease, pancreatic"
+,DB11072,,Hydrogenfluorid
+,DB05748,,1-hexadecylpyridinium
+,DB11075,,Hypromelloses
+,DB11081,,Aluminium chloride
+,DB11082,,"Tar, coal"
+,DB11085,,Resorzin
+,DB11086,,Theobroma oil
+,DB09521,,Pyrethrins
+,DB11089,,doxinate
+,DB11092,,Tin(II) fluoride
+,DB11093,,tricalcium citrate
+,DB11094,,"Vitamin D, unspecified form"
+,DB11095,,Hirudin desirudin
+,DB11096,,Menthyl-O-aminobenzoate
+,DB11097,,Psyllium husk
+,DB11098,,Potassium hydrogen carbonate
+,DB11100,,"N-(2,5-Dioxo-4-imidazolidinyl)urea"
+,DB11102,,N-acetyltyrosin
+,DB11104,,Sulphur hexafluoride
+,DB11107,,potassium hydrogen tartrate
+,DB11110,,Trimagnesium dicitrate
+,DB11112,,"Wool wax, refined"
+,DB11113,,Uluchula skoki oil
+,DB11115,,phenylbenzimidazole sulfonic acid
+,DB11120,,Turpentine gum
+,DB11121,,PCMX
+,DB11123,,Hypochlorit
+,DB11126,,"D-gluconic acid, calcium salt (2:1)"
+,DB11127,,Selenous acid
+,DB11129,,Urea hydrogen peroxide
+,DB11130,,Papaver somniferum resin
+,DB11131,,Oleoresins of capsicum
+,DB11132,,Siliziumdioxid
+,DB11133,,ω-3 fatty acids
+,DB11134,,Cuprum oxydatum nigrum
+,DB11135,,"Selenium, elemental"
+,DB11140,,Chromium-51
+,DB11141,,Manganese(II) gluconate
+,DB11145,,Phenopyridine
+,DB11148,,Butyl aminobenzoate
+,DB11151,,white caustic
+,DB11155,,"N-(4-chlorophenyl)-N'-(3,4-dichlorophenyl)urea"
+,DB11156,,Pyrantelum
+,DB11157,,Dithranol
+,DB11160,,Phenyltoloxaminum
+,DB11161,,PEG-6
+,DB11166,,"Antithrombin III,recombinant"
+,DB11168,,"Threonine, calcium salt"
+,DB11182,,"4,5,6,7-tetrachloro-2',4',5',7'-tetraiodofluorescein"
+,DB11183,,Wool Brilliant Green SF
+,DB11185,,Sulfisobenzone
+,DB11186,,Carbetapentane
+,DB11190,,Pantomin
+,DB11191,,Vitamin B12 coenzyme
+,DB11197,,Ferrous cysteine glycinate chelate (1:2:1)
+,DB11198,,Peppermint volatile oil
+,DB11200,,Aluminum zirconium octachlorohydrex glycine complex
+,DB11201,,"Menthyl salicylate, (+/-)-"
+,DB11202,,N-alkyl ethylbenzyl dimethyl ammonium (C12-C14) cation
+,DB11204,,Panthenolum
+,DB11205,,Dialuminum tetrahydroxychloro allantoinate
+,DB11206,,BEMT
+,DB11207,,Isoamyl-p-methoxycinnamate
+,DB11217,,p-hydroxyphenyl β-D-glucoside
+,DB11218,,ti tree oil
+,DB11219,,Methyl benzylidene camphor
+,DB11220,,Octacosyl alcohol
+,DB11221,,"2,2'-Dihydroxy-4-methoxybenzophenone"
+,DB11222,,Gum sumatra
+,DB11228,,Metilcelulosa
+,DB11229,,Padimate
+,DB11230,,Magnesium aluminum silicate hydrate
+,DB11234,,Chitosan medium molecular weight (200-800 mpa.s)
+,DB11235,,neohetramine
+,DB11238,,Borago officinalis
+,DB11239,,Dialuminum trisulfate
+,DB11242,,Gelatine
+,DBSALT001566,,Stearoylglycerol
+,DB11251,,Tocopherols
+,DB11254,,4-hexylresorcinol
+,DB11255,,Chromium(III) picolinate
+,DB11256,,"N-[4-[[[(6S)-2-Amino-3,4,5,6,7,8-hexahydro-5-methyl-4-oxo-6-pteridinyl]methyl]amino]benzoyl]-L-glutamic acid"
+,DB11259,,Salinigricoflavonol
+,DB11261,,Atractylodes lancea root extract
+,DB11262,,MBBT
+,DB11263,,resveratrol-3-O-b-mono-D-glucoside
+,DBSALT002553,,β-glycerophosphoric acid calcium salt
+,DB11265,,Temu lawak oil
+,DB11266,,bay salt
+,DB11267,,Triethoxyoctylsilane
+,DB11268,,Rancinamycin IV
+,DB11269,,Hexyl 2-(4-(diethylamino)-2-hydroxybenzoyl)benzoate
+,DB11271,,Dimethicodiethylbenzalmalonate
+,DB11273,,"9,10-dihydroergocornine"
+,DB11274,,α-dihydroergocryptine
+,DB11275,,Epicryptine
+,DB11278,,N-methylephedrine DL-form
+,DB11279,,Brilliant green(1+)
+,DB11282,,"N,N-diethyl-m-toluamide"
+,DBSALT001574,,l-α-dimyristoylphosphatidylcholine
+,DBSALT001575,,DMPG
+,DB11286,,"Oatmeal,colloidal"
+,DB11296,,Tripeptide-1
+,DB11299,,Butyl vanillyl ether
+,DB11300,,"Thrombin, Topical (Bovine)"
+,DB11304,,Phenylmonoglycol ether
+,DB11305,,Quaternium-18
+,DB11311,,Human coagulation factor II
+,DB11312,,Protein C human
+,DB11315,,Methylscopolamine
+,DB11321,,Oleum morrhuae
+,DB11323,,Ethylene glycol salicylate
+,DB11324,,Vanillyl-N-nonylamide
+,DB11326,,orthoboric acid
+,DB11327,,Pyrithione disulphide
+,DB11328,,Tetradecyl hydrogen sulfate
+,DB14047,,Prothrombin complex concentrate (human)
+,DB14095,,"POPG, R-"
+,DB11333,,Vepoloxamer
+,DB11337,,trans-Zeatin
+,DB11338,,Syzygium aromaticum oil
+,DB11341,,ammonium bituminosulphonate
+,DB11342,,Aluminium oxide
+,DB11344,,D-menthol
+,DB11345,,l-camphor
+,DB11053,,"Phosphoric acid, calcium salt"
+,DB11357,,flaxseed oil
+,DB11358,,Primrose oil
+,DB11359,,Pyroguaiac acid
+,DB11361,,White birch oil
+,DB11363,,"9-ethyl-6,6-dimethyl-8-[4-(morpholin-4-yl)piperidin-1-yl]-11-oxo-6,11-dihydro-5H-benzo[b]carbazole-3-carbonitrile"
+,DB11365,,Sennosides
+,DB11366,,Linomide
+,DB11368,,p-Chlorophenyl monoglycol ether
+,DB11376,,Stresnil
+,DB11386,,Chloretone
+,DB11403,,Emodepsidum
+,DB07980,,IMD
+,DB11431,,Moxidectinum
+,DB11446,,OFDZ
+,DB11451,,Peg/ppg-24/34 triblock copolymer
+,DB11454,,Prostaleno
+,DB11455,,Robenacoxibum
+,DB11457,,Tubatoxin
+,DB11460,,Supraene
+,DB11471,,TMS
+,DB11477,,Xylazinum
+,DB11482,,Toluifera pereirae wood oil
+,DB11490,,Nalorphinum
+,DB11512,,"N,N'''-[(1R,2R,3S,4R,5R,6S)-4-({5-deoxy-2-O-[2-deoxy-2-(methylamino)-α-L-glucopyranosyl]-3-C-(hydroxymethyl)-α-L-lyxofuranosyl}oxy)-2,5,6-trihydroxycyclohexane-1,3-diyl]diguanidine"
+,DB11526,,AB1010
+,DB11560,,"{[5-bromo-4-(4-cyclopropylnaphthalen-1-yl)-4H-1,2,4-triazol-3-yl]sulfanyl}acetic acid"
+,DB11561,,aminoacridinum
+,DB11562,,d-Bicuculline
+,DB11563,,SBC-102
+,DB11570,,Padimate-O
+,DB11571,,Thrombin Human Plasma-derived
+,DB11572,,Thrombin (synthetic human)
+,DB11573,,Aluminium chlorohydrate
+,DB11575,,Grazoprevir anhydrous
+,DB11577,,Saxon blue
+,DB11578,,Sus scrofa subcutaneous fat
+,DB11579,,Paraffinum Perliquidum
+,DB11581,,"4-{4-[(4'-chloro-5,5-dimethyl[3,4,5,6-tetrahydro[1,1'-biphenyl]]-2-yl)methyl]piperazin-1-yl}-N-(3-nitro-4-{[(oxan-4-yl)methyl]amino}benzene-1-sulfonyl)-2-[(1H-pyrrolo[2,3-b]pyridin-5-yl)oxy]benzamide"
+,DB11582,,Thiocolchicine 2-glucoside analog
+,DB11583,,Cetalkonium ion
+,DB11585,,Silatrizole
+,DB11587,,alpha-(1-(ethylmethylamino)ethyl)benzyl alcohol
+,DB11588,,CO
+,DB11589,,Neon
+,DB11590,,Tiomersal
+,DB11593,,N-carboxyanthranilic anhydride
+,DB11594,,Phenododecinium
+,DB11596,,"N-[4-({[(6S)-2-amino-5-formyl-4-oxo-1,4,5,6,7,8-hexahydropteridin-6-yl]methyl}amino)benzoyl]-L-glutamic acid"
+,DB11597,,Rho(D) immune globulin IM human
+,DB11598,,Heparin cofactor B
+,DB11599,,Zea mays starch
+,DB11600,,Yellow wax
+,DB11601,,Tuberculinum
+,DB11602,,hydroxyethylcellulose
+,DB11603,,Rabies immunoglobulins
+,DB11604,,Tetanus immunoglobulin
+,DB11605,,Myrrha (commiphora myrrha)
+,DB11606,,Porcine recombinant factor VIII B-domain truncated
+,DB11607,,Coagulation factor VIII recombinant immunoglubulin g1 fusion protein
+,DB11608,,"Recombinant human coagulation factor IX, FC Fusion protein"
+,DB11609,,Isomethadone I
+,DB11610,,p-hydroxyephedrine
+,DB11613,,"methyl {(2S)-1-[(2S,5S)-2-(9-{2-[(2S,4S)-1-{(2R)-2-[(methoxycarbonyl)amino]-2-phenylacetyl}-4-(methoxymethyl)pyrrolidin-2-yl]-1H-imidazol-4-yl}-1,11-dihydro[2]benzopyrano[4',3':6,7]naphtho[1,2-d]imidazol-2-yl)-5-methylpyrrolidin-1-yl]-3-methyl-1-oxobutan-2-yl}carbamate"
+,DB11616,,THP-Doxorubicin
+,DB11617,,Aclacinomycin A
+,DB11618,,"Benzoic acid hydrazide, 3-hydrazone with daunorubicin"
+,DB11619,,Ethylnorgestrienone
+,DB11620,,Neridronate
+,DB11621,,VZV immune globulin
+,DB11622,,Dehydrocholate
+,DB11623,,Candoxatrilate
+,DB11625,,PERFLENAPENT
+,DB11626,,"Tumor necrosis factor, soluble form, nonglycosylated"
+,DB10993,,Hepatitis-B surface antigen
+,DB11630,,meso-tetrahydroxyphenylchlorin
+,DB11631,,RH-polypeptide-52
+,DB11633,,isavuconazolum
+,DB11634,,COLESTILAN CHLORIDE
+,DB11635,,TPGS
+,DB11638,,Dihydroartemisinin
+,DB11639,,rhBMP-2
+,DB11641,,Vinfluninum
+,DB11643,,Choleragenoid
+,DB11644,,tafamidisum
+,DB11661,,"Activated Recombinant Human Factor VII, Long Acting"
+,DB11664,,Psilocybin
+,DB11667,,CNDAC
+,DB11668,,Chrysalin
+,DB11674,,S-equol
+,DB11678,,OVASTAT
+,DB11688,,Sarmustine
+,DB11695,,L-Carnosine
+,DB11702,,Antineoplaston A 10
+,DB11709,,Argireline
+,DB11711,,Navarixin anhydrous
+,DB11721,,MSDC-0160
+,DB11725,,Dimebon
+,DB11727,,"Endostatin, N-terminal-MGGSHHHHH"
+,DB12315,,Denintuzumab mafodotin
+,DB11735,,D(+)-Galactose
+,DB11737,,BPI-2009
+,DB11738,,HYPERIUM
+,DB11749,,L-PZQ
+,DB05378,,Rifomycin SV
+,DB11755,,THCV
+,DB11756,,LY2062430
+,DB11767,,SAR153191
+,DB11768,,DMPA
+,DB11771,,Ticilimumab
+,DB11777,,CD-NP
+,DB11788,,NPY
+,DB13922,,Berzosertib
+,DB11815,,Targinine
+,DB11823,,S-ketamine
+,DB11824,,Tofogliflozin anhydrous
+,DB11831,,"1-chloro-2,4-dinitrobenzene"
+,DB09503,,Indium In-111 pentetreotide
+,DB11840,,MK-0646
+,DB11842,,isoleucine5-angiotensin II
+,DB11848,,Juvidex
+,DB05658,,Vivagel
+,DB11858,,"S-{(1R,2E,4E,6Z,9Z)-1-[(1S)-4-carboxy-1-hydroxybutyl]pentadeca-2,4,6,9-tetraen-1-yl}-L-cysteinylglycine"
+,DB11869,,AMDRAY
+,DB11875,,Diindolylmethane
+,DB11876,,alanylglutamine
+,DB11880,,DACA
+,DB11882,,Bepecin
+,DB11895,,Lenomorelin
+,DB11898,,Thiazolidinedione
+,DB11916,,Indium (111 In)
+,DB11919,,O6-benzylguanine
+,DB11933,,IPA
+,DB11941,,LY573636
+,DB11944,,IMIDAZOLYL ETHANAMIDE PENTANDIOIC ACID
+,DB11955,,Juvista
+,DB11960,,CAI
+,DB11963,,Dacomitinib anhydrous
+,DB11972,,AMG 102
+,DB05007,,TESEVATINIB
+,DB11980,,D&C black no. 2
+,DB11988,,Ocrelizumab (genetical recombination)
+,DB05517,,Voreloxin
+,DB12001,,LY2835219
+,DB12003,,Thymosin beta 4
+,DB12007,,Isoflavon
+,DB12016,,ACT-128800
+,DB12022,,EVATANEPAG
+,DB12028,,BROMODEOXYURIDINE
+,DB12031,,Eudragit RL PO
+,DB12040,,Liquid bandage
+,DB12048,,Volitinib
+,DB12078,,Ostarine
+,DB12098,,(S)-Baclofen
+,DB12110,,MCPP
+,DB12111,,CPP
+,DB12116,,Epigallocatechin gallate
+,DB12117,,DDP
+,DB12131,,ETHYL APOVINCAMIN-22-OATE
+,DB12152,,GS-6624
+,DB12173,,DIPHENYLCYCLOPROPENONE
+,DB05781,,Tricaprylyl glycerol
+,DB12182,,Interleukin-4 (human; nonglycosylated)
+,DB12187,,Prurisol
+,DB12208,,Monofer
+,DB12216,,5-methoxypsoralen
+,DB12223,,Squaric acid dibutylester
+,DB12224,,Procysteine
+,DB12226,,TETRA-O-METHYL NORDIHYDROGUAIARETIC ACID
+,DB12227,,Betalutin
+,DB12231,,Diphos
+,DB12243,,phenylmethylpyrazolone
+,DB12249,,Pineapple stem bromelain
+,DB12252,,LLDT-8
+,DB12266,,BMS-753493
+,DB12274,,BIIB037
+,DB12276,,"tetraisopropyl 2-(3,5-di-tert-butyl-4-hydroxyphenyl)ethyl-1,1-biphosphonate"
+,DB12277,,Polyhexamethylene biguanide
+,DB12281,,ACE-536
+,DB12300,,PNB
+,DB12308,,Pregnanolone
+,DB12310,,Cabaletta
+,DB12316,,RETINOID 9CUAB30
+,DB12319,,"3,5-dibromo-4-hydroxyphenyl-2-ethyl-3-benzofuranyl ketone"
+,DB12326,,HOCENA
+,DB12328,,Kantharidin
+,DB12333,,SPA-S-843
+,DB12337,,ASC
+,DB12348,,ATT
+,DB12349,,rhApo2L/TRAIL
+,DB12351,,Sygen
+,DB12356,,Anti-IL-20
+,DB12358,,N-butyl-2-cyanoacrylate
+,DB12362,,DAPT
+,DB06601,,"N-(5-chloropyridin-2-yl)-2-[[4-(N,N-dimethylcarbamimidoyl)benzoyl]amino]-5-methoxybenzamide"
+,DB12366,,Vestronidase alfa-vjbk
+,DB12374,,Rhlaman
+,DB12377,,Relebactam anhydrous
+,DB12386,,BCG SSI
+,DB12396,,GC1008
+,DB12409,,Vatreptacog alfa (activated)
+,DB05923,,DIAZEPINOMICIN
+,DB12422,,(R)-sulforaphane
+,DB12425,,Liothyronine I 131
+,DB12431,,Multipotential colony-stimulating factor
+,DB12434,,STB
+,DB12442,,17-DMAG
+,DB12444,,N-ethyl-l-glutamine
+,DB12452,,1-Octanol
+,DB12455,,Amadacycline
+,DB12475,,Nissel
+,DB12477,,Oxycyte
+,DB05910,,beta-betulinic acid
+,DB12481,,Ba
+,DB12489,,IMGN853
+,DB12499,,Cortexolone 17alpha-propionate
+,DB12506,,PAT
+,DB05711,,Atecegatran fexenetil
+,DB12514,,Iofolastat (123 I)
+,DB12515,,Aminocamptothecin
+,DB12521,,NMP
+,DB12529,,Nitrite ion
+,DB12532,,Oxetacaine
+,DB12534,,CAM-3001
+,DB12536,,MANNAC
+,DB12559,,Folate-fluorescein conjugate
+,DB05921,,ABEXINOSTAT
+,DB12566,,Adelatinib
+,DB12582,,Bioperine
+,DB12593,,EOQUIN
+,DB12598,,Nafamostat mesilate
+,DB12617,,BREDININ
+,DB12618,,Acetovanillone
+,DB12619,,4-desacetylpaclitaxel 4-methyl carbonate
+,DB12629,,DITPA
+,DB12633,,7-methylthiomethylpaclitaxel
+,DB12648,,Nona-L-arginine
+,DB12650,,(11C)L-deprenyl-D2
+,DB12652,,Human endothelin
+,DB05922,,Saridegib
+,DB12656,,GHRH
+,DB12665,,Quercetin-3-O-glucoside
+,DB12667,,Prothionamide
+,DB12676,,6R-MTHF
+,DB12697,,SE-METHYL-SELENO-L-CYSTEINE
+,DB05435,,Ibalizumab-uiyk
+,DB12728,,Patrol
+,DB12737,,OMP-52M51
+,DB04937,,TERTOMOTIDE
+,DB12749,,3-n-butylphthalide
+,DB12750,,Ng-nitro-L-arginine methyl ester
+,DB12753,,RCV
+,DB12754,,Iodide ion
+,DB12765,,MIC
+,DB12768,,BCG
+,DB12783,,benserazidum
+,DB12792,,Endura
+,DB12794,,PQP
+,DB12797,,KW2871
+,DB12803,,DCI
+,DB12804,,Batracylin
+,DB12809,,MDC
+,DB12812,,P529
+,DB12813,,Radium-223
+,DB12814,,Pegylated human interferon A-2B
+,DB05392,,Sonazoid
+,DB12827,,D-1MT
+,DB12829,,Thioacetazone
+,DB12834,,1-(2-methyl-5-nitro-1H-imidazol-1-yl) propan-2­ ol
+,DB12839,,rAvPAL-PEG
+,DB12840,,Pirnabin
+,DB12841,,GGF2
+,DB12843,,Oleandrina
+,DB12849,,BMS-945429
+,DB12856,,ATC
+,DB12859,,Ta
+,DB12860,,Ac
+,DB12865,,Velcalcetide
+,DB12872,,Von willebrand factor (recombinant)
+,DB12878,,L-4-CL-KYN
+,DB12880,,IL-10
+,DB12900,,CEP-26401
+,DB12905,,SM-153
+,DB12907,,D-mannose
+,DB12909,,Fibrinoligase
+,DB12911,,beta-Butoxyethyl nicotinate
+,DB12915,,Xerecept
+,DB12921,,Chloroquinoxaline sulfonamide
+,DB12931,,Fenobam anhydrous
+,DB12938,,Merlin
+,DB12940,,"Helium, He-3"
+,DB12944,,Phloroglucin
+,DB12946,,CPX
+,DB12952,,6-alpha-methylprednisone
+,DB12956,,OMP-18R5
+,DB12957,,FDCYD
+,DB12961,,LTB4
+,DB12965,,"Silver, colloidal"
+,DB12969,,Pinitol
+,DB12970,,L(-)-Glucose
+,DB12983,,Phthalocyanine
+,DB12992,,Zhengguangmycin A6
+,DB12993,,Bk
+,DB13008,,TBD
+,DB13010,,Thioureidobutyronitrile
+,DB13021,,123 I Iodometomidate
+,DB13030,,FAU
+,DB13031,,Nb
+,DB13033,,Urocortin II
+,DB06380,,MT203
+,DB13038,,Triolein
+,DB13039,,Aminaphtone
+,DB13047,,SB5+
+,DB05558,,Mesupron
+,DB13071,,COP
+,DB13075,,Menaquinone-7
+,DB13076,,Yttrium-90
+,DB13078,,ISO-Fludelone
+,DB13085,,Lumefantrine co-artemether
+,DB13087,,CPHPC
+,DB13089,,Glycyrrhetic Acid
+,DB13097,,1alpha-Hydroxy-24-ethylcholecalciferol
+,DB13105,,RVE1
+,DB13116,,Tetrafluoroethane
+,DB13117,,"1,1,1,3,3-pentafluoropropane"
+,DB06009,,Naphthyridinone
+,DB13128,,Sonifilan
+,DB13131,,Serratiopeptidase
+,DB13133,,Von willebrand's factor
+,DB13134,,Fluorine-18
+,DB05761,,R-salbutamol
+,DB13141,,Surfolase
+,DB13142,,Glubionate calcium
+,DB13143,,"b-ethyl-6-methoxy-a,a-dimethyl-2-naphthalenepropionic acid"
+,DB13144,,Lenograstim rDNA
+,DB13145,,cis-Diammine(glycolato)platinum(II)
+,DB13146,,Fluciclovine F-18
+,DB13147,,Pancreatic lipase
+,DB13148,,Stuart-prower factor
+,DB13149,,Vitamin K-dependent protein S
+,DB13150,,Serum prothrombin conversion accelerator
+,DB13151,,Factor VIII inhibitor bypassing fraction
+,DB13152,,Human coagulation factor IX
+,DB13153,,α-(−)-bisabolol
+,DB13154,,p-Chlorophenol
+,DB13155,,Esculoside
+,DB13156,,Methisoprinol
+,DB13157,,Sulfoacetic acid dodecyl ester S-sodium salt
+,DB13160,,dl-alpha-prodine
+,DB13163,,Terpinol hydrate
+,DB13166,,Zofenoprilum
+,DB13167,,Alclophenac
+,DB13168,,ω-6 fatty acids
+,DB13169,,Norandrostenolone
+,DB06377,,Guanilib
+,DB13171,,Monoolein
+,DB13173,,Immature tripeptidyl-peptidase I
+,DB11196,,myo-inositol
+,DB01361,,Troleandomycine
+,DB09408,,Maltonic acid
+,DB13182,,Isoaurostatin
+,DB13183,,Technetium (99mTc) etifenin
+,DB13185,,Oxaboloni cipionas
+,DB13189,,Porcine calcitonin
+,DB13191,,phosphorylcreatine
+,DB13192,,Human coagulation factor VIII
+,DB13193,,Chaste tree
+,DB13195,,Hippocastani semen
+,DB13196,,Valerianae radix
+,DB13198,,Saccharated pepsin
+,DB13203,,Bamifyllinum
+,DB13205,,Teclozanum
+,DB13207,,L-Arginine L-glutamate
+,DB13209,,Bismuthum subnitricum
+,DB13211,,Guanoxanum
+,DB13217,,Fentiazacum
+,DB13227,,Tribenosidum
+,DB13231,,Hemicalcium L-lactate
+,DB13255,,Propatylnitrate
+,DB13257,,iron(II) sulfate
+,DB13259,,monochloroethane
+,DB13266,,cefatrizinum
+,DB13269,,"2,4-dichlorobenzyl alcohol"
+,DB13271,,Wood creosote
+,DB13281,,Pineapple protease
+,DB13293,,Ipsatol
+,DB13314,,α-methyl-4-[(2-methyl-2-propenyl)amino]benzeneacetic acid
+,DB13323,,triciene
+,DB13337,,phenoxypropylpenicillin
+,DB13345,,DHEC
+,DB13346,,p-Butoxyphenylacetohydroxamic acid
+,DB13352,,dimethylethanolamine
+,DB13392,,Merbromin
+,DB13421,,5-Ethyl-2'-deoxyuridine
+,DB13443,,S-atenolol
+,DB13456,,Turimycin P3
+,DB13488,,Bencyclanum
+,DB13503,,Tyrothricinum
+,DB13508,,Tobanum
+,DB13518,,Norgine
+,DB13530,,Mepindololum
+,DB13539,,Acidum iodoxamicum
+,DB13595,,Magnesium aluminosilicate hydrate
+,DB13612,,Carbasalatum calcicum
+,DB13620,,potassium D-gluconate
+,DB13643,,Triazulenone
+,DB13654,,Montmorrillonite
+,DB13660,,propicillinum
+,DB13667,,cefozopranum
+,DB13682,,cefpiromum
+,DB13707,,"Tartaric acid, disodium salt"
+,DB13711,,Tritoqualinum
+,DB13732,,Meglumine antimoniate
+,DB13735,,sulfoguaiacolum
+,DB13746,,Depalléthrine
+,DB13747,,tris(β-hydroxyethyl)amine
+,DB13749,,Magnesium gluconicum
+,DB13751,,Glycyrrhizin
+,DB13761,,Tilactasum
+,DB13764,,O-(beta-Hydroxyethyl)rutin
+,DB13765,,Sulema
+,DB13783,,indomethacin glycolic ester
+,DB13800,,Calcium levulinate anhydrous
+,DB13813,,triiodomethane
+,DB13836,,Metampicillinum
+,DB13837,,Doxefazepamum
+,DB13838,,Noxytiolinum
+,DB13849,,Clofibridum
+,DB13851,,Dihydroartemisinin ethyl ether
+,DB13853,,Anetholtrithion
+,DB13854,,γ-Linolensäure
+,DB13858,,Diamthazole
+,DB13863,,"keto-D-fructose 1,6-bisphosphate"
+,DB13864,,"Hemoglobin A0 (human alpha2 beta2 tetrameric subunit), alpha-chain 99,99'-diamide with (E)-2-butenoic acid"
+,DB13866,,etynodiolum
+,DB13867,,Fluticasonum
+,DB13868,,Adefovirum
+,DB13869,,TIMBD
+,DB13871,,Rycobendazole
+,DB13872,,N-Methyllorazepam
+,DB13874,,"2-Methyl-1-(4-(6-(trifluoromethyl)pyridin-2-yl)-6-(2-(trifluoromethyl)pyridin-4-ylamino)-1,3,5-triazin-2-ylamino)propan-2-ol"
+,DB13876,,Consonar
+,DB05975,,4-iodo-3-nitrobenzamide
+,DB13879,,glecaprevirum
+,DB13881,,Tisagenlecleucel-T
+,DB13882,,"Nicotinic acid, methyl ester"
+,DB13883,,North american coral snake antivenin (micrurus fulvius) (equine)
+,DB13884,,"Coagulation factor IX (recombinant), albumin fusion protein"
+,DB13885,,Monsel's solution
+,DB13886,,Cytomegalovirus immunoglobulin
+,DB10074,,neisseria meningitidis group W-135 capsular polysaccharide antigen
+,DB13888,,Neisseria meningitidis group Y capsular polysaccharide antigen
+,DB13889,,Neisseria meningitidis group A capsular polysaccharide antigen
+,DB13890,,Neisseria meningitidis group C capsular polysaccharide antigen
+,DB13891,,Crotalus scutulatus immune fab antivenin (ovine)
+,DB13892,,Crotalus atrox immune fab antivenin (ovine)
+,DB13893,,Crotalus adamanteus immune fab antivenin (ovine)
+,DB13894,,Agkistrodon piscivorus immune fab antivenin (ovine)
+,DB13895,,smooth sumac pollen extract
+,DB13896,,T-Vec
+,DB13897,,"BOTULINUM NEUROTOXIN E IMMUNE FAB2, EQUINE"
+,DB13898,,"BOTULINUM NEUROTOXIN C IMMUNE FAB2, EQUINE"
+,DB13899,,"BOTULINUM NEUROTOXIN G IMMUNE FAB2, EQUINE"
+,DB13900,,"BOTULINUM NEUROTOXIN A IMMUNE FAB2, EQUINE"
+,DB13901,,"BOTULINUM NEUROTOXIN F IMMUNE FAB2, EQUINE"
+,DB13902,,"BOTULINUM NEUROTOXIN D IMMUNE FAB2, EQUINE"
+,DB13903,,"BOTULINUM NEUROTOXIN B IMMUNE FAB2, EQUINE"
+,DB13904,,Felis catus dander
+,DB13905,,Scorpion (centruroides) Fab2 immunoglobulin (equine)
+,DB13906,,Aloe vera leaf
+,DB13907,,Sphaeria zeae
+,DB13908,,amylmetacresolum
+,DB13909,,Wismutgallathydroxid
+,DB13910,,Bismuth dipropylacetate
+,DB13911,,Phloxine
+,DB13912,,Notomycin A1
+,DB13913,,Deadly nightshade
+,DB13915,,Autologous T cells transduced with retroviral vector encoding an anti-CD-19 CD28/CD3-zeta chimeric antigen receptor
+,DB13916,,Vengicide
+,DB13917,,N-methyldopamine
+,DB13918,,Methyldiclofop
+,DB13919,,2-ethoxy-1-(p-(o-1H-tetrazol-5-ylphenyl)benzyl)-7-benzimidazolecarboxylic acid
+,DB13920,,2'-C-methylcytidine 3'-O-L-valinyl ester
+,DB13921,,2'C-Me-C
+,DB13923,,emicizumab-kxwh
+,DB13924,,Recombinant Varicella zoster virus (VZV) glycoprotein E
+,DB13925,,Gatate
+,DB13926,,rhNGF
+,DB13931,,"(4-((1S)-1-(Aminomethyl)-2-(isoquinolin-6-ylamino)-2-oxoethyl)phenyl)methyl 2,4- dimethylbenzoate"
+,DB13932,,Voretigene Neparvovec-rzyl
+,DB13933,,"Coagulation Factor IX (Recombinant), GlycoPEGylated"
+,DB13937,,"9-Chloro-2-ethyl-1-methyl-3-(2,2,2-trifluoroethyl)-3H-pyrrolo(3,2-F)quinolin-7(6H)-one"
+,DB13938,,"2-(4-(Dimethylamino)-6-nitro-1,2,3,4-tetrahydroquinolin-2-yl)-2-methylpropan-1-ol"
+,DB13939,,"2-Chloro-4-(((1R,2S)-1-(5-(4-cyanophenyl)-1,3,4-oxadiazol-2-yl)-2-hydroxypropyl)amino)-3-methylbenzonitrile"
+,DB13940,,ALEPH-2
+,DB13941,,"1,3-bis[4-(7-chloroquinolin-4-yl)piperazin-1-yl]propane"
+,DBSALT001298,,Testosterone cyclopentylpropionate
+,DB13945,,Testosterone heptanoate
+,DBSALT001033,,Testosterone undecylate
+,DBSALT002571,,Testosterone enanthate benzilic acid hydrazone
+,DB13948,,NBOH-2C-CN
+,DB13949,,iron(3+)
+,DB13950,,"(2,3-Dihydro-5-methyl-3-((4-morpholinyl)methyl)pyrrolo-(1,2,3-de)-1,4-benzoxazin-6-yl)(1-naphthalenyl)methanone monomethanesulfonate"
+,DBSALT002357,,Dihydrotestosterone acetate
+,DBSALT000065,,ESTRADIOL-3-ACETATE
+,DBSALT002570,,Estradiol dienantate
+,DB13957,,"N-(2,4-Dimethylphenyl)-2,2,2-trifluoro-N'-[(E)-(3-methoxyphenyl)methylene]acetohydrazide"
+,DB13958,,Orgasteron acetate
+,DB13959,,"Triglycerides, medium-chain"
+,DB13960,,Bronopolum
+,DB13961,,Omega-3 fish oil
+,DB13962,,Saccharated lime
+,DB13963,,orthodichlorobenzol
+,DB13964,,"Oils, peanut"
+,DB13965,,Sidesaddle-flower whole
+,DB13966,,Isopropyl tetradecanoate
+,DB13968,,"Plasma protein fraction,human"
+,DB13969,,Octyl decyl dimethyl ammonium chloride
+,DB13970,,Dioctyldimonium ion
+,DB13971,,"Vanadium, elemental"
+,DB13972,,DL-Methioninum
+,DB13973,,Adult human mesenchymal stem cells
+,DB13974,,True passionflower
+,DB13975,,Rattleroot
+,DB13976,,"Immunoglobulin G1 (mouse monoclonal IMMU-MN3 Fab' fragment gamma-chain anti-human NCA-90 granulocyte cell antigen), disulfide with mouse monoclonal IMMU-MN3 light chain"
+,DB13977,,"Potassium carbonate, anhydrous"
+,DB13978,,"rac-6-Chloro-2,3,4,9-tetrahydro-1H-carbazole-1-carboxamide"
+,DB13980,,"Copper, Cu-64"
+,DB13981,,"17-alpha-Hydroxy-6-methyl-19-norpregna-4,6-diene-3,20-dione acetate"
+,DB13982,,Lutetium-177
+,DB13983,,"5,7-Dihydroxy-2-(2-hydroxyphenyl)-6,8-dimethoxy-4H-1-benzopyran-4-one"
+,DB13984,,Zyklopropan
+,DB13985,,Lutetium oxodotreotide Lu-177
+,DB13987,,strontium dichloride
+,DB13989,,Eptizida
+,DB13990,,Deprocin
+,DB13991,,Pipequalinum
+,DB13992,,Oragallin
+,DBSALT001314,,Triferic
+,DBSALT001426,,Mg(II) acetate
+,DBSALT002412,,"Human factor VIII, recombinant B-domain deleted"
+,DB14000,,tetraethylene glycol dimethyl ether
+,DBSALT001494,,Vitamin E succinate
+,DBSALT001457,,"Vitamin E acetate, D-"
+,DB14003,,"Vitamin E acetate, unspecified form"
+,DB14004,,tildrakizumab-asmn
+,DB14007,,pentacarboxymethyldiethylenetriamine
+,DB14008,,Scutellarein 6-methyl ether
+,DB14009,,Marijuana top
+,DB14010,,O-methylbufotenine
+,DB14012,,burosumab-twza
+,DB14013,,"1-Pyrrolidinecarboxylic acid, 3-((((4-chlorophenyl)methyl)((5-nitro-2-thienyl)methyl)amino)methyl)-, ethyl ester"
+,DB14014,,"1-Pyrrolidinecarboxamide, 3-((((4-chlorophenyl)methyl)((5-nitro-2-thienyl)methyl)amino)methyl)-n-pentyl-"
+,DB14015,,sodium hydrogensulfite
+,DB14016,,Sodium choleate
+,DB14018,,8-Bromotheophylline
+,DB14020,,α-hydroxy-α-phenylacetophenone
+,DB14026,,Thiosalicylate
+,DB14027,,Taspoglutidum
+,DB14028,,Nordiazepam
+,DB14029,,Furafyllinum
+,DB14031,,Trisaziridinyltriazine
+,DBSALT000856,,Sulfisoxazole acetyl
+,DB14037,,Brahmic acid
+,DB14038,,β-Sitosterin
+,DB14043,,PEA
+,DB14044,,Pantocalcin
+,DBSALT002201,,Cholesterol chloride
+,DB14046,,Dichlorobenzenes
+,DB14048,,Sodium zirconium silicate
+,DB14050,,CBDV
+,DB14054,,Dammarolic acid
+,DB14055,,S-Warfarin
+,DB14058,,Aureobasidin A
+,DB14060,,N-(2-Cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+,DB14061,,Lucanthone metabolite
+,DB14062,,Concanamycin A
+,DB14063,,Dexverapamilum
+,DB14064,,Emopamilum
+,DB14065,,Lomerazine
+,DB14066,,Sinomenine A
+,DB14068,,(R)-niguldipine
+,DB14071,,Norsertraline
+,DB14073,,Eicosenoic acid
+,DB14074,,Propidine
+,DB14075,,Imidazolidinyl urea
+,DB14077,,"Stearic acid, magnesium salt"
+,DB14078,,Methylenediphosphonic acid
+,DB14079,,Dyskinebyl
+,DB14080,,Magnesium acetylcysteine
+,DB14081,,Asiaticosid
+,DB14083,,Diglycidyl bisphenol A ether
+,DB14084,,Butyl parahydroxybenzoate
+,DB14085,,Kadmium
+,DB14086,,D-Catechol
+,DB14087,,Morrhuate
+,DB14088,,Docosapentaenoic acid (22n-6)
+,DB14089,,"2,3-Dimercaptosuccinic acid"
+,DB14090,,Sulfonylbismethane
+,DB14091,,Carbopol 980 polymer
+,DB14092,,Cyano-8-epicobalamin
+,DB14093,,"Testosterone, 1,2,6,7-H-3"
+,DB14094,,Vitamin E quinone
+,DB14099,,Distearoyl-DL-phosphatidylcholine
+,DB14100,,"Collagen, Porcine"
+,DB14101,,Soybean isoflavoues
+,DB14103,,"L-Methionine-S,R-sulfoximine"
+,DB14104,,Linolic acid
+,DB14105,,R-DPPG-Na
+,DB14106,,Cardio-spect
+,DB14107,,7β-aminodeacetoxycephalosporanic acid
+,DB14108,,"DL-Hexane-1,2-diol"
+,DB14109,,α-Arbutin
+,DB14110,,Methyltrimethylene glycol
+,DB14111,,N-oloeoyl-4-hydroxysphinganine
+,DB14112,,VIG
+,DB14113,,Southern black widow spider antivenin
+,DB14114,,Polyvalent crotalidae antivenin (equine)
+,DB14115,,Human-derived botulism antitoxin antibodies
+,DB14116,,Simaldrate
+,DB14117,,"Silica, hydrophobic colloidal"
+,DB14119,,DS-phytosphingosine
+,DB14120,,(+/-)-Phenylethyl resorcinol
+,DB14121,,Sorbic oil
+,DB14122,,Cardamonin
+,DB14123,,Racementol
+,DB14124,,Polydimethylcyclosiloxane
+,DB14125,,Benazeprilatum
+,DB14126,,Tenofovir anhydrous
+,DB14128,,"Pyridine, nucleotide diphosphate"
+,DB14129,,Austrobailignan 6
+,DB14130,,"Salicylic acid, methyl ester, 2-ethylbutyrate"
+,DB14131,,"Recombinant human basic fibroblast growth factor, KCB-1"
+,DB14132,,Chlortheophylline
+,DB14134,,Octyl dodecanol
+,DB14135,,Hypochlorige Säure
+,DB14136,,"Fema no. 3806, 1-propylene glycol carbonate"
+,DB14137,,Palmitoyl-GQPR
+,DB14138,,Silicon dioxide hydrate
+,DB14139,,Hydroxyethylcellulose ethylether
+,DB14140,,Oxybispropanol
+,DB14141,,pPDA
+,DB14142,,Methoxy PEG-12 all-trans-retinamide
+,DB14143,,Distearyldimethylammonium
+,DB14144,,p-hydroxyaniline
+,DB14145,,Urogastrone
+,DB14148,,Protein-type A microspheres
+,DB14149,,Self-emulsifying glyceryl monostearate
+,DB14150,,Chlorsäure
+,DB14151,,"Phosphorus, elemental"
+,DB14152,,Neutral saponins of panax ginseng root
+,DB14153,,Polysorbata 60
+,DB14154,,"Gold, elemental"
+,DB14155,,Poliglusam low molecular weight (20-200 mpa.s)
+,DB14156,,Gum camphor
+,DB14157,,"Soya lecithins, hydrogenated"
+,DB14158,,Rayon
+,DB14159,,Oxidronate
+,DB14160,,Titanium metallicum
+,DB14161,,Soybean phospholipids
+,DB14162,,Tuna (thunnus thynnus)
+,DB14163,,Xanthonanthos odoratus whole
+,DB14165,,Northern house mosquito whole
+,DB14166,,Sheep sorrel whole
+,DB14167,,Yellow dock
+,DB14168,,Sarocladium strictum
+,DB14169,,Salix purshiana bark
+,DB14170,,Nagadamani root
+,DB14171,,Penicillium glaucum whole
+,DB14172,,Physcia prunastri
+,DB14173,,"N,N'-Bis(hydroxymethyl) urea"
+,DB14174,,Bis(piperidinothiocarbonyl)disulfide
+,DB14175,,Jasmine aldehyde
+,DB14176,,Phenylmethyl 4-hydroxybenzoate
+,DB14177,,Propyl parahydroxybenzoate
+,DB14178,,TMTMS
+,DB14179,,Timothy top
+,DB14180,,nickel(II) sulfate
+,DB14181,,Wool wax alcohol
+,DB14182,,dichromate(2−)
+,DB14183,,t-geraniol
+,DB14184,,Zimtaldehyde
+,DB14186,,Styrylcarbinol
+,DB14187,,Phixia
+,DB14188,,Propenylguaiacol
+,DB14189,,Ethylene-diamine
+,DB14191,,Vulkazit
+,DB14193,,"Zinc, bis(diethylcarbamodithioato-S,S')-"
