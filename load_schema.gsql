@@ -1,0 +1,62 @@
+USE GRAPH drugbank
+BEGIN
+CREATE LOADING JOB load_drugs FOR GRAPH drugbank {
+    DEFINE FILENAME drugs="csv/drugs.csv";
+    DEFINE FILENAME books="csv/books.csv";
+    DEFINE FILENAME articles="csv/articles.csv";
+    DEFINE FILENAME adverse="csv/adverse-reactions.csv";
+    DEFINE FILENAME reactions="csv/reactions.csv";
+    DEFINE FILENAME manufacturers="csv/manufacturers.csv";
+    DEFINE FILENAME ext_ident="csv/external_identifiers_resource.csv";
+    DEFINE FILENAME ext_links="csv/external_links_resources.csv";
+    DEFINE FILENAME ext_links_edges="csv/external_links.csv";
+    DEFINE FILENAME ext_ident_edges="csv/external_identifiers.csv";
+    DEFINE FILENAME links="csv/links_resources.csv";
+    DEFINE FILENAME links_edges="csv/links.csv";
+    DEFINE FILENAME mixtures="csv/mixtures.csv";
+    DEFINE FILENAME organisms="csv/organisms.csv";
+    DEFINE FILENAME organisms_resources="csv/organisms_resources.csv";
+    DEFINE FILENAME packagers="csv/packagers.csv";
+    DEFINE FILENAME packagers_resources="csv/packagers_resources.csv";
+    DEFINE FILENAME patents="csv/patents.csv";
+    DEFINE FILENAME prices="csv/prices.csv";
+
+    LOAD drugs TO VERTEX Drug VALUES ($"drugbank-id", $"drugbank-id", $"name", $"absorption", $"cas-number", $"clearance", $"description", $"fda-label", $"half-life", $"indication", $"mechanism-of-action", $"metabolism", $"msds", $"pharmacodynamycs", $"protein-binding", $"record-creation", $"record-update", $"route-of-elimination", $"state", $"synthesis-reference", $"toxicity", $"unii", $"volume-of-distribution") USING header="true", separator=",";
+
+    LOAD books TO VERTEX Book VALUES ($"isbn", $"isbn", $"citation") USING header="true", separator=",";
+    LOAD books TO EDGE Book_About VALUES ($2, $1) USING header="true", separator=",";
+
+    LOAD articles TO VERTEX Article VALUES ($"pubmed-id", $"pubmed-id", $"citation") USING header="true", separator=",";
+    LOAD articles TO EDGE Article_About VALUES ($2, $1) USING header="true", separator=",";
+
+    LOAD adverse TO EDGE Adverse_Reacts VALUES ($0, $2) USING header="true", separator=",";
+    LOAD reactions TO EDGE Reacts VALUES ($0, $2) USING header="true", separator=",";
+
+    LOAD manufacturers TO VERTEX Manufacturer VALUES ($"name", $"name", $"url") USING header="true", separator=",";
+
+    LOAD ext_links TO VERTEX ExternalLink VALUES ($"resource", $"resource", $"url") USING header="true", separator=",";
+    LOAD ext_links_edges TO EDGE ExtLink VALUES ($"resource", $"drugbank-id") USING header="true", separator=",";
+
+    LOAD ext_ident TO VERTEX ExternalIdentifier VALUES ($"resource") USING header="true", separator=",";
+    LOAD ext_ident_edges TO EDGE ExtIdentifier VALUES ($"resource", $"drugbank-id", $"identifier") USING header="true", separator=",";
+
+    LOAD links TO VERTEX Link VALUES ($"title", $"title", $"url") USING header="true", separator=",";
+    LOAD links_edges TO EDGE Linked VALUES ($"drugbank-id", $"title") USING header="true", separator=",";
+
+    LOAD mixtures TO VERTEX Mixture VALUES ($"name", $"name", $"ingredients") USING header="true", separator=",";
+    LOAD mixtures TO EDGE In_Mixture VALUES ($"drugbank-id", $"name") USING header="true", separator=",";
+
+    LOAD organisms_resources TO VERTEX Organism VALUES ($"organism", $"organism") USING header="true", separator=",";
+    LOAD organisms TO EDGE Affects VALUES ($"drugbank-id", $"organism") USING header="true", separator=",";
+
+    LOAD packagers_resources TO VERTEX Packager VALUES ($"name", $"name", $"url") USING header="true", separator=",";
+    LOAD packagers TO EDGE Packaged VALUES ($"drugbank-id", $"name") USING header="true", separator=",";
+
+    LOAD patents TO VERTEX Patent VALUES ($"number", $"number", $"country", $"pediatric", $"approved", $"expiration") USING header="true", separator=",";
+    LOAD patents TO EDGE Referred_By VALUES ($"drugbank-id", $"number") USING header="true", separator=",";
+
+    LOAD prices TO VERTEX Price VALUES ($"description", $"description", $"cost", $"currency", $"sale-unit") USING header="true", separator=",";
+    LOAD prices TO EDGE Costs VALUES($"drugbank-id", $"description") USING header="true", separator=",";
+
+}
+END

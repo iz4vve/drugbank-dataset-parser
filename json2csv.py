@@ -2,6 +2,7 @@ import glob
 import json
 import os
 import sys
+import urllib
 import pandas as pd
 
 import tqdm
@@ -23,6 +24,25 @@ def main(args):
             os.path.join(args[1], dst.replace(".json", ".csv")),
             index=False
         )
+    
+    links = pd.read_csv(os.path.join(args[1], "external_links.csv"))[["resource", "url"]]
+    links["url"] = links["url"].apply(lambda x: urllib.parse.urlsplit(x).netloc)
+    links.drop_duplicates(subset=["resource"]).to_csv(os.path.join(args[1], "external_links_resources.csv"), index=False)
+
+    links = pd.read_csv(os.path.join(args[1], "links.csv"))[["title", "url"]]
+    links["url"] = links["url"].apply(lambda x: urllib.parse.urlsplit(x).netloc)
+    links.drop_duplicates(subset=["title"]).to_csv(os.path.join(args[1], "links_resources.csv"), index=False)
+
+    identifiers = pd.read_csv(os.path.join(args[1], "external_identifiers.csv"))[["resource"]]
+    identifiers.drop_duplicates(subset=["resource"]).to_csv(os.path.join(args[1], "external_identifiers_resource.csv"), index=False)
+
+    organisms = pd.read_csv(os.path.join(args[1], "organisms.csv"))[["organism"]]
+    organisms["organism"] = organisms.organism.apply(str.strip)
+    organisms.drop_duplicates(subset=["organism"]).to_csv(os.path.join(args[1], "organisms_resources.csv"), index=False)
+
+    packagers = pd.read_csv(os.path.join(args[1], "packagers.csv"))[["name", "url"]]
+    packagers["url"] = packagers["url"].astype(str).apply(lambda x: urllib.parse.urlsplit(x).netloc)
+    packagers.drop_duplicates(subset=["name"]).to_csv(os.path.join(args[1], "packagers_resources.csv"), index=False)
 
 if __name__ == "__main__":
     try:

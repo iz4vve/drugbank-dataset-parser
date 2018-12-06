@@ -1,0 +1,39 @@
+CREATE VERTEX Drug (PRIMARY_ID drugbank_id STRING, drugbank_id STRING, name STRING, absorption STRING, cas STRING, clearance STRING, description STRING, fda STRING, half_life STRING, indication STRING, mechanism_of_action STRING, metabolism STRING, msds STRING, pharmacodynamics STRING, protein_binding STRING, record_creation DATETIME, record_update DATETIME, route_of_elimination STRING, state STRING, synthesis_reference STRING, toxicity STRING, unii STRING, volume_of_distribution STRING)
+CREATE VERTEX Book (PRIMARY_ID isbn STRING, isbn STRING, citation STRING)
+CREATE VERTEX Article (PRIMARY_ID pubmed_id STRING, pubmed_id STRING, citation STRING)
+//CREATE VERTEX Category (PRIMARY_ID category string)
+//CREATE VERTEX Dosage (PRIMARY_ID dosage string)
+CREATE VERTEX Manufacturer (PRIMARY_ID manufacturer STRING, name STRING, url STRING)
+//CREATE VERTEX Resource (PRIMARY_ID identifier string)
+CREATE VERTEX ExternalLink (PRIMARY_ID id STRING, name STRING, url STRING)
+CREATE VERTEX ExternalIdentifier (PRIMARY_ID id STRING)
+CREATE VERTEX Link (PRIMARY_ID link STRING, name STRING, url STRING)
+CREATE VERTEX Mixture (PRIMARY_ID id STRING, name STRING, ingredients STRING)
+CREATE VERTEX Organism (PRIMARY_ID organism STRING, name STRING)
+CREATE VERTEX Packager (PRIMARY_ID id STRING, name STRING, url STRING)
+CREATE VERTEX Patent (PRIMARY_ID id STRING, number STRING, country STRING, pediatric STRING, approved STRING, expires STRING)
+CREATE VERTEX Price (PRIMARY_ID id STRING, description STRING, cost STRING, currency STRING, unit STRING)
+CREATE VERTEX Product (PRIMARY_ID name string)
+CREATE VERTEX SNPEffect (PRIMARY_ID id string)
+
+CREATE UNDIRECTED EDGE Reacts (FROM Drug, TO Drug)
+CREATE DIRECTED EDGE Article_About (FROM Article, TO Drug) WITH REVERSE_EDGE = "In_Article"
+CREATE DIRECTED EDGE Book_About (FROM Book, TO Drug) WITH REVERSE_EDGE = "In_Book"
+//CREATE DIRECTED EDGE Is_Category (FROM Category, TO Drug) WITH REVERSE_EDGE = "Has_Category"
+CREATE UNDIRECTED EDGE Interacts (FROM Drug, TO Drug)
+CREATE DIRECTED EDGE Manufactures (FROM Manufacturer, TO Drug) WITH REVERSE_EDGE = "Manufactured"
+CREATE DIRECTED EDGE Referred_By (FROM Drug, TO Patent) WITH REVERSE_EDGE = "Refers"
+//CREATE UNDIRECTED EDGE Dose (FROM Drug, TO Dosage)
+CREATE UNDIRECTED EDGE Costs (FROM Drug, TO Price)
+CREATE DIRECTED EDGE Made_By (FROM Product, TO Manufacturer) WITH REVERSE_EDGE = "Makes"
+CREATE DIRECTED EDGE In_Mixture (FROM Drug, TO Mixture) WITH REVERSE_EDGE = "Mixture_Contains"
+CREATE DIRECTED EDGE In_Product (FROM Drug, TO Product) WITH REVERSE_EDGE = "Product_Contains"
+CREATE DIRECTED EDGE Affects (FROM Drug, TO Organism) WITH REVERSE_EDGE = "Affected_By"
+CREATE DIRECTED EDGE ExtIdentifier (FROM ExternalIdentifier, TO Drug, identifier STRING) WITH REVERSE_EDGE = "In_External"
+CREATE DIRECTED EDGE ExtLink (FROM ExternalLink, TO Drug) WITH REVERSE_EDGE = "In_Link"
+CREATE UNDIRECTED EDGE Linked (FROM Drug, TO Link)
+CREATE UNDIRECTED EDGE Adverse_Reacts (FROM Drug, TO Drug)
+CREATE UNDIRECTED EDGE Has_Effect (FROM Drug, To SNPEffect)
+CREATE UNDIRECTED EDGE Packaged (FROM Drug, TO Packager)
+
+CREATE GRAPH drugbank (*)

@@ -34,14 +34,14 @@ func main() {
 	Usage:
 		drugbank parse <path> <outputdir>
 		drugbank process <path> <outputdir> <host> [--password=<password> | --user=<user>]
-	  	drugbank -h | --help
-	  	drugbank --version
+		drugbank -h | --help
+		drugbank --version
 	
 	Options:
 		--password=<password>		Password for Tigergraph instance.
 		--user=<user> 			Username for Tigergraph instance.
-	  	-h --help     			Show this screen.
-	  	--version    	 		Show version.`
+		-h --help     			Show this screen.
+		--version    	 		Show version.`
 
 	arguments, _ := docopt.ParseArgs(usage, os.Args[1:], version)
 	defer TimeTrack("main", time.Now())
